@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "%d件のアルバムを削除しますか？"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "場所"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "ホームに追加"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "タグ"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "全てのアルバム"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebookアルバム"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "PicasaWebアルバム"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "近くの​デバイス"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "過去%dか月"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "ダウンロード"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "メモリが不足しています。不要なアイテムを削除してください。"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "ダウンロードが完了しました。"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "アルバム"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "お気に入り"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "サインアップ"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "読み込み中..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "ファイルを選択"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "グリッド表示"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "ソウル"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "ホーム画面"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "ロック画面"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "発信者ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "選択"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "設定"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "新規アルバム"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "アルバムはありません。"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "タグを選択"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "アルバム名は既に使用しています。"
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "既に使用されているタグ名です。上書きしますか？"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "バックグラウンドプロセス"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "名前を変更できません。既に使用されているアルバムの名前です。"
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "アルバム名が入力してください。"
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "タグ名を入力"
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "外部SDカードを準備中..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "ユーザーメモリ（本体）起動中は、開始できません。"
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "アルバムを​作成"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "このアカウントに関する全てのデータが削除されます。続行しますか？"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Bluetoothで印刷"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "名前を変更できません。"
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "名前なし"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "アルバムが選択されていません。"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "タグが選択されていません。"
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "デバイスを選択"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "ファイル転送"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "完了しました。"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "アルバムを読み込み中..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "アカウントを選択"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "アイテムを選択"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "アルバムを選択"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "他にもダウンロード中です。しばらくお待ちください。"
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "インポート"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "インポートしました。"
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "インポート中..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "メディア"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "同名ファイルがあります。上書きしますか？"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "やり直し​ます​か？"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "同じ名前が既に使用されています。"
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "読み込み中です。 お待ちください..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "入力されていません。"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "入力パラメータが無効です。"
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "タグを作成"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Webアルバムを追加"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "表示"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "削除しますか？"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "フォルダを作成しますか？"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "指定なし"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "タグなし"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "タグがありません。"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "印刷"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "左に回転"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "右に回転"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "人物"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "スライドショーの間隔"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3秒"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5秒"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10秒"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "あなたのタグ"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "過去30日間"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "過去7日間"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "さまざまなフィルターを適用して検索することができます。"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "フェイスタグ"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "スライドショー"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "タグを削除"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "アルバム名"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "ファイルが選択されていません。送信するファイルを選択してから、再度実行してください。"
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "GPSをONにして写真を撮影した後に、写真が表示されます。"
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "設定"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "アルバム"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "スライドショー"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "スライドショーの設定"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "表示設定"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "アイテムを選択"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "スライドショーを開始"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropboxのコンテンツ"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "全てのコンテンツ"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropboxのコンテンツ"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "表示するコンテンツ"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "端末のコンテンツ"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropboxのコンテンツ"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "タイムライン"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "近くのデバイスを表示"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "近くのデバイスを非表示"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "元のアルバムからアイテムをコピーまたは移動しますか？"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "プライバシー"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1件のアルバムを削除します。"
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d件のアルバムを削除します。"
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "画像を編集"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "共有"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "回転中..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "検索結果がありません。"
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "アカウント"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "近くのデバイスをスキャン"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "ホームに追加"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebookのコンテンツ"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "全てのアイテム"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1件のアイテムを削除します。"
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d件のアイテムを削除します。"
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "タグバディ"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d秒"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "スキャンを開始しました。デバイスリストが自動的に更新されます。"
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "デバイスが見つかりませんでした。バックグラウンドで、近くのデバイスのスキャンを継続します。"
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "近くにデバイスが見つかりました。"
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d件選択"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "顔が検出されません。"
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d人の顔が見つかりました。"
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1人の顔が検出されました。"
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "写真の最大枚数(%d枚)を超えました。"
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "画像を選択"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "名前を追加"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "人物"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "ｷｬﾝｾﾙ"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "次回から確認しない"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "写真を選択後、[%s]をタップしてアルバムに追加します。"
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "%s[ギャラリー]を開きます。"
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "非表示アイテムを表示"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "非表示アイテム"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "アイテムを表示"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "削除しました。"
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "ギャラリー"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "写真と動画を表示"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "画像の表示"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "アルバムを選択し、アルバムの中から画像を選択します。"
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "さらに画像を表示するには、左右にスクロールします。"
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "画像を拡大または縮小します。"
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "フェイスタグ"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "写真に写っている人物の顔にタグを設定できます。顔をタップし、連絡先に登録されている名前を追加すると、該当する連絡先に直接連絡できる方法が表示されます。"
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "写真を撮影時に次の条件を満たしている場合、場所、日付、人物の名前、天気などの情報が、写真を表示するときに一時的に表示されます。"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "写真撮影の前後に、気象情報ウィジェットが更新されます。"
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "写真を撮影する前に、カメラでGPSタグが有効になります。"
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "写真を撮影した後に、写真に写っている人物にタグ付けされます。"
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "画像を編集"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "フォルダを選択し、画像を選択します。"
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "%dアイテムまで選択できます。"
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "%sとして確認"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "名前を割り当て"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "チュートリアルが完了しました。"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "アルバムを選択します。"
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "画像を選択します。"
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "連絡先の名前を選択します。"
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "ストーリーアルバムを作成"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "画像を編集するには、%s編集アイコンをタップします。"
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "更新しました。"
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "気象情報"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "位置情報"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "パーソナルページ"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "1つのアルバムしかありません。"
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "ここにドラッグ"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "ホーム画面に追加"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "青いボックスは端末が認識した顔を示します。人物を選択するにはその内1人を選択します。"
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "画像と動画を表示"
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "プレーヤーを使用できません。ネットワークステータスと接続デバイスを確認してください。"
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$sはこのアプリケーションでは無効です。この機能を有効にするには、%2$sに移動した後、このアプリケーションを選択してください。"
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "端末に接続することができません。ネットワークの状態と、接続された端末を確認してください。"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "パーソナルストレージ"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "パーソナルコンテンツ"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "ダウンロードを開始中..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "開始"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%dアイテム"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1アイテム"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "お気に入りとして写真をタグ付けした後に、写真が表示されます。"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "パーソナルストレージに追加"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "パーソナルストレージから削除"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "写真や動画を撮影するには、ここをタップしてください。"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "(GPSがONの場合)位置情報タグ付きの写真を撮影するには、ここをタップしてください。"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "写真を撮影し、人物にタグ付けするにはここをタップします。"
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "ネットワーク接続不可"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi接続が必要です。Wi-Fiに接続し、再度お試しください。"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "モバイルデータが無効です。Wi-Fiネットワークに接続するか、モバイルデータを有効にして、再度実行してください。"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "未対応のファイルです。"
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "ｻｳﾝﾄﾞ&ｼｮｯﾄ写真を共有"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "動画ファイルとして"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "画像ファイルとして"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "選択したアイテムを%sに移動します。"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "選択したアイテムを%sに移動します。"
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "削除中..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "追加中..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "パーソナルストレージのアイテムを含めてコンテンツを作成すると、新しいコンテンツは自動的に非表示にならない場合があります。選択したパーソナルコンテンツは、新しく作成したコンテンツを表示するときに表示できます。"
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "ドロワー"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "画像を読み込めません。"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "写真を撮影するには、ここをタップします。"
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "撮影した写真に写っている人にタグ付けすると、その写真がここに表示されます。"
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "ドラッグ＆ドロップ"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "標準ストレージに移動"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "パーソナルストレージに移動"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "アルバム"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "顔を認識中..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "アイテムを選択"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "アイテムを選択"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "位置情報タグ"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "ドキュメント"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "食べ物"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "ペット"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "風景"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "乗り物"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "位置情報がありません。"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "フィルター"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "イベント"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "花"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "接続デバイス"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "カテゴリを変更"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "イベントを作成"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "イベントから削除"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "イベントに追加"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "イベントを作成しました。"
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "フィルター"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "コピー"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "移動先"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Beam不可"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "%sをタップした後、[フィルター]の下に表示されているカテゴリの1つをタップします。"
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "選択したカテゴリで画像が振り分けられます。"
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "イベント: 画像を日付と場所で振り分けます。"
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "人物、風景、食品、ペット、乗り物、ドキュメント、花: 内容を分析して画像を振り分けます。"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "ドロワーボタンをタップした後、[フィルター]の下に表示されているカテゴリの1つをタップします。"
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "ドロワーを表示するには、ダブルタップしてください。"
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "ドロワーを閉じるには、ダブルタップしてください。"
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "プライベートコンテンツ"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "プライベートに移動"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "プライベートから削除"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "プライベートストレージ"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "去年"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "%d年以前"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "共有可能なアイテムの最大数(%d件)に達しました。"
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "%d件のアイテムを表示"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "新しい順に並べ替え"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "古い順に並べ替え"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "%dアイテム​を​削除​しますか？"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "人物タグ"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "別の日付に素速くスクロールするには、画面の右上の日付インジケーターを長押ししてください。"
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d件の画像を追加済み"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "画像を追加"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "画像をシャッフル"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "画像を追加"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "表示するイベントがありません。新しいイベントを作成してください。"
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "アイテムを削除"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "画像を表示"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "表示する画像をタップします。"
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "画像が表示されます。"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "画像を壁紙や連絡先の画像として使用するには、他のオプションボタンをタップした後、[登録]をタップします。"
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "画像を拡大または縮小するには、2本の指で画面をピンチイン/ピンチアウトします。"
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "サムネイルのサイズを変更"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "サムネイルのサイズを変更すると、画面に表示されるサムネイルの数が変わります。"
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "サムネイルは、大きな画像をプレビュー表示する小さな画像です。"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "アルバムを表示"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "%sをタップした後、[アルバム]をタップします。"
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "[アルバム]をタップした後、表示する画像または動画をタップします。"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "画面上部の[%s]をタップします。"
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "画像を共有"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "複数の画像を共有"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "同時に削除する画像を複数選択します。"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "同時に共有する画像を複数選択します。"
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "%sをタップします。"
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "画像や動画を管理して楽しむことができます。"
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "画像の振り分け"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "画像を削除"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "複数の画像を削除"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "画像を共有"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "画像を削除"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "接続解除"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "%sから切断されました。ネットワークの状態と接続機器を確認してください。"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "このアルバムを削除しますか？"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "このアイテムを削除しますか？"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "レイアウト"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d枚の画像"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "メニューキーを押し、[アイテムを選択]を選択します。"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "画像を壁紙や連絡先の画像として使用するには、%sをタップした後、[登録]をタップします。"
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 件の結果"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d 件の結果"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "横画面モード"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "スタジオ"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "表示するメールはありません。"
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "アイテムを削除"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "名前なし"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "未分類"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "名前タグを削除"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "%sから削除"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "新規"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "アルバム作成をキャンセルします。"
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "顔認証を削除しますか？"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "アイテムを削除"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "アイテムを削除"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "%d ​の​項目​を​削除​しますか​？"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "このアイテムを削除しますか？"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "完了"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "キャンセル"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "写真を撮影すると、写真がここに表示されます。"
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "ファイルが破損しているか、未対応のフォーマットです。"
+

@@ -1,0 +1,63 @@
+/*
+* Copyright (c) 2000-2015 Samsung Electronics Co., Ltd All Rights Reserved
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*
+*/
+
+
+ #define RESOURCE_IMAGE( FILE_NAME ) \
+   group { \
+      name: FILE_NAME; \
+      images.image: FILE_NAME COMP; \
+      parts { \
+         part { name: "image"; \
+            description { \
+               state: "default" 0.0; \
+               image.normal: FILE_NAME; \
+               aspect: 1 1; \
+               aspect_preference: BOTH; \
+            } \
+         } \
+      } \
+   }
+
+#define RESOURCE_IMAGE_LOSSY( FILE_NAME ) \
+   group { \
+      name: FILE_NAME; \
+      images.image: FILE_NAME LOSSY 85; \
+      parts { \
+         part { name: "image"; \
+            description { \
+               state: "default" 0.0; \
+               image.normal: FILE_NAME; \
+               aspect: 1 1; \
+               aspect_preference: BOTH; \
+            } \
+         } \
+      } \
+   }
+
+collections {
+	RESOURCE_IMAGE("T01_icon_lock.png");
+	RESOURCE_IMAGE("T01_album_icon_camera.png");
+	RESOURCE_IMAGE("T01_album_icon_download.png");
+	RESOURCE_IMAGE("T01_album_icon_folder.png");
+	RESOURCE_IMAGE("T01_icon_sound_shot.png");
+	RESOURCE_IMAGE("T01_icon_panorama.png");
+	RESOURCE_IMAGE("T01_title_icon_select_all.png");
+	RESOURCE_IMAGE("T01_album_edit_check_on.png");
+	RESOURCE_IMAGE("T01_album_edit_check_off.png");
+	RESOURCE_IMAGE("T01_icon_thumbnail_bookmark.png");
+}
+

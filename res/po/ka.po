@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "წაიშალოს %d ალბომი?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "ადგილები"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "დამატება საწყის გვერდზე"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "ტეგები"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "ყველა ალბომი"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook ვებ-ალბომი"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa ვებ-ალბომი"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "ახლომდებარე მოწყობილობები"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "ბოლო %d თვე"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "გადმოწერილები"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "მეხსიერება საკმარისი არაა. წაშალეთ ზოგიერთი ელემენტი"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "ჩამოტვირთვა დასრულდა."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "ალბომები"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "ფავორიტები"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "დარეგისტრირება"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "იტვირთება..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "აირჩიეთ ფაილები"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "ბადის ჩვენება"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "სეული"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "საწყისი ეკრანი"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "ეკრანის დაბლოკვა"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "აბონენტის ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "არჩევა"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "დაყენება"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "ახალი ალბომი"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "ალბომები არ არის"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "ჩანართების არჩევა."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "ალბომის სახელი უკვე არის."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "ჩანართის სახელი უკვე გამოყენებულია. გადააწერთ?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "პროცესი ფონზე"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "სახელს ვერ შეცვლით. ალბომის სახელი უკვე გამოყენებულია."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "ალბომის სახელი ცარიელია."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "ჩაწერეთ ჩანართის სახელი."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD ბარათი მზადდება..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "ვერ ჩაირთვება, სანამ აქტიურია USB მეხსიერების რეჟიმი."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "ალბომის შექმნა"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "ამ ანგარიშთან დაკავშირებული ყველა მონაცემი წაიშლება. განაგრძობთ?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Bluetooth-ით ამობეჭდვა"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "სახელს ვერ შეცვლით."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "უსახელო"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "ალბომი არ არის არჩეული."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "ჩანართები არ არის არჩეული."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "მოწყობილობის შერჩევა"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "ფაილის გადაგზავნა"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "დასრულდა."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "ალბომები იტვირთება..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "აირჩიეთ ანგარიში"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "ელემენტის არჩევა"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "ალბომის არჩევა"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "სრულდება სხვა ჩამოტვირთვა. გთხოვთ დაელოდოთ."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "მიღება"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "გადმოტანილია."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "ჩამოდის..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "მედია"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "უკვე არსებობს. გადავაწერო?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "თავიდან ვცადო?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "იგივე სახელი უკვე გამოყენებულია."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "იტვირთება. გთხოვთ, დაელოდოთ..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "ცარიელი ჩანაწ."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "შეყვანილი პარამეტრი არასწორია."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "ჩან.შექმნა"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "ვებ-ალბომის დამატება"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "ნახვა"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "წაიშალოს?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "შექმნით საქაღალდეს?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "არ არის მინიჭებული"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "უიარლიყო"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "იარლიყები არაა"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "ამობეჭდვა"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "მარცხნივ მოტრიალება"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "მარჯვნივ მოტრიალება"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "ხალხი"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "სლაიდ–შოუს ინტერვალი"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 წამი"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 წამი"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 წამი"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "თქვენი იარლიყები"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "ბოლო 30 დღე"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "ბოლო 7 დღე"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "ძებნის დროს გამოიყენეთ სხვადასხვა ფილტრები."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "სახის ამოცნობა"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "სლაიდ–შოუ"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "ჩანართის წაშლა"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "ალბომის სახელი"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "ფაილი არ არის არჩეული. აირჩიეთ გასაგზავნი ფაილი და ისევ ცადეთ."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "მას შემდეგ რაც გადაიღებთ სურათს ჩართული GPS-ით, გამოჩნდება თქვენი სურათები."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "პარამეტრები"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "ალბომები"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "სლაიდ–შოუ"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "სლაიდ–შოუს პარამეტრები"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "დათვალიერება პარამეტრით"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "ელემენტების არჩევა"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "სლაიდშოუს დაწყება"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "მასალა Dropbox-ში"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "მთლიანი მასალა"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "მასალა Dropbox-ში"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "ეკრანზე გამოსაჩენი მასალა"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "მოწყობილობის შიგთავსი"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox შიგთავსი"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "დროითი სკალა"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "ახლომდებარე მოწყობილობების ჩვენება"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "ახლომდებარე მოწყობილობების დამალვა"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "სურათების ასლის გადაწერა გსურთ თუ მათი გადატანა თავდაპირველი ალბომიდან?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "პირადი"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 ალბომი წაიშლება."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d ალბომი წაიშლება."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "სურათის რედაქტირება"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "გაზიარება"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "ბრუნავს..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "შედეგები არ მოიძებნა."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "ანგარიში"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "ახლომდებარე მოწყობილობების ძებნა"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "საწყისზე დამ."
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook შიგთავსი"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "ყველა ელემენტი"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 ელემენტი წაიშლება."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d ელემენტი წაიშლება."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "კონტექსტუალური იარლიყი"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d წამი"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "ძებნა დაიწყო. მოწყობილობების სია ავტომატურად განახლდება"
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "მოწყობილობები ვერ მოიძებნა. ახლომდებარე მოწყობილობების ძებნა გაგრძელდება ფონზე"
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "მოიძებნა ახლომდებარე მოწყობილობები."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d არჩეულია"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "სახეები არ არის ამოცნობილი."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "ამოცნობილია %d სახე."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "ამოცნობილია 1 სახე."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "გადაჭარბებულია სურათების მაქსიმალური რაოდენობა (%d)."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "სურათის შერჩევა"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "სახელის დამატება"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "ხალხი"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "გაუქმება"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "აღარ მკითხო"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "აირჩიეთ სურათები, შემდეგ შეეხეთ ნიშანს %s და დაამატეთ ისინი ალბომში."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "გახსენით გალერეა %s."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "დამალული ელემენტების ჩვენება"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "დამალული ელემენტები"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "ელემენტების ჩვენება"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "წაშლილია."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "გალერეა"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "სურათებისა და ვიდეოების დათვალიერება"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "სურათების დათვალიერება"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "აირჩიეთ ალბომი და შემდეგ აირჩიეთ სურათი."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "სხვა სურათების სანახავად გადაახვიეთ მარცხნივ ან მარჯვნივ."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "გაადიდეთ ან შეამცირეთ სურათი ეკრანზე."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "სახის ამოცნობა"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "შეგიძლიათ სურათებზე აღნიშნოთ ხალხი. როდესაც შეეხებით სახეებს და დაამატებთ მათ სახელებს (როგორც ისინი ჩანან კონტაქტებში), მიიღებთ მათთან პირდაპირ დაკავშირების ფორმების შემოთავაზებას."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "თუ სურათის გადაღების დროს დაკმაყოფილებულია ქვემოთ მოცემული პირობები, სურათების დათვალიერების დროს მცირე დროით გამოჩნდება ისეთი ინფორმაცია, როგორიცაა ლოკაციები, თარიღები, ადამიანების სახელები, ან ამინდი:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "ამინდის ვიჯეტი განახლდა სურათების გადაღებამდე ან გადაღების შემდეგ."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS აქტიურდება კამერაში, სურათების გადაღებამდე."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "ხალხის აღნიშვნა მოხდა სურათებზე, მათი გადაღების შემდეგ."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "დაარედაქტირეთ სურათები"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "აირჩიეთ საქაღალდე და შემდეგ აირჩიეთ სურათი."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "მაქსიმუმ %d ელემენტის არჩევა შეგიძლიათ."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "დაადასტურეთ, როგორც %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "სახელის მინიჭება"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "სახელმძღვანელო დასრულდა."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "აირჩიეთ ალბომი."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "აირჩიეთ სურათი."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "აირჩიეთ კონტაქტის სახელი."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "შექმენით მოთხრობის ალბომი"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "შეეხეთ %s რედაქტირების ხატულას და შეასწორეთ სურათი."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "განახლდა."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "ამინდი"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "ლოკაცია"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "პერსონალური გვერდი"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "აქ მხოლოდ ერთი ალბომია."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "გადაიტანეთ აქ."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "საწყის ეკრანზე დამატება"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "ლურჯი უჯრებით აღნიშნულია სახეები, რომლებიც ამოიცნო მოწყობილობამ. შეეხეთ რომელიმეს, რომ აირჩიოთ ეს პიროვნება."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "დაათვალიერეთ სურათები და ვიდეოები."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "პლეერი არ არის. შეამოწმეთ ქსელის სტატუსი და დაკავშირებული მოწყობილობა."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s გამორთულია ამ პროგრამაში. ამ ფუნქციის ჩასართავად გახსენით %2$s, აირჩიეთ ეს ფუნქცია და შემდეგ აირჩიეთ ეს პროგრამა"
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "მოწყობილობასთან დაკავშირება შეუძლებელია. შეამოწმეთ ქსელის სტატუსი და დაკავშირებული მოწყობილობა"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "პერსონალური მეხსიერება"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "პერსონალური მასალა"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "იწყება ჩამოტვირთვა..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "დასაწყისი"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d ელემენტი"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 ელემენტი"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "სურათების ფავორიტებად მონიშვნის შემდეგ, გამოჩნდება სურათები."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "პერსონალურ მეხსიერებაში დამატება"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "პერსონალური მეხსიერებიდან ამოშლა"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "შეეხეთ აქ და გადაიღეთ სურათები ან ვიდეოები."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "შეეხეთ აქ და გადაიღეთ სურათები ლოკაციის მინაწერებით (GPS ჩართულია)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "შეეხეთ აქ, რომ გადაიღოთ სურათი და მონიშნოთ ხალხი."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "ქსელთან კავშირი არ არის"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "საჭიროა Wi-Fi კავშირი. დაუკავშირდით Wi-Fi ქსელს და ისევ ცადეთ"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "მობილური მონაცემები გამორთულია. სანაცვლოდ, დაუკავშირდით Wi-Fi ქსელს, ან გაააქტიურეთ მობილური მონაცემები და ისევ ცადეთ"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "ფაილი გაუთვალისწინებელია."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "გააზ. „ხმა და გადაღება“"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "როგორც ვიდეო ფაილები"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "როგორც გრაფიკული ფაილები"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "შერჩეული ელემენტი გადავა ადგილზე: %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "შერჩეული ელემენტები გადავა ადგილზე: %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "იშლება..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "ემატება..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "თუ შექმნით პერსონალური საცავიდან აღებული ინფორმაციის შემცველ მასალას, თქვენი ახალი ინფორმაცია შეიძლება არ დაიმალოს ავტომატურად. შერჩეული პერსონალური ინფორმაცია შეიძლება გამოჩნდეს ახალი მასალის დათვალიერების დროს."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "კარადა"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "ფოტოს ჩატვირთვა შეუძლებელია."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "სურათების გადასაღებად შეეხეთ აქ."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "როდესაც გადაიღებთ სურათებს და მონიშნავთ ხალხს მათზე, ეს სურათები გამოჩნდება აქ."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "აიღეთ და გადაიტანეთ"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "ნორმალურ მეხსიერებაში გადატანა"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "პერსონალურ მეხსიერებაში გადატანა"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "ალბომები"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "სრულდება სახის ამოცნობა..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ელემენტის არჩევა"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ელემენტების არჩევა"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "ლოკაციის იარლიყი"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "დოკუმენტები"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "საკვები"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "საყვარელი ცხოველები"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "სცენარი"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "სატრანსპორტო საშუალებები"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "ლოკაცია არ არის"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "ფილტრები"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "მოვლენა"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "ყვავილები"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "დაკავშირებული მოწყობილობები"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "კატეგორიის შეცვლა"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "მოვლენის შექმნა"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "მოვლენიდან ამოშლა"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "დაამატეთ მოვლენა"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "მოვლენა შექმნილია."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "გაფილტვრის კრიტერიუმი"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "დაკოპირდეს ადგილზე"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "გადატანა ადგილზე"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "სხივით გადაცემა შეუძლებელია"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "შეეხეთ ნიშანს %s და შემდეგ შეეხეთ გაფილტვრის კატეგორიებს."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "სურათების გაფილტვრა მოხდება თქვენ მიერ შერჩეული კატეგორიით."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "მოვლენა: სურათების გაფილტვრა თარიღითა და ადგილით."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "ხალხი, სცენა, საკვები, საყვარელი ცხოველები, სატრანსპორტო საშუალებები, დოკუმენტები და ყვავილები: გაფილტრეთ სურათები მასალის ანალიზის გამოყენებით."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "შეეხეთ უჯრებიანი მენიუს ღილაკს და შემდეგ შეეხეთ გაფილტვრის რომელიმე კატეგორიას."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "შეეხეთ ორჯერ და უჯრებიანი მენიუ გაიხსნება."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "შეეხეთ ორჯერ და უჯრებიანი მენიუ დაიხურება."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "პერსონალური მასალა"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "პერსონალურში გადატანა"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "პერსონალურიდან წაშლა"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "პირადი საცავი"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "გასულ წელს"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "%d წლამდე"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "გადაჭარბებულია ელემენტთა მაქსიმალური რაოდენობა (%d)."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "ჩანს %d ელემენტი"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "დალაგება ახლიდან ძველისკენ მიმდევრობით"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "დალაგება ძველიდან ახლისკენ მიმდევრობით"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "წაშლით %d ელემენტს?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "ხალხის იარლიყები"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "სხვა დეტალებზე სწრაფად გადასვლისთვის, სწრაფად შეეხეთ თარიღის ინდიკატორს ეკრანის ზედა მარჯვენა მხარეს."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "დაემატა %d სურათი"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "სურათების დამატება ადგილიდან"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "შერეული სურათები"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "სურათების დამატება"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "მოვლენები არ არის, რომ გამოჩნდეს. შექმენით ახალი მოვლენა."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "ელემენტების წაშლა"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "სურათის დათვალიერება"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "შეეხეთ სურათს, რომლის ნახვაც გსურთ."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "ნახეთ თქვენი სურათი."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "შეეხეთ უჯრებიანი მენიუს ღილაკს და შემდეგ აირჩიეთ „დაყენდეს როგორც“, რომ სურათი გამოიყენოთ ფონად ან კონტაქტის სურათად."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "გამოსახულების გასადიდებლად ან შესამცირებლად შეეხეთ ეკრანს და ამოძრავეთ თითები შემხვედრი ან საწინააღმდეგო მიმართულებით."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "მიკროასლების ზომის შეცვლა"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "მიკროასლების ზომის შეცვლით შეიცვლება ეკრანზე ნაჩვენები მიკროასლების რაოდენობა."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "მიკროასლი არის დიდი სურათის მცირე ასლი."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "ალბომების დათვალიერება"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "შეეხეთ ნიშანს %s და შემდეგ შეეხეთ ალბომს."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "შეეხეთ ალბომს, შემდეგ კი შეეხეთ სურათს ან ვიდეოს, რომლის ნახვაც გსურთ."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "შეეხეთ ეკრანის ზემოთ მოთავსებულ ნიშანს %s."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "სურათის გაზიარება"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "რამდენიმე სურათის გაზიარება"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "აირჩიეთ რამდენიმე სურათი ერთდროულად წასაშლელად."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "აირჩიეთ რამდენიმე სურათი ერთდროულად გასაზიარებლად."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "შეეხეთ ნიშანს %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "მართეთ და ისიამოვნეთ სურათებითა და ვიდეოებით."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "სურათების გაფილტვრა"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "სურათის წაშლა"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "რამდენიმე სურათის წაშლა"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "სურათების გაზიარება"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "სურათების წაშლა"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "გათიშულია"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "გაითიშა %s. შეამოწმეთ ქსელის სტატუსი და დაკავშირებული მოწყობილობა"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "წაიშალოს ეს ალბომი?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "წაიშალოს ეს?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "განლაგება"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d ფოტო"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "დააჭირეთ მენიუს ღილაკს და შემდეგ აირჩიეთ „ელემენტთა არჩევა“."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "შეეხეთ ნიშანს %s და შემდეგ აირჩიეთ „დაყენდეს როგორც“, რომ სურათი გამოიყენოთ ფონად ან კონტაქტის სურათად."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 შედეგი"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d შედეგი"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "პეიზაჟის რეჟიმი"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "სტუდია"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "საჩვენებელი ელემენტები არ არის."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "ელემენტის წაშლა"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "უსახელო"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "დაჯგუფება გაუქმდა"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "სახელის იარლიყის წაშლა"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "%s-დან ამოშლა"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "ახალი"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "ალბომი გაუქმდება."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "მოცილდეს სახის იდენტიფიკაცია?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "ელემენტების წაშლა"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "ელემენტის წაშლა"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "მოცილდეს %d ელემენტი?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "წაიშალოს ეს?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "მზადაა"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "გაუქმება"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "სურათების გადაღების შემდეგ, ისინი გამოჩნდება აქ."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "ფაილი დაზიანებულია, ან ფორმატი არასწორია."
+

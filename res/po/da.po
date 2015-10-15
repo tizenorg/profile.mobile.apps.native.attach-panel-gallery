@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Slet %d albummer?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Steder"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Føj til start"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Tags"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Alle albummer"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook web-album"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa webalbum"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Enheder i nærheden"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Seneste %d måneder"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Der er ikke tilstrækkelig hukommelse. Slet nogle elementer."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Download udført."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Album."
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Favoritter"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Tilmelding"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Indlæser data ..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Vælg filer"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Gittervisning"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seoul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Startskærm"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Låseskærm"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Opkalds-id"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Vælg"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Angiv"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Nyt album"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Ingen albummer"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Vælg koder."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Albumnavn allerede i brug."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Kodenavn allerede i brug. Overskriv?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Proces i baggrunden"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Kan ikke omdøbe. Albumnavn allerede i brug."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Tomt albumnavn."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Indtast navn på kode."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Klargør SD-kort..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Kan ikke starte, mens USB-lagringstilstand er aktiv."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Opret album"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Alle data relateret til denne konto bliver slettet. Fortsæt?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Udskriv via Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Kunne ikke omdøbe."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Intet navn"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Ingen valgte albummer."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Der er ikke valgt nogen koder."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Vælg enhed"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Filoverførsel"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Udført."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Indlæser albummer ..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Vælg konto"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Vælg element"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Vælg album"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "En anden download er i gang. Vent."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Importér"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Importeret."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Importerer ..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Medie"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Findes allerede. Vil du overskrive?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Prøv igen?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Det samme navn er allerede i brug."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Indlæser. Vent..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Posten er tom."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Ugyldigt inputparameter."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Opret kode"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Tilføj webalbum"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Vis"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Fjern?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Opret mappe?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Ikke tildelt"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Ikke-tagget"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Ingen tags"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Udskriv"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Rotér mod venstre"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Rotér mod højre"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Personer"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Interval for diasshow"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 sekunder"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 sekunder"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 sekunder"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Dine tags"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Seneste 30 dage"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Seneste 7 dage"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Anvend forskellige filtre til dine søgninger."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Ansigtstagging"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Diasshow"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Slet kode"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Albumnavn"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Ingen fil valgt. Vælg en fil, der skal sendes, og prøv igen."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Når du tager billeder med GPS aktiveret, vises dine billeder."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Indstillinger"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albummer"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Diasshow"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Indstillinger for diasshow"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Vis efter"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Vælg elementer"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Start diasshow"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Indhold i Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Alt indhold"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Indhold i Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Indhold der skal vises"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Enhedsindhold"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox-indhold"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Tidslinje"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Vis enheder i nærheden"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Skjul enheder i nærheden"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Vil du kopiere eller flytte billederne fra det oprindelige album?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Beskyttelse"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 album vil blive slettet."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albummer vil blive slettet."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Redigér billede"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Del"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Roterer ..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Ingen resultater fundet."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Konto"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Scan efter enheder i nærheden"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Føj til start"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook-indhold"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Alle elementer"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 element vil blive slettet."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d elementer vil blive slettet."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Tagge ven"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d sekunder"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Scanning startet. Liste over enheder opdateres automatisk."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Ingen enheder fundet. Scanning efter enheder i nærheden fortsætter i baggrunden."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Der er fundet enheder i nærheden."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d valgt"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Ingen ansigter registreret."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d ansigter detekteret."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 ansigt detekteret."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Maksimale antal billeder (%d) overskredet."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Vælg billede"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Tilføj navn"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Personer"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Annullér"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Spørg ikke igen"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Vælg billeder, og tap derefter på %s for at føje dem til et album."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Åbn %s galleri."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Vis skjulte elementer"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Skjulte elementer"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Vis elementer"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Fjernet."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galleri"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Visning af billeder og videoer"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Visning af billeder"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Vælg et album, og vælg derefter et billede."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Rul til venstre eller højre for at se flere billeder."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Zoom ind eller ud af et billede."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Ansigtstagging"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Du kan mærke personer på dine billeder. Når du tapper på deres ansigter og tilføjer deres navne (som de findes i Kontakter), får du tilbudt en liste over metoder til at kontakte dem direkte."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Hvis følgende betingelser er opfyldt, når du tager billeder, vises informationer, såsom placeringer, datoer, navne på personer eller vejret, kort, når du ser billederne:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Vejrwidget'en er blevet opdateret før/efter, der blevet taget billeder."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS er aktiveret i Kamera, før der blev taget billeder."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Personer på billeder er blevet mærket, efter der blev taget billeder."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Redigér billeder"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Vælg en mappe, og vælg derefter et billede."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Du kan vælge op til %d elementer."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Bekræft som %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Tildel navn"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Selvstudium fuldført."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Vælg et album."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Vælg et billede."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Vælg navnet for kontakten."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Opret et historiealbum"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Tap på %s ikonet redigér for at redigere billedet."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Opdateret."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Vejr"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Placering"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Personlig side"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Der er kun ét album."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Træk hertil."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Føj til startskærm"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Blå bokse indikerer ansigter, som enheden har genkendt. Tap på et for at vælge vedkommende person."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Se billeder og videoer."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Afspilleren er ikke tilgængelig. Kontrollér netværksstatus og tilsluttet enhed."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s er deaktiveret i dette program. For at aktivere denne funktion skal du gå til %2$s, vælge denne funktion og derefter vælge dette program."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Kunne oprette forbindelse til enheden. Kontrollér netværksstatus og den tilsluttede enhed"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Personligt lager"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Personligt indhold"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Starter download ..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Start"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d elementer"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 element"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Når du har mærket billeder som dine favoritter, vil billeder blive vist."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Føj til dit personlige lager"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Fjern fra dit personlige lager"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Tap her for at tage billeder eller videoer."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Tap her for at tage billeder med placeringstags (GPS aktiveret)."
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Tap her for at tage billeder og mærke personer."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Ingen netværksforbindelse"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi-forbindelse kræves. Slut til Wi-Fi-netværk, og prøv igen."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Mobile data deaktiveret. Opret forbindelse til Wi-Fi-netværk i stedet, eller aktivér mobile data og prøv igen."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Fil understøttes ikke."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Del Lyd & billede-fotos"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Som videofiler"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Som billedfiler"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Det valgte element vil blive flyttet til %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "De valgte elementer vil blive flyttet til %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Fjerner..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Tilføjer..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Hvis du opretter indhold, der inkluderer elementer fra personligt lager, skjules det muligvis ikke automatisk. Det valgte personlige indhold kan ses, når du får vist det nye indhold."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Skuffe"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Kan ikke indlæse foto."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Tap her for at tage billeder."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Når du har taget billeder og mærket personer på dem, vises disse billeder her."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Træk og slip"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Flyt til normalt lager"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Flyt til personligt lager"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Album"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Genkender ansigt..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "VÆLG ELEMENT"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "VÆLG ELEMENTER"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Placeringstags"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Dokumenter"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Mad"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Kæledyr"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Landskab"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Køretøjer"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Ingen placering"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtre"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Begivenhed"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Blomster"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Tilsluttede enheder"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Skift kategori"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Opret begivenhed"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Fjern fra begivenhed"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Føj til begivenhed"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Begivenheden er oprettet."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtrér efter"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Kopiér til"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Flyt til"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Kan ikke overføre"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Tap på %s, og tap derefter på en af de kategorier, der er anført under Filtrér efter."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Billeder vil blive filtreret efter den kategori, du valgte."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Event: Filtrerer billederne efter dato og sted."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Mennesker, Landskab, Mad, Kæledyr, Køretøjer, Dokumenter og Blomster: Filtrér billederne ved at analysere indholdet."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Tap på knappen Skuffemenu, og tap derefter på en af de kategorier, der er anført under Filtrér efter."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Dobbelttap for at åbne skuffemenuen."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Dobbelttap for at lukke skuffemenuen."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Privat indhold"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Flyt til Privat"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Fjern fra Privat"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Privat lager"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Sidste år"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Før %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Det maksimale antal genstande, der kan deles (%d), er overskredet."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Viser %d elementer"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Sortér efter nyeste"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Sortér efter ældste"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Vil du slette %d elementer?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Persontags"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "For at rulle hurtigt igennem andre datoer, skal du trykke og holde nede på datoindikatoren øverst til højre på skærmen."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d billeder tilføjet"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Tilføj billeder fra"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Blandede billeder"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Tilføj billeder"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Der er ingen begivenheder at vise. Opret en ny begivenhed."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Slet elementer"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Visning af et billede"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Tap på det billede, du vil se."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Se dit billede."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Tap på knappen Flere indstillinger, tap derefter på Angiv som for at bruge billedet som baggrund eller kontaktbillede."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Knib fingrene sammen på billedet eller spred dem, mens du berører skærmen, for at zoome ud eller ind."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Ændrer størrelse på miniaturer"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Ændring af størrelsen på miniaturer vil ændre det antal af miniaturer, du ser på skærmen."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "En miniature er et lille eksempel på et større billede."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Visning af albummer"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Tap på %s, og tap derefter på Album."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Tap på et album, og tap derefter på det billede eller den video, du vil se."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Tap på %s øverst på skærmen."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Dele et billede"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Deler flere billeder"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Vælg flere billeder, der skal slettes, på samme tid."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Vælg flere billeder, der skal deles, på samme tid."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Tap på %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Administrér og nyd dine billeder og videoer."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Filtrerer billeder"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Slette et billede"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Slette flere billeder"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Deler billeder"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Sletter billeder"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Frakoblet"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Forbindelse til %s afbrudt. Kontrollér netværksstatus og den tilsluttede enhed."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Slet dette album?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Slet dette element?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Layout"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d billeder"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Tryk på menutasten, og vælg derefter Vælg elementer."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Tap på %s, tap derefter på Angiv som for at bruge billedet som baggrund eller kontaktbillede."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 resultat"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d resultater"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Tilstanden Liggende"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Studio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Der er ingen elementer at vise."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Slet element"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Uden navn"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Ikke-grupperet"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Fjern navnetag"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Fjern fra %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Ny"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Albummet vil blive annulleret."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Fjern identifikation af ansigt?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Fjern elementer"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Fjern element"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Fjern %d elementer?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Vil du fjerne dette element?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "UDFØRT"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ANNULLER"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Når du har taget billeder, vil de blive vist her."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Filen er beskadiget eller har et ikke-understøttet format."
+

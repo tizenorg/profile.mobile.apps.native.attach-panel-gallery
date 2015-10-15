@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Да се избришат %d албуми?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Места"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Додај дома"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Ознаки"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Сите албуми"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook веб-албум"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa веб-албум"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Уреди во близина"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Изминатите %d месеци"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Преземено"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Нема доволно меморија. Избришете некој запис"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Преземањето заврши."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Албуми"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Омилени"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Најавување"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Активирање..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Избери фајлови"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Табелирано"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Сеул"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Почетен екран"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Заклучување на екранот"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "ИД на повик."
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Избери"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Пост."
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Нов албум"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Нема албуми"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Изберете ознаки."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Името на албумот постои."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Ознаката се користи веќе. Пребриши?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Процес во заднина"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Не може да се преименува. Името на албумот постои."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Нема име на албумот."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Внеси име на ознаката."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD-картичката се подготвува..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Не може да почне додека е активен режимот за меморија USB."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Нов албум"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Ќе се избришат сите податоци поврзани со оваа сметка. Продолжи?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Печати преку Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Не може да се преименува."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Нема име"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Не се избрани албуми."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Нема избрано ознаки."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Избери уред"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Пренос на фајлови"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Завршено."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Се вчитуваат албуми..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Изберете сметка"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Избери запис"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Избери албум"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Во тек е друго преземање. Почекајте."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Увези"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Увезено."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Увезување..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Медиум"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Веќе постои. Пресними?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Повторен обид?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Истото име веќе се користи."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Се вчитува. Почекајте..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Записот е празен."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Неважечки влезен параметар."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Напр.озн."
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Додај веб-албум"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Прикажи"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Отстрани?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Направи нова папка?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Не е назначено"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Неозначено"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Нема ознаки"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Печати"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Ротирај лево"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Ротирај десно"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Луѓе"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Период на слајдовите"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 секунди"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 секунди"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 секунди"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Ваши ознаки"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Изминатите 30 дена"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Изминатите 7 дена"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Применувајте разни филтри на своите пребарувања."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Ознаки за лица"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Слајдови"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Избриши ознака"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Име на албумот"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Не е избран фајл. Изберете фајл за праќање и обидете се повторно."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Откако ќе фотографирате со вклучен GPS, сликите ќе ви се покажат."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Опции"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Албуми"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Слајдови"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Опции за слајдовите"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Прегледај според"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Изберете записи"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Почни слајдови"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Содржини во Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Цела содржина"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Содржини во Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Содржина за приказ"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Содржина од уредот"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Содржина од Dropbox"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Историја"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Прикажи уреди во близина"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Сокриј уреди во близина"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Сакате да ги ископирате или преместите сликите од оригиналниот албум?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Доверливо"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 албум ќе се избрише."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d албуми ќе се избришат."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Измени слика"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Сподели"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Се врти..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Нема резултати."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Сметка"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Скенирај за блиски уреди"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Додај дома"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Содржина од Facebook"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Сите записи"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 запис ќе се избрише."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d записи ќе се избришат."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Другар за ознаки"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d секунди"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Скенирањето е почнато. Листата со уреди ќе се ажурира автоматски."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Не се најдени уреди. Скенирањето за уреди во близина ќе се одвива во заднина."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Најдени се уреди во близина."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "Избрани се %d"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Не се откриени лица."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "Откриени се %d лица."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "Откриено е 1 лице."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Надминат е максималниот број слики (%d)."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Избери слика"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Додај име"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Луѓе"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Откажи"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Не прашувај повторно"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Изберете слики, па допрете %s за да ги додадете во албум."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Отвори галерија %s."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Прикажи скриени записи"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Скриени записи"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Покажи записи"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Отстрането."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Галерија"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Гледање слики и видеа"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Гледање слики"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Изберете албум, а потоа слика."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Листајте лево или десно за да видите повеќе слики."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Зумирање или одзумирање од слика."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Ознаки за лица"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Може да означувате луѓе на сликите. Кога ќе им ги допрете лицата и ќе им ги додадете имињата (како што се појавуваат во Контакти), ќе ви се понуди листа методи за директно контактирање со нив."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Ако се исполните следниве услови кога фотографирате, информации како местата, датумите, имињата на луѓето или времето ќе се прикажат накратко кога ги гледате сликите:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Виџетот за време беше обновен пред/по фотографирањето."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Означување GPS е вклучено во Камерата пред фотографирањето."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Луѓето на сликите беа означени по фотографирањето."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Измени слики"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Изберете папка, а потоа слика."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Може да изберете најмногу %d записи."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Потврди како %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Додели име"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Упатството е завршено."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Изберете албум."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Изберете слика."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Изберете го името на контактот."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Направи Албум со приказна"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Допрете ја иконата за менување %s за да менувате сликата."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Обновено."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Време"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Место"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Лична страница"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Има само еден албум."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Довлечете тука."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Додај на основниот екран"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Сините рамки укажуваат на лицата што уредот ги препознал. Допрете некое за да го одберете."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Разгледувајте слики и видеа."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Плеерот не е достапен. Проверете ги мрежната состојба и поврзаниот уред."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s е исклучено за оваа апликација. За да ја вклучите оваа функција, одете во %2$s, изберете ја функцијата, па изберете ја апликацијата."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Не може да се поврзе со уредот. Проверете ја состојбата на мрежата и поврзаниот уред"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Лична меморија"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Лична содржина"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Почнува преземање..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Почни"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d содржини"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 запис"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Откако ќе означите слики како омилени, ќе се прикажат."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Додај во личната меморија"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Отстрани од личната меморија"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Допрете тука за фотографирање или снимање."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Допрете тука за фотографирање со локациски ознаки (вклучено GPS)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Допрете тука за фотографирање и означување луѓе."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Нема мрежно поврзување"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Потребна е врска Wi-Fi. Поврзете со мрежа Wi-Fi и обидете се повторно"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Мобилните податоци се исклучени. Поврзете се со мрежа Wi-Fi или вклучете мобилни податоци и обидете се повторно"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Неподдржан фајл."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Сподели слики со звук"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Како видео фајлови"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Како фајлови со слики"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Избраниот запис ќе се премести во %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Избраните записи ќе се преместат во %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Отстранување..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Се додава..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Ако создадете содржина што вклучува записи од личната меморија, може да не се скрие автоматски. Избраните лични содржини можат да се видат кога се прегледуваат новите содржини."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Фиока"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Не може да се вчита фотографијата."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Допрете тука за да фотографирате."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Откако ќе фотографирате и ќе означите луѓе на нив, сликите ќе се прикажат тука."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Повлечи и пушти"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Премести на нормална меморија"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Премести во лична меморија"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Албуми"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Препознавање лице..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ИЗБЕРИ ЗАПИС"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ИЗБЕРИ ЗАПИСИ"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Ознаки за локација"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Документи"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Храна"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Галеничиња"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Предел"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Возила"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Нема локација"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Филтри"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Настан"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Цвеќе"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Поврзани уреди"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Смени категорија"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Нов настан"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Отстрани од настан"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Додај на настан"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Направен е настан."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Филтрирај според"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Копирај во"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Премести во"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Не може да се емитува"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Допрете %s, па допрете една од категориите излистани под Филтрирај според."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Сликите ќе се филтрираат по избраната категорија."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Настан: Ги филтрира сликите по датум и место."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Луѓе, Сцена, Храна, Галеничиња, Возила, Документи и Цвеќиња: Филтрирајте ги сликите анализирајќи ја содржината."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Допрете копчето за менито на извлекување, па допрете една од категориите излистани под Филтрирај според."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Допрете двапати за да го отворите менито на извлекување."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Допрете двапати за да се затвори менито на извлекување."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Приватна содржина"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Премести во Приватно"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Отстрани од Приватно"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Приватна меморија"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Минатата година"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Пред %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Надминат е максималниот број ставки што можат да се споделат (%d)."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Се прикажуваат %d ставки"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Подреди според последен"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Подреди според најстар"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Избриши %d записи?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Ознаки за луѓе"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "За да листате брзо до други датуми, допрете го и држете го показателот на датумот горе десно на екранот."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "Додадени се %d слики"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Додај слики од"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Измешани слики"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Додај слики"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Нема настани за прикажување. Направете нов настан."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Избриши записи"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Гледање слика"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Допрете ја сликата што сакате да ја видите."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Видете ја својата слика."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Допрете го копчето за повеќе опции, па допрете Одреди за да ја користите сликата како заднина или слика за контакт."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Стиснете ја сликата или раширете ги прстите додека го допирате екранот за да одзумирате или зумирате."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Менување големина на сликичките"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Менувањето на големината на сликичките ќе го смени бројот сликички што го гледате на екранот."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Сликичка е мал преглед на поголема слика."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Гледање албуми"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Допрете %s, па допрете Албум."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Допрете албум, па допрете слика или видео што сакате да ги видите."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Допрете %s горе на екранот."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Споделување слика"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Споделување повеќе слики"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Изберете повеќе слики за бришење истовремено."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Изберете повеќе слики за споделување истовремено."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Допрете %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Управувајте со своите слики и видеа и уживајте во нив."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Филтрирање слики"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Бришење слика"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Бришење повеќе слики"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Споделување слики"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Бришење слики"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Прекината врска"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Исклучено од %s. Проверете ги мрежната состојба и поврзаниот уред."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Да се избрише овој албум?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Да се избрише оваа ставка?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Распоред"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d фотографии"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Притиснете го копчето мени, па изберете ставки."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Допрете %s, па допрете Одреди за да ја користите сликата како заднина или слика за контакт."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 резултат"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d резултати"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Широк преглед"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Студио"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Нема ставки за прикажување."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Избриши запис"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Неименувана"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Одгрупирано"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Отстрани ознака на име"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Отстрани од %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Ново"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Албумот ќе се откаже."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Да се отстрани идентификацијата на лица?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Отстрани записи"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Отстрани запис"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Отстрани %d записи?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Да се отстрани записот?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "ГОТОВО"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ОТКАЖИ"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Откако ќе сликате, сликите ќе се прикажат тука."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Датотеката е неисправна или во неподржан формат."
+

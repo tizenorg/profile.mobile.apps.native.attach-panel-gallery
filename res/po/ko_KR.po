@@ -1,0 +1,645 @@
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "장소"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "홈에 추가"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "태그"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "모든 앨범"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook 웹 앨범"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa 웹 앨범"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "주변 기기"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "다운로드"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "저장 공간이 없습니다. 필요 없는 파일을 삭제하세요."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "다운로드가 완료되었습니다."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "앨범"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "즐겨찾기"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "회원 가입"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "로딩 중..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "파일 선택"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "바둑판 보기"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "서울"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "홈 화면"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "잠금 화면"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "발신자 번호"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "선택"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "설정"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "새 앨범"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "앨범이 없습니다"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "태그를 선택하세요."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "사용 중인 이름입니다."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "사용 중인 태그 이름입니다. 덮어쓸까요?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "백그라운드에서 계속"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "사용 중인 앨범 이름이므로 변경할 수 없습니다."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "앨범 이름이 없습니다."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "태그 이름을 입력하세요."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD 카드 준비 중..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "내장 메모리 모드가 실행되어 있을 때는 시작할 수 없습니다."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "앨범 추가"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "이 계정과 관련된 모든 데이터가 삭제됩니다. 계속할까요?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "블루투스로 인쇄"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "이름을 변경할 수 없습니다."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "이름이 없습니다"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "선택된 앨범이 없습니다."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "선택된 태그가 없습니다."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "기기 선택"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "파일 전송"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "완료되었습니다."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "앨범을 불러오는 중..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "계정 선택"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "항목 선택"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "앨범 선택"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "다운로드 중인 컨텐츠가 있습니다. 잠시만 기다리세요."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "가져오기"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "가져오기가 완료되었습니다."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "가져오는 중..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "미디어"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "사용 중인 이름입니다. 덮어쓸까요?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "다시 시도할까요?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "사용 중인 이름입니다."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "불러오는 중... 잠시만 기다리세요."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "입력된 내용이 없습니다."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "입력값이 바르지 않습니다."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "태그 추가"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "웹 앨범 추가"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "보기"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "제거할까요?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "폴더를 추가할까요?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "지정 안 함"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "태그 없음"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "태그 없음"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "인쇄"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "왼쪽으로 회전"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "오른쪽으로 회전"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "사람"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "얼굴 태그"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "슬라이드쇼"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "태그 삭제"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "앨범 이름"
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "GPS를 켜고 사진을 촬영하면 사진이 표시됩니다."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "설정"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "앨범"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "슬라이드쇼"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "슬라이드쇼 설정"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "보기"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "항목 선택"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "슬라이드쇼 시작"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox 컨텐츠"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "모든 컨텐츠"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox 컨텐츠"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "표시할 항목"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "디바이스 컨텐츠"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox 컨텐츠"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "타임라인"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "주변 기기 표시"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "주변 기기 숨기기"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "원래 앨범에서 사진을 복사하거나 이동하시겠습니까?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "개인 정보 보호"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1개의 앨범이 삭제됩니다."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "앨범 %d개가 삭제됩니다."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "이미지 편집"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "공유"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "회전 중..."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "계정"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "주변 기기 검색"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "홈 화면에 추가"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook 컨텐츠"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "모든 항목"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1개의 항목이 삭제됩니다."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d개의 항목이 삭제됩니다."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "태그 버디"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "검색이 시작되었습니다. 디바이스 목록이 자동으로 업데이트됩니다."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "검색된 기기가 없습니다. 백그라운드에서 계속해서 주변 기기를 검색합니다."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "주변 기기를 찾았습니다."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d개 선택"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "인식된 얼굴이 없습니다."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d명의 얼굴이 인식되었습니다."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1명의 얼굴이 인식되었습니다."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "최대 사진 수(%d장)를 초과하였습니다."
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "이름 추가"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "사람"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "취소"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "다시 묻지 않기"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "사진을 선택한 후 %s을(를) 눌러 앨범에 추가하세요."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "%s 갤러리를 실행하세요."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "숨긴 항목 표시"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "숨겨진 항목"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "항목 표시"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "제거되었습니다."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "갤러리"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "사진 및 동영상 보기"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "사진 보기"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "앨범을 선택한 후 사진을 선택하세요."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "다른 사진을 보려면 화면을 왼쪽 또는 오른쪽으로 드래그하세요."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "사진을 확대하거나 축소하세요."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "얼굴 태그"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "사진 속의 인물에 태그를 입력할 수 있습니다. 얼굴을 누른 후 연락처에 나타나는 이름을 추가하면 해당 연락처로 바로 연락할 수 있는 방법이 표시됩니다."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "사진 촬영 시 다음 조건을 충족하면 촬영된 사진을 볼 때 위치, 날짜, 사람 이름, 날씨 등의 정보가 간략하게 표시됩니다."
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "사진 촬영 전후에 날씨 위젯의 정보를 업데이트"
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "사진 촬영 전에 카메라에서 GPS 태그를 실행"
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "사진 촬영 후에 촬영한 인물에 태그를 입력"
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "사진 편집"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "폴더를 선택한 후 사진을 선택하세요."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "%d개까지 선택할 수 있습니다."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "%s(으)로 확인"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "이름 지정"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "가이드를 완료하였습니다."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "앨범을 선택하세요."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "사진을 선택하세요."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "연락처의 이름을 선택하세요."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Story Album 추가"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "사진을 편집하려면 %s 편집 아이콘을 누르세요."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "새로고침되었습니다."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "날씨"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "위치"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "개인 페이지"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "1개의 앨범이 있습니다."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "여기로 드래그하세요."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "홈 화면에 추가"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "파란 상자는 디바이스가 인식한 얼굴을 표시합니다. 인물을 선택하려면 해당 상자를 누르세요."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "사진과 동영상을 감상할 수 있습니다."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "재생할 수 없습니다. 네트워크 상태 및 연결된 기기를 확인하세요."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "애플리케이션에서 %1$s이(가) 해제되었습니다. 이 기능을 실행하려면 %2$s(으)로 이동하여 해당 기능을 선택한 후 이 애플리케이션을 선택하세요."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "디바이스에 연결할 수 없습니다. 네트워크 상태와 연결된 디바이스를 확인하세요."
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "개인 저장소"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "개인 컨텐츠"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "다운로드를 시작하는 중..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "시작"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d개"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1개"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "사진을 즐겨찾기로 태그하면 사진이 표시됩니다."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "개인 저장소에 추가"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "개인 저장소에서 제거"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "사진이나 동영상을 촬영하려면 여기를 누르세요."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "위치 태그를 포함하는 사진을 촬영하려면 여기를 누르세요(GPS가 켜졌을 때)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "태그를 추가하여 사진을 촬영하려면 여기를 누르세요."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "연결된 네트워크 없음"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi 연결이 필요합니다. Wi-Fi 네트워크에 연결한 후 다시 시도하세요."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "모바일 데이터가 해제되었습니다. Wi-Fi 네트워크에 연결하거나 모바일 데이터를 실행한 후 다시 시도하세요."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "지원되지 않는 파일입니다."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "사운드&샷 사진 공유"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "동영상 파일로"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "이미지 파일로"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "선택한 항목을 %s(으)로 이동합니다."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "선택한 항목을 %s(으)로 이동합니다."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "제거 중…"
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "추가 중..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "개인 컨텐츠를 활용하여 만든 컨텐츠는 자동으로 숨겨지지 않을 수 있습니다. 새로 만든 컨텐츠를 볼 때 그 속에 포함된 개인 컨텐츠가 함께 표시될 수 있습니다."
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "사진을 불러올 수 없습니다."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "사진을 촬영하려면 여기를 누르세요."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "사진을 촬영하여 사진 속 인물에 태그를 입력하면 해당 사진이 여기에 표시됩니다."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "드래그 및 드롭"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "일반 저장소로 이동"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "개인 저장소로 이동"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "앨범"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "얼굴 인식 중..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "항목 선택"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "항목 선택"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "문서"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "음식"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "애완동물"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "풍경"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "차량"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "위치 없음"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "일정"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "꽃"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "연결된 기기"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "카테고리 변경"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "이벤트 추가"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "이벤트에서 제거"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "이벤트에 추가"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "이벤트를 추가하였습니다."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "필터"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "복사"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "이동"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "완료"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "취소"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "사진을 촬영하면 사진이 여기에 표시됩니다."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "파일이 손상되었거나 지원되지 않는 형식입니다."
+

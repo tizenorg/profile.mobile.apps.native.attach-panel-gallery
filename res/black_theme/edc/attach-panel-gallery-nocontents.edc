@@ -1,0 +1,90 @@
+/*
+* Copyright (c) 2000-2015 Samsung Electronics Co., Ltd All Rights Reserved
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*
+*/
+
+#define NOCONTENT_TEXT_BLOCK_TEXT_SIZE_INC 32
+#define NOCONTENT_TEXT_BLOCK_STYLE_COLOR_INC 173 170 165 255
+
+   group {
+      name: "elm/layout/nocontents/gallery_efl";
+      styles{
+         style { name: "nocontent_style";
+            base: "font=Tizen:style=Roman text_class=tizen font_size="NOCONTENT_TEXT_BLOCK_TEXT_SIZE_INC" align=center color=#ffffff wrap=word";
+            tag:  "br" "\n";
+            tag:  "hilight" "+ font=Tizen:style=Bold text_class=tizen";
+            tag:  "b" "+ font=Tizen:style=Bold text_class=tizen";
+            tag:  "tab" "\t";
+         }
+      }
+      images {
+         image: GE_EDC_IMAGE_NOCONTENTS_PIC COMP;
+      }
+      parts {
+         part { name: "bg";
+            scale: 1;
+            type: RECT;
+            description { state: "default" 0.0;
+               visible: 1;
+               rel1 { relative: 0.0 0.0;}
+               rel2 { relative: 1.0 1.0;}
+               color: 0 0 0 0;
+            }
+         }
+         part { name: "nocontents.image";
+            description { state: "default" 0.0;
+               visible: 1;
+               align: 0.5 0.0;
+               rel1 { relative: 203/720 296/1016; to: "bg";}
+               rel2 { relative: (203+314)/720 (296+310)/1016; to: "bg";}
+               image {
+                  normal: GE_EDC_IMAGE_NOCONTENTS_PIC;
+                  border: 1 1 1 1;
+                  border_scale: 1;
+               }
+               aspect: 1.0 1.0;
+               aspect_preference: BOTH;
+            }
+         }
+         part { name: "middle.padding";
+            scale: 1;
+            type: RECT;
+            description { state: "default" 0.0;
+               visible: 0;
+               align: 0.5 0.0;
+               rel1 { relative: 0.0 1.0; to_y: "nocontents.image";}
+               rel2 { relative: 1.0 (296+310+54)/1016; to: "bg";}
+            }
+         }
+         part { name: "elm.text";
+            type: TEXTBLOCK;
+            description { state: "default" 0.0;
+               fixed: 0 1;
+               align: 0.5 0.0;
+               visible: 1;
+               rel1 { relative: 0.0 1.0; to_x: "bg"; to_y: "middle.padding";}
+               rel2 { relative: 1.0 1.0; to: "bg";}
+               color: NOCONTENT_TEXT_BLOCK_STYLE_COLOR_INC;
+               text {
+                  style: "nocontent_style";
+                  align: 0.5 0.5;
+                  min: 0 0;
+                  max: 0 1;
+               }
+            }
+         }
+      }
+   }
+

@@ -1,0 +1,640 @@
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "ಸ್ಥಳಗಳು"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "ಹೋಮ್‌ಗೆ ಸೇರಿಸಿ"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "ಟ್ಯಾಗ್‌ಗಳು"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "ಎಲ್ಲ ಆಲ್ಬಂಗಳು"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "ಫೇಸ್‌ಬುಕ್ ವೆಬ್ ಆಲ್ಬಂ"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "ಪಿಕಾಸ ವೆಬ್ ಆಲ್ಬಂ"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "ಹತ್ತಿರದ ಸಾಧನಗಳು"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "ಡೌನ್‌ಲೋಡ್‌ಗಳು"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "ಸಾಕಷ್ಟು ಸ್ಮರಣೆ ಇಲ್ಲ. ಕೆಲವೊಂದು ಅಂಶಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "ಡೌನಲೋಡ್ ಪೂರ್ತಿಗೊಂಡಿದೆ."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "ಆಲ್ಬಮ್‌‌."
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "ಅಚ್ಚುಮೆಚ್ಚಿನವುಗಳು"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "ಸೈನ್ ಅಪ್"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "ಲೋಡಿಂಗ್..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "ಫೈಲ್‌ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "ಗ್ರಿಡ್ ವೀಕ್ಷಣೆ"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "ಸಿಯೋಲ್"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "ಫ್ಲಿಕರ್"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "ಹೋಮ್ ಪರದೆ"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "ಪರದೆ ಲಾಕ್ ಮಾಡಿ"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "ಕರೆ ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "ಆಯ್ಕೆ"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "ಹೊಂದಿಸಿ"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "ಹೊಸ ಆಲ್ಬಮ್"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "ಆಲ್ಬಂ‌‌‌‌‌‌‌‌‌ಗಳು ಇಲ್ಲ"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "ಟ್ಯಾಗ್ಗಳನ್ನು ಆರಿಸಿ."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "ಆಲ್ಬಂ ಹೆಸರು ಈಗಾಗಲೇ ಬಳಕೆಯಲ್ಲಿದೆ."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "ಟ್ಯಾಗ್ ಹೆಸರು ಈಗಾಗಲೇ ಬಳಕೆಯಲ್ಲಿದೆ. ಓವರ್ ರೈಟ್ ಮಾಡುವುದೆ?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "ಪ್ರಕ್ರಿಯೆ ಹಿನ್ನೆಲೆ"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "ಮರುಹೆಸರಿಸಲು ಅಸಮರ್ಥ. ಆಲ್ಬಂ ಹೆಸರು ಈಗಾಗಲೇ ಬಳಕೆಯಲ್ಲಿದೆ."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "ಆಲ್ಬಂ ಹೆಸರು ಖಾಲಿಯಿದೆ."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "ಟ್ಯಾಗ್ ಹೆಸರು ನಮೂದಿಸಿ."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD ಕಾರ್ಡ್ ತಯಾರಿಸುತ್ತಿದೆ..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "USB ಸಂಗ್ರಹ ಮೋಡ್ ಸಕ್ರಿಯವಾಗಿರುವಾಗ ಆರಂಭಿಸಲು ಅಸಮರ್ಥ."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "ಆಲ್ಬಂ‌ ರಚಿಸಿ"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "ಈ ಖಾತೆಗೆ ಸಂಬಂಧಿತ ಎಲ್ಲ ಡೇಟಾ ಅಳಿಸಲ್ಪಡುವುದು. ಮುಂದುವರಿಯುವುದೆ?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "ಬ್ಲೂಟೂತ್ ಮೂಲಕ ಮುದ್ರಿಸಿ"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "ಮರುಹೆಸರಿಸಲಾಗುತ್ತಿಲ್ಲ."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "ಯಾವುದೆ ಹೆಸರಿಲ್ಲ"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "ಆಲ್ಬಂಗಳನ್ನು ಆರಿಸಿಲ್ಲ."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "ಟ್ಯಾಗ್‌ಗಳನ್ನು ಆರಿಸಿಲ್ಲ."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "ಸಾಧನ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "ಫೈಲ್ ವರ್ಗಾವಣೆ"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "ಪೂರ್ತಿಗೊಂಡಿದೆ."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "ಆಲ್ಬಂಗಳನ್ನು ಲೋಡ್ ಮಾಡುತ್ತಿದೆ..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "ಖಾತೆಯನ್ನು ಆಯ್ಕೆ ಮಾಡಿ"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "ವಸ್ತು ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "ಆಲ್ಬಂ ಆರಿಸಿ"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "ಇನ್ನೊಂದು ಡೌನ್‌ಲೋಡ್ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ"
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "ಆಮದು"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "ಆಮದಾಗಿದ್ದು."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "ಆಮದು ಮಾಡಲಾಗುತ್ತಿದೆ..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "ಮೀಡಿಯಾ"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "ಈಗಾಗಲೇ ಅಸ್ತಿತ್ವದಲ್ಲಿದೆ.ತಿದ್ದುವುದೆ?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "ಮರು ಪ್ರಯತ್ನಿಸಲೇ?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "ಒಂದೇಯಾದ ಹೆಸರು ಈಗಾಗಲೇ ಬಳಕೆಯಲ್ಲಿದೆ."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "ಲೋಡಿಂಗ್. ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "ಪ್ರವೇಶ ಖಾಲಿಯಾಗಿದೆ."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "ಇನ್‌ಪುಟ್ ಮಾನದಂಡ ಅಸಿಂದುವಾಗಿದೆ."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "ಟ್ಯಾಗ್ ರಚಿಸಿ"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "ವೆಬ್ ಆಲ್ಬಂ ಸೇರಿಸಿ"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "ವೀಕ್ಷಿಸಿ"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "ತೆಗೆಯಲೆ?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "ಫೋಲ್ಡರ್ ರಚಿಸಲೆ?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "ವಹಿಸಿಕೊಟ್ಟಿಲ್ಲ"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "ಟ್ಯಾಗ್‌ಆಗಿರದ"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "ಟ್ಯಾಗ್‌ಗಳು ಇಲ್ಲ"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "ಮುದ್ರಿಸಿ"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "ಎಡಕ್ಕೆ ತಿರುಗಿಸು"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "ಬಲಕ್ಕೆ ತಿರುಗಿಸು"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "ಪೀಪಲ್"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "ಮುಖ ಟ್ಯಾಗಿಂಗ್"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "ಸ್ಲೈಡ್ ಪ್ರದರ್ಶಿಸು"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "ಟ್ಯಾಗ್ ಅಳಿಸಿ"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "ಆಲ್ಬಂ‌ ಹೆಸರು"
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "GPS ಆನ್ ಆಗಿ ಇರುವುದರೊಂದಿಗೆ ನೀವು ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಂಡ ನಂತರ, ನಿಮ್ಮ ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಲಾಗುವುದು."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "ಸಂಯೋಜನೆಗಳು"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "ಆಲ್ಬಮ್‌‌‌‌‌‌‌‌ಗಳು"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "ಸ್ಲೈಡ್‌ಶೋ"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "ಸ್ಲೈಡ್‌ಶೋ ಸಂಯೋಜನೆಗಳು"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "ಅಂತೆ ವೀಕ್ಷಿಸಿ"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "ವಸ್ತುಗಳನ್ನು ಆರಿಸಿ"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "ಸ್ಲೈಡ್‌ಶೋ ಆರಂಭಿಸಿ"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "ಡ್ರಾಪ್‌ಬಾಕ್ಸ್‌ನಲ್ಲಿನ ವಿಷಯ"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "ಎಲ್ಲ ಒಳಾಂಶ"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "ಡ್ರಾಪ್‌ಬಾಕ್ಸ್‌ನಲ್ಲಿನ ವಿಷಯ"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "ಪ್ರದರ್ಶಿಸಲು ವಿಷಯ"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "ಸಾಧನದ ಒಳಾಂಶ"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "ಡ್ರಾಪ್‌ಬಾಕ್ಸ್ ಒಳಾಂಶ"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "ಸಮಯಮಿತಿ"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "ಹತ್ತಿರದ ಸಾಧನಗಳನ್ನು ತೋರಿಸಿ"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "ಹತ್ತಿರದ ಸಾಧನಗಳನ್ನು ಅಡಗಿಸಿ"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "ನೀವು ಮೂಲ ಆಲ್ಬಂನಿಂದ ಚಿತ್ರಗಳನ್ನು ನಕಲಿಸಲು ಅಥವಾ ಚಲಿಸಲು ಬಯಸುತ್ತೀರಾ?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "ಗೌಪ್ಯತೆ"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 ಆಲ್ಬಮ್ ಅಳಿಸಲಾಗುವುದು."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d ಆಲ್ಬಮ್‌ಗಳನ್ನು ಅಳಿಸಲಾಗುವುದು."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "ಇಮೇಜ್ ಅನ್ನು ತಿದ್ದಿ"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "ಹಂಚು"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "ತಿರುಗುತ್ತಿದೆ..."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "ಖಾತೆ"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "ಹತ್ತಿರದ ಸಾಧನಗಳಿಗಾಗಿ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "ಹೋಮ್‌ಗೆ ಸೇರಿಸಿ"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "ಫೇಸ್‌ಬುಕ್ ಒಳಾಂಶ"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "ಎಲ್ಲಾ ಅಂಶಗಳು"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 ಅಂಶ ಅಳಿಸಲಾಗುವುದು."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%dಅಂಶಗಳನ್ನು ಅಳಿಸಲಾಗುವುದು."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "ಸ್ನೇಹಿತರನ್ನು ಟ್ಯಾಗ್ ಮಾಡಿ"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "ಸ್ಕ್ಯಾನ್ ಆರಂಭವಾಗಿದೆ. ಸಾಧನದ ಪಟ್ಟಿಯನ್ನು ಸ್ವಯಂಚಾಲಿತಸ್ವಯಂಚಾಲಿತವಾಗಿ ನವೀಕರಿಸಲಾಗುವುದು."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "ಸಾಧನಗಳು ಕಾಣಿಸಿಲ್ಲ. ಸಮೀಪದ ಸಾಧನಗಳಿಗೆ ಸ್ಕಾನ್ ಮಾಡುವುದು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಮುಂದುವರಿಯುವುದು."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "ಹತ್ತಿರದ ಸಾಧನಗಳು ಪತ್ತೆಯಾಗಿವೆ."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d ಆರಿಸಿದೆ"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "ಯಾವುದೇ ಮುಖಗಳು ಪತ್ತೆಯಾಗಿಲ್ಲ."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d ಮುಖಗಳು ಪತ್ತೆಯಾಗಿವೆ."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 ಮುಖ ಪತ್ತೆಯಾಗಿದೆ."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "ಚಿತ್ರಗಳ ಗರಿಷ್ಠ ಸಂಖ್ಯೆಯು (%d) ಮೀರಿದೆ."
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "ಹೆಸರು ಸೇರಿಸಿ"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "ಜನ"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "ರದ್ದು"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "ಮತ್ತೊಮ್ಮೆ ಕೇಳಬೇಡಿ"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "ಚಿತ್ರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ, ನಂತರ ಅವುಗಳನ್ನು ಆಲ್ಬಂಗೆ ಸೇರಿಸಲು %s ಒತ್ತಿ."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "%s ಗ್ಯಾಲರಿ ತೆರೆಯಿರಿ."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "ಅಡಗಿಸಿದ ಅಂಶಗಳನ್ನು ತೋರಿಸಿ"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "ಅಡಗಿಸಿದ ಅಂಶಗಳು"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "ಅಂಶಗಳನ್ನು ತೋರಿಸಿ"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "ತೆಗೆಯಲಾಗಿದೆ."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "ಗ್ಯಾಲರಿ"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "ಚಿತ್ರಗಳು ಹಾಗೂ ವೀಡಿಯೋಗಳನ್ನು ವೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "ಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸಲಾಗುತ್ತಿದೆ"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "ಅಲ್ಬಂ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿ, ನಂತರ ಚಿತ್ರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "ಹೆಚ್ಚು ಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸಲು ಎಡಕ್ಕೆ ಅಥವಾ ಬಲಕ್ಕೆ ಸ್ಕ್ರೋಲ್ ಮಾಡಿ."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "ಚಿತ್ರವನ್ನು ಜೂಮ್ ಇನ್ ಅಥವಾ ಜೂಮ್ ಔಟ್ ಮಾಡಿ."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "ಮುಖ ಟ್ಯಾಗಿಂಗ್"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "ನಿಮ್ಮ ಚಿತ್ರಗಳಲ್ಲಿ ಜನರನ್ನು ನೀವು ಟ್ಯಾಗ್ ಮಾಡಬಹುದು. ಅವರ ಮಖಗಳನ್ನು ನೀವು ತಟ್ಟಿದಾಗ ಮತ್ತು ಅವರ ಹೆಸರುಗಳನ್ನು ಸೇರಿಸಿದಾಗ (ಸಂಪರ್ಕಗಳಲ್ಲಿ ಅವುಗಳು ಕಂಡುಬಂದಂತೆ), ಅವುಗಳಿಗೆ ನೇರವಾಗಿ ಸಂಪರ್ಕಿಸಲು ವಿಧಾನಗಳ ಪಟ್ಟಿಯನ್ನು ನಿಮಗೆ ನೀಡಲಾಗುತ್ತದೆ."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "ನೀವು ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವಾಗ ಮುಂದಿನ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಪೂರೈಸಿದರೆ, ಸ್ಥಳಗಳು, ದಿನಾಂಕಗಳು, ಜನರ ಹೆಸರುಗಳು ಅಥವಾ ಹವಾಮಾನದಂತಹ ಮಾಹಿತಿಯನ್ನು ಚಿತ್ರಗಳನ್ನು ವೀಕ್ಷಿಸುವಾಗ ಸಂಕ್ಷಿಪ್ತವಾಗಿ ತೋರಿಸಲಾಗುತ್ತದೆ:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮೊದಲು/ನಂತರ ಹವಾಮಾನ ವಿಜೆಟ್ ಅನ್ನು ರೀಫ್ರೆಶ್ ಮಾಡಲಾಗಿದೆ."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವ ಮುನ್ನ ಕ್ಯಾಮರಾದಲ್ಲಿ GPS ಟ್ಯಾಗ್ ಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಂಡ ನಂತರ ಚಿತ್ರಗಳಲ್ಲಿರುವ ಜನರನ್ನು ಟ್ಯಾಗ್ ಮಾಡಲಾಗಿದೆ."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "ಚಿತ್ರಗಳನ್ನು ತಿದ್ದಿ"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ ನಂತರ ಚಿತ್ರವೊಂದನ್ನು ಆರಿಸಿ."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "%d ಅಂಶಗಳ‌ವರೆಗೆ ನೀವು ಆರಿಸಬಹುದು."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "%s ಆಗಿ ದೃಢೀಕರಿಸಿ"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "ಹೆಸರು ನಿಗದಿಪಡಿಸಿ"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "ಟ್ಯುಟೋರಿಯಲ್ ಮುಕ್ತಾಯಗೊಂಡಿದೆ."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "ಅಲ್ಬಂ ಆಯ್ಕೆ ಮಾಡಿ."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "ಚಿತ್ರವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "ಸಂಪರ್ಕದ ಹೆಸರನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "ಸ್ಟೋರಿ ಆಲ್ಬಮ್ ರಚಿಸಿ"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "ಚಿತ್ರವನ್ನು ತಿದ್ದಲು ತಿದ್ದುವಿಕೆ ಐಕಾನ್ %s ತಟ್ಟಿ."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "ರೀಫ್ರೆಶ್ ಆಗಿದೆ."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "ಹವಾಮಾನ"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "ಸ್ಥಳ"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "ವೈಯಕ್ತಿಕ ಪುಟ"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "ಇಲ್ಲಿ ಕೇವಲ ಒಂದು ಆಲ್ಬಂ ಮಾತ್ರವೇ ಇದೆ."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "ಇಲ್ಲಿಗೆ ಡ್ರ್ಯಾಗ್ ಮಾಡಿ."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ಗೆ ಸೇರಿಸಿ"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "ನೀಲಿ ಪೆಟ್ಟಿಗೆಗಳು ಸಾಧನವು ಗುರುತಿಸಿದ ಮುಖಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಆ ವ್ಯಕ್ತಿಯನ್ನು ಆಯ್ಕೆಮಾಡಲು ಒಂದನ್ನು ತಟ್ಟಿ."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "ಚಿತ್ರಗಳು ಮತ್ತು ವೀಡಿಯೋಗಳನ್ನು ವೀಕ್ಷಿಸಿ."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "ಪ್ಲೇಯರ್ ಲಭ್ಯವಿಲ್ಲ. ನೆಟ್‌‌‌‌‌‌‌ವರ್ಕ್ ದರ್ಜೆ ಮತ್ತು ಸಂಪರ್ಕಿಸಿದ ಸಾಧನ ಪರೀಕ್ಷಿಸಿ."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s ಅನ್ನು ಈ ಅನ್ವಹಿಸುವಿಕೆಯಲ್ಲಿ ನಿಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ಈ ಕಾರ್ಯವನ್ನು ಶಕ್ತಗೊಳಿಸಲು, %2$sಗೆ ಹೋಗಿ, ಈ ಕಾರ್ಯ ಆಯ್ಕೆ ಮಾಡಿ, ಮತ್ತು ನಂತರ ಈ ಅನ್ವಹಿಸುವಿಕೆ ಆಯ್ಕೆ ಮಾಡಿ."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕಿಸಲು ವಿಫಲವಾಗಿದೆ. ನೆಟ್‌‌ವರ್ಕ್‌ ಸ್ಥಿತಿ ಮತ್ತು ಸಂಪರ್ಕಿಸಿದ ಸಾಧನವನ್ನು ಪರೀಕ್ಷಿಸಿ."
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "ವೈಯಕ್ತಿಕ ಸಂಗ್ರಹಣೆ"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "ವೈಯಕ್ತಿಕ ಒಳಾಂಶ"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "ಡೌನ್‌ಲೋಡ್ ಆರಂಭಿಸುತ್ತಿದೆ..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "ಆರಂಭಿಸಿ"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d ಅಂಶಗಳು"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 ವಸ್ತು"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "ನೀವು ಮೆಚ್ಚಿನವುಗಳಾಗಿ ಚಿತ್ರಗಳನ್ನು ಟ್ಯಾಗ್ ಮಾಡಿದ ನಂತರ, ಚಿತ್ರಗಳನ್ನು ತೋರಿಸಲಾಗುವುದು."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಸಂಗ್ರಹಣೆಗೆ ಸೇರಿಸಿ"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಸಂಗ್ರಹಣೆಯಿಂದ ತೆಗೆಯಿರಿ"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "ಚಿತ್ರಗಳು ಅಥವಾ ವೀಡಿಯೋಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಇಲ್ಲಿ ಒತ್ತಿರಿ."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "ಸ್ಥಳ ಟ್ಯಾಗ್‌ಗಳೊಂದಿಗೆ ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಇಲ್ಲಿ ಒತ್ತಿ (GPS ಆನ್ ಮಾಡಲಾಗಿದೆ)."
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಲು ಮತ್ತು ಜನರನ್ನು ಟ್ಯಾಗ್ ಮಾಡಲು ಇಲ್ಲಿ ತಟ್ಟಿ."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "ನೆಟ್‌ವರ್ಕ್‌ ಸಂಪರ್ಕ ಇಲ್ಲ"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi ಸಂಪರ್ಕದ ಅಗತ್ಯವಿದೆ. Wi-Fi ನೆಟ್‌ವರ್ಕಿಗೆ ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "ಮೊಬೈಲ್ ದತ್ತಾಂಶ ನಿಷ್ಕ್ರಿಯವಾಗಿದೆ. ಬದಲಿಗೆ Wi-Fi ನೆಟ್‌ವರ್ಕ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವಾ ಮೊಬೈಲ್ ಡೇಟಾ ಸಕ್ರಿಯಗೊಳಿಸಿ ಮತ್ತು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "ಬೆಂಬಲವಿಲ್ಲದ ಫೈಲ್."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "ಶಬ್ದ & ಶಾಟ್‌ ಚಿತ್ರಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "ವೀಡಿಯೋ ಫೈಲ್‌ಗಳಂತೆ"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "ಚಿತ್ರ ಫೈಲ್‌ಗಳಂತೆ"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "ಆಯ್ಕೆಮಾಡಿದ ಅಂಶವನ್ನು %s ಗೆ ಸರಿಸಲಾಗುವುದು."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "ಆಯ್ಕೆಮಾಡಿದ ಅಂಶಗಳನ್ನು %s ಗೆ ಸರಿಸಲಾಗುವುದು."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "ತೆಗೆಯಲಾಗುತ್ತಿದೆ..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "ಸೇರಿಸಲಾಗುತ್ತಿದೆ..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "ನೀವು ವೈಯಕ್ತಿಕ ಸಂಗ್ರಹಣೆಯ ಅಂಶಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಒಳಾಂಶವನ್ನು ರಚಿಸಿದಲ್ಲಿ, ಇದು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಮರೆಯಾಗದೇ ಇರಬಹುದು. ಹೊಸ ಒಳಾಂಶವನ್ನು ವೀಕ್ಷಿಸುತ್ತಿರುವಾಗ ಆಯ್ದ ವೈಯಕ್ತಿಕ ಒಳಾಂಶವನ್ನು ನೋಡಬಹುದು."
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "ಫೋಟೊ ಲೋಡ್ ಮಾಡಲು ಅಸಮರ್ಥ."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳುವುದಕ್ಕಾಗಿ ಇಲ್ಲಿ ತಟ್ಟಿರಿ."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "ನೀವು ಚಿತ್ರಗಳನ್ನು ತೆಗೆದುಕೊಂಡ ನಂತರ ಮತ್ತು ಅವುಗಳಲ್ಲಿ ಜನರನ್ನು ಟ್ಯಾಗ್ ಮಾಡಿದ ನಂತರ, ಈ ಚಿತ್ರಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "ಡ್ರಾಗ್ ಮತ್ತು ಡ್ರಾಪ್"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "ಸಹಜ ಸಂಗ್ರಹಣೆಗೆ ಚಲಿಸಿ"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "ವೈಯಕ್ತಿಕ ಸಂಗ್ರಹಣೆಗೆ ಚಲಿಸಿ"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "ಆಲ್ಪಮ್‍ಗಳು"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "ಮುಖ ಗುರುತಿಸುತ್ತಿದೆ..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ಅಂಶ ಆಯ್ಕೆಮಾಡಿ"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ಅಂಶಗಳನ್ನು ಆರಿಸಿ"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "ಡಾಕ್ಯುಮೆಂಟ್‌ಗಳು"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "ಆಹಾರ"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "ಸಾಕುಪ್ರಾಣಿಗಳು"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "ದೃಶ್ಯಾವಳಿ"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "ವಾಹನಗಳು"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "ಸ್ಥಾನ ಇಲ್ಲ"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "ಘಟನೆ"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "ಹೂವುಗಳು"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "ಸಂಪರ್ಕಿಸಿದ ಸಾಧನಗಳು"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "ವರ್ಗ ಬದಲಾಯಿಸಿ"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "ಸಂದರ್ಭ ರಚಿಸು"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "ಸಂದರ್ಭದಿಂದ ತೆಗೆದುಹಾಕಿ"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "ಘಟನೆಗೆ ಸೇರಿಸಿ"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "ಸಂದರ್ಭ ರಚಿಸಿದೆ."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "ಈ ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಿ"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "ಇಲ್ಲಿಗೆ ನಕಲಿಸಿ"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "ಇಲ್ಲಿಗೆ ಚಲಿಸಿ"
+
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "ನೀವು ಚಿತ್ರಗಳನ್ನು ಸೆರೆಹಿಡಿದ ಬಳಿಕ, ಅವುಗಳನ್ನು ಇಲ್ಲಿ ತೋರಿಸಲಾಗುವುದು."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "ಫೈಲ್ ದೋಷಪೂರಿತವಾಗಿದೆ ಅಥವಾ ಬೆಂಬಲಿಸದ ಸ್ವರೂಪದಲ್ಲಿದೆ."
+

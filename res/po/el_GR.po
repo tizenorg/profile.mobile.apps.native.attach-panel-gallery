@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Να διαγραφούν %d άλμπουμ;"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Τοποθεσίες"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Προσθήκη σε αρχική σελίδα"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Ετικέτες"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Όλα τα άλμπουμ"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Άλμπουμ Web Facebook"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Λεύκωμα Ιστού Picasa"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Κοντινές συσκευές"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "%d μήνες πριν"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Λήψεις"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Δεν υπάρχει αρκετή μνήμη. Διαγράψτε ορισμένα στοιχεία"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Η λήψη ολοκληρώθηκε."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Άλμπουμ"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Αγαπημένα"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Δημιουργία λογαριασμού"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Φόρτωση..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Επιλογή αρχείων"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Προβολή πλέγματος"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Σεούλ"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Αρχική οθόνη"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Κλείδωμα Οθόνης"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Ταυτότ. καλ."
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Επιλογή"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Ορισμ."
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Νέο άλμπουμ"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Δεν υπάρχουν άλμπουμ"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Επιλέξτε ετικέτα."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Το όνομα άλμπουμ χρησ. ήδη."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Το όνομα της ετικέτας υπάρχει ήδη. Αντικατάσταση;"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Διαδικασία στο παρασκήνιο"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Δεν είναι δυνατή η μετονομασία. To όνομα άλμπουμ χρησιμοποιείται ήδη."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Όνομα κενού άλμπουμ."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Καταχώριση ονόματος ετικέτας."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Προετοιμασία κάρτας SD..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Δεν είναι δυνατή η εκκίνηση όταν η λειτουργία αποθήκευσης USB είναι ενεργή."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Δημιουργία άλμπουμ"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Θα γίνει διαγραφή όλων των δεδομένων που έχουν σχέση με αυτόν τον λογαριασμό. Συνέχεια;"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Εκτύπωση μέσω Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Δεν είναι δυνατή η μετονομασία."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Κανένα όνομα"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Δεν έχουν επιλεγεί άλμπουμ."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Δεν έχουν επιλεγεί ετικέτες."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Επιλογή συσκευής"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Μεταφορά αρχείου"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Ολοκληρώθηκε."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Φόρτωση άλμπουμ..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Επιλογή λογαριασμού"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Επιλογή στοιχείου"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Επιλογή άλμπουμ"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Μια άλλη λήψη βρίσκεται σε εξέλιξη. Περιμένετε."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Εισαγωγή"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Έγινε εισαγωγή."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Εισαγωγή..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Μέσα"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Υπάρχει ήδη. Αντικατάσταση;"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Επανάληψη;"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Το όνομα χρησιμοποιείται ήδη."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Φόρτωση. Περιμένετε..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Κενή καταχώρηση."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Μη έγκυρη παράμετρος δεδομένων εισόδου."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Δημ. ετικ."
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Προσθήκη άλμπουμ Web"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Προβολή"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Αφαίρεση;"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Δημιουργία φακέλου;"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Δεν έχει αντιστοιχηθεί"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Χωρίς ετικέτα"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Δεν υπάρχουν ετικέτες"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Εκτύπωση"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Περ. προς τα αριστερά"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Περ. προς τα δεξιά"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Άτομα"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Διάστημα παρουσίασης"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 δευτερόλεπτα"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 δευτερόλεπτα"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 δευτερόλεπτα"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Οι ετικέτες σας"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Τις τελευταίες 30 ημέρες"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Τις τελευταίες 7 ημέρες"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Εφαρμόστε διάφορα φίλτρα στις αναζητήσεις σας."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Κωδικ. προσώπ"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Παρ/σίαση"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Διαγραφή ετικέτας"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Όνομα άλμπουμ"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Δεν έχει επιλεγεί αρχείο. Επιλέξτε κάποιο αρχείο προς αποστολή και προσπαθήστε ξανά."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Οι εικόνες θα εμφανιστούν μετά τη λήψη τους με ενεργοποιημένο GPS."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Ρυθμίσεις"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Άλμπουμ"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Παρουσίαση"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Ρυθμίσεις παρουσίασης"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Προβολή κατά"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Επιλογή στοιχείων"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Έναρξη παρουσίασης"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Περιεχόμενο στο Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Όλο το περιεχόμενο"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Περιεχόμενο στο Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Περιεχόμενο για εμφάνιση"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Περιεχόμενο συσκευής"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Περιεχόμενο Dropbox"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Χρονοδιάγραμμα"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Εμφάνιση κοντινών συσκευών"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Απόκρυψη κοντινών συσκευών"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Θέλετε να αντιγράψετε ή να μεταφέρετε φωτογραφίες από το αρχικό άλμπουμ;"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Απόρρητο"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "Θα διαγραφεί 1 άλμπουμ."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "Θα διαγραφούν %d άλμπουμ."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Επεξεργασία εικόνας"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Κοινόχρηστο"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Περιστροφή..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Δεν βρέθηκαν αποτελέσματα."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Λογαριασμός"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Σάρωση για κοντινές συσκευές"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Προσθ. σε αρχ."
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Περιεχόμενο Facebook"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Όλα τα στοιχεία"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "Θα γίνει διαγραφή 1 στοιχείου."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "Θα διαγραφούν %d στοιχεία."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Βοηθός Ετικετών"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d δευτερόλεπτα"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Έγινε έναρξη της σάρωσης. Η λίστα συσκευών θα ενημερωθεί αυτόματα."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Δεν βρέθηκαν συσκευές. Η σάρωση για κοντινές συσκευές θα συνεχιστεί στο παρασκήνιο."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Βρέθηκαν κοντινές συσκευές."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d επιλέχθηκαν"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Δεν ανιχνεύθηκαν πρόσωπα."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "Ανιχνεύθηκαν %d πρόσωπα."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "Ανιχνεύθηκε 1 πρόσωπο."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Υπέρβαση μέγιστου αριθμού εικόνων (%d)."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Επιλογή εικόνας"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Προσθήκη ονόματος"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Άνθρωποι"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Ακύρωση"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Να μην ερωτηθώ ξανά"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Επιλέξτε τις εικόνες και, στη συνέχεια, πατήστε %s, για να τις προσθέσετε σε ένα άλμπουμ."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Άνοιγμα της συλλογής %s."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Εμφάνιση κρυφών στοιχείων"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Κρυφά στοιχεία"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Προβολή στοιχείων"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Αφαιρέθηκε."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Συλλογή"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Προβολή εικόνων και βίντεο"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Προβολή εικόνων"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Επιλέξτε ένα άλμπουμ και, στη συνέχεια, μια φωτογραφία."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Κάντε κύλιση προς τα αριστερά ή τα δεξιά για να δείτε περισσότερες φωτογραφίες."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Μεγέθυνση ή σμίκρυνση εικόνας."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Κωδικ. προσώπ"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Μπορείτε να προσθέσετε ετικέτες στα άτομα που εμφανίζονται στις φωτογραφίες σας. Μόλις πατήσετε στο πρόσωπό τους και προσθέσετε το όνομά τους (όπως αυτό εμφανίζεται στις Επαφές), θα εμφανιστεί μια λίστα η οποία περιέχει διάφορες μεθόδους για την άμεση επικοινωνία μαζί τους."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Αν πληρούνται οι παρακάτω προϋποθέσεις κατά τη λήψη φωτογραφιών, πληροφορίες όπως είναι οι τοποθεσίες, οι ημερομηνίες, τα ονόματα των ατόμων ή ο καιρός, θα εμφανίζονται κατά την προβολή των φωτογραφιών για σύντομο χρονικό διάστημα:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Το widget καιρού ανανεώθηκε πριν/μετά τη λήψη φωτογραφιών."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Η ετικέτα GPS ενεργοποιήθηκε στην Κάμερα πριν τη λήψη φωτογραφιών."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Οι ετικέτες στα άτομα που υπάρχουν στις φωτογραφίες προστέθηκαν μετά τη λήψη των φωτογραφιών."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Επεξεργασία εικόνων"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Επιλέξτε ένα φάκελο και, στη συνέχεια, μια φωτογραφία."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Μπορείτε να επιλέξετε μέχρι και %d στοιχεία."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Επιβεβαίωση ως %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Αντιστοίχιση ονόματος"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Ο οδηγός εκμάθησης ολοκληρώθηκε."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Επιλέξτε ένα άλμπουμ."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Επιλογή εικόνας."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Επιλέξτε το όνομα της επαφής."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Δημ. άλμπουμ εξιστόρ."
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Πατήστε το εικονίδιο επεξεργασίας %s, για να επεξεργαστείτε την φωτογραφία."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Έγινε ανανέωση."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Καιρός"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Τοποθεσία"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Προσωπική σελίδα"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Υπάρχει μόνο ένα άλμπουμ."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Μεταφορά εδώ."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Προσθήκη στην Αρχική οθόνη"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Τα μπλε πλαίσια υποδεικνύουν πρόσωπα που έχει αναγνωρίσει η συσκευή. Πατήστε ένα, για να επιλέξετε αυτό το άτομο."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Προβολή εικόνων και βίντεο."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Η συσκευή αναπαραγωγής δεν είναι διαθέσιμη. Ελέγξτε την κατάσταση του δικτύου και της συνδεδεμένης συσκευής."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "Η δυνατότητα %1$s είναι απενεργοποιημένη για αυτήν την εφαρμογή. Για να ενεργοποιήσετε αυτήν τη λειτουργία, μεταβείτε στο %2$s, επιλέξτε την και, στη συνέχεια, επιλέξτε αυτήν την εφαρμογή."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Δεν είναι δυνατή η σύνδεση με τη συσκευή. Ελέγξτε την κατάσταση του δικτύου και της συνδεδεμένης συσκευής"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Προσωπικός χώρος αποθήκευσης"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Προσωπ. Περιεχόμενο"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Γίνεται έναρξη της λήψης..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Έναρξη"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d στοιχεία"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 στοιχείο"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Οι εικόνες θα εμφανιστούν αφού τις επισημάνετε ως αγαπημένες."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Προσθήκη στον προσωπικό σας χώρο αποθήκευσης"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Κατάργηση από τον προσωπικό σας χώρο αποθήκευσης"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Πατήστε εδώ για να τραβήξετε φωτογραφίες ή βίντεο."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Πατήστε εδώ για να τραβήξετε φωτογραφίες με ετικέτες τοποθεσίας (ενεργό GPS)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Πατήστε εδώ για να τραβήξετε φωτογραφίες και να προσθέσετε ετικέτες σε άτομα."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Χωρίς σύνδεση δικτύου"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Απαιτείται σύνδεση Wi-Fi. Συνδεθείτε σε δίκτυο Wi-Fi και δοκιμάστε ξανά"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Τα δεδομένα κινητής τηλεφωνίας απενεργοποιήθηκαν. Συνδεθείτε σε δίκτυο Wi-Fi ή ενεργοποιήστε τα δεδομένα κινητής τηλεφωνίας και δοκιμάστε ξανά"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Μη υποστηριζόμενο αρχείο."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Κοινή χρ.ήχου & φωτογρ."
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Ως αρχεία βίντεο"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Ως αρχεία εικόνων"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Το επιλεγμένο στοιχείο θα μετακινηθεί στο %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Τα επιλεγμένα στοιχεία θα μετακινηθούν στο %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Αφαίρεση..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Προσθήκη..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Αν δημιουργήσετε περιεχόμενο που περιλαμβάνει στοιχεία από τον προσωπικό χώρο αποθήκευσης, ενδέχεται να μη γίνει αυτόματα η απόκρυψη τους. Το επιλεγμένο προσωπικό περιεχόμενο μπορεί να εμφανιστεί κατά την προβολή του νέου περιεχομένου."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Συρτάρι"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Δεν είναι δυνατή η φόρτωση της φωτ."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Πατήστε εδώ, για να τραβήξετε φωτογραφίες."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Αφού τραβήξετε φωτογραφίες και επισημάνετε με ετικέτα τα άτομα σε αυτές, οι εικόνες θα εμφανίζονται εδώ."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Μεταφορά και απόθεση"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Μετακίνηση στον κανονικό χώρο αποθήκευσης"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Μετακίνηση στον προσωπικό χώρο αποθήκευσης"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Άλμπουμ"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Αναγνώριση προσώπου..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ΕΠΙΛΟΓΗ ΣΤΟΙΧΕΙΟΥ"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ΕΠΙΛΟΓΗ ΣΤΟΙΧΕΙΩΝ"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Ετικέτες τοποθεσίας"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Έγγραφα"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Φαγητό"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Κατοικίδια"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Scenery"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Οχήματα"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Καμία τοποθεσία"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Φίλτρα"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Συμβάν"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Λουλούδια"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Συνδεδεμένες συσκευές"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Αλλαγή κατηγορίας"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Δημιουργία συμβάντος"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Κατάργηση από το συμβάν"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Προσθήκη σε συμβάν"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Το συμβάν δημιουργήθηκε."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Φιλτράρισμα κατά"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Αντιγραφή σε"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Μετακίνηση σε"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Δεν είναι δυνατή η μετάδοση"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Πατήστε %s και, στη συνέχεια, πατήστε μία από τις κατηγορίες που εμφανίζονται στην ενότητα «Φιλτράρισμα κατά»."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Οι φωτογραφίες θα φιλτραριστούν με βάση την κατηγορία που έχετε επιλέξει."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Συμβάν: Φιλτράρει τις φωτογραφίες κατά ημερομηνία και τοποθεσία."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Άτομα, τοπία, φαγητό, κατοικίδια, οχήματα, έγγραφα και λουλούδια: Φιλτράρισμα των φωτογραφιών με βάση την ανάλυση του περιεχόμενου."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Πατήστε το κουμπί μενού συρταριών και, κατόπιν, μία από τις κατηγορίες που εμφανίζονται στην ενότητα «Φιλτράρισμα κατά»."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Πατήστε δύο φορές για να ανοίξετε το μενού συρταριών."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Πατήστε δύο φορές για να κλείσετε το μενού συρταριών."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Απόρρητο περιεχόμενο"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Μετακίνηση στο φάκελο «Ιδιωτικό»"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Κατάργηση από το φάκελο «Απόρρητο»"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Απόρρητος χώρος αποθήκευσης"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Τον προηγούμενο χρόνο"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Πριν από το %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Έγινε υπέρβαση του μέγιστου αριθμού στοιχείων με δυνατότητα κοινοποίησης (%d)."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Εμφάνιση %d στοιχείων"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Ταξινόμηση σύμφωνα με τα πιο πρόσφατα"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Ταξινόμηση σύμφωνα με τα πιο παλαιά"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Διαγραφή των στοιχείων %d;"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Ετικέτες ατόμων"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Για γρήγορη κύλιση σε άλλες ημερομηνίες, πατήστε την ένδειξη ημερομηνίας στην επάνω δεξιά γωνία της οθόνης."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "Προστέθηκαν %d εικόνες"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Προσθήκη εικόνων από"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Εικόνες με τυχαία σειρά"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Προσθήκη εικόνων"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Δεν υπάρχουν συμβάντα προς εμφάνιση. Δημιουργήστε νέο συμβάν."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Διαγραφή στοιχείων"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Προβολή μιας φωτογραφίας"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Πατήστε τη φωτογραφία που θέλετε να δείτε."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Προβολή της φωτογραφίας σας."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Πατήστε το κουμπί περισσότερων επιλογών και, στη συνέχεια, πατήστε «Ορισμός ως» για να χρησιμοποιήσετε τη φωτογραφία ως φόντο ή εικόνα επαφής."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "«Τσιμπήστε» τη φωτογραφία ή απομακρύνετε τα δάχτυλά σας το ένα από το άλλο ενώ αγγίζετε την οθόνη για σμίκρυνση ή μεγέθυνση."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Αλλαγή μεγέθους μικρογραφιών"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Η αλλαγή του μεγέθους των μικρογραφιών, θα αλλάξει τον αριθμό των μικρογραφιών που θα εμφανίζονται στην οθόνη."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Η μικρογραφία είναι μια μικρή προεπισκόπηση μιας μεγαλύτερης φωτογραφίας."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Προβολή άλμπουμ"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Πατήστε %s και, στη συνέχεια, πατήστε «Άλμπουμ»."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Πατήστε ένα άλμπουμ και, στη συνέχεια, πατήστε την εικόνα ή το βίντεο που θέλετε να δείτε."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Πατήστε %s στο επάνω τμήμα της οθόνης."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Κοινή χρήση μιας εικόνας"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Κοινή χρήση πολλών φωτογραφιών"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Επιλέξτε πολλές φωτογραφίες για να τις διαγράψετε ταυτόχρονα."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Επιλέξτε πολλές φωτογραφίες για να τις κοινοποιήσετε ταυτόχρονα."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Πατήστε %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Διαχειριστείτε και απολαύστε τις φωτογραφίες και τα βίντεό σας."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Φιλτράρισμα φωτογραφιών"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Διαγραφή μιας φωτογραφίας"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Διαγραφή πολλών φωτογραφιών"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Κοινή χρήση φωτογραφιών"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Διαγραφή φωτογραφιών"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Έγινε αποσύνδεση"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Έγινε αποσύνδεση από το %s. Ελέγξτε την κατάσταση του δικτύου και της συνδεδεμένης συσκευής."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Να διαγραφεί αυτό το άλμπουμ;"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Να διαγραφεί αυτό το στοιχείο;"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Διάταξη"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d φωτογραφίες"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Πατήστε το πλήκτρο μενού και, κατόπιν, επιλέξτε «Επιλογή στοιχείων»."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Πατήστε %s και, στη συνέχεια, πατήστε «Ορισμός ως» για να χρησιμοποιήσετε τη φωτογραφία ως φόντο ή εικόνα επαφής."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 αποτέλεσμα"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d αποτελέσματα"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Λειτουργία οριζόντιου προσανατολισμού"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Studio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Δεν υπάρχουν στοιχεία προς προβολή."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Διαγραφή στοιχείου"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Ανώνυμο"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Μη ομαδοποιημένα άτομα"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Κατάργηση ετικέτας ονόματος"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Κατάργηση από %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Νέο"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Τα άλμπουμ θα ακυρωθούν."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Να καταργηθεί η αναγνώριση προσώπων;"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Κατάργηση στοιχείων"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Κατάργηση στοιχείου"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Να καταργηθούν %d στοιχεία;"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Να καταργηθεί αυτό το στοιχείο;"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "ΤΕΛΟΣ"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ΑΚΥΡΟ"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Όταν τραβήξετε φωτογραφίες, θα εμφανιστούν εδώ."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Το αρχείο είναι κατεστραμμένο ή η μορφή του δεν υποστηρίζεται."
+

@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Eliminare %d album?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Luoghi"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Agg. a schermata home"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Tag"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Tutti gli album"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook Web album"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa Web album"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Dispositivi vicini"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Ultimi %d mesi"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Download"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Memoria insufficiente. Eliminare alcuni elementi."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Download completato."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Album"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Preferiti"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Registrati"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Caricamento..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Seleziona file"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Griglia"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Schermata Home"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Schermata di blocco"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "ID chiamante"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Seleziona"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Imposta"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Nuovo album"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Nessun album"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Seleziona tag."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Nome album già in uso."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Nome tag già in uso. Sovrascrivere?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Processo in background"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Impossibile rinominare. Nome album già in uso."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Nome album vuoto."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Inserire nome tag."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Preparazione scheda SD..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Impossibile avviare se la modalità archiviazione USB è attiva."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Crea album"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Tutti i dati relativi a questo account verranno eliminati. Continuare?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Stampa con Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Impossibile rinominare."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Nessun nome"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Nessun album selezionato."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Nessun tag selezionato."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Selezionate dispositivo"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Trasferimento file"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Fatto."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Caricamento album in corso..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Seleziona account"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Seleziona elemento"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Seleziona album"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "È in corso un altro download. Attendere."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Importa"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Importati."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Importazione..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Multimedia"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Già esistente. Sovrascrivere?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Riprovare?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Stesso nome già in uso."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Caricamento. Attendere..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Voce vuota"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Parametro inserimento non valido."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Crea tag"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Aggiungi Web album"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Visualizza"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Rimuovere?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Creare cartella?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Non assegnato"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Senza tag"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Nessun tag"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Stampa"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Ruota a sinistra"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Ruota a destra"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Persone"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Intervallo presentazione"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 secondi"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 secondi"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 secondi"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "I tuoi tag"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Ultimi 30 giorni"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Ultimi 7 giorni"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Applica i filtri per migliorare la ricerca."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Volti riconosciuti"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Present."
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Elimina etichetta"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Nome album"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Nessun file selezionato. Selezionarne uno da inviare e riprovare."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Dopo aver scattato le foto con il GPS attivato, queste ultime verranno visualizzate."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Impostazioni"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Album"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Presentazione"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Impostazioni presentazione"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Visualizza per"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Seleziona elementi"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Avvia presentazione"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Contenuti in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Tutti i contenuti"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Contenuti in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Contenuti da visualizzare"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Contenuti dispositivo"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Contenuti Dropbox"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Cronologia"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Mostra dispositivi vicini"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Nascondi dispositivi vicini"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Copiare o spostare le immagini dall'album originale?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Privacy"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 album verrà eliminato."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d album saranno eliminati."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Modifica immagine"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Condividi"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Rotazione in corso..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Nessun risultato trovato."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Account"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Ricerca dispositivi vicini"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Agg. a Home"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Contenuti Facebook"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Tutti gli elementi"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 elemento verrà eliminato."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d elementi verranno eliminati."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Info immagine"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d secondi"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Ricerca avviata. L'elenco dispositivi si aggiornerà automaticamente."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Nessun dispositivo trovato. La ricerca di dispositivi vicini continuerà in background."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Dispositivi vicini trovati."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d selezionato/i"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Nessun volto rilevato."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d volti rilevati."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 volto rilevato."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Numero massimo di immagini (%d) superato."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Seleziona immagine"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Aggiungi nome"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Persone"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Annulla"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Non chiedere più"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Selezionate delle immagini, quindi toccate %s per aggiungerle a un album."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Aprite Galleria %s."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Mostra elementi nascosti"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Elementi nascosti"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Mostra elementi"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Rimosso."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galleria"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Visualizzazione foto e video"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Visualizzazione foto"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Selezionate un album, quindi selezionate una foto."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Scorrete verso sinistra o destra per visualizzare altre immagini."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Aumentate o diminuite lo zoom su una foto."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Volti riconosciuti"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Potete assegnare dei tag alle persone nelle foto. Quando toccate i volti e aggiungete i nomi corrispondenti (come vengono visualizzati nella Rubrica), verrà visualizzato un elenco dei metodi per contattarli direttamente."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Se quando scattate le foto le condizioni seguenti vengono soddisfatte, mentre visualizzate le foto verranno brevemente visualizzate delle informazioni sulle posizioni, le date, i nomi delle persone o sul meteo:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Il widget del meteo è stato aggiornato prima/dopo aver scattato delle foto."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Prima di scattare delle foto, il tag GPS viene attivato nella fotocamera."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Dopo aver scattato delle foto, sono stati applicati dei tag ai volti delle persone nelle foto."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Modifica delle foto"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Selezionate una cartella, quindi selezionate un'immagine."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "È possibile selezionare fino a %d elementi."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Conferma come %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Assegna nome"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Tutorial completato."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Selezionate un album."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Selezionate un'immagine."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Selezionate il nome del contatto."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Crea Album foto"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Toccate l'icona della modifica %s per modificare l'immagine."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Aggiornato."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Meteo"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Posizione"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Pagina personale"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "È presente un solo album."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Trascina qui."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Aggiungi a schermata iniziale"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Le caselle blu indicano i volti riconosciuti dal dispositivo. Toccatene una per selezionare la persona."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Visualizzate foto e video."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Lettore non disponibile. Controllare lo stato della rete e il dispositivo collegato."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s è disattivato in questa applicazione. Per attivare questa funzione, andate in %2$s, selezionate la funzione, quindi l'applicazione."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Impossibile connettersi al dispositivo. Controllate lo stato della rete e il dispositivo collegato"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Memoria personale"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Contenuti personali"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Avvio download in corso..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Avvia"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d elementi"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 elemento"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Le foto verranno mostrate dopo aver aggiunto dei tag come foto preferite."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Aggiungi alla memoria personale"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Rimuovi dalla memoria personale"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Toccate qui per acquisire immagini o video."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Toccare qui per acquisire immagini con tag sulla posizione (GPS attivo)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Toccate qui per scattare delle foto o assegnare dei tag alle persone."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Connessione di rete assente"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Connessione Wi-Fi disattiva. Connettetevi ad una rete Wi-Fi e riprovate."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Connessione dati disattiva. Connettetevi ad una rete Wi-Fi o attivate la connessione dati e riprovate."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "File non supportato."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Condividi Audio foto"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Come file video"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Come file immagine"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "L'elemento selezionato verrà spostato in %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Gli elementi selezionati verranno spostati in %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Rimozione..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Aggiunta in corso..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Se create dei contenuti che includono elementi della memoria personale, questi ultimi potrebbero non venire nascosti automaticamente. I contenuti personali selezionati potrebbero essere visualizzati durante la visualizzazione dei nuovi contenuti."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Casella"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Impossibile caricare la foto."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Tocca qui per scattare delle foto."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Le foto scattate e ai cui soggetti è stato applicato un tag verranno visualizzate qui."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Trascina e rilascia"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Sposta nella memoria normale"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Sposta nella memoria personale"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Album"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Riconoscimento viso..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "SELEZIONA ELEMENTO"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "SELEZIONA ELEMENTI"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Tag posizione"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Documenti"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Cibo"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Animali domestici"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Scenario"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Veicoli"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Nessuna posizione"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtri"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Evento"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Fiori"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Dispositivi connessi"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Cambia categoria"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Crea evento"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Rimuovi dall'evento"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Aggiungi a evento"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Evento creato."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtra per"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Copia in"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Sposta in"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Impossibile trasferire"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Toccate %s, quindi toccate una delle categorie elencate in Filtra per."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Le immagini verranno filtrate in base alla categoria selezionata."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Evento: filtra le immagini per data e posizione."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Persone, Scenario, Cibo, Animali domestici, Veicoli, Documenti e Fiori: filtrate le immagini analizzandone il contenuto."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Toccate il pulsante del menu Accessori, quindi toccate una delle categorie elencate in Filtra per."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Toccate due volte per aprire il menu Accessori."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Toccate due volte per chiudere il menu Accessori."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Contenuti privati"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Sposta in Privato"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Rimuovi da Privato"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Archivio privato"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "L'anno scorso"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Prima del %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Il numero massimo di elementi che è possibile condividere (%d) è stato superato."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "%d elementi visualizzati"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Ordina dal più recente"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Ordina dal meno recente"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Eliminare %d elementi?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Tag delle persone"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Per scorrere rapidamente alle altre date, toccate e tenete premuto l'indicatore della data nella parte superiore destra dello schermo."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d immagini aggiunte"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Aggiungi immagini da"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Immagini riprodotte in ordine casuale"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Aggiungi immagini"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Nessun evento da visualizzare. Create un nuovo evento."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Elimina elementi"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Visualizzazione di foto"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Toccate l'immagine che desiderate visualizzare."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Visualizzate le immagini."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Toccate il pulsante Altre opzioni, quindi toccate Imposta come per utilizzare l'immagine come sfondo o per assegnarla a un contatto."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Avvicinate le dita sull'immagine o allontanatele sullo schermo per effettuare lo zoom avanti o indietro."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Ridimensionamento miniature"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Se ridimensionate le anteprime, ne verrà modificato il numero visualizzato sullo schermo."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Una miniatura è una piccola anteprima di un'immagine più grande."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Visualizzazione di album"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Toccate %s, quindi toccate Album."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Toccate un album, quindi toccate l'immagine o il video che desiderate visualizzare."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Toccate %s nella parte superiore dello schermo."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Condivisione di un'immagine"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Condivisione di più immagini"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Selezionate più foto da eliminare contemporaneamente."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Selezionate più foto da condividere contemporaneamente."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Toccate %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Gestite e divertitevi con le foto e i video."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Filtraggio delle immagini"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Eliminazione di un'immagine"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Eliminazione di più immagini"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Condivisione delle immagini"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Eliminazione delle immagini"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Disconnesso"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Disconnesso da %s. Controllate lo stato della rete e il dispositivo collegato."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Eliminare questo album?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Eliminare questo elemento?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Layout"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d foto"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Non mostrare più"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Premete il tasto Opzioni, quindi selezionate Seleziona elementi."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Toccate %s, quindi toccate Imposta come per utilizzare l'immagine come sfondo o per assegnarla a un contatto."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 risultato"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d risultati"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Modalità orizzontale"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Studio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Nessun elemento da visualizzare."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Elimina elemento"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Senza nome"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Non raggruppati"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Rimuovi tag nome"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Rimuovi da %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Novità"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "L'album verrà annullato."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Rimuovere l'identificazione facciale?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Rimuovi elementi"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Rimuovi elemento"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Rimuovere %d elementi?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Rimuovere questo elemento?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "FATTO"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ANNULLA"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Una volta scattate, le immagini verranno visualizzate qui."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "File danneggiato o in un formato non supportato."
+

@@ -1,0 +1,301 @@
+/*
+* Copyright (c) 2000-2015 Samsung Electronics Co., Ltd All Rights Reserved
+*
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*
+*/
+
+#define THUMBNAILS_BG_COLOR		190 189 189 255
+
+#define W 180
+#define H 180
+#define W2 240
+#define H2 168
+#define W3 360
+#define H3 252
+#define GAP_W 2
+#define GAP_H 2
+#define THUMB_CHECK_W 64
+#define THUMB_CHECK_H 64
+#define THUMB_CHECK_BORDER_L 1
+#define THUMB_CHECK_BORDER_T 3
+#define MODE_W 64
+#define MODE_H 64
+
+#define BURST_W 16
+#define BURST_H 12
+#define BURST_PAD_R 4
+#define BURST_PAD_L 1
+
+/* Favourites icon boundary size */
+#define FAVOR_ICON_W 30
+#define FAVOR_ICON_H 30
+
+#define GE_GRID_PART_ICON \
+	part { \
+		name: "elm.swallow.icon"; \
+		type: SWALLOW; \
+		clip_to: "elm.icon.clipper"; \
+		description { \
+			state: "default" 0.0; \
+			rel1.to: "elm.icon.clipper"; \
+			rel2.to: "elm.icon.clipper"; \
+		} \
+	} \
+	part { \
+		name: "elm.icon.clipper"; \
+		type: RECT; \
+		description { \
+			state: "default" 0.0; \
+			rel1 { relative: GAP_W/W GAP_H/H;} \
+			rel2 { relative: (W-GAP_W)/W (H-GAP_H)/H;} \
+		} \
+	}
+
+#define PARTS_PADDING_LEFT(param_padding_name, param_padding_size) \
+         part { name: param_padding_name; \
+            type: RECT; \
+            scale: 1; \
+            description { \
+               state: "default" 0.0; \
+               min: param_padding_size 0; \
+               fixed: 1 0; \
+               visible: 0; \
+               rel2.relative: 0.9 0.0; \
+               rel2.offset: -35 0; \
+               align: 0.0 0.0; \
+            } \
+         }
+
+#define PARTS_PADDING_TOP(param_padding_name, param_padding_size) \
+       part { name: param_padding_name; \
+            type: RECT; \
+            scale: 1; \
+            description { \
+               state: "default" 0.0; \
+               min: 0 param_padding_size; \
+               fixed: 0 1; \
+               visible: 0; \
+               rel2.relative: 1.0 0.0; \
+               align: 0.0 0.0; \
+            } \
+         }
+
+#define PARTS_PADDING_BOT(param_padding_name, param_padding_size) \
+       part { name: param_padding_name; \
+            type: RECT; \
+            scale: 1; \
+            description { \
+               state: "default" 0.0; \
+               min: 0 param_padding_size; \
+               fixed: 0 1; \
+               visible: 0; \
+               rel1.relative: 0.0 1.0; \
+               align: 0.0 1.0; \
+            } \
+         }
+
+group {
+	name: "elm/gengrid/item/gallery_efl/thumbnail_view/default";
+
+	data.item: "contents" "elm.swallow.icon elm.swallow.mode elm.swallow.end";
+	images {
+		image: GE_EDC_IMAGE_THUMBS_BG_FOCUS COMP;
+	}
+	parts {
+		PARTS_PADDING_LEFT("padding.end.left", THUMB_CHECK_BORDER_L);
+		PARTS_PADDING_LEFT("padding.end.right", THUMB_CHECK_BORDER_L+THUMB_CHECK_W);
+		PARTS_PADDING_TOP("padding.end.top", THUMB_CHECK_BORDER_T);
+		PARTS_PADDING_TOP("padding.end.bottom", THUMB_CHECK_BORDER_T+THUMB_CHECK_H);
+		PARTS_PADDING_LEFT("padding.end.left2", GAP_W);
+		PARTS_PADDING_LEFT("padding.end.right2", GAP_W+MODE_W);
+		PARTS_PADDING_BOT("padding.end.top2", GAP_H+MODE_H);
+		PARTS_PADDING_BOT("padding.end.bottom2", GAP_H);
+		part {
+			name: "bg";
+			type: RECT;
+			description {
+				state: "default" 0.0;
+				color: 0 0 0 0;
+				rel1 { relative: 0.0 0.0;}
+				rel2 { relative: 1.0 1.0;}
+			}
+		}
+		part {
+			name: "icon_bg";
+			type: RECT;
+			scale : 1;
+			description {
+				state: "default" 0.0;
+				align: 0.5 0.5;
+				visible: 0;
+				color: 0 0 0 0;
+				rel1 { relative: 0.0 0.0;to:"bg"; }
+				rel2 { relative: 1.0 1.0;to:"bg"; }
+
+			}
+		}
+		part {
+			name: "icon_bg_color";
+			type: RECT;
+			scale : 1;
+			description {
+				state: "default" 0.0;
+				align: 0.5 0.5;
+				visible: 1;
+				rel1.to : "elm.swallow.icon";
+				rel1.offset : 2 2;
+				rel2.to : "elm.swallow.icon";
+				color: 230 230 230 255;
+			}
+		}
+
+		part {
+			name: "elm.swallow.icon";
+			type: SWALLOW;
+			mouse_events: 1;
+			description {
+				state: "default" 0.0;
+				color: 0 0 0 0;
+				rel1 { relative: 0.0 0.0; to: "icon_bg"; }
+				rel2 { relative: 1.0 1.0; to: "icon_bg"; }
+			}
+		}
+		part {
+			name: "elm.swallow.mode";
+			type: SWALLOW;
+			description {
+				state: "default" 0.0;
+				rel1 {relative: 1.0 0.0; to_x: "padding.end.left2"; to_y: "padding.end.top2"; }
+				rel2 {relative: 1.0 0.0; to_x: "padding.end.right2"; to_y: "padding.end.bottom2"; }
+			}
+		}
+		GE_GENGRID_FOCUS_BG
+		part {
+			name: "elm.swallow.end";
+			type: SWALLOW;
+			description {
+				state: "default" 0.0;
+				align: 0 0;
+				min: 10 10;
+				max: 10 10;
+				rel1 {relative: 1.0 1.0; to_x: "padding.end.left"; to_y: "padding.end.top"; }
+				rel2 {relative: 1.0 1.0; to_x: "padding.end.right"; to_y: "padding.end.bottom"; }
+			}
+		}
+	}
+
+	programs {
+		GE_GENGRID_FOCUS("elm.swallow.icon")
+		GE_GENGRID_SOUND("elm.swallow.end")
+		GE_GENGRID_SOUND("elm.swallow.icon")
+		GE_GENGRID_PLAY_SOUND
+	}
+}
+
+group
+{
+	name: "elm/gengrid/photoframe/default_layout";
+
+	parts {
+		part {
+			name: "bg";
+			type: RECT;
+			description {
+				state: "default" 0.0;
+				rel1 { relative: 0.0 0.0;}
+				rel2 { relative: 1.0 1.0;}
+				color: 0 0 0 0;
+			}
+		}
+		GE_GRID_PART_ICON
+	}
+}
+
+group
+{
+	name: "elm/gengrid/photoframe/default_layout_video";
+	images {
+		image: GE_EDC_IMAGE_BUTTON_VIDEO_PLAY COMP;
+	}
+
+		parts {
+			part {
+			name: "bg";
+			type: RECT;
+			mouse_events: 1;
+			description {
+				state: "default" 0.0;
+				rel1 { relative: 0.0 0.0;}
+				rel2 { relative: 1.0 1.0;}
+				color: 0 0 0 0;
+			}
+		}
+		GE_GRID_PART_ICON
+		part {
+			name: "elm.swallow.videoicon";
+			type: IMAGE;
+			mouse_events: 0;
+			repeat_events: 0;
+			scale: 1;
+			description {
+				state: "default" 0.0;
+				rel1 {
+					relative: 0.5 0.45;
+					to: bg;
+				}
+				rel2 {
+					relative: 0.5 0.45;
+					to: bg;
+				}
+				min: 36 36;
+				max: 36 36;
+				align: 0.5 0.5;
+				image.normal: GE_EDC_IMAGE_BUTTON_VIDEO_PLAY;
+			}
+		}
+		part {
+			name: "elm.text.bg";
+			type: RECT;
+			mouse_events: 0;
+			scale : 1;
+			description {
+				state: "default" 0.0;
+				color: 0 0 0 130;
+				align: 0.0 1.0;
+				rel1 { relative: 0 1; offset: 0 -40; to: "elm.swallow.icon"; }
+				rel2 { relative: 1 1; to: "elm.swallow.icon"; }
+			}
+		}
+		part {
+			name: "elm.text";
+			type: TEXT;
+			mouse_events: 1;
+			repeat_events: 1;
+			scale: 1;
+			description {
+				state: "default" 0.0;
+				align: 0.0 1.0;
+				rel1 { relative: 0.0  0.0; to: "elm.text.bg"; }
+				rel2 { relative: 1.0  1.0; to: "elm.text.bg"; }
+				color: 255 255 255 255;
+				text {
+					font: "Tizen:style=Bold";
+					text_class: "tizen";
+					size: 13;
+					align: 0.0 0.5;
+				}
+			}
+		}
+	}
+}

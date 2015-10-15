@@ -1,0 +1,640 @@
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "സ്ഥലങ്ങള്‍"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "ഹോമിലേക്ക് ചേര്‍ക്കുക"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "ടാഗുകള്‍"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "എല്ലാ ആല്‍ബങ്ങളും"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "ഫെയ്സ്ബുക്ക് വെബ് ആല്‍ബം"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "പിക്കാസ വെബ് ആല്‍ബം"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "സീമപസ്ഥ സാമഗ്രികള്‍"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "ഡൌണ്‍‌ലോഡു."
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "മതിയായ മെമ്മറിയില്ല. ചില ഇനങ്ങള്‍  ഇല്ലാതാക്കുക."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "ഡൌണ്‍‌ലോഡ് പൂര്‍ത്തിയായി."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "ആല്‍ബങ്ങള്‍"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "പ്രിയപ്പെട്ടവ"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "സൈന്‍ അപ്പ് ചെയ്യുക"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "ലോഡ്‌ ചെയ്യുന്നു..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "ഫയലുകള്‍ തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "ഗ്രിഡ് കാഴ്‌ച"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "സിയോള്‍"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "ഹോം സ്ക്രീന്‍‌"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "ലോക്ക് സ്ക്രീന്‍"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "വിളിച്ചയാളിന്‍റെ ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "സജ്ജീകരിക്കുക"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "പുതിയ ആല്‍ബം"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "ആല്‍‌ബങ്ങള്‍  ഒന്നും ഇല്ല"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "ടാഗുകള്‍ തിരഞ്ഞെടുക്കുക."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "ആല്‍ബം നാമം നേരത്തെ തന്നെ ഉപയോഗത്തിലുണ്ട്."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "ടാഗ് നാമം ഇതിനകം ഉപയോഗത്തിലുണ്ട്. ഓവര്‍റൈറ്റ് ചെയ്യണമോ?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "പ്രക്രിയ പശ്ചാത്തലം"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "പേര് മാറ്റാനാവുന്നില്ല. ആല്‍ബം നെയിം നേരത്തെ തന്നെ ഉപയോഗത്തിലുണ്ട്."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "ആല്‍ബത്തിന്  പേര്  ഇല്ല."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "ടാഗ് നാമം നല്‍കുക."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD കാര്‍ഡ്‌ തയ്യാറാക്കുന്നു..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "USB  സ്റ്റോറേജ് മോഡ് സജീവമായിരിക്കുമ്പോള്‍ ആരംഭിക്കാനാവില്ല."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "ആല്‍ബം സൃഷ്‌ടിക്കുക"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "ഈ അക്കൌണ്ടുമായി ബന്ധപ്പെട്ട എല്ലാ ഡാറ്റയും ഇല്ലാതാക്കപ്പെടും. തുടരണമോ?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "ബ്ലുടൂത്‌ വഴി  അച്ചടിക്കുക"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "പേരുമാറ്റാന്‍ ആവുന്നില്ല."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "പേരില്ല"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "ആല്‍ബങ്ങള്‍ ഒന്നും തിരഞ്ഞെടുത്തിട്ടില്ല."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "നഗരം ഒന്നും തിരഞ്ഞെടുത്തിട്ടില്ല."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "ഉപകരണം തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "ഫയല്‍ കൈമാ‍റ്റം"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "പൂര്‍ത്തിയാക്കി."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "ആല്‍ബങ്ങള്‍ ലോഡ് ചെയ്യുന്നു..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "അക്കൌണ്ട് തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "ഇനം തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "ആല്‍ബം തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "മറ്റൊരു ഡൌണ്‍ലോഡ് പുരോഗമിക്കുന്നു. ദയവായി കാത്തിരിക്കുക"
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "ഇം‌പോര്‍ട്ട്"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "ഇംപോര്‍ട്ട് ചെയ്തു."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "ഇം‌പോര്‍ട്ടുചെയ്യുന്നു..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "മീഡിയ"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "ഇതിനകം നിലവിലുണ്ട്.തിരുത്തിയെഴുതണോ?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "വീണ്ടും ശ്രമിക്കണോ?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "അതേ നാമം ഇതിനകം ഉപയോഗത്തിലുണ്ട്."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "ലോഡ് ചെയ്യുന്നു. ദയവായി കാത്തിരിക്കുക..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "എന്‍‌ട്രി ശൂന്യമാണ്."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "അസാധുവായ ഇന്‍‌പുട്ട് മാന‌ദണ്ഡം."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "ടാഗ് സൃഷ്‌ടിക്കുക"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "വെബ് ആല്‍ബം ചേര്‍ക്കുക"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "കാണുക"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "നീക്കംചെയ്യണോ?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "ഫോള്‍ഡര്‍ സൃഷ്‌ടിക്കണോ?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "നിര്‍‌ണ്ണയിച്ചിട്ടില്ല"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "ടാഗ് ചെയ്യാത്തത്"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "ടാഗുകള്‍ ഇല്ല"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "അച്ചടിക്കുക"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "ഇടത്തേക്ക് തിരിക്കുക"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "വലത്തേക്ക് തിരിക്കുക"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "People"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "ഫേസ് ടാഗിംഗ്"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "സ്ലൈഡ് ഷോ"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "ടാഗ് ഇല്ലാതാക്കുക"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "ആല്‍ബം പേര്‍"
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "GPS ഓണ്‍ ചെയ്ത് നിങ്ങള്‍ ചിത്രങ്ങള്‍ എടുക്കുമ്പോള്‍, നിങ്ങളുടെ ചിത്രങ്ങള്‍ പ്രദര്‍ശിപ്പിക്കപ്പെടും."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "സജ്ജീകരണങ്ങള്‍"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "ആല്‍ബങ്ങള്‍"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "സ്ലൈഡ്ഷോ"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "സ്ലൈഡ്ഷോ ക്രമീകരണങ്ങള്‍"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "ഇതുപ്രകാരം കാണുക"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "ഇനങ്ങള്‍ തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "സ്ലൈഡ്ഷോ ആരംഭിക്കുക"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox-ലെ ഉള്ളടക്കം"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "എല്ലാ ഉള്ളടക്കവും"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox-ലെ ഉള്ളടക്കം"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "പ്രദര്‍ശിപ്പിക്കാനുള്ള ഉള്ളടക്കം"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "സാമഗ്രി ഉള്ളടക്കം"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "ഡ്രോപ്പ്‌ബോക്സ് ഉള്ളടക്കം"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "ടൈംലൈന്‍"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "സമീപമുള്ള സാമഗ്രികള്‍ കാണിക്കുക"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "സമീപമുള്ള സാമഗ്രികള്‍ മറയ്ക്കുക"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "അസല്‍ ആല്‍ബത്തില്‍നിന്നും ചിത്രങ്ങള്‍ പകര്‍ത്താന്‍ അല്ലെങ്കില്‍ നീക്കാന്‍ നിങ്ങള്‍ക്കാഗ്രഹമുണ്ടോ?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "സ്വകാര്യത"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 ആല്‍ബം ഡിലീറ്റ് ചെയ്യപ്പെടും."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d ആല്‍ബങ്ങള്‍ ഡിലീറ്റ് ചെയ്യപ്പെടും."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "ഇമേജ് എഡിറ്റുചെയ്യുക"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "പങ്കിടുക"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "റൊട്ടേറ്റ് ചെയ്യുന്നു..."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "അക്കൌണ്ട്"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "സീമപസ്ഥ സാമഗ്രികള്‍ക്കായി സ്കാന്‍ ചെയ്യുക"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "ഹോമിലേക്ക് ചേര്‍ക്കുക"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "ഫെയ്സ്‌ബുക്ക് ഉള്ളടക്കം"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "എല്ലാ ഇനങ്ങളും"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 ഇനം ഡിലീറ്റ് ചെയ്യപ്പെടും."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d ഇനം ഇല്ലാതാക്കപ്പെടും."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "ടാഗ് ബഡി"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "സ്കാന്‍ ആരംഭിച്ചു. സാമഗ്രി ലിസ്റ്റ് യാന്ത്രികമായി അപ്‌ഡേറ്റുചെയ്യപ്പെടും."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "ഉപാധികളൊന്നും കണ്ടെത്തിയില്ല. സമീപമുള്ള ഉപകരണങ്ങള്‍ക്കായുള്ള സ്കാന്‍‌ചെയ്യല്‍ പശ്ചാത്തലത്തില്‍ നിലനില്ക്കും."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "സമീപ സാമഗ്രികള്‍ കണ്ടെത്തി."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d തിരഞ്ഞെടുത്തു"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "മുഖങ്ങളൊന്നും കണ്ടെത്തിയില്ല."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d മുഖങ്ങള്‍ തിരിച്ചറിഞ്ഞു."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 മുഖം തിരിച്ചറിഞ്ഞു."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "ചിത്രങ്ങളുടെ പരമാവധി എണ്ണം (%d) കടന്നു."
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "പേര് ചേര്‍ക്കുക"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "ആളുകള്‍"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "റദ്ദ്"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "വീണ്ടും ചോദിക്കരുത്‌"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "ചിത്രങ്ങള്‍ തിരഞ്ഞെടുക്കുക, തുടര്‍ന്ന് ഒരു ആല്‍ബത്തിലേക്ക് അവ കൂട്ടിച്ചേര്‍ക്കുന്നതിന് %s ടാപ്പുചെയ്യുക"
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "%s ഗാലറി തുറക്കുക."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "മറച്ച ഇനങ്ങള്‍ പ്രദര്‍ശിപ്പിക്കുക"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "മറച്ച ഇനങ്ങള്‍"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "ഇനങ്ങള്‍ കാണിക്കുക"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "നീക്കംചെയ്തു."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "ഗാലറി"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "ചിത്രങ്ങളും വീഡിയോകളും കാണല്‍"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "ചിത്രങ്ങള്‍ കാണല്‍"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "ഒരു ആല്‍ബം തിരഞ്ഞെടുത്ത്, തുടര്‍ന്ന് ഒരു ചിത്രം തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "കൂടുതല്‍ ചിത്രങ്ങള്‍ കാണുന്നതിനായി ഇടത്തേക്കോ വലത്തേക്കോ സ്ക്രോള്‍ ചെയ്യുക."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "ഒരു ചിത്രത്തിന്‍റെ സൂം ഇന്‍ അല്ലെങ്കില്‍ ഔട്ട്."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "ഫേസ് ടാഗിംഗ്"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "നിങ്ങളുടെ ചിത്രങ്ങളില്‍ നിങ്ങള്‍ക്ക് ആളുകളെ ടാഗ് ചെയ്യാന്‍ കഴിയും. നിങ്ങള്‍ അവരുടെ മുഖങ്ങള്‍ ടാപ്പുചെയ്യുകയും അവരുടെ പേരുകള്‍ (കോണ്‍‌ടാക്ടുകളില്‍ ഉള്ളതുപോലെ) കൂട്ടിച്ചേര്‍ക്കുകയും ചെയ്യുമ്പോള്‍, അവരെ നേരിട്ട് ബന്ധപ്പെടുന്നതിന് മാര്‍ഗ്ഗങ്ങളുടെ ഒരു ലിസ്റ്റ് നിങ്ങള്‍ക്ക് ലഭിക്കും."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "ഇനിപ്പറയുന്ന നിബന്ധനകള്‍ നിറവേറ്റപ്പെട്ടാല്‍, നിങ്ങള്‍ ചിത്രങ്ങള്‍ എടുക്കുമ്പോള്‍, സ്ഥാനങ്ങളോ തീയതികളോ ആളുകളുടെ പേരുകളോ കാലാവസ്ഥയോ പോലുള്ള വിവരങ്ങള്‍ ചിത്രം കാണുന്ന സമയത്ത് കുറച്ചിട പ്രദര്‍ശിപ്പിക്കപ്പെടും:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "ചിത്രം എടുക്കുന്നതിന് മുമ്പോ/പിമ്പോ കാലാവസ്ഥാ വിഡ്ജറ്റ് പുതുക്കപ്പെട്ടു."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "ചിത്രങ്ങള്‍ എടുക്കുന്നതിന് മുമ്പായി ക്യാമറയില്‍ GPS ടാഗ് പ്രവര്‍ത്തനസജ്ജമാക്കി."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "ചിത്രങ്ങള്‍ എടുത്തതിന് ശേഷം ചിത്രങ്ങളില്‍ ആളുകളെ ടാഗ് ചെയ്തിരിക്കുന്നു."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "ചിത്രങ്ങള്‍ എഡിറ്റുചെയ്യുക"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "ഒരു ഫോള്‍ഡര്‍ തിരഞ്ഞെടുക്കുക, തുടര്‍ന്ന് ഒരു ചിത്രം തിരഞ്ഞെടുക്കുക."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "%d ഇനങ്ങള്‍ വരെ നിങ്ങള്‍ക്ക് തിരഞ്ഞെടുക്കാം."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "%s ആയി സ്ഥിരീകരിക്കുക"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "പേര് നല്‍കുക"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "ട്യൂട്ടോറിയല്‍ പൂര്‍ത്തിയായി"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "ഒരു ആല്‍ബം തിരഞ്ഞെടുക്കുക."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "ഒരു ചിത്രം തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "സമ്പര്‍ക്കത്തിന്‍റെ പേര് തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "ഒരു സ്റ്റോറി ആല്‍ബം സൃഷ്ടിക്കുക"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "ചിത്രം എഡിറ്റുചെയ്യുന്നതിന് %s എഡിറ്റുചെയ്യുക ഐക്കണ്‍ ടാപ്പുചെയ്യുക."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "റിഫ്രെഷ് ചെയ്തു."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "കാലാവസ്ഥ"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "സ്ഥാനം"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "വ്യക്തിഗത പേജ്"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "ഒരു ആല്‍ബം മാത്രമേയുള്ളൂ."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "ഇവിടെ ഇഴയ്ക്കുക."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "ഹോം സ്ക്രീനിലേക്ക് ചേര്‍ക്കുക"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "ഉപകരണം തിരിച്ചറിഞ്ഞ മുഖങ്ങളെ നീല ബോക്സുകൾ സൂചിപ്പിക്കുന്നു. ആ വ്യക്തിയെ തിരഞ്ഞെടുക്കുന്നതിന് ഒരെണ്ണത്തിൽ സ്പർശിക്കുക."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "ചിത്രങ്ങളും വീഡിയോകളും കാണുക"
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "പ്ലെയര്‍ ലഭ്യമല്ല. നെറ്റ്‌വര്‍ക്ക് അവസ്ഥയും കണക്ട് ചെയ്ത ഉപകകരണവും പരിശോധിക്കുക."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "ഈ ആപ്ലിക്കേഷനിൽ %1$s അപ്രാപ്തമാക്കപ്പെട്ടിരിക്കയാണ്. ഈ പ്രവർത്തനം പ്രാപ്തമാക്കുന്നതിന്, %2$s-ലേക്ക് പോയി ഈ പ്രവർത്തനം തിരഞ്ഞെടുക്കുക, തുടർന്ന് ഈ ആപ്ലിക്കേഷൻ തിരഞ്ഞെടുക്കുക."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "സാമഗ്രിയിലേയ്ക്ക് ബന്ധിപ്പിക്കാനാകുന്നില്ല. നെറ്റ്‌വര്‍ക്ക് അവസ്ഥയും ബന്ധിപ്പിച്ച സാമഗ്രിയും പരിശോധിക്കുക"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "വ്യക്തിഗത സ്റ്റോറേജ്"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "വ്യക്തിഗത ഉള്ളടക്കം"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "ഡൌണ്‍ലോഡ് ആരംഭിക്കുന്നു..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "ആരംഭിക്കുക"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d ഇനങ്ങള്‍"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 ഇനം"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "പ്രിയങ്കരങ്ങളായി ചിത്രങ്ങള്‍ ടാഗുചെയ്തുകഴിയുമ്പോള്‍, ചിത്രങ്ങള്‍ പ്രദര്‍ശിപ്പിക്കപ്പെടും."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "നിങ്ങളുടെ വ്യക്തിഗത സംഭരണം ചേർക്കുക"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "നിങ്ങളുടെ വ്യക്തിഗത സംഭരണത്തിൽ നിന്ന് നീക്കംചെയ്യുക"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "ചിത്രങ്ങളോ വിഡിയോകളോ എടുക്കാന്‍ ഇവിടെ ടാപ്പുചെയ്യുക."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "ലൊക്കേഷന്‍ ടാഗുകള്‍ ഉപയോഗിച്ച് ചിത്രങ്ങള്‍ എടുക്കാന്‍ ഇവിടെ ടാപ്പുചെയ്യുക (GPS ഓണ്‍‌ചെയ്തു)."
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "ചിത്രങ്ങള്‍ എടുക്കുന്നതിനും ആളുകളെ ടാഗുചെയ്യുന്നതിനും ഇവിടെ ടാപ്പുചെയ്യുക."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "നെറ്റ്‌വര്‍ക്ക് കണക്ഷന്‍ ഇല്ല"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi കണക്ഷന്‍ ആവശ്യമാണ്. Wi-Fi നെറ്റ്‌വര്‍ക്കിലേക്ക് ബന്ധിപ്പിച്ച് വീണ്ടും ശ്രമിക്കുക."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "മൊബൈല്‍ ഡാറ്റാ അപ്രാപ്തമാക്കി. പകരം Wi-Fi നെറ്റ്‌വര്‍ക്കിലേക്ക് ബന്ധിപ്പിക്കുക, അല്ലെങ്കില്‍ മൊബൈല്‍ ഡാറ്റാ പ്രാപ്തമാക്കി വീണ്ടും ശ്രമിക്കുക."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "പിന്തുണയ്ക്കാത്ത ഫയല്‍."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "സൗണ്ട് & ഷോട്ട് ചിത്രങ്ങള്‍ പങ്കിടുക"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "വീഡിയോ ഫയലുകളായി"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "ചിത്ര ഫയലുകളായി"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "തിരഞ്ഞെടുത്ത ഇനം %s-ലേക്ക് നീക്കപ്പെടും."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "തിരഞ്ഞെടുത്ത ഇനങ്ങൾ %s-ലേക്ക് നീക്കപ്പെടും."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "നീക്കംചെയ്യുന്നു..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "ചേര്‍ക്കുന്നു..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "വ്യക്തിഗത സംഭരണത്തിലെ ഇനങ്ങൾ ഉൾപ്പെടുന്ന ഉള്ളടക്കം നിങ്ങൾ സൃഷ്ടിക്കുകയാണെങ്കിൽ, അവ ഓട്ടോമാറ്റിക്കായി മറയ്ക്കപ്പെടണമെന്നില്ല. പുതിയ ഉള്ളടക്കം കാണുന്ന സമയത്ത് തിരഞ്ഞെടുത്ത വ്യക്തിഗത ഉള്ളടക്കവും കാണാൻ സാധിക്കും."
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "ഫോട്ടോ ലോഡ് ചെയ്യാനാവുന്നില്ല."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "ചിതങ്ങളെടുക്കുന്നതിന് ഇവിടെ ടാപ്പുചെയ്യുക."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "നിങ്ങള്‍ ചിത്രങ്ങള്‍ എടുക്കുകയും അവയിലെ ആളുകളെ ടാഗുചെയ്യുകയും ചെയ്താല്‍ ഈ ചിത്രങ്ങള്‍ ഇവിടെ കാണിക്കപ്പെടും."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "ഇഴച്ചിടുക"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "സാധാരണ സംഭരണത്തിലേക്ക് നീക്കുക"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "വ്യക്തിഗത സംഭരണത്തിലേക്ക് നീക്കുക"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "ആല്‍ബങ്ങള്‍"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "മുഖം തിരിച്ചറിയുന്നു..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ഇനം തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ഇനങ്ങള്‍ തിരഞ്ഞെടുക്കുക"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "പ്രമാണങ്ങള്‍"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "ഭക്ഷണം"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "വളര്‍ത്തുമൃഗങ്ങള്‍"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "സീനറി"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "വാഹനങ്ങൾ"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "പുതിയ സ്ഥാനം"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "ഇവന്‍റ്"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "പൂവുകള്‍"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "ബന്ധിപ്പിച്ച ഉപകരണങ്ങൾ"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "വിഭാഗം മാറ്റുക"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "ഇവന്‍റ് സൃഷ്ടിക്കുക"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "ഇവന്‍റിൽ നിന്ന് നീക്കംചെയ്യുക"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "ഇവന്‍റിലേക്ക് ചേർക്കുക"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "ഇവന്‍റ് സൃഷ്ടിച്ചു."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "ഇതനുസരിച്ച് ഫിൽറ്റർ ചെയ്യുക"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "ഇതിലേക്ക് പകര്‍‌ത്തുക"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "ഇതിലേയ്ക്ക് നീക്കുക"
+
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "നിങ്ങൾ ചിത്രങ്ങൾ എടുത്തുകഴിഞ്ഞാൽ, അവയെ ഇവിടെ കാണിക്കും."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "ഫയൽ കേടാണ് അല്ലെങ്കിൽ പിന്തുണയ്ക്കാത്ത ഫോർമാറ്റിൽ."
+

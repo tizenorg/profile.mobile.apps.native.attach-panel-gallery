@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Viltu eyða %d albúmum?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Staðir"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Bæta við heimaskjá"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Merki"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Öll albúm"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook vefalbúm"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa vefalbúm"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Nálæg tæki"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Síðustu %d mánuðir"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Niðurhal"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Ekki er nægt minni. Eyðið nokkrum atriðum."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Niðurhalinu er lokið."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albúm"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Eftirlæti"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Skrá"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Hleð..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Velja skrár"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Tafla"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seúl"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Heimaskjár"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Lásskjár"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Númerabirting"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Velja"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Velja"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Nýtt albúm"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Engar möppur"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Velja merki."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Heitið er þegar í notkun."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Merkjaheitið er þegar í notkun. Viltu skrifa yfir það?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Vinna í bakgrunni"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Mistókst að endurnefna. Heitið er þegar í notkun."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Tómt albúmsheiti."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Sláðu inn heiti fyrir merkið."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Undirbý SD-kort..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Ekki er hægt að ræsa þegar USB-geymslustilling er virk."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Búa til albúm"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Öllum gögnum sem tengjast áskriftinni verður eytt. Viltu halda áfram?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Prenta með Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Mistókst að breyta heiti."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Ekkert heiti"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Engar plötur valdar."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Engin merki valin."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Veldu tæki"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Skráaflutningur"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Lokið."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Hleð upp albúmum..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Velja reikning"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Velja hlut"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Velja albúm"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Annað niðurhal er í gangi. Augnablik."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Flytja inn"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Flutt inn."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Verið að flytja inn..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Margmiðlunarefni"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Er þegar til. Viltu skrifa yfir?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Reyna aftur"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Þetta heiti er þegar í notkun."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Hleður. Andartak..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Færsla er tóm."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Ógild ílagsfæribreyta."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Búa til"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Bæta við vefalbúmi"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Birta"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Á að fjarlægja?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Á að búa til möppu?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Óúthlutað"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Ómerkt"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Engin merki"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Prenta"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Snúið til vinstri"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Snúið til hægri"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Fólk"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Tími milli mynda"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 sekúndur"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 sekúndur"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 sekúndur"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Merkingar þínar"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Síðustu 30 dagar"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Síðustu sjö dagar"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Notaðu ýmsar síur við leitina."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Andlitsmerking"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Skyggnur"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Eyða merki"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Heiti plötu"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Engin skrá valin. Veldu skrá til að senda og reyndu aftur."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Þegar þú hefur tekið myndir með kveikt á GPS verða myndirnar þínar birtar."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Stillingar"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albúm"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Skyggnusýning"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Stillingar skyggnusýningar"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Birta eftir"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Velja hluti"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Hefja skyggnusýningu"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Efni í Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Allt efni"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Efni í Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Efni til að birta"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Efni tækis"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox-efni"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Tímalína"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Sýna nálæg tæki"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Fela nálæg tæki"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Viltu afrita eða færa myndir úr upprunalega albúminu?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Leynd"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "Einu albúmi verður eytt."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albúmum verður eytt."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Breyta mynd"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Samnýta"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Snýr..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Ekkert fannst."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Reikningur"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Leita að nálægum tækjum"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Á heimaskjá"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook-efni"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Allir hlutir"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 hlut verður eytt."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d hlutum verður eytt."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Merkjavinur"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d sekúndur"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Leit hafin. Tækjalistinn verður uppfærður sjálfkrafa."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Engin tæki fundust. Leit að nálægum tækjum mun halda áfram í bakgrunni."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Nálæg tæki fundust."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d valið"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Engin andlit greindust."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d andlit greind."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "Eitt andlit greindist."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Farið fram yfir hámarksfjölda mynda (%d)."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Velja mynd"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Bæta við nafni"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Fólk"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Hætta við"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Ekki spyrja aftur"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Veldu myndir og pikkaðu síðan á %s til að setja þær í albúm."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Opna %s gallerí."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Sýna falin atriði"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Falin atriði"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Sýna atriði"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Fjarlægt."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Gallerí"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Myndir og myndskeið skoðuð"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Myndir skoðaðar"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Veldu albúm og veldu svo mynd."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Flettu til vinstri eða hægri til að skoða fleiri myndir."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Breyta aðdrætti myndar."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Andlitsmerking"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Þú getur merkt fólk á myndunum þínum. Þegar þú pikkar á andlit þeirra og bætir nafni við (eins og það birtist í tengiliðum) færðu upp lista yfir aðferðir til að hafa beint samband við viðkomandi."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Ef eftirfarandi skilyrði eru uppfyllt þegar þú tekur myndir verða upplýsingar á borð við staðsetningu, dagsetningu, nöfn fólks eða veður birtar í stutta stund þegar myndirnar eru skoðaðar:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Veðurgræjan var endurnýjuð fyrir/eftir myndatöku."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Kveikt er á GPS-merkingu í myndavél áður en myndir eru teknar."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Fólk var merkt á myndum eftir myndatöku."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Myndum breytt"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Veldu möppu og veldu svo mynd."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Hægt er velja allt að %d hluti."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Staðfesta sem %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Gefa nafn"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Kennslu lokið."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Veldu albúm."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Veldu mynd."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Veldu nafn tengiliðarins."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Búa til sögualbúm"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Pikkaðu á %s breytingatáknið til að breyta myndinni."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Uppfært."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Veður"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Staður"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Einkasíða"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Aðeins eitt albúm."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Dragðu hingað."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Setja á heimaskjá"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Bláir kassar merkja andlit sem tækið hefur greint. Pikkaðu á einn þeirra til að velja þann einstakling."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Myndir og myndskeið skoðuð."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Spilarinn er ekki tiltækur. Kannaðu sambandið og tækið sem er tengt."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "Slökkt er á %1$s í þessu forriti. Til að gera þennan eiginleika virkan skaltu fara í %2$s, velja eiginleikann og velja svo þetta forrit."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Ekki var hægt að tengjast tækinu. Athugaðu stöðu netsins og tengda tækið"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Einkageymsla"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Einkaefni"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Hef niðurhal..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Ræsa"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d hlutir"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 hlutur"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Myndir birtast eftir að þær hafa verið merktar sem uppáhald."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Setja í einkageymslu"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Fjarlægja úr einkageymslu"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Pikkaðu hér til að taka myndir eða myndskeið."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Pikkaðu hér til að taka myndir með staðsetningarmerkjum (kveikt á GPS)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Pikkaðu hér til að taka myndir og merkja fólk."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Ekkert netsamband"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi tenging nauðsynleg. Tengdu við Wi-Fi netkerfi og reyndu aftur."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Slökkt á farsímagögnum. Tengdu við Wi-Fit net í staðinn, eða kveiktu á farsímagögnum og reyndu aftur."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Óstudd skrá."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Deila hljóðum og myndum"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Sem myndskeiðaskrám"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Sem myndaskrám"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Valið atriði verður fært í %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Valin atriði verða færð í %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Verið er að fjarlægja..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Verið er að bæta við..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Ef þú býrð til efni sem inniheldur atriði úr einkageymslu er ekki víst að nýja efnið verði falið sjálfkrafa. Valið persónulegt efni gæti sést þegar nýja efnið er skoðað."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Skúffa"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Mistókst að hlaða mynd."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Pikkaðu hér til að taka myndir."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Myndir birtast hér eftir að þú tekur þær og merkir fólk á þeim."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Dragðu og slepptu"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Færa í venjulega geymslu"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Færa í einkageymslu"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albúm"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Ber kennsl á andlit..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "VELJA ATRIÐI"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "VELJA ATRIÐI"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Staðsetningarmerki"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Skjöl"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Matur"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Gæludýr"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Landslag"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Ökutæki"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Engin staðsetning"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Síur"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Atburður"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Blóm"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Tengd tæki"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Breyta flokki"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Búa til viðburð"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Fjarlægja úr viðburði"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Bæta við viðburð"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Viðburður búinn til."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Sía eftir"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Afrita í"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Færa í"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Ekki er hægt að senda"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Pikkaðu á %s og svo á flokk undir „Sía eftir“."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Myndir verða síaðar eftir flokknum sem þú valdir."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Viðburður: Síar myndirnar eftir dagsetningu og staðsetningu."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Fólk, útsýni, matur, gæludýr, ökutæki, skjöl og blóm: Síar myndir með því að greina af hverju þær eru."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Pikkaðu á skúffuvalmyndarhnappinn og svo á flokk undir „Sía eftir“."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Pikkaðu tvisvar til að opna skúffuvalmyndina."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Pikkaðu tvisvar til að loka skúffuvalmyndinni."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Persónulegt efni"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Færa í einkamál"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Fjarlægja úr einkamálum"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Einkageymsla"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Síðasta ár"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Fyrir %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Hámarksfjölda atriða sem hægt er að deila (%d) hefur verið náð."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Birti %d atriði"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Raða eftir nýjasta"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Raða eftir elsta"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Viltu eyða %d hlutum?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Persónumerki"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Haltu fingri á dagsetningavísinum efst til hægri á skjánum til að fletta upp á öðrum dagsetningum á fljótlegan hátt."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d myndum bætt við"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Bæta við myndum frá"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Stokkaðar myndir"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Setja inn myndir"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Engir viðburðir til að birta. Búðu til nýjan viðburð."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Eyða atriðum"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Mynd skoðuð"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Pikkaðu á myndina sem þú vilt skoða."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Skoðaðu myndina þína."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Pikkaðu hnappinn fyrir fleiri valkosti og svo á „Velja“ til að nota myndina sem veggfóður eða tengiliðamynd."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Snertu skjáinn og færðu fingur sundur eða saman á myndinni til að minnka eða auka aðdrátt á hana."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Stærð smámynda breytt"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Fjöldi smámynda sem sést á skjánum breytist þegar stærð þeirra er breytt."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Smámynd er lítið sýnishorn stærri myndar."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Albúm skoðuð"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Pikkaðu á %s og svo á „Albúm“."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Pikkaðu á albúm og pikkaðu svo á myndina eða myndskeiðið sem þú ætlar að skoða."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Pikkaðu á %s efst á skjánum."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Mynd deilt"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Mörgum myndum deilt"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Veldu margar myndir til að eyða í einu."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Veldu margar myndir til að deila í einu."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Pikkaðu á %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Haltu utan um og njóttu myndanna og myndskeiðanna þinna."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Myndir síaðar"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Mynd eytt"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Mörgum myndum eytt"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Myndum deilt"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Myndum eytt"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Aftengt"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Aftengt frá %s. Athugaðu stöðu nettengingarinnar og tengda tækið."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Viltu eyða þessu albúmi?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Viltu eyða þessu atriði?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Útlit"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d myndir"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Ýttu á valmyndartakkann og veldu svo „Velja atriði“."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Pikkaðu á %s og svo á „Velja“ til að nota myndina sem veggfóður eða tengiliðamynd."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 niðurstaða"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d niðurstöður"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Lárétt stilling"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Stúdíó"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Engin atriði til birtingar."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Eyða atriði"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Nafnlaust"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Ekki í hóp"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Fjarlægja nafnmerkingu"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Fjarlægja úr %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Nýtt"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Hætt verður við albúmið."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Fjarlægja andlitsgreiningu?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Fjarlægja atriði"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Fjarlægja atriði"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Fjarlægja %d hluti?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Viltu fjarlægja þetta atriði?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "LOKIÐ"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "HÆTTA VIÐ"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Myndir birtast hér eftir að þær eru teknar."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Skrá skemmd eða á óstuddu sniði."
+

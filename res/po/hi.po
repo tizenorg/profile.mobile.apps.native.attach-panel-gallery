@@ -1,0 +1,645 @@
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "स्थान"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "होम में जोड़े"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "टैग्‍स"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "सभी एलबम्‍स"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "फ़ेसबुक वेब एल्बम"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "पिकासा वेब एल्बम"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "निकटवर्ती डिवाइसें"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "डाउनलोड्स"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "पर्याप्त मेमोरी नहीं। कुछ मदें हटाएँ।"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "डाउनलोड पूर्ण।"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "एल्बम"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "पसंदीदा"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "साइन अप"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "लोड हो रहा है..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "फ़ाइलें चुनें"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "ग्रिड दृश्य"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "सियोल"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "फ्लिकर"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "होम स्क्रीन"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "लॉक स्क्रीन"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "कॉलर ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "चुनें"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "सेट करें"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "नयी एल्बम"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "कोई एल्बम नहीं"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "टैग्स चुनें"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "एल्बम नाम पहले से उपयोग में।"
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "टैग नाम पहले से उपयोग में है। बदलें?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "पृष्ठभूमि में प्रक्रिया करें"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "पुनर्नामित करने में अक्षम। एल्बम नाम पहले से उपयोग में।"
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "खाली एल्बम नाम।"
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "टैग नाम प्रविष्ट करें"
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD कार्ड तैयार हो रहा है..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "USB स्टोरेज मोड सक्रिय होने के दौरान प्रारंभ करने में असमर्थ।"
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "एल्बम बनाएँ"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "इस खाते से संबंधित सभी डाटा हटाया जाएगा। जारी रखें?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "ब्लूटूथ द्वारा प्रिंट करें"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "नाम बदलने में अक्षम।"
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "नाम नहीं"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "कोई एल्बम चुना नहीं गया।"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "कोई टैग्स चुने नहीं।"
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "डिवाइस चुनें"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "फाइल स्थानांतरण"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "पूर्ण।"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "एल्बम्स लोड किए जा रहे हैं..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "खाता चुनें"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "मद चुनें"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "एल्बम चुनें"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "अन्य डाउनलोड प्रगति पर है। कृपया प्रतीक्षा करें"
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "आयात करें"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "आयात किया हुआ।"
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "आयात कर रहा है..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "मीडिया"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "पहले से मौजूद है। ओवरराइट करें?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "पुनः प्रयास करें?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "ऐसा ही नाम पहले से उपयोग में है।"
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "लोड हो रहा है। कृपया प्रतीक्षा करें..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "प्रविष्टि खाली है"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "अमान्य इनपुट पैरामीटर।"
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "टैग बनाएँ"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "वेब एल्बम जोड़ें"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "देखें"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "हटायें?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "फोल्डर बनाएं?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "सौंपा नहीं गया"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "टैग नहीं किया गया"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "कोई टैग्स नहीं"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "प्रिंट करें"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "बाएँ घुमाएँ"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "दाएँ घुमाएँ"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "लोग"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "चेहरा टैगिंग"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "स्लाइड शो"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "टैग हटाएँ"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "एल्बम का नाम"
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "आपके द्वारा GPS चालू होने के साथ तस्वीर लेने के बाद, आपकी तस्वीरें दिखाई जाएँगी"
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "सेटिंग्स"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "एल्बम्स"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "स्लाइड शो"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "स्लाइडशो सेटिंग्स"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "द्वारा देखें"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "मद चुनें"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "स्लाइडशो प्रारंभ करें"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "ड्रॉपबॉक्स में सामग्री"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "सभी सामग्री"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "ड्रॉपबॉक्स में सामग्री"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "प्रदर्शन के लिए सामग्री"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "डिवाइस सामग्री"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "ड्रॉपबॉक्स सामग्री"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "समयरेखा"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "नि‍कटवर्ती डिवाइस दिखाएँ"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "निकटवर्ती डिवाइस छिपाएँ"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "क्या आप मूल एल्बम से तस्वीरों की कॉपी करना या उन्हें ले जाना चाहते हैं?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "गोपनीयता"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 एल्बम हटाया जाएगा।"
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d एल्बम्स हटाए जाएँगे।"
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "छवि संपादित करें"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "साझा करें"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "घुमाया जा रहा है..."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "खाता"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "निकटवर्ती डिवाइसों के लिए स्कैन करें"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "होम में जोड़े"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "फ़ेसबुक सामग्री"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "सभी मदें"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 मद हटाया जाएगा।"
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d मदें हटाई जाएँगी।"
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "टैग मित्र"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "स्कैन प्रारंभ की गई। डिवाइस सूची स्वचालित रूप से अपडेट की जाएगी।"
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "कोई डिवाइस नहीं मिला। बैकग्राउंड में निकटवर्ती डिवाइस की स्कैन जारी रहेगी।"
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "निकटवर्ती डिवाइस मिलें।"
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d चयनित"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "कोई चेहरा पहचाना नहीं गया।"
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d चेहरें पहचाने गए।"
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 चेहरा पहचाना गया।"
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "तस्वीरों की अधिकतम संख्या (%d) पार कर गया।"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "नाम जोड़ें"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "लोग"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "रद्द करें"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "दोबारा न पूछें"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "तस्वीरें चुनें, फिर उन्हें किसी एल्बम में जोड़ने हेतु %s टैप करें।"
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "%s गैलरी खोलें।"
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "छिपी हुई मदें दिखाएँ"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "छिपी हुई मदें"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "मदें दिखाएँ"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "हटाया।"
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "गैलरी"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "तस्वीरें और वीडियो देखना"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "तस्वीरें देखना"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "कोई एल्बम चुनें, फिर कोई तस्वीर चुनें।"
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "अधिक तस्वीरें देखने के लिए, बाएँ या दाएँ स्क्रॉल करें।"
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "किसी तस्वीर को जूम इन या आउट करें।"
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "चेहरा टैगिंग"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "आप अपनी तस्वीरों में लोगों को टैग कर सकते हैं। जब आप उनके चेहरे पर टैप करते हैं और उनके नाम (जैसे वे संपर्कों में दिखते हैं) जोड़ते है, तो आपको उनसे सीधे संपर्क करने की विधियों की एक सूची की पेशकश की जाएगी।"
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "यदि आपके द्वारा तस्वीर, जानकारी जैसे कि स्थान, तिथि, लोगों के नाम या मौसम लेते समय निम्न शर्तें पूरी होती हैं, तो तस्वीर देखते हुए ये संक्षेप में दिखाई जाएगी:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "तस्वीर लेने से पहले/के बाद मौसम विज़ेट रीफ्रेश किया गया है।"
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "तस्वीरें लेने से पहले कैमरे में GPS टैग सक्षम है।"
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "तस्वीर लेने के बाद लोग तस्वीरों में टैग किए गए हैं।"
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "तस्वीरें संपादित करें"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "फोल्डर चयन करें, फिर तस्वीर चयन करें।"
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "आप %d मद तक चुन सकते हैं"
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "%s के रूप में पुष्टि करें"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "नाम सौंपें"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "शिक्षण पूर्ण।"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "एल्बम का चयन करें।"
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "तस्वीर चुनें।"
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "संपर्क का नाम चुनें।"
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "कोई स्टोरी एल्बम बनाएँ"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "तस्वीर संपादित करने हेतु %s संपादन प्रतीक पर टैप करें।"
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "रिफ़्रेश किया गया।"
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "मौसम"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "स्थान"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "व्यक्तिगत पेज"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "यहाँ केवल एक एल्बम है"
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "यहाँ खींचें।"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "होम स्क्रीन पर जोड़े"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "नीले बॉक्सेज़ ऐसे चेहरों को इंगित करते हैं जिन्हें डिवाइस ने पहचान लिया है। उस व्यक्ति को चुनने के लिए एक टैप करें।"
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "तस्वीर और वीडियो देखें।"
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "प्लेयर उपलब्ध नही है। नेटवर्क स्थिति और कनेक्ट किए डिवाइस जाँचें।"
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "इस एप्लीकेशन में %1$s अक्षम है। यह फ़ंक्शन सक्षम करने के लिए %2$s पर जाएँ, यह फ़ंक्शन चुनें और फिर यह एप्लीकेशन चुनें।"
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "डिवाइस से कनेक्ट करने में अक्षम। नेटवर्क स्थिति और कनेक्ट किए गए डिवाइस की जाँच करें।"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "व्यक्तिगत स्टोरेज"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "व्यक्तिगत सामग्री"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "डाउनलोड प्रारंभ कर रहा है..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "प्रारंभ करें"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d मदें"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 मद"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "आपके द्वारा तस्वीरें आपके पसंदीदा के रूप में टैग करने के बाद, तस्वीरें दिखाई जाएँगी।"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "अपने निजी स्टोरेज में जोड़ें"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "अपने निजी स्टोरेज से निकालें"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "तस्वीरें और वीडियों लेने के लिए टैप करें।"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "स्थान टैग्स के साथ तस्वीरें लेने के लिए यहाँ टैप करें (GPS चालू है)।"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "तस्वीरें लेने और लोग टैग करने के लिए यहाँ टैप करें।"
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "कोई नेटवर्क कनेक्शन नहीं"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi कनेक्‍शन आवश्‍यक है। Wi-Fi नेटवर्क से कनेक्ट करें और फिर से प्रयास करें।"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "मोबाइल डाटा अक्षम है। इसके बजाय Wi-Fi नेटवर्क से कनेक्ट करें, या मोबाइल डाटा सक्षम करें और फिर से प्रयास करें।"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "असमर्थित फाइल।"
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "ध्वनि व शॉट तस्वीर साझा करें"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "वीडियो फाइलों के रूप में"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "छवि फाइलों के रूप में"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "चुनी हुई मद %s में ले जाई जाएँगी"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "चुनी हुई मदें %s में ले जाई जाएँगी"
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "हटा रहा है..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "जोड़ रहा है..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "यदि आप कोर्इ ऐसी सामग्री बनाते हैं जिसमें व्यक्तिगत स्टोरेज की मदें शामिल हैं, तो हो सकता है यह स्वचालित रूप से छुपाई न जाएँ। नई सामग्री देखते समय चयनित व्यक्तिगत सामग्री देखी जा सकती है।"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "फोटो लोड करने में अक्षम।"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "तस्वीरें लेने के लिए यहाँ टैप करें।"
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "आपके द्वारा तस्वीरें लेने और लोगों को उनमें टैग करने के बाद, वे तस्वीरें यहाँ दिखाई जाएंगी।"
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "ड्रैग और ड्रॉप करें"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "सामान्य स्टोरेज में ले जाएँ"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "व्यक्तिगत स्टोरेज में ले जाएँ"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "एल्बम्स"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "चेहरा पहचान रहा है..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "मद चुनें"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "मदें चयन करें"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "दस्तावेज"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "खाना"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "पालतू पशु"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "दृश्य"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "वाहन"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "स्थान नहीं"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "प्रसंग"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "फूल"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "जोड़े गए डिवाइस"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "श्रेणी बदलें"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "प्रसंग बनाएँ"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "प्रसंग से हटाएँ"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "प्रसंग में जोड़ें"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "प्रसंग बनाया गया।"
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "इससे फिल्टर करें"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "में कॉपी करें"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "पर ले जाएँ"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "पूर्ण"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "रद्द करें"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "आपके द्वारा तस्वीरें लेने के बाद वे यहाँ दिखाई जाएँगी।"
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "फाइल दूषित है या असमर्थित फॉर्मेट में है।"
+

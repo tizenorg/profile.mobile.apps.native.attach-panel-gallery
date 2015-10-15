@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Scrios %d albam?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Áiteanna"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Cuir le baile"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Clibeanna"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Gach albam"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Albam Gréasáin Facebook"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Albam Gréasáin Picasa"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Gléasanna in aice láimhe"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "%d mí roimhe"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Ioslódálacha"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Easpa cuimhne. Scrios roinnt míreanna."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Íoslódáilte."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albaim"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Ceanáin"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Sínigh suas"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Ag lódáil..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Roghnaigh comhaid"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Amharc greille"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Súl"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Scáileán baile"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Glasáil an scáileán"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "ID glaoiteora"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Roghnaigh"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Socraigh"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Albam nua"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Níl albaim ann"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Roghnaigh clibeanna"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Ainm albaim in úsáid cheana."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Tá ainm na clibe in úsáid cheana. Forscríobh?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Próiseáil sa chúlra"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Ní féidir athainmniú. Ainm an albaim in úsáid cheana."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Ainm an albaim folamh."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Iontráil ainm clibe"
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Cárta SD á ullmhú..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Ní féidir tosú agus mód stórála USB ar siúl."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Déan albam"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Scriosfar gach sonra a bhaineann leis an gcuntas seo. Ar aghaidh?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Priontáil le Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Ní féidir athainmniú."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Níl ainm ann"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Níor roghnaíodh albam."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Níl clib roghnaithe."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Roghnaigh gléas"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Aistriú comhaid"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Curtha i gcrích."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Albaim á lódáil..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Roghnaigh cuntas"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Roghnaigh mír"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Roghnaigh albam"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Tá íoslódáil eile ar bun. Fan go fóill."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Iompórtáil"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Iompórtáilte."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Ag iompórtáil..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Meáin"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Ann cheana. Forscríobh?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Atriail?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Ainm céanna in úsáid cheana."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Ag lódáil. Fan go fóill..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Tá an iontráil folamh"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Paraiméadar ionchuir neamhbhailí."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Déan clib"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Cuir albam Gréasáin leis"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Amharc air"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Bain?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Déan fillteán?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Neamhsannta"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Neamhchlibeáilte"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Níl clibeanna ann"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Priontáil"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Rothlaigh ar chlé"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Rothlaigh ar dheis"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Daoine"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Eatramh taispeántais sleamhnán"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 shoicind"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 shoicind"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 soicind"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Do chuid clibeanna"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "30 lá anuas"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "7 lá anuas"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Cuir scagairí éagsúla le do chuardaigh"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Clibeáil aghaidhe"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Sleamhnán"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Scrios clib"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Ainm an albaim"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Níor roghnaíodh comhad. Roghnaigh comhad le seoladh agus triail arís."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Tar éis duit pictiúir a thógáil agus GPS casta air, taispeánfar do phictiúir"
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Socruithe"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albaim"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Taispeántas sleamhnán"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Socruithe taispeántais sleamhnán"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Amharc de réir"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Roghnaigh míreanna"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Tosaigh ar thaispeántas sleamhnán"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Inneachar in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Gach inneachar"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Inneachar in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Inneachar le taispeáint"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Inneachar an ghléis"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Inneachar Dropbox"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Amlíne"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Taispeáin gléasanna in aice láimhe"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Folaigh gléasanna in aice láimhe"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "An mian leat na pictiúir a chóipeáil nó a bhogadh ón albam bunaidh?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Príobháideacht"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "Scriosfar 1 albam"
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "Scriosfar %d albam"
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Cuir íomhá in eagar"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Comhroinn"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Ag rothlú..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Níor aimsíodh torthaí."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Cuntas"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Scan le haghaidh gléasanna in aice láimhe"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Cuir le baile"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Inneachar Facebook"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Gach mír"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "Scriosfar 1 mhír"
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "Scriosfar %d mír"
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Clibeáil Cara"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d soicind"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Scanadh tosaithe. Nuashonrófar an liosta gléasanna go huathoibríoch."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Níor aimsíodh gléasanna. Leanfar le scanadh sa chúlra le haghaidh gléasanna in aice láimhe."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Aimsíodh gléasanna in aice láimhe."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d roghnaithe"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Níor braitheadh aghaidheanna."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d aghaidh braite."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 aghaidh braite."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Uaslíon na bpictiúr (%d) sáraithe."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Roghnaigh pictiúr"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Cuir ainm leis"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Daoine"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Cuir ar ceal"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Ná hiarr arís"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Roghnaigh pictiúir, ansin tapáil %s lena gcur le halbam."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Oscail %s Gailearaí."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Taispeáin míreanna folaithe"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Míreanna folaithe"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Taispeáin míreanna"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Bainte."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Gailearaí"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Amharc ar phictiúir agus ar fhíseáin"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Amharc ar phictiúir"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Roghnaigh albam, ansin roghnaigh pictiúr."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Scrollaigh ar chlé nó ar dheis le hamharc ar thuilleadh pictiúr."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Zúmáil isteach nó amach ar phictiúr."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Clibeáil aghaidhe"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Is féidir leat daoine a chlibeáil i do phictiúir. Nuair a tapálann tú a gcuid aghaidheanna agus a gcuid ainmneacha a chur leis (de réir mar atá siad i dTeagmhálaithe), tabharfar liosta modhanna duit le dul i dteagmháil leo go díreach."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Má chomhlíontar na coinníollacha seo a leanas nuair a ghlacann tú pictiúir, taispeánfar faisnéis, amhail suíomhanna, dátaí, ainmneacha daoine, nó an aimsir ar feadh tamaillín le linn amharc ar na pictiúir:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Rinneadh athnuachan ar an ngiuirléid aimsire roimh/tar éis pictiúir a ghlacadh."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Cumasaítear clib GPS i gCeamara roimh phictiúir a ghlacadh."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Clibeáladh daoine i bpictiúir tar éis pictiúir a ghlacadh."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Cuir pictiúir in eagar"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Roghnaigh fillteán, ansin roghnaigh pictiúr."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Is féidir leat suas le %d mír a roghnú"
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Deimhnigh mar %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Sann ainm"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Ceacht teagaisc curtha i gcrích."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Albam a roghnú."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Roghnaigh pictiúr."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Roghnaigh ainm an teagmhálaí."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Cruthaigh albam scéil"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Tapáil %s an t-íocón eagarthóireachta leis an bpictiúr a chur in eagar."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Athnuaite."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "An Aimsir"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Suíomh"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Leathanach pearsanta"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Níl ach albam amháin ann"
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Tarraing anseo"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Cuir le scáileán baile"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Léirítear aghaidheanna a d'aithin an gléas le boscaí gorma. Tapáil ceann leis an duine sin a roghnú."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Amharc ar phictiúir agus ar fhíseáin."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Níl Seinnteoir ar fáil. Seiceáil stádas an líonra agus gléas nasctha."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "Tá %1$s díchumasaithe san fheidhmchlár seo. Leis an bhfeidhm seo a chumasú, gabh chuig %2$s, roghnaigh an fheidhm seo, agus ansin roghnaigh an feidhmchlár seo."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Ní féidir nascadh leis an ngléas. Seiceáil stádas an líonra agus an ghléis nasctha"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Stóras pearsanta"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Inneachar pearsanta"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Ag tosú ar íoslódáil..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Tosaigh"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d mír"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 mhír"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Tar éis duit pictiúir a chlibeáil mar do cheanáin, taispeánfar na pictiúir"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Cuir le do stóras pearsanta"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Bain ó do stóras pearsanta"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Tapáil anseo le pictiúir nó le físeáin a ghlacadh"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Tapáil anseo le pictiúir a ghlacadh le clibeanna suímh (GPS casta air)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Tapáil anseo chun pictiúir a ghlacadh agus daoine a chlibeáil"
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Níl nasc líonra ann"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Nasc Wi-Fi de dhíth. Nasc le líonra Wi-Fi agus triail arís."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Tá sonraí móibíleacha díchumasaithe. Nasc le líonra Wi-Fi, nó cumasaigh sonraí móibíleacha agus triail arís é."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Comhad gan tacú."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "C.roinn pic. fuaime & seat"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Mar chomhaid físe"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Mar chomhaid íomhá"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Bogfar an mhír roghnaithe chuig %s"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Bogfar na míreanna roghnaithe chuig %s"
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Ag baint..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Ag cur leis..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Má chruthaíonn tú inneachar lena n-áirítear míreanna ó stóráil phearsanta, is féidir nach bhfolaítear go huathoibríoch é. Is féidir go mbeidh an t-inneachar pearsanta a roghnaíodh infheicthe le linn amharc ar an inneachar nua."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Tarraiceán"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Ní féidir an grianghraf a lódáil."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Tapáil anseo le pictiúir a ghlacadh"
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Tar éis duit pictiúir a ghlacadh agus daoine a chlibeáil iontu, taispeánfar na pictiúir sin anseo."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Tarraing agus scaoil"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Bog chuig gnáthstóras"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Bog chuig stóras pearsanta"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albaim"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Aghaidh á aithint..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ROGHNAIGH MÍR"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ROGHNAIGH MÍREANNA"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Clibeanna suímh"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Doiciméid"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Bia"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Peataí"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Radharcra"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Feithiclí"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Níl suíomh ann"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Scagairí"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Imeacht"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Bláthanna"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Gléasanna nasctha"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Athraigh an chatagóir"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Cruthaigh imeacht"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Bain ón imeacht"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Cuir le himeacht"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Imeacht cruthaithe."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Scag de réir"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Cóipeáil chuig"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Bog chuig"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Léaschóipeáil dodhéanta"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Tapáil %s, ansin tapáil ceann de na catagóirí atá liostaithe faoi Scag de réir."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Scagfar na pictiúir de réir na catagóire a roghnaíonn tú."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Imeacht: Déantar scagadh ar na pictiúir de réir dáta agus suímh."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Daoine, Radharcra, Bia, Peataí, Feithiclí, Doiciméid, agus Bláthanna: Scag na pictiúir trí anailís a dhéanamh ar an inneachar."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Tapáil an cnaipe Roghchlár tarraiceáin, ansin tapáil ceann de na catagóirí atá liostaithe faoi Scag de réir."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Déthapáil leis an roghchlár tarraiceáin a oscailt."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Déthapáil leis an roghchlár tarraiceáin a dhúnadh."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Inneachar príobháideach"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Bog chuig Príobháideach"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Bain ó Phríobháideach"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Stóras príobháideach"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Anuraidh"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Roimh %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Uaslíon na míreanna is féidir iad a chomhroinnt (%d) bainte amach."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "%d mír á dtaispeáint"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Sórtáil de réir na gceann is déanaí"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Sórtáil de réir na gceann is sine"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Scrios míreanna %d?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Clibeanna daoine"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Le scrollú go tapa chuig dátaí eile, tapáil agus coinnigh an táscaire dáta ar bharr ar dheis an scáileáin ."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "Cuireadh %d pictiúr leis"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Cuir pictiúir leis ó"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Pictiúir shuaite"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Cuir pictiúir leis"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Níl imeachtaí ann le taispeáint. Cruthaigh imeacht nua."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Scrios míreanna"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Amharc ar phictiúr"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Tapáil an pictiúr ar mian leat amharc air."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Amharc ar do phictiúir."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Tapáil an cnaipe Tuilleadh roghanna, ansin tapáil Socraigh mar leis an íomhá a úsáid mar chúlbhrat nó mar phictiúr teagmhálaí."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Cúngaigh an íomhá nó scar do mhéara óna chéile agus an scáileán á thadhall le zúmáil amach nó isteach."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Mionsamhalacha a athmhéidniú"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Má dhéantar mionsamhlacha a athmhéidniú, athrófar líon na mionsamhlacha a fheicfidh tú ar an scáileán."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Réamhamharc beag ar phictiúr mór atá i mionsamhail."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Amharc ar albaim"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Tapáil %s, ansin tapáil Albam."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Tapáil an t-albam, ansin tapáil an pictiúr nó an físeán ar mian leat amharc air."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Tapáil %s ag barr an scáileáin."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Pictiúr a chomhroinnt"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Ilphictiúir a chomhroinnt"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Roghnaigh ilphictiúir le scriosadh ag an am céanna."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Roghnaigh ilphictiúir le comhroinnt ag an am céanna."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Tapáil %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Bainistigh agus bain taitneamh as do phictiúir agus d'fhíseáin."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Pictiúir a scagadh"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Pictiúr a scriosadh"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Ilphictiúir a scriosadh"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Pictiúir a chomhroinnt"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Pictiúir a scriosadh"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Dínasctha"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Dínasctha ó %s. Seiceáil stádas an líonra agus an gléas nasctha."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Scrios an t-albam seo?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Scrios an mhír seo?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Leagan amach"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "Grianghraif %d"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Brúigh an eochair roghchláir, ansin roghnaigh Roghnaigh míreanna."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Tapáil %s, ansin tapáil Socraigh mar leis an íomhá a úsáid mar chúlbhrat nó mar phictiúr teagmhálaí."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 toradh"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d toradh"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Mód tírdhreacha"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Stiúideo"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Níl aon mhíreanna le taispeáint."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Scrios mír"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Gan ainm"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Neamhghrúpáilte"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Bain clib ainm"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Bain ó %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Nua"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Cuirfear an t-albam ar ceal"
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Bain aithint aghaidhe?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Bain míreanna"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Bain mír"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Bain %d mír?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Bain an mhír seo?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "DÉANTA"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "CUIR AR CEAL"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Tar éis duit pictiúir a ghlacadh, taispeánfar anseo iad."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Tá an comhad truaillithe nó i bhformáid gan tacú."
+

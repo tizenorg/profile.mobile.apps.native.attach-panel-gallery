@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Kas kustutada %d albumit?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Kohad"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Lisa avaekraanile"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Sildid"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Kõik albumid"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebooki veebialbum"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa veebialbum"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Läh. asuvad sead."
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "%d kuu pärast"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Allalaet. failid"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Mälu pole piisavalt. Kustutage mõned üksused"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Allalaadimine lõpetatud."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albumid"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Lemmikud"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Registreeru"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Laadimine..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Vali failid"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Tabelvaade"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Soul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Avaleht"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Lukustusekraan"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Helistaja ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Vali"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Määra"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Uus album"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Albumid puuduvad"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Vali silte."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Albumi nimi juba kasutusel."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Sildi nimi on juba kasutusel. Kas kirjutada üle?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Töötle taustal"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Ei saa umber nimetada. Albumi nimi on juba kasutusel."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Tühi albumi nimi."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Sisestage sildi nimi."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD-kaardi ettevalmistamine..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Ei saa käivitada, kui USB-mälurežiim on aktiivne."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Loo album"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Kõik selle kontoga seotud andmed kustutatakse. Kas jätkata?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Prindi Bluetoothi kaudu"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Ei saa ümber nimetada."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Nimi puudub"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Ühtegi albumit pole valitud."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Silte ei ole valitud."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Vali seade"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Faili edastamine"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Lõpule viidud."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Albumite laadimine..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Vali konto"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Vali üksus"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Valige album"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Teine allalaadimine on pooleli. Palun oodake."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Import"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Imporditud."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Importimine..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Meedia (Telefon)"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "On juba olemas. Kas kirjutada üle?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Proovi uuesti?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "See nimi on juba kasutusel."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Laadimine. Palun oodake..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Kirje on tuhi."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Vigane sisestusparameeter."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Loo silt"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Lisa veebialbum"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Kuva"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Eemaldada?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Kas luua kaust?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Pole määratud"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Sildistamata"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Silte pole"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Prindi"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Pööra vasakule"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Pööra paremale"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Inimesed"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Slaidiseansi intervall"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 sekundit"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 sekundit"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 sekundit"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Teie sildid"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Viimased 30 päeva"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Viimased 7 päeva"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Rakendage oma otsingutele erinevaid filtreid."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Näomärgistus"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Slaidis."
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Kustuta silt"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Albumi nimi"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Ühtegi faili pole valitud. Valige saatmiseks fail ja proovige uuesti."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Parast piltide tegemist sisselulitatud GPS-iga kuvatakse teie pildid."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Seaded"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albumid"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Slaidiseanss"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Slaidiseansi seaded"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Kuvaviis"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Vali üksusi"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Käivita slaidiseanss"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Content in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Kogu sisu"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Content in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Sisu, mida kuvada"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Seadme sisu"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropboxi sisu"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Ajaskaala"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Näita lähedalolevaid seadmeid"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Peida lähedalolevad seadmed"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Kas soovite kopeerida või teisaldada originaalalbumis olevad pildid?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Privaatsus"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 album kustutatakse."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albumit kustutatakse."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Muuda pilti"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Jaga"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Pööramine..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Tulemusi ei leitud."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Konto"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Otsi lähedalolevaid seadmeid"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Lisa avaek.-le"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebooki sisu"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Kõik üksused"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 üksus kustutatakse."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d uksust kustutatakse."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Sõbersilt"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d sekundit"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Otsimist alustati. Seadmete loendit värskendatakse automaatselt."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Seadmeid ei leitud. Läheduses olevate seadmete otsimine jätkub taustal."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Lähedalolevaid seadmeid ei leitud."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d valitud"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Ühtegi nägu ei tuvastatud."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "Tuvastati %d nägu."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "Tuvastati 1 nägu."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Piltide maksimaalne arv (%d) on ületatud."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Vali pilt"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Lisa nimi"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Inimesed"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Tühista"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Ära küsi enam"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Valige pildid ning toksake ikooni %s, et lisada neid albumisse."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Avage %s Galerii."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Näita peidetud üksusi"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Peidetud üksused"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Näita üksusi"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Eemaldatud."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galerii"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Piltide ja videote vaatamine"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Piltide vaatamine"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Valige album ja seejärel pilt."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Rohkemate piltide vaatamiseks kerige vasakule või paremale."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Pildil lähemale või kaugemale suumimine."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Näomärgistus"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Saate sildistada inimesi oma piltidel. Kui toksate nende nägudel ja lisate nende nimed (nagu nad on kontaktides), pakutakse teile loendit viisidest, kuidas nendega otse ühendust võtta."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Kui pildistamise ajal on täidetud järgmised tingimused, kuvatakse piltide vaatamisel korraks selline teave nagu asukohad, kuupäevad, inimeste nimed või ilm:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Ilmavidinat on värskendatud enne/pärast pildistamist."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS-i silt on aktiveeritud kaameras enne pildistamist."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Pildil olevad inimesed on sildistatud pärast pildistamist."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Redigeerige pilte"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Valige kaust ja seejärel pilt."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Te voite valida kuni %d uksust."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Kinnita isikuna %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Määrake nimi"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Õpetus on lõpule viidud."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Valige album."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Valige pilt."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Valige kontakti nimi."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Loo uus album"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Pildi redigeerimiseks toksake redigeerimise ikooni %s."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Värskendatud."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Ilm"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Asukoht"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Isiklik leht"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Ainult uks album."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Lohistage siia."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Lisa avaekraanile"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Sinised kastid näitavad nägusid, mille seade on tuvastanud. Inimese valimiseks toksake vastavat kasti"
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Vaadake pilte ja videoid."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Mängija pole saadaval. Kontrollige võrguolekut ja ühendatud seadet."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s on selles rakenduses desaktiveeritud. Selle funktsiooni aktiveerimiseks avage menüü %2$s, valige see funktsioon ja seejärel valige see rakendus."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Seadmega ei saa ühendust luua. Kontrollige võrguolekut ja ühendatud seadet"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Isiklik mälu"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Isiklik sisu"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Allalaadimise alustamine..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Käivita"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d üksust"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 üksus"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Pildid kuvatakse parast nende markimist lemmikutena."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Lisage oma isiklikku mällu"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Eemaldage oma isiklikust mälust"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Toksake siia, et jäädvustada pilte või videoid."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Toksake siia, et pildistada asukohasiltidega (GPS lülitatakse sisse)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Toksake siia, et pildistada ja sildistada inimesi."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Võrguühendus puudub"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi ühendus on nõutud. Looge ühendus Wi-Fi võrguga ja proovige uuesti"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Mobiilne andmeside on desaktiveeritud. Looge selle asemel ühendus Wi-Fi võrguga või aktiveerige mobiilne andmeside ja proovige uuesti"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Toetuseta fail."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Jaga Heli ja võtte pil."
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Videofailidena"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Pildifailidena"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Valitud uksus teisaldatakse asukohta %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Valitud uksused teisaldatakse asukohta %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Eemaldamine..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Lisamine..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Kui loote sisu, mis sisaldab üksusi isiklikust mälust, ei pruugita teie uut sisu peita automaatselt. Valitud isiklikku sisu võidakse näha uue sisu vaatamisel."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Sahtel"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Fotot ei saa laadida."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Toksake siia, et pildistada."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Pildid kuvatakse siin parast nende tegemist ja nendel olevate inimeste sildistamist."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Lohistage"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Teisalda tavamällu"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Teisalda isiklikku mällu"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albumid"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Näo tuvastamine..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "VALI ÜKSUS"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "VALI ÜKSUSED"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Asukohasildid"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Dokumendid"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Toit"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Lemmikloomad"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Maastik"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Sõidukid"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Asukohta pole"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtrid"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Sündmus"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Lilled"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Ühendatud seadmed"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Muuda kategooriat"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Loo sündmus"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Eemalda sündmusest"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Lisa sündmusele"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Sündmus on loodud."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtrimisalus"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Kopeeri asukohta"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Teisalduskoht:"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Ei saa kiirata"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Toksake ikooni %s ja seejärel toksake ühte kategooriat menüüs Filtreerimisalus."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Pildid filtreeritakse teie valitud kategooria järgi."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Sündmus: pilte filtreeritakse kuupäeva ja asukoha järgi."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Inimesed, maastik, toit, lemmikloomad, sõidukid, dokumendid ja lilled: saate filtreerida pilte, analüüsides nende sisu."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Toksake sahtli menüünuppu ja seejärel ühte kategooriat menüüs Filtreerimisalus."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Toksake kaks korda, et avada sahtli menüüd."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Toksake kaks korda, et sulgeda sahtli menüüd."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Privaatne sisu"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Teisalda kausta Privaatne"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Eemalda kaustast Privaatne"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Privaatne mälu"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Eelmine aasta"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Enne %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Maksimaalne jagatavate üksuste arv (%d) on ületatud."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Näidatakse %d üksust"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Sordi alates hilisemast"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Sordi alates vanimast"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Kustutada %d üksust?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Inimeste sildid"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Kiiresti teistele kuupäevadele kerimiseks toksake ja hoidke sõrme ekraani paremas ülanurgas oleval kuupäeva indikaatoril."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "Lisati %d pilti"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Lisa pilte asukohast"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Segatud pildid"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Lisage pilte"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Pole sündmusi, mida kuvada. Looge uus sündmus."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Kustuta üksused"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Pildi vaatamine"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Toksake pilti, mida soovite vaadata."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Saate vaadata oma pilte."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Toksake nuppu Veel valikuid ja seejärel käsku Määra, et kasutada pilti taustpildina või kontakti pildina."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Kaugemale või lähemale suumimiseks libistage sõrmi ekraanil üksteisele lähemale või üksteisest kaugemale."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Pisipiltide suuruse muutmine"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Pisipiltide suuruse muutmisel muutub ekraanil nähtavate pisipiltide arv."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Pisipilt on suurema pildi väike eelvaade."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Albumite vaatamine"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Toksake ikooni %s ja seejärel valikut Album."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Toksake albumit ja seejärel pilti või videot, mida soovite vaadata."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Toksake ekraani ülaservas ikooni %s."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Pildi jagamine"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Mitme pildi jagamine"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Valige mitu pilti, et kustutada neid korraga."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Valige mitu pilti, et jagada neid korraga."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Toksake ikooni %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Saate hallata ja nautida oma pilte ning videoid."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Piltide filtreerimine"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Pildi kustutamine"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Mitme pildi kustutamine"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Piltide jagamine"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Piltide kustutamine"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Ühendus on katkenud"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Ühendus seadmega %s on katkestatud. Kontrollige võrguolekut ja ühendatud seadet."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Kas kustutada see album?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Kas kustutada see üksus?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Paigutus"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d fotod"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Vajutage menüüklahvi ja seejärel valige Vali üksused."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Toksake ikooni %s ja seejärel käsku Määra, et kasutada pilti taustpildina või kontakti pildina."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 tulemus"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d tulemust"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Rõhtpaigutusrežiim"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Stuudio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Pole üksusi, mida kuvada."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Kustuta üksus"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Nimetamata"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Rühmitamata"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Eemalda nimesilt"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Eemalda kategooriast %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Uus"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Album tuhistatakse."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Kas eemaldada näotuvastus?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Eemalda üksused"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Eemalda üksus"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Kas eemaldada %d üksust?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Kas eemaldada see üksus?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "VALMIS"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "TÜHISTA"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Pildid kuvatakse siin pärast nende tegemist."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Fail on rikutud või mittetoetatud vormingus."
+

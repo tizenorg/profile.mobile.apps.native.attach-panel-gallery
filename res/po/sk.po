@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Vykonať odstránenie %d albumov?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Miesta"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Pridať na úv. obrazovku"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Značky"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Všetky albumy"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Webový album služby Facebook"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Webový album služby Picasa"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Blízke zariadenia"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Uplynulých %d mesiacov"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Stiahnuté položky"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Nedostatok pamäte. Vymažte niektoré položky"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Sťahovanie dokončené."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albumy"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Obľúbené"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Registrovať sa"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Načítava sa..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Vybrať súbory"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Zobrazenie mriežky"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Soul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Domovská obrazovka"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Zamknutá obrazovka"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "ID volajúceho"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Vybrať"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Nasta-viť"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Nový album"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Žiadne albumy"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Vybrať značky"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Názov albumu sa už používa."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Názov značky sa už používa. Prepísať?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Spracovať na pozadí"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Nedá sa premenovať. Názov albumu sa už používa."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Prázdny názov albumu."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Zadajte názov značky."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Pripravuje sa karta SD..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Nedá sa spustiť pri zapnutom režime ukladacieho priestoru USB."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Vytvoriť album"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Všetky údaje týkajúce sa tohto konta sa vymažú. Pokračovať?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Tlačiť cez Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Nedá sa premenovať."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Žiadny názov"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Nie sú vybraté žiadne albumy."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Žiadne vybraté značky."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Vyberte zariadenie"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Prenos súboru"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Dokončené."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Načítavajú sa albumy..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Výber konta"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Vybrať položku"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Vybrať album"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Prebieha iné sťahovanie. Počkajte, prosím."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Importovať"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Importované."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Importuje sa..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Médium"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Už existuje. Prepísať?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Opakovať?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Rovnaký názov sa už používa."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Načítava sa. Počkajte, prosím..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Prázdna položka."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Neplatný vstupný parameter."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Vytv. zn."
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Pridať webový album"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Zobraziť"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Odstrániť?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Vytvoriť priečinok?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Nepriradené"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Bez značky"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Žiadne značky"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Tlač"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Otočiť doľava"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Otočiť doprava"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Ľudia"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Interval prezentácie"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 sekundy"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 sekúnd"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 sekúnd"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Vaše značky"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Predchádzajúcich 30 dní"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Predchádzajúcich 7 dní"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Môžete použiť rozličné filtre pre vyhľadávania."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Označ. tváre"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Prezent."
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Vymazať značku"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Názov albumu"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Nie je vybratý žiadny súbor. Vyberte súbor na odoslanie a skúste to znova."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Po fotografovaní so zapnutým systémom GPS sa zobrazia vaše obrázky."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Nastavenia"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albumy"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Prezentácia"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Nastavenia prezentácie"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Zobraziť podľa"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Vybrať položky"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Spustiť prezentáciu"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Obsah Dropboxu"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Všetok obsah"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Obsah Dropboxu"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Obsah na zobrazenie"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Obsah zariadenia"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Obsah služby Dropbox"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Časová os"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Zobraziť blízke zariadenia"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Skryť blízke zariadenia"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Chcete skopírovať alebo premiestniť obrázky z pôvodného albumu?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Súkromie"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 album sa odstráni."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albumy sa odstránia."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Upraviť obrázok"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Zdieľať"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Otáča sa..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Nenašli sa žiadne výsledky."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Konto"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Hľadať blízke zariadenia"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Pridať na dom."
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Obsah služby Facebook"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Všetky položky"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 položka sa vymaže."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d položky sa vymažú."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Kontextový názov"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "Počet sekúnd: %d"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Vyhľadávanie sa spustilo. Zoznam zariadení sa aktualizuje automaticky."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Nenašli sa žiadne zariadenia. Hľadanie blízkych zariadení bude pokračovať na pozadí."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Našli sa blízke zariadenia."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "Vybraté: %d"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Nezistili sa žiadne tváre."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "Zistené tváre: %d."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 zistená tvár."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Prekročil sa maximálny počet fotografií (%d)."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Vyberte obrázok"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Pridať meno"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Ľudia"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Zrušiť"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Už sa nepýtať"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Vyberte fotografie a potom ťuknutím na tlačidlo %s ich môžete pridať do albumu."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Otvorenie menu Galéria %s."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Zobraziť skryté položky"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Skryté položky"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Zobraziť položky"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Odstránené."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galéria"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Prezeranie fotografií a videí"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Prezeranie fotografií"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Vyberte album a potom vyberte fotografiu."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Posunutím doľava alebo doprava môžete zobraziť ďalšie fotografie."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Priblíženie alebo oddialenie fotografie."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Označ. tváre"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Môžete označiť ľudí na vašich fotografiách. Keď ťuknete na ich tváre a pridáte ich mená (tak, ako sa zobrazujú v Kontaktoch), ponúkne sa vám zoznam metód na ich priame kontaktovanie."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Ak sú pri fotografovaní splnené nasledujúce podmienky, pri prezeraní fotografií sa nakrátko zobrazia informácie, ako napríklad miesta, dátumy, mená ľudí alebo počasie:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Miniaplikácia počasia bola obnovená pred/po fotografovaní."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Značka systému GPS je zapnutá v aplikácii Fotoaparát pred fotografovaním."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Ľudia na fotografiách boli označení po fotografovaní."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Úprava fotografií"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Vyberte priečinok a potom vyberte fotografiu."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Môžete vybrať maximálne %d položiek."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Potvrdiť ako %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Priradiť meno"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Kurz je dokončený."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Vyberte album."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Vyberte fotografiu."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Vyberte meno kontaktu."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Vytvoriť album príbehu"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Ťuknutím na ikonu úprav %s môžete upraviť fotografiu."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Obnovené."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Počasie"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Poloha"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Osobná stránka"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "K dispozícii je iba jeden album."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Presuňte sem."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Pridať na úvodnú obrazovku"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Tváre rozpoznané zariadením sú označené modrými rámčekmi. Ťuknutím na jeden z nich môžete vybrať danú osobu."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Pozeranie fotografií a videí."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Prehrávač nie je k dispozícii. Skontrolujte stav siete a pripojené zariadenie."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "Funkcia %1$s je v tejto aplikácii vypnutá. Ak chcete zapnúť túto funkciu, prejdite do menu %2$s, vyberte túto funkciu a potom vyberte túto aplikáciu."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Nedá sa pripojiť k zariadeniu. Skontrolujte stav siete a pripojené zariadenie"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Osobný úložný priestor"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Osobný obsah"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Spúšťa sa sťahovanie..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Štart"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "Počet položiek: %d"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 položka"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Po označení obrázkov ako obľúbených sa zobrazia obrázky."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Pridať do osobného úložného priestoru"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Odstrániť z osobného úložného priestoru"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Ťuknutím sem môžete fotografovať alebo nahrávať videá."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Ťuknutím sem môžete fotografovať s lokalizačnými značkami (zapnutý systém GPS)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Ťuknutím sem môžete fotografovať a označovať ľudí."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Žiadne sieťové pripojenie"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Vyžaduje sa pripojenie k sieti Wi-Fi. Pripojte sa k sieti Wi-Fi a skúste to znova"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Mobilné dátové pripojenie je vypnuté. Pripojte sa namiesto toho k sieti Wi-Fi alebo zapnite mobilné dátové pripojenie a skúste to znova"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Nepodporovaný súbor."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Zdieľ. zvuku a fotogr."
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Ako video súbory"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Ako obrázkové súbory"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Vybratá položka sa premiestni do priečinka %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Vybraté položky sa premiestnia do priečinka %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Odstraňovanie..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Pridávanie..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Ak vytvoríte obsah zahŕňajúci položky z osobného úložného priestoru, nemusí byť automaticky skrytý. Vybratý osobný obsah by mohol byť viditeľný pri prezeraní nového obsahu."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Zásuvka"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Fotografia sa nedá načítať."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Ťuknutím sem môžete fotografovať."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Po nasnímaní fotografií a označení ľudí na nich sa tieto fotografie zobrazia tu."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Uchopiť a presunúť"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Premiestniť do normálneho úložného priestoru"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Premiestniť do osobného úložného priestoru"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albumy"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Rozpoznáva sa tvár..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "VYBERTE POLOŽKU"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "VYBRAŤ POLOŽKY"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Lokalizačné značky"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Dokumenty"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Jedlo"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Domáce zvieratá"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Scenéria"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Vozidlá"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Žiadne umiestnenie"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtre"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Udalosť"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Kvety"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Pripojené zariadenia"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Zmeniť kategóriu"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Vytvoriť udalosť"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Odstrániť z udalosti"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Pridať do udalosti"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Udalosť bola vytvorená."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtrovať podľa"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Kopírovať do"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Presunúť do"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Nedá sa preniesť"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Ťuknite na tlačidlo %s a potom ťuknite na jednu z kategórií uvedených v časti Filtrovať podľa."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Fotografie sa budú filtrovať podľa vybratej kategórie."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Udalosť: filtruje fotografie podľa dátumu a lokality."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Ľudia, scenéria, jedlo, domáce zvieratá, vozidlá, dokumenty a kvety: filtruje fotografie na základe analyzovania obsahu."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Ťuknite na tlačidlo vysúvacieho menu a potom ťuknite na jednu z kategórií uvedených v časti Filtrovať podľa."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Dvojitým ťuknutím otvoríte vysúvacie menu."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Dvojitým ťuknutím zavriete vysúvacie menu."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Súkromný obsah"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Premiestniť do priečinka Súkromné"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Odstrániť z priečinka Súkromné"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Súkromné úložisko"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Minulý rok"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Pred %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Prekročil sa maximálny počet položiek, ktoré môžete zdieľať (%d)."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Počet zobrazených položiek: %d"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Zoradiť od najnovšieho"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Zoradiť od najstaršieho"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Vymazať %d položiek?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Značky ľudí"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Ak chcete rýchlo prejsť na iné dátumy, ťuknite na indikátor dátumu v pravom hornom rohu obrazovky a podržte ho."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "Pridané obrázky: %d"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Pridať fotografie z"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Náhodne zoradené fotografie"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Pridať obrázky"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Nie sú žiadne udalosti na zobrazenie. Vytvorte novú udalosť."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Odstrániť položky"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Zobrazenie fotografie"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Ťuknite na fotografiu, ktorú chcete zobraziť."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Pozrite si fotografiu."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Ťuknite na tlačidlo ďalších možností a potom ťuknutím na položku Nastaviť ako môžete použiť fotografiu ako tapetu alebo fotografiu kontaktu."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Stiahnutím prstov k sebe alebo odtiahnutím prstov od seba na fotografii počas dotýkania sa obrazovky ju môžete oddialiť alebo priblížiť."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Úprava veľkosti miniatúr"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Úpravou veľkosti miniatúr sa zmení počet miniatúr zobrazených na obrazovke."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Miniatúra je malá ukážka väčšej fotografie."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Prezeranie albumov"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Ťuknite na tlačidlo %s a potom ťuknite na položku Album."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Ťuknite na album a potom ťuknite na fotografiu alebo video, ktoré chcete zobraziť."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Ťuknite na položku %s v hornej časti obrazovky."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Zdieľanie fotografie"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Zdieľanie viacerých fotografií"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Vyberte viacero fotografií na súčasné odstránenie."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Vyberte viacero fotografií na súčasné zdieľanie."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Ťuknite na položku %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Môžete spravovať a prezerať si fotografie a videá."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Filtrovanie fotografií"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Odstránenie fotografie"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Odstránenie viacer. fotografií"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Zdieľanie fotografií"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Odstraňovanie fotografií"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Odpojené"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Odpojené od %s. Skontrolujte stav siete a pripojené zariadenie."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Odstrániť tento album?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Odstrániť túto položku?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Rozloženie"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "Počet fotografií: %d"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Stlačte tlačidlo menu a potom vyberte položku Vybrať položky."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Ťuknite na tlačidlo %s a potom ťuknutím na položku Nastaviť ako môžete použiť fotografiu ako tapetu alebo fotografiu kontaktu."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 výsledok"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "Výsledky: %d"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Režim na šírku"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Štúdio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Žiadne položky na zobrazenie."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Odstrániť položku"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Bez názvu"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Nezoskupené"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Odstrániť menovku"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Odstrániť z kategórie %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Nové"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Album sa zruší."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Odstrániť identifikáciu tváre?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Odstránenie položiek"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Odstránenie položky"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Odstrániť %d položky?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Odstrániť túto položku?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "HOTOVO"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ZRUŠIŤ"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Po nasnímaní fotografií sa zobrazia tu."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Súbor je poškodený alebo má nepodporovaný formát."
+

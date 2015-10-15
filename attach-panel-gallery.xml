@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" package="attach-panel-gallery" version="1.1.26" install-location="internal-only">
+	<label>Gallery Appcontrol</label>
+		<label xml:lang="hy-am">Gallery Appcontrol</label>
+		<label xml:lang="az-az">Gallery Appcontrol</label>
+		<label xml:lang="eu-es">Gallery Appcontrol</label>
+		<label xml:lang="bg-bg">Gallery Appcontrol</label>
+		<label xml:lang="ca-es">Gallery Appcontrol</label>
+		<label xml:lang="zh-cn">Gallery Appcontrol</label>
+		<label xml:lang="zh-hk">Gallery Appcontrol</label>
+		<label xml:lang="zh-tw">Gallery Appcontrol</label>
+		<label xml:lang="hr-hr">Gallery Appcontrol</label>
+		<label xml:lang="cs-cz">Gallery Appcontrol</label>
+		<label xml:lang="da-dk">Gallery Appcontrol</label>
+		<label xml:lang="nl-nl">Gallery Appcontrol</label>
+		<label xml:lang="en-gb">Gallery Appcontrol</label>
+		<label xml:lang="en-us">Gallery Appcontrol</label>
+		<label xml:lang="et-ee">Gallery Appcontrol</label>
+		<label xml:lang="fi-fi">Gallery Appcontrol</label>
+		<label xml:lang="fr-fr">Gallery Appcontrol</label>
+		<label xml:lang="gl-es">Gallery Appcontrol</label>
+		<label xml:lang="ka-ge">Gallery Appcontrol</label>
+		<label xml:lang="de-de">Gallery Appcontrol</label>
+		<label xml:lang="el-gr">Gallery Appcontrol</label>
+		<label xml:lang="hu-hu">Gallery Appcontrol</label>
+		<label xml:lang="is-is">Gallery Appcontrol</label>
+		<label xml:lang="ga-ie">Gallery Appcontrol</label>
+		<label xml:lang="it-it">Gallery Appcontrol</label>
+		<label xml:lang="ja-jp">Gallery Appcontrol</label>
+		<label xml:lang="kk-kz">Gallery Appcontrol</label>
+		<label xml:lang="ko-kr">Gallery Appcontrol</label>
+		<label xml:lang="lv-lv">Gallery Appcontrol</label>
+		<label xml:lang="lt-lt">Gallery Appcontrol</label>
+		<label xml:lang="mk-mk">Gallery Appcontrol</label>
+		<label xml:lang="nb-no">Gallery Appcontrol</label>
+		<label xml:lang="pl-pl">Gallery Appcontrol</label>
+		<label xml:lang="pt-pt">Gallery Appcontrol</label>
+		<label xml:lang="pt-br">Gallery Appcontrol</label>
+		<label xml:lang="ro-ro">Gallery Appcontrol</label>
+		<label xml:lang="ru-ru">Gallery Appcontrol</label>
+		<label xml:lang="sr-rs">Gallery Appcontrol</label>
+		<label xml:lang="sk-sk">Gallery Appcontrol</label>
+		<label xml:lang="sl-si">Gallery Appcontrol</label>
+		<label xml:lang="es-es">Gallery Appcontrol</label>
+		<label xml:lang="es-mx">Gallery Appcontrol</label>
+		<label xml:lang="sv-se">Gallery Appcontrol</label>
+		<label xml:lang="tr-tr">Gallery Appcontrol</label>
+		<label xml:lang="uk-ua">Gallery Appcontrol</label>
+		<label xml:lang="uz-uz">Gallery Appcontrol</label>
+		<label xml:lang="ar-ae">Gallery Appcontrol</label>
+		<label xml:lang="zh-sg">Gallery Appcontrol</label>
+		<label xml:lang="hi-in">Gallery Appcontrol</label>
+		<label xml:lang="en-ph">Gallery Appcontrol</label>
+		<label xml:lang="fr-ca">Gallery Appcontrol</label>
+	<author email="jiansong.jin@samsung.com" href="www.samsung.com">Jiansong Jin</author>
+	<description>Gallery application</description>
+	<ui-application appid="attach-panel-gallery" exec="/usr/ug/bin/attach-panel-gallery" hw-acceleration="use-GL" nodisplay="true" multiple="true" type="capp"  taskmanage="false" >
+		<icon>/usr/ug/res/images/attach-panel-gallery/attach-panel-gallery.png</icon>
+		<label>Gallery</label>
+		<label xml:lang="hy-am">Պատկերասրահ</label>
+		<label xml:lang="az-az">Qalereya</label>
+		<label xml:lang="eu-es">Galeria</label>
+		<label xml:lang="bg-bg">Галерия</label>
+		<label xml:lang="ca-es">Galeria</label>
+		<label xml:lang="zh-cn">相册</label>
+		<label xml:lang="zh-hk">媒體瀏覽器</label>
+		<label xml:lang="zh-tw">媒體瀏覽器</label>
+		<label xml:lang="hr-hr">Album</label>
+		<label xml:lang="cs-cz">Galerie</label>
+		<label xml:lang="da-dk">Galleri</label>
+		<label xml:lang="nl-nl">Galerij</label>
+		<label xml:lang="en-gb">Gallery</label>
+		<label xml:lang="en-us">Gallery</label>
+		<label xml:lang="et-ee">Galerii</label>
+		<label xml:lang="fi-fi">Galleria</label>
+		<label xml:lang="fr-fr">Galerie</label>
+		<label xml:lang="gl-es">Galería</label>
+		<label xml:lang="ka-ge">გალერეა</label>
+		<label xml:lang="de-de">Galerie</label>
+		<label xml:lang="el-gr">Συλλογή</label>
+		<label xml:lang="hu-hu">Galéria</label>
+		<label xml:lang="is-is">Gallerí</label>
+		<label xml:lang="ga-ie">Gailearaí</label>
+		<label xml:lang="it-it">Galleria</label>
+		<label xml:lang="ja-jp">ギャラリー</label>
+		<label xml:lang="kk-kz">Галерея</label>
+		<label xml:lang="ko-kr">갤러리</label>
+		<label xml:lang="lv-lv">Galerija</label>
+		<label xml:lang="lt-lt">Galerija</label>
+		<label xml:lang="mk-mk">Галерија</label>
+		<label xml:lang="nb-no">Galleri</label>
+		<label xml:lang="pl-pl">Galeria</label>
+		<label xml:lang="pt-pt">Galeria</label>
+		<label xml:lang="pt-br">Galeria</label>
+		<label xml:lang="ro-ro">Galerie</label>
+		<label xml:lang="ru-ru">Галерея</label>
+		<label xml:lang="sr-rs">Galerija</label>
+		<label xml:lang="sk-sk">Galéria</label>
+		<label xml:lang="sl-si">Galerija</label>
+		<label xml:lang="es-es">Galería</label>
+		<label xml:lang="es-mx">Galería</label>
+		<label xml:lang="sv-se">Galleri</label>
+		<label xml:lang="tr-tr">Galeri</label>
+		<label xml:lang="uk-ua">Галерея</label>
+		<label xml:lang="uz-uz">Galereya</label>
+		<label xml:lang="ar-ae">ﺎﺴﺗﻭﺪﻳﻭ</label>
+		<label xml:lang="zh-sg">画廊</label>
+		<label xml:lang="hi-in">गैलरी</label>
+		<label xml:lang="en-ph">Gallery</label>
+		<label xml:lang="fr-ca">Galerie</label>
+	</ui-application>
+</manifest>

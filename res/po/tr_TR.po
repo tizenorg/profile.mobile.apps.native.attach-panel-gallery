@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "%d albüm silinsin mi?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Yerler"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Ana sayfaya ekle"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Etiketler"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Tüm albümler"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook Web albümü"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa Web albümü"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Yakındaki cihazlar"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "%d ay önceki"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "İndirilenler"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Yeterli hafıza yok. Bazı öğeleri silin."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Yükleme tamamlandı."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albümler"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Favorilerim"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Kaydol"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Yükleniyor..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Dosyaları seçin"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Izgara görünümü"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Ana sayfa ekranı"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Kilit ekranı"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Arayan kmlği"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Seç"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Ayarla"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Yeni albüm"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Albüm yok"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "İmleri seçin."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Albüm adı zaten kullanılıyor."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "İm adı zaten kullanımda. Üzerine yazılsın mı?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Arka plan işlemi"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Yeniden adlandırılamıyor. Albüm adı zaten kullanılıyor."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Albüm adı boş."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "İm adı girin."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD kart hazırlanıyor..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "USB depolama modu etkinken başlatılamıyor."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Albüm oluştur"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Bu hesapla ilgili tüm veriler silinecek. Devam edilsin mi?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Bluetooth ile yazdır"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Yeniden adlandırılamıyor. Dosya kullanımda."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "İsim yok"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Albüm seçilmedi."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "İm seçili değil."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Cihaz seçin"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Dosya transferi"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Tamamlandı."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Albümler yükleniyor..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Hesap seç"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Öğe seç"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Albüm seç"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Başka bir indirme yapılıyor. Lütfen bekleyin."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Dışardan al"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Alındı."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Dışarıdan alınıyor..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Medya"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Zaten var. Üzerine yazılsın mı?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Tekrar denensin mi?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "İsim zaten kullanımda."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Yükleniyor. Lütfen bekleyin..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Girdi yok."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Giriş parametresi geçersiz."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "İm oluştur"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Web albümü ekle"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Göster"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Kaldır?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Klasör oluşturulsun mu?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Atanmadı"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Etiketsiz"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Etiket yok"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Yazdır"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Saat yönünün tersine döndür"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Saat yönünde döndür"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "İnsanlar"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Slayt gösterisi aralığı"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 saniye"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 saniye"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 saniye"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Etiketleriniz"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Son 30 gün"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Son 7 gün"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Aramalarınıza çeşitli filtreler uygulayın."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Yüz etiketi"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Slayt şov"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "İmi sil"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Albüm adı"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Dosya seçilmedi. Göndermek için bir dosya seçin ve tekrar deneyin."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "GPS açıkken resim çektikten sonra resimleriniz gösterilir."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Ayarlar"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albümler"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Slayt gösterisi"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Slayt gösterisi ayarları"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Göster"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Öğeleri seç"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Slayt gösterisini başlat"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox İçeriği"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Tüm içerik"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox İçeriği"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Görüntülenecek içerik"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Cihaz içeriği"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox içeriği"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Zaman çizelgesi"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Yakındaki cihazları göster"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Yakındaki cihazları gizle"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Orijinal albümden fotoğrafları kopyalamak veya taşımak istiyor musunuz?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Gizlilik"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 albüm silinecek"
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albüm silinecek"
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Resmi düzenle"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Paylaşıma aç"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Döndürülüyor..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Sonuç bulunamadı."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Hesap"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Yakın cihazları tara"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Ana syfya ekle"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook içeriği"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Tüm öğeler"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 öğe silinecek."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d öğe silinecek."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Etiketleme Yardımcısı"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d saniye"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Tarama başladı. Cihaz listesi otomatik olarak güncellenecek."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Hiçbir cihaz bulunamadı. Yakın cihazları taramaya arkaplanda devam edilecek."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Yakındaki cihazlar bulundu."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d seçildi"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Yüz algılanmadı."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d yüz algılandı."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 yüz algılandı."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Maksimum resim sayısı (%d) aşıldı."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Resim seç"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "İsim ekle"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Kişi"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "İptal"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Tekrar sorma"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Resimleri seçin ve sonra onları bir albüme eklemek için %s simgesine dokunun."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "%s Galerisini aç."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Gizli öğeleri göster"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Saklı öğeler"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Öğeleri göster"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Kaldırıldı."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galeri"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Resimleri ve videoları görmek"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Resimleri görmek"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Bir albüm ve sonra bir resim seçin."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Daha fazla reklam görmek için sola veya sağa kaydırın."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Bir resme yaklaşın veya uzaklaşın."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Yüz etiketi"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Fotoğraflarınızdaki kişileri etiketlendirebilirsiniz. Yüzlerine dokunduğunuzda ve isimlerinizi (Kişiler'de göründükleri şekilde)eklediğinizde, bunlarla doğrudan temas kurmak için size bir yöntem listesi sunulacaktır."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Fotoğraf çekilirken aşağıdaki şartlara uyulursa, konumlar, tarihler, kişi isimleri veya hava gibi bilgiler fotoğrafları görüntülerken kısaca gösterilecektir:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Fotoğraflar çekilmeden önce/çekildikten sonra hava widget'ı yenilendi."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Fotoğraf çekilmeden önce Kamera ayarlarından GPS etiketi etkinleştirildi."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Fotoğraflar çekildikten sonra fotoğraflardaki kişiler etiketlendi."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Resimleri düzenle"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Bir klasör seçin ve sonra da bir fotoğraf seçin."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "%d öğeye kadar seçebilirsiniz."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "%s olarak onayla"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "İsim ata"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Eğitsel bitti."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Bir albüm seçin."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Bir resim seçin."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Kişinin adını seçin."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Bir anı albümü oluştur"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Fotoğrafı düzenlemek için %s düzenle simgesine dokunun."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Yenilendi."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Hava Durumu"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Konum"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Kişisel sayfa"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Sadece bir albüm var."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Buraya sürükleyin."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Ana ekrana ekle"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Mavi kutular cihazın tanıdığı yüzleri gösterir. Kişiyi seçmek için birine dokunun."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Resimleri ve videoları izleyin."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Oynatıcı kullanılamıyor. Ağ durumunu ve bağlanan cihazı kontrol edin."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s bu uygulamada devre dışı bırakıldı. Bu fonksiyonu etkinleştirmek için %2$s öğesine gidin, bu fonksiyonu seçin ve ardından bu uygulamayı seçin."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Cihaza bağlanılamıyor. Ağ durumunu ve bağlı cihazı kontrol edin"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Kişisel bellek"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Kişisel içerik"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "İndirme başlatılıyor..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Başlat"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d öğe"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 öğe"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Resimleri favorileriniz olarak etiketledikten sonra, resimler gösterilecektir."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Kişisel depolamanıza ekleyin"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Kişisel depolamanızdan çıkartın"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Fotoğraf veya video çekmek için buraya dokunun."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Yer etiketli fotoğraf çekmek için buraya dokunun (GPS açık)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Fotoğraf çekmek ve kişileri etiketlemek için buraya dokunun"
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Ağ bağlantısı yok"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi bağlantısı gerekiyor. Wi-Fi ağına bağlanın ve tekrar deneyin."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Mobil veri devre dışı. Bunun yerine Wi-Fi ağına bağlanın veya mobil veriyi etkinleştirin ve tekrar deneyin."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Dosya desteklenmiyor."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Sesli fotoğrafları paylaş"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Video dosyası olarak"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Resim dosyası olarak"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Seçilen öğe %s öğesine taşınacak."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Seçilen öğeler %s öğesine taşınacak."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Çıkartılıyor..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Ekleniyor..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Kişisel bellekteki öğeleri içeren bir içerik oluşturursanız bu içerik otomatik olarak gizlenemeyebilir. Seçilen kişisel içerikler, yeni içerik görüntülenirken görülebilir."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Çekmece"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Fotoğraf yüklenemiyor."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Resim çekmek için buraya dokunun."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Resim çektikten ve içlerindeki kişileri etiketledikten sonra, bu resimler burada gösterilirler"
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Sürükle ve bırak"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Normal depolamaya taşı"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Kişisel depolamaya taşı"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albümler"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Yüz tanınıyor..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ÖĞE SEÇ"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ÖĞELERİ SEÇ"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Konum etiketleri"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Belgeler"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Yiyecek"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Evcil hayvanlar"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Manzara"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Araçlar"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Yer yok"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtreler"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Etkinlik"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Çiçekler"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Bağlı cihazlar"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Kategoriyi değiştir"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Etkinlik oluştur"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Etkinlikten kaldır"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Etkinliğe ekle"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Etkinlik oluşturuldu."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtre ölçütü"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Şuraya kopyala"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Şuraya taşı"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "İletilemiyor"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "%s öğesine ve ardından Filtre ölçütü altında listelenen kategorilerden birine dokunun."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Resimler seçtiğiniz kategoriye göre filtrelenir."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Etkinlik: Resimleri tarih ve konuma göre filtreler."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "İnsanlar, Manzara, Yiyecek, Hayvanlar, Araçlar, Belgeler ve Çiçekler: Resimleri içeriği analiz ederek filtreler."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Çekmece menü tuşuna dokunun, ardından Filtre ölçütü altında listelenen kategorilerden birine dokunun."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Açılır menüyü açmak için çift dokunun."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Açılır menüyü kapatmak için çift dokunun."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Özel içerik"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Özel'e taşı"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Özelden Kaldır"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Özel depolama"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Geçen yıl"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "%d'den önce"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Paylaşılabilecek maksimum öğe sayısı (%d) aşıldı."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "%d öğe gösteriliyor"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "En yeniye göre sırala"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "En eskiye göre sırala"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "%d öğeleri silinsin mi?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Kişi etiketleri"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Diğer tarihlere hızla geçiş yapmak için ekranın sağ üst kısmındaki tarih göstergesini basılı tutun."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d resim eklendi"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Resim ekleme konumu"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Karıştırılmış fotoğraflar"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Resim ekle"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Görüntülenecek etkinlik yok. Yeni bir etkinlik oluşturun."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Öğeleri sil"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Resim görüntüleme"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Görüntülemek istediğiniz resme dokunun."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Resminizi görüntüleyin."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Daha fazla seçenek tuşuna dokunun, ardından resmi, duvar kağıdı veya kişi resmi olarak kullanmak için Ayarla öğesine dokunun."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Resmi uzaklaştırmak veya yakınlaştırmak için ekrana dokunarak resmi parmaklarınızın arasında sıkıştırın veya parmaklarınızı birbirinden ayırın."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Küçük resimlri yendn boytlndrma"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Küçük resimlerin yeniden boyutlandırılması ekranda göreceğiniz küçük resim sayısını değiştirir."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Küçük resim, daha büyük bir resmin ufak bir önizlemesidir."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Albümleri görüntüleme"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "%s öğesine ve ardından Albüm'e dokunun."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Bir albüme dokunun, ardından görüntülemek istediğiniz resim veya videoya dokunun."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Ekranın üstündeki %s simgesine dokunun."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Fotoğraf paylaşılması"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Çoklu resim paylaşma"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Aynı anda silmek için birden çok fotoğraf seçin."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Aynı anda paylaşmak için birden çok fotoğraf seçin."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "%s simgesine dokunun."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Resimlerinizi ve videolarınızı yönetin ve bunların keyfini çıkarın."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Resimleri filtreleme"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Fotoğraf silme"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Çoklu resim silme"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Resim paylaşma"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Resimleri silme"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Bağlantı kesildi"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "%s ile bağlantı kesildi. Ağ durumunu ve bağlı cihazı kontrol edin."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Bu albüm silinsin mi?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Bu öğe silinsin mi?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Yerleşim"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d foto"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Menü tuşuna basın, ardından Öğeleri seç öğesini seçin."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Resmi duvar kağıdı veya kişi resmi olarak kullanmak için %s öğesine ve ardından Ayarla öğesine dokunun."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 sonuç"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d sonuç"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Yatay görünüm modu"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Stüdyo"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Görüntülenecek öğe yok."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Öğeyi sil"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "İsimsiz"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Gruplanmamış"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "İsim etiketini kaldır"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "%s üzerinden kaldır"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Yeni"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Album iptal edilecek."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Yüz tanıma kaldırılsın mı?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Öğeleri kaldır"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Öğeyi kaldır"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "%d öğe kaldırılsın mı?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Bu öğe kaldırılsın mı?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "BİTTİ"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "İPTAL"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Fotoğraflar çekildikten sonra burada gösterilir."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Dosya bozuk veya biçimi desteklenmiyor."
+

@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Vai izdzēst %d albumus?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Vietas"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Pievienot sākumam"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Atzīmes"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Visi albumi"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook tīmekļa albums"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa tīmekļa albums"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Tuvumā esošās ierīces"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Pirms %d mēnešiem"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Lejupielādes"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Nepietiek atmiņas. Izdzēsiet dažus vienumus"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Lejupielāde pabeigta."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albumi"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Izlases"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Pierakstīšanās"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Ielādē..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Izvēlēties failus"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Režģa skats"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seula"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Sākuma ekrāns"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Bloķēšanas ekrāns"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Zvanītāja ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Izvēlēties"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Iestatīt"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Jauns albums"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Nav albumu"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Izvēlēties atzīmes."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Alb.nosauk. jau tiek liet."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Atzīmes nosaukums jau tiek lietots. Vai pārrakstīt?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Darbība tiek veikta fonā"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Nevar pārdēvēt. Albuma nosaukums jau tiek lietots."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Tukšs albuma nosaukuma lauks."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Ievadiet atzīmes nosaukumu."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Sagatavo SD karti..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Nevar sākt, kamēr ir aktivizēts USB krātuves režīms."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Izveidot albumu"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Visi ar šo kontu saistītie dati tiks izdzēsti. Vai turpināt?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Drukāt, izmantojot Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Nevar pārdēvēt."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Nav vārda"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Nav izvēlēts neviens albums."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Nav izvēlēta neviena atzīme."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Atlasīt ierīci"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Failu pārsūtīšana"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Pabeigts."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Ielādē albumus..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Izvēlēties kontu"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Izvēlieties vienumu"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Izvēlēties albumu"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Notiek cita lejupielāde. Lūdzu, uzgaidiet."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Importēt"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Importētas."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Importē..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Multivide"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Jau pastāv. Vai pārrakstīt?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Vai mēģināt vēlreiz?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Šāds nosaukums jau tiek lietots."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Notiek ielāde. Lūdzu, uzgaidiet..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Ieraksts nav norādīts."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Nederīgs ievades parametrs."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Izv. atz."
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Pievienot tīmekļa albumu"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Skatīt"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Vai noņemt?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Vai izveidot mapi?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Nav piešķirta"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Neatzīmēts"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Nav atzīmju"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Drukāt"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Pagriezt pa kreisi"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Pagriezt pa labi"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Personas"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Slaidrādes intervāls"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 sekundes"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 sekundes"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 sekundes"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Jūsu atzīmes"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Pēdējās 30 dienas"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Pēdējās 7 dienas"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Lietojiet meklēšanai dažādus filtrus."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Seju atpaz."
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Slaidrāde"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Dzēst atzīmi"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Albuma nosaukums"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Nav izvēlēts neviens fails. Izvēlieties sūtīšanai paredzēto failu un mēģiniet vēlreiz."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Ja ir ieslēgts GPS, pēc attēlu uzņemšanas tie tiks parādīti."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Iestatījumi"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albumi"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Slaidrāde"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Slaidrādes iestatījumi"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Skatīt pēc"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Izvēlēties objektus"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Sākt slaidrādi"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox saturs"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Viss saturs"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox saturs"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Rādāmais saturs"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Ierīces saturs"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox saturs"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Laika skala"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Rādīt tuvumā esošās ierīces"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Slēpt tuvumā esošās ierīces"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Vai vēlaties kopēt vai pārvietot attēlus no oriģinālā albuma?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Konfidencialitāte"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "Tiks izdzēsts 1 albums."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "Tiks izdzēsti %d albumi."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Rediģēt attēlu"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Koplietot"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Notiek pagriešana..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Nav atrasts neviens rezultāts."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Konts"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Meklēt tuvumā esošās ierīces"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Piev. sākumam"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook saturs"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Visi objekti"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "Tiks izdzēsts 1 objekts."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d objekti tiks izdzēsti."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Draugu atzīmēšana"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d sekundes"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Ir sākta meklēšana. Ierīču saraksts tiks atjaunināts automātiski."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Nav atrasta neviena ierīce. Tuvumā esošo ierīču meklēšana tiks turpināta fonā."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Tuvumā atrastās ierīces."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "Izvēlēti: %d"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Nav noteikta neviena seja."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "Noteiktas %d sejas."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "Noteikta 1 seja."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Pārsniegts maksimālais attēlu skaits (%d)."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Atlasīt attēlu"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Pievienot vārdu"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Personas"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Atcelt"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Vairs nejautāt"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Izvēlieties attēlus un pēc tam pieskarieties pie %s, lai pievienotu tos albumam."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Atveriet %s galeriju."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Rādīt slēptos objektus"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Paslēptie objekti"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Rādīt objektus"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Noņemts."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galerija"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Attēlu un videoklipu apskate"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Attēlu apskate"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Izvēlieties albumu un pēc tam izvēlieties attēlu."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Ritiniet pa kreisi vai pa labi, lai skatītu citus attēlus."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Tuviniet vai tāliniet attēlu."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Seju atpaz."
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Varat atzīmēt personas savos attēlos. Pieskaroties personu sejām un pievienojot personu vārdus (kādi tie ir sadaļā Kontakti), jums tiks piedāvāts saraksts ar veidiem, kā sazināties ar šīm personām."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Ja, fotografējot, ir izpildīti šādi nosacījumi, informācija, piemēram, atrašanās vietas, datumi, personu vārdi vai laika apstākļi, tiks parādīti uz īsu brīdi, kad skatīsit attēlus:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Laika ziņu logrīks ir atsvaidzināts pirms/pēc attēlu uzņemšanas."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS atzīme ir aktivizēta kamerā pirms attēlu uzņemšanas."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Attēlos esošās personas ir atzīmētas pēc attēlu uzņemšanas."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Attēlu rediģēšana"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Izvēlieties mapi un pēc tam izvēlieties attēlu."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Varat izvēlēties līdz pat %d objektiem."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Apstiprināt kā %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Piešķirt vārdu"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Apmācība pabeigta."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Izvēlieties albumu."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Attēla izvēle."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Izvēlieties kontakta vārdu."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Izveidot stāstu albumu"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Pieskarieties pie rediģēšanas ikonas %s, lai rediģētu attēlu."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Atjaunots."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Laika prognoze"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Atr.vieta"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Privātā lapa"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Izveidots tikai viens albums."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Velciet šeit."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Pievienošana sākuma ekrānam"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Zilie lodziņi norāda sejas, kuras ierīce ir atpazinusi. Pieskarieties kādam no tiem, lai izvēlētos konkrētu personu"
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Attēlu un videoklipu apskate."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Atskaņotājs nav pieejams. Pārbaudiet tīkla statusu un pievienoto ierīci."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "Funkcija %1$s šajā programmā ir deaktivizēta. Lai aktivizētu šo funkciju, atveriet %2$s, izvēlieties šo funkciju un pēc tam izvēlieties šo programmu."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Nevar izveidot savienojumu ar ierīci. Pārbaudiet tīkla statusu un pievienoto ierīci"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Personiskā krātuve"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Personisks saturs"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Sāk lejupielādi..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Sākt"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d objekti"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 objekts"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Pēc tam, kad atzīmēsit attēlus kā izlases attēlus, tie tiks parādīti."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Pievienojiet savai privātajai krātuvei"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Noņemiet no savas privātās krātuves"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Pieskarieties šeit, lai uzņemtu attēlus vai videoklipus."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Pieskarieties šeit, lai uzņemtu attēlus kopā ar atrašanās vietas atzīmēm (GPS ir ieslēgts)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Lai uzņemtu attēlus un atzīmētu personas, pieskarieties šeit."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Nav savienojuma ar tīklu"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Nepieciešams Wi-Fi savienojums. Izveidojiet savienojumu ar Wi-Fi tīklu un mēģiniet vēlreiz"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Mobilie dati ir deaktivizēti. Tā vietā izveidojiet savienojumu ar Wi-Fi tīklu vai aktivizējiet mobilos datus un mēģiniet vēlreiz"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Neatbalstīts fails."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Kop. skaņu un fotoatt."
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Kā video failus"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Kā attēlu failus"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Izvēlētais objekts tiks pārvietots uz %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Izvēlētie objekti tiks pārvietoti uz %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Noņem..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Pievieno..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Ja izveidosit saturu, kas ietver objektus no privātās krātuves, tas iespējams, netiks automātiski paslēpts. Skatot jauno saturu, var būt redzams izvēlētais personiskais saturs."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Izvēlne"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Nevar ielādēt fotoattēlu."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Pieskarieties šeit, lai uzņemtu attēlus."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Kad būsit uzņēmis attēlus un atzīmējis tajos personas, šie attēli tiks parādīti šeit."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Vilkt un nomest"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Pārvietot uz parasto krātuvi"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Pārvietot uz personisko krātuvi"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albumi"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Notiek sejas atpazīšana..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "IZVĒLĒTIES OBJEKTU"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "IZVĒLĒTIES OBJEKTUS"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Atr. vietas atzīmes"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Dokumenti"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Ēdiens"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Mājdzīvnieki"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Ainava"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Transportlīdzekļi"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Nav atrašanās vietas"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtri"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Notikums"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Ziedi"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Pievienotās ierīces"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Mainīt kategoriju"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Izveidot notikumu"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Noņemt no notikuma"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Pievienot notikumam"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Notikums izveidots."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtrēt pēc"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Kopēt uz"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Pārvietot uz"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Nevar nosūtīt"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Pieskarieties pie %s un pēc tam pieskarieties kādai no kategorijām sadaļā Filtrēt pēc."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Attēli tiks filtrēti pēc izvēlētās kategorijas."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Notikums: filtrē attēlus pēc datuma un atrašanās vietas."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Cilvēki, Ainava, Pārtika, Mājdzīvnieki, Transportlīdzekļi, Dokumenti un Ziedi: filtrējiet attēlus, analizējot to saturu."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Pieskarieties nolaižamās izvēlnes pogai un pēc tam pieskarieties kādai no kategorijām sadaļā Filtrēt pēc."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Lai atvērtu nolaižamo izvēlni, veiciet dubultskārienu."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Lai aizvērtu nolaižamo izvēlni, veiciet dubultskārienu."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Privāts saturs"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Pārvietot uz privāto krātuvi"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Noņemt no mapes Privāti"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Privātā krātuve"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Pagājušā gadā"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Pirms %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Pārsniegts maksimālais kopīgojamo objektu skaits (%d)."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Rāda %d objektus"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Kārtot pēc jaunākā"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Kārtot pēc vecākā"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Vai izdzēst %d objektus?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Personu atzīmes"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Lai ātri ritinātu datumus, pieskarieties pie datuma rādītāja ekrāna augšējā labajā pusē un turiet."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "Pievienoti %d attēli"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Pievienot attēlus no"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Attēli jauktā secībā"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Pievienot attēlus"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Nav notikumu, ko parādīt. Izveidojiet jaunu notikumu."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Dzēst objektus"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Attēla apskate"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Pieskarieties attēlam, ko vēlaties skatīt."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Skatiet savu attēlu."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Pieskarieties pogai Citas iespējas un pēc tam pieskarieties pie Iestatīt kā, lai attēlu lietotu kā fona attēlu vai kontakta attēlu."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Savelciet vai izpletiet pirkstus, kad esat pieskāries ekrānam, lai tuvinātu vai tālinātu attēlu."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Sīktēlu lieluma maiņa"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Mainot sīktēlu lielumu, tiks mainīts ekrānā redzamo sīktēlu skaits."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Sīktēls ir neliels lielāka attēla priekšskatījums."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Albumu apskate"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Pieskarieties pie %s un pēc tam pieskarieties pie Albums."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Pieskarieties albumam, pēc tam pieskarieties attēlam vai videoklipam, ko vēlaties skatīties."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Ekrāna augšdaļā pieskarieties pie %s."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Attēla kopīgošana"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Vairāku attēlu kopīgošana"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Izvēlieties vairākus attēlus, ko izdzēst vienlaikus."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Izvēlieties vairākus attēlus, ko kopīgot vienlaikus."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Pieskarieties pie %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Pārvaldiet un skatiet savus attēlus un videoklipus."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Attēlu filtrēšana"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Attēla dzēšana"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Vairāku attēlu dzēšana"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Attēlu kopīgošana"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Attēlu dzēšana"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Atvienots"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Pārtraukts savienojums ar %s. Pārbaudiet tīkla statusu un pievienoto ierīci."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Vai izdzēst šo albumu?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Vai izdzēst šo objektu?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Izkārtojums"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d fotoattēli"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Nospiediet izvēlnes taustiņu, pēc tam atlasiet Izvēlēties objektus."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Pieskarieties pie %s un pēc tam pieskarieties pie Iestatīt kā, lai attēlu lietotu kā fona attēlu vai kontakta attēlu."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 rezultāts"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d rezultāti"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Ainavas režīms"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Studio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Nav objektu, ko parādīt."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Dzēst objektu"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Nenosaukts"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Negrupētie"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Noņemt vārda atzīmi"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Noņemt no %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Jauna"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Albums tiks atcelts."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Vai noņemt sejas identifikāciju?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Noņemt objektus"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Noņemt objektu"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Vai noņemt %d objektus?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Vai noņemt šo objektu?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "GATAVS"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ATCELT"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Pēc attēlu uzņemšanas tie tiks parādīti šeit."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Fails ir bojāts vai neatbalstītā formātā."
+

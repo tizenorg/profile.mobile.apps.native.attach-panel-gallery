@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Ştergeţi %d albume?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Locuri"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Adăugare la ecran principal"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Etichete"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Toate albumele"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Album Web Facebook"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Album Picasa Web"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Dispozitive în apropiere"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Din ultimele %d luni"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Descărcări"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Memorie insuficientă. Ştergeţi câteva elemente"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Descărcare terminată"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albume"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Favorite"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Înregistrare"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Încărcare..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Selectare fişiere"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Vizualizare tip grilă"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Ecran de pornire"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Blocare ecran"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "ID apelant"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Selectare"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Setare"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Album nou"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Nu există albume"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Selectare etichete"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Numele este deja în uz."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Numele etichetei este deja utilizat. Suprascrieţi?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Proces fundal"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Imposibil de redenumit. Numele albumului este deja în uz."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Nume album gol"
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Introduceţi numele unei etichete."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Se pregăteşte cartela SD..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Imposibil de pornit când modul de stocare USB este activ"
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Creare album"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Toate datele asociate acestui cont vor fi şterse. Continuaţi?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Imprimare prin Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Imposibil de redenumit"
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Nici un nume"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Nu sunt albume selectate."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Nu a fost selectată nicio etichetă."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Selectare dispozitiv"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Transfer fişier"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Finalizat"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Se încarcă albumele..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Selectare cont"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Selectaţi elementul"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Selectare album"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Altă descărcare se află în curs de desfăşurare. Aşteptaţi."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Import"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Importate"
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Se importă..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Media"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Există deja. Suprascrieţi?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Reîncercaţi?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Acelaşi nume deja în uz"
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Se încarcă. Aşteptaţi..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Locaţie liberă"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Parametru de intrare incorect"
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Creare"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Adăugare album Web"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Vizualizare"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Eliminare?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Creaţi folder?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Neatribuit"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Fără etichetă"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Nicio etichetă"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Imprimare"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Rotire stânga"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Rotire dreapta"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Persoane"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Interval expunere diapozitive"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 secunde"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 secunde"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 secunde"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Etichetele dvs."
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Ultimele 30 de zile"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Ultimele 7 zile"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Aplicaţi diverse filtre căutărilor."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Etichet. faţă"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Ex. diap."
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Ştergere etichetă"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Nume album"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Nu s-a selectat niciun fişier. Selectaţi un fişier de trimis şi încercaţi din nou."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "După realizarea fotografiilor cu serviciul GPS activat, fotografiile dvs. vor fi afişate."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Setări"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albume"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Expunere diapozitive"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Setări expunere diapozitive"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Vizualizare după"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Selectare elemente"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Începere expunere de diapozitive"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Conţinut pe Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Întregul conţinut"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Conţinut pe Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Conţinut pentru afişare"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Conţinut de pe dispozitiv"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Conţinut din Dropbox"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Cronologie"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Afişaţi dispozitivele din apropiere"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Ascundeţi dispozitivele din apropiere"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Doriţi să copiaţi sau să mutaţi imaginile din albumul iniţial?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Confidenţialitate"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 album va fi şters."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albume vor fi şterse."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Editare imagine"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Partajare"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Se roteşte..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Nu au fost găsite rezultate."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Cont"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Scanare dispozitive în apropiere"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Ad. pag. por."
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Conţinut de pe Facebook"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Toate elementele"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 element va fi şters."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d elemente vor fi şterse."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Asistent pentru etichete"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d secunde"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Scanarea a început. Lista dispozitivelor va fi actualizată automat."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Nu s-au găsit dispozitive. Căutarea dispozitivelor aflate în apropiere va continua în fundal."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "S-au găsit dispozitive în apropiere."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d selectate"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Nicio faţă detectată"
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d feţe detectate"
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 faţă detectată"
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Numărul maxim de imagini (%d) a fost depăşit."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Selectare imagine"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Adăugare nume"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Participanţi"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Anulare"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Nu se întreabă din nou"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Selectaţi imaginile, apoi atingeţi %s pentru a le adăuga într-un album."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Deschideţi Galerie %s."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Afişare elemente ascunse"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Elemente ascunse"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Afişare elemente"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Eliminat"
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galerie"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Vizualizarea imaginilor şi a videoclipurilor"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Vizualizarea imaginilor"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Selectaţi un album, apoi o imagine."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Derulaţi spre stânga sau spre dreapta pentru a vizualiza mai multe imagini."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Măriţi sau micşoraţi o imagine."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Etichet. faţă"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Puteţi eticheta persoanele din fotografiile dvs. Când atingeţi feţele acestora şi le adăugaţi numele (aşa cum apar în Contacte), vi se va furniza o listă de metode prin care le puteţi contacta direct."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Dacă următoarele condiţii sunt îndeplinite când faceţi fotografii, atunci informaţiile, cum ar fi locaţii, date, numele persoanelor sau condiţiile meteo, vor fi afişate pentru scurt timp la vizualizarea fotografiilor:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Widget-ul meteo a fost reîmprospătat înainte/după realizarea fotografiilor."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "Eticheta GPS este activată în Camera foto înainte de a realiza fotografii."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Persoanele din fotografii au fost etichetate după realizarea fotografiilor."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Editaţi fotografii"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Selectaţi un folder, apoi o fotografie."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Puteţi selecta maximum %d elemente."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Confirmare ca %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Atribuire nume"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Tutorial finalizat."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Selectaţi un album."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Selectaţi o imagine."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Selectaţi numele contactului."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Creare album de poveşti"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Atingeţi pictograma de editare %s pentru a edita fotografia."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Reîmprospătat"
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Meteo"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Locaţie"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Pagină personală"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Există un singur album."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Glisaţi aici."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Adăugare la Ecranul de pornire"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Casetele albastre indică feţe recunoscute de dispozitiv. Atingeţi una pentru a selecta persoana respectivă."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Vizualizaţi imagini şi videoclipuri."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Player-ul nu este disponibil. Verificaţi starea reţelei şi dispozitivul conectat."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "Funcţia %1$s este dezactivată în această aplicaţie. Pentru a activa această funcţie, accesaţi %2$s, selectaţi-o, apoi selectaţi această aplicaţie."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Nu se poate stabili conexiunea la dispozitiv. Verificaţi starea reţelei şi dispozitivul conectat"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Spaţiu de stocare personal"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Conţinut personal"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Se începe descărcarea..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Start"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d elemente"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 element"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "După ce etichetaţi imagini ca preferate, acestea vor fi afişate."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Adăugaţi în spaţiul de stocare personal"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Eliminaţi din spaţiul de stocare personal"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Atingeţi aici pentru a realiza fotografii sau videoclipuri."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Atingeţi aici pentru a realiza fotografii cu etichete de locaţie (GPS activat)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Atingeţi aici pentru a face fotografii şi a eticheta persoane."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Nicio conexiune la reţea"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Este necesară o conexiune Wi-Fi. Conectaţi-vă la reţeaua Wi-Fi şi încercaţi din nou"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Date mobile dezactivate. Conectaţi-vă utilizând reţeaua Wi-Fi sau activaţi datele mobile şi încercaţi din nou"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Fişier neacceptat"
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Partaj. img. sunet&foto"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Ca fişiere video"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Ca fişiere imagine"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Elementul selectat va fi mutat în %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Elementele selectate vor fi mutate în %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Eliminare..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Se adaugă..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "În cazul în care creaţi conţinut care include elemente pentru spaţiul de stocare personal, este posibil ca acesta să nu fie ascuns în mod automat. Conţinutul personal selectat ar putea fi văzut la vizualizarea noului conţinut."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Panou"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Imposibil de încărcat fotografia"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Atingeţi aici pentru a fotografia."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "După ce aţi realizat fotografii şi aţi etichetat persoane în acestea, fotografiile vor fi afişate aici."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Glisare şi fixare"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Mutare în spaţiul de stocare normal"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Mutare în spaţiul de stocare personal"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albume"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Se recunoaşte faţa..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "SELECTARE ELEMENT"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "SELECTARE ELEMENTE"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Etichete locaţie"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Documente"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Mâncare"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Animale de casă"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Peisaj"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Vehicule"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Fără locaţie"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtre"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Eveniment"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Flori"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Dispozitive conectate"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Schimbare categorie"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Creare eveniment"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Eliminare din eveniment"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Adăugaţi la eveniment"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Evenimentul a fost creat."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtraţi după"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Copiere în"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Mutare în"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Nu se poate transfera"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Atingeţi %s, apoi atingeţi una dintre categoriile de sub Filtrare după."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Imaginile vor fi filtrate în funcţie de categoria pe care aţi selectat-o."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Eveniment: filtrează imaginile în funcţie de dată şi de locaţie."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Oameni, Peisaje, Mâncare, Animale de companie, Maşini, Documente şi Flori: filtraţi fotografiile analizând conţinutul."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Atingeţi butonul meniului panou, apoi atingeţi una dintre categoriile de sub Filtrare după."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Atingeţi de două ori pentru a deschide meniul derulant."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Atingeţi de două ori pentru a închide meniul derulant."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Conţinut privat"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Mutare în Private"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Eliminare din Private"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Spaţiu de stocare privat"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Ultimul an"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Înainte de %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "A fost depăşit numărul maxim de elemente care pot fi partajate (%d)."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Se afişează %d elemente"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Sortare după cele mai recente"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Sortare după cele mai vechi"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Ştergeţi %d elemente?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Etichete persoane"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Pentru derularea rapidă la alte date, menţineţi apăsat indicatorul de dată din partea din dreapta de sus a ecranului."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d imagini adăugate"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Adăugaţi imagini din"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Imagini amestecate"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Adăugare imagini"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Nu există evenimente de afişat. Creaţi un eveniment nou."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Ştergere elemente"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Vizualizarea unei imagini"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Atingeţi imaginea pe care doriţi să o vizualizaţi."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Vizualizaţi imaginea."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Atingeţi butonul mai multe opţiuni, apoi atingeţi Setare ca pentru a utiliza imaginea ca fundal sau imagine a unui contact."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Apropiaţi sau îndepărtaţi degetele pe imagine în timp ce atingeţi ecranul, pentru a micşora sau a mări."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Redimensionarea miniaturilor"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Redimensionarea miniaturilor va schimba numărul de miniaturi pe care le vedeţi pe ecran."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "O miniatură este o examinare de mici dimensiuni a unei imagini mai mari."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Vizualizarea albumelor"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Atingeţi %s, apoi atingeţi Album."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Atingeţi un album, apoi atingeţi imaginea sau videoclipul pe care doriţi să-l vizualizaţi."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Atingeţi %s în partea de sus a ecranului."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Partajarea unei imagini"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Partajarea mai multor imagini"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Selectaţi mai multe imagini pentru a le şterge simultan."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Selectaţi mai multe imagini pentru a le partaja simultan."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Atingeţi %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Gestionaţi şi bucuraţi-vă de imaginile şi videoclipurile dvs."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Filtrarea imaginilor"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Ştergerea unei imagini"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Ştergerea mai multor imagini"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Partajarea imaginilor"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Ştergerea imaginilor"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Deconectat"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Deconectat de la %s. Verificaţi starea reţelei şi dispozitivul conectat."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Ştergeţi acest album?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Ştergeţi acest element?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Aspect"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d fotografii"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Apăsaţi tasta meniu şi selectaţi opţiunea Selectare elemente."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Atingeţi %s, apoi atingeţi Setare ca pentru a utiliza imaginea ca fundal sau imagine a unui contact."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 rezultat"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d rezultate"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Mod Peisaj"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Studio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Nu sunt elemente de afişat."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Ştergere element"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Nedenumit"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Negrupate"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Eliminaţi eticheta de nume"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Eliminare din %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Nou"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Albumul va fi anulat."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Eliminaţi identificarea feţelor?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Eliminare elemente"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Eliminare element"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Eliminaţi %d elemente?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Eliminaţi acest element?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "EFECTUAT"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ANULARE"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "După ce faceţi fotografii, acestea vor fi afişate aici."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Fişier corupt sau format neacceptat."
+

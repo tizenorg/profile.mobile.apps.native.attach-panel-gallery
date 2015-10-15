@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Ezabatu %d album?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Tokiak"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Gehitu nagusira"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Etiketak"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Album guztiak"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook Web albuma"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa Web albuma"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Gertuko gailuak"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Duela %d hilabete"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Deskargak"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Ez dago memoria nahikoa. Elementu batzuk ezabatu."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Deskarga osatuta"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albumak"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Gogokoenak"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Harpidetu"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Kargatzen..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Fitxategiak aukeratu"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Sareta ikuspegia"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Hasierako pantaila"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Blokeo pantaila"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Dei egilearen IDa"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Aukeratu"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Ezarri"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Album berria"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Albumik ez"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Aukeratu etiketak"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Izen hori erabilia dago"
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Etiketaren izena erabilia izaten ari da. Gainidatzi?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Prozesu hondoa"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Ezin zaio izen berria jarri. Izen hori erabilia dago."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Albumaren izena hutsik"
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Adierazi etiketa izena"
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD txartela prestatzen..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Ezin da hasi USB biltegiratze modua aktibo badago"
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Albuma sortu"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Kontu honi buruzko datu guztiak ezabatuko dira. Jarraitu?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Bluetooth bidez inprimatu"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Ezin da berrizendatu"
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Izenik gabe"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Ez da albumik aukeratu"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Ez da etiketarik aukeratu"
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Aukeratu gailua"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Fitxategi transferentzia"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Osatua"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Albumak kargatzen..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Kontua aukeratu"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Elementua aukeratu"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Aukeratu albuma"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Beste deskarga bat abian dago. Mesedez, itxaron."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Inportatu"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Inportatua"
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Inportatzen..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Media"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Dagoeneko bada. Berridatzi?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Berriz saiatu?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Izen bera dagoeneko erabiltzen"
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Kargatzen. Itxaron mesedez..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Sarrera hutsik dago"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Sarrera parametro baliogabea"
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Sor. etik."
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Gehitu Web albuma"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Ikusi"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Kendu?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Karpeta sortu?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Esleitu gabe"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Etiketarik gabe"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Etiketarik ez"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Inprimatu"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Ezkerrera biratu"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Eskuinera biratu"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Jendea"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Aurkzpen tartea"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 segundo"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 segundo"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 segundo"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Zure etiketak"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Azken 30 egunetan"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Azken 7 egunetan"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Aplikatu hainbat iragazki zure bilaketetara"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Aurpegi etik."
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Erakusketa"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Etiketa ezabatu"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Albumaren izena"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Ez da fitxategirik hautatu. Hautatu fitxategi bat bidaltzeko eta saiatu berriz."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "GPSa piztuta argazkiak atera ondoren, zure argazkiak erakutsiko dira"
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Ezarpenak"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albumak"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Aurkezpena"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Erakusketaren ezarpenak"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Honen arabera ikusi"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Aukeratu elementuak"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Hasi diaporama"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox-eko edukia"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Eduki osoa"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox-eko edukia"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Erakusteko edukia"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Gailuko edukia"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox-eko edukia"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Lan egutegia"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Erakutsi gertuko gailuak"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Ezkutatu gertuko gailuak"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Argazkiak jatorrizko albumetik kopiatu edo kendu nahi dituzu?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Pribatutasuna"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 album ezabatuko da."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d album ezabatuko dira"
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Irudia editatu"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Partekatu"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Biratzen..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Ez da emaitzarik aurkitu"
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Kontua"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Bilatu gertuko gailuak"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Geh. nagusira"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook-eko edukia"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Elementu guztiak"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "Elementu 1 ezabatuko da"
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d elementu ezabatuko dira"
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Tag buddy"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d segundo"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Bilaketa hasita. Gailuen zerrenda automatikoki eguneratuko da."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Ez da gailurik aurkitu. Gertuko gailuak bilatzen jarraituko da atzeko planoan."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Aurkitu diren gertuko gailuak"
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d aukeratuta"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Ez da aurpegirik antzeman"
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d aurpegi detektatu dira"
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "Aurpegi 1 detektatu da"
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Gehieneko argazki kopurua (%d) gainditu duzu"
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Argazkia aukeratu"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Gehitu izena"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Jendea"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Utzi"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Ez galdetu berriz"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Hautatu argazkiak, ondoren ukitu %s album batera gehitzeko"
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Ireki %s Galeria"
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Erakutsi ezkutatutako elementuak"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Ezkutatutako elementuak"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Erakutsi elementuak"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Kenduta"
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galeria"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Argazkiak eta bideoak ikusten"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Argazkiak ikusten"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Hautatu album bat, ondoren hautatu argazki bat"
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Mugitu ezkerrera edo eskuinera argazki gehiago ikusteko."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Argazkia hurbildu edo urrundu"
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Aurpegi etik."
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Zure argazkietan pertsonak etiketa ditzakezu. Beren aurpegiak etiketatzean eta izenak gehitzean (Kontaktuetan ageri diren bezala), haiekin zuzenean harremanetan jartzeko moduen zerrenda eskainiko zaizu."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Argazkiak ateratzen dituzunean hurrengo baldintzak ematen badira, kokapena, data, pertsonen izena edo eguraldia bezalako informazioa erakutsiko da argazkiak ikusterakoan:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Eguraldi widgeta argazkiak atera aurretik/ostean freskatu da"
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS etiketa gaituta dago Kameran, argazkiak atera aurretik"
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Argazkietako pertsonak argazkiak atera ondoren etiketatu dira"
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Editatu argazkiak"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Hautatu karpeta bat, ondoren hautatu argazkia"
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "%d elementu arte aukera ditzakezu"
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Baieztatu %s gisa"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Esleitu izena"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Tutoriala osatuta"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Hautatu album bat"
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Hautatu argazki bat."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Hautatu kontaktuaren izena"
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Sortu istorio albuma"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Ukitu %s editatze ikonoa argazkia editatzeko"
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Freskatua"
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Eguraldia"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Kokalekua"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Orri pertsonala"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Album bakarra dago"
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Arrastatu hona"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Gehitu pantaila nagusira"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Kutxa urdinek gailuak hauteman dituen aurpegiak adierazten dituzte. Ukitu bat pertsona hori hautatzeko."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Ikusi argazkiak eta bideoak"
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Erreproduzigailua ez dago erabilgarri. Egiaztatu sarearen egoera eta konektatutako gailua."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s desgaituko da aplikazio honetan. Funtzio hori gaitzeko, zoaz %2$s-ra, hautatu funtzio hori eta, ondoren, hautatu aplikazio hau."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Ezin da gailura konektatu. Egiaztatu sarearen egoera eta konektatutako gailua"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Biltegi pertsonala"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Eduki pertsonala"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Deskarga hasten..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Hasi"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d elementu"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "Elementu 1"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Etiketak gogoko moduan etiketatu ondoren, argazkiak erakutsiko dira"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Gehitu zure biltegi pertsonalera"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Kendu zure biltegi pertsonaletik"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Ukitu hemen argazkiak ateratzeko edo bideoak grabatzeko"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Ukitu hemen argazkiak kokapen etiketekin ateratzeko (GPSa piztuta)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Ukitu hemen argazkiak ateratzeko eta pertsonak etiketatzeko"
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Sare konexiorik ez"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi konexioa behar da. Konektatu Wi-Fi sarera eta saiatu berriz."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Datu mugikorrak ezgaituta daude. Konektatu Wi-Fi sarera bestela, edo gaitu datu mugikorrak eta saiatu berriz."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Fitxategi ez bateragarria"
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Part. soinua/atera arg."
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Bideo fitxategi gisa"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Irudi fitxategi gisa"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Hautatutako gaia %s-(e)ra mugituko da"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Hautatutako elementuak %s-(e)ra mugituko dira"
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Ezabatzen..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Gehitzen..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Memoria pertsonal bateko gaiak dituen edukia sortzen baduzu, baliteke automatikoki ez ezkutatzea. Hautatutako eduki pertsonala eduki berria ikustean ikus daiteke."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Tiradera"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Ezin da argazkia kargatu"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Ukitu hemen argazkiak ateratzeko"
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Argazkiak atera eta haietan pertsonak etiketatu ondoren, argazkiak hemen erakutsiko dira"
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Arrastatu eta utzi"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Mugitu ohiko biltegira"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Mugitu biltegi pertsonalera"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albumak"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Aurpegia ezagutzen..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "HAUTATU ELEMENTUA"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "HAUTATU ELEMENTUAK"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Kokapen etiketak"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Dokumentuak"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Janaria"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Etxeko animaliak"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Paisaia"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Ibilgailuak"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Kokalekurik ez"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Iragazkiak"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Gertaera"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Loreak"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Konektatutako gailuak"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Aldatu kategoria"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Sortu gertaera"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Kendu gertaeratik"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Gehitu gertaera"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Gertaera sortu da."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Iragazi honela"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Hona kopiatu"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Hona mugitu"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Ezin da transmititu"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Ukitu %s, eta ukitu Iragazi honelaren azpian dauden kategorietako bat."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Argazkiak hautatzen duzun kategoriaren arabera iragaziko dira."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Gertaera: argazkiak data eta kokapenaren arabera iragazten ditu."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Jendea, paisaia, janaria, animaliak, ibilgailuak, dokumentuak eta loreak: iragazi argazkiak edukia aztertuz."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Ukitu marrazkilari menuaren botoia, eta ukitu Iragazi honelaren azpian dauden kategorietako bat."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Ukitu bi aldiz tiradera menua irekitzeko."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Ukitu bi aldiz tiradera menua ixteko."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Eduki pribatua"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Mugitu pribatura"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Kendu Pribatutik"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Biltegi pribatua"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Iaz"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "%d baino lehen"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Parteka daitezkeen elementuen gehieneko kopurua (%d) gainditu da."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "%d elementu erakustea"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Sailkatu azkenaren arabera"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Sailkatu zaharrenaren arabera"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "%d elementu ezabatu?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Pertsonen etiketak"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Beste data batzuetara azkar korritzeko, ukitu eta eutsi data adierazlea pantailaren goiko aldean, eskuinean."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d argazki gehituta"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Gehitu argazkiak hemendik"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Ausaz erakutsitako argazkiak"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Gehitu argazkiak"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Ez dago erakusteko gertaerarik. Sortu gertaera berria."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Ezabatu elementuak"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Argazki bat ikustea"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Ukitu ikusi nahi duzun argazkia."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Ikusi zure irudia."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Ukitu aukera gehiago botoia, eta ukitu Ezarri honela, irudia horma paper edo kontaktu irudi moduan erabiltzeko."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Egin atximur irudian edo zabaldu hatzak pantaila ukitu bitartean, hurbiltzeko edo urruntzeko."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Miniaturen neurria aldatzea"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Miniaturen neurria aldatuz gero, pantailan ikusten dituzun miniaturen kopurua aldatuko da."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Miniatura argazki handi baten aurrebista txikia da."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Albumak ikustea"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Ukitu %s, eta ukitu Albuma."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Ukitu album bat, eta ukitu ikusi nahi duzun argazkia edo bideoa."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Ukitu %s pantailaren goiko aldean."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Argazki bat partekatzea"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Hainbat argazki partekatzea"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Hautatu aldi berean ezabatu nahi dituzun hainbat argazki."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Hautatu aldi berean partekatu nahi dituzun hainbat argazki."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Ukitu %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Kudeatu eta gozatu zure argazki eta bideoak."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Argazkiak iragaztea"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Argazki bat ezabatzea"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Hainbat argazki ezabatzea"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Argazkiak partekatzea"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Argazkiak ezabatzea"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Deskonektatuta"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "%s-(e)tik deskonektatuta. Egiaztatu sare egoera eta konektatutako gailua."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Ezabatu album hau?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Ezabatu elementu hau?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Diseinua"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d argazki"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Sakatu menu tekla, eta hautatu Hautatu elementuak."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Ukitu %s, eta ukitu Ezarri honela, irudia horma paper edo kontaktu irudi moduan erabiltzeko."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "Emaitza 1"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d emaitza"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Paisaia modua"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Estudioa"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Ez dago elementurik erakusteko"
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Ezabatu elementua"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Izenik gabe"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Taldekatu gabe"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Kendu izen etiketa"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Kendu %s-(e)tik"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Berria"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Albuma ezeztatuko da"
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Kendu aurpegi identifikazioa?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Kendu elementuak"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Kendu elementua"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Ezabatu %d elementu?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Kendu elementu hau?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "EGINA"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "UTZI"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Argazkiak atera ondoren, hemen erakutsiko dira."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Fitxategia hondatuta dago edo formatua ez da bateragarria."
+

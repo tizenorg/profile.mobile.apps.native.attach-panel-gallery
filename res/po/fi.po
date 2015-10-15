@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Poistetaanko %d albumia?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Paikat"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Lisää etusivulle"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Tunnisteet"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Kaikki albumit"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook-verkkoalbumi"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa-verkkoalbumi"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Lähellä olevat laitteet"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Edelliset %d kuukautta"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Lataukset"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Muisti ei riitä. Poista joitain kohteita."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Lataus valmis"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albumit"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Suosikit"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Liity"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Ladataan..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Valitse tiedostot"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Ruudukkonäkymä"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Soul"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Alkunäyttö"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Lukitusnäyttö"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Soitt. tunnus"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Valitse"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Aseta"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Uusi albumi"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Ei albumeita"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Valitse tunnisteet."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Albumin nimi jo käytössä."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Tunnisteen nimi on jo käytössä. Korvataanko?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Käsittely taustalla"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Ei voi nimetä uudelleen. Albumin nimi on jo käytössä."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Tyhjä albumin nimi"
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Anna tunnisteen nimi."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Valmistellaan SD-korttia..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Ei voi käynnistää, kun USB-tallennustila on käytössä."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Luo albumi"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Kaikki tähän tiliin liittyvät tiedot poistetaan. Jatketaanko?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Tulosta Bluetoothin kautta"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Ei voi nimetä uudelleen."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Ei nimeä"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Albumeita ei ole valittu."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Tunnisteita ei ole valittu."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Valitse laite"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Tiedostonsiirto"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Valmis"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Ladataan albumeita..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Valitse tili"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Valitse kohde"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Valitse albumi"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Toinen lataus on käynnissä. Odota."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Tuo"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Tuotu."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Tuodaan..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Media"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "On jo olemassa. Päivitetäänkö?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Yritetäänkö uudelleen?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Sama nimi on jo käytössä."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Ladataan. Odota..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Tyhjä tieto"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Virheellinen syöteparametri"
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Luo tunn."
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Lisää verkkoalbumi"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Näytä"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Poistetaanko?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Luodaanko kansio?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Ei määritelty"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Merkitsemätön"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Ei tunnisteita"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Tulosta"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Kierrä vastapäivään"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Kierrä myötäpäivään"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Ihmiset"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Kuvaesityksen aikaväli"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 sekuntia"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 sekuntia"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 sekuntia"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Omat tunnisteet"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Viimeiset 30 päivää"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Viimeiset 7 päivää"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Käytä hauissa erilaisia suodattimia."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Kasvojen merk."
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Diaesitys"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Poista tunniste"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Albumin nimi"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Tiedostoa ei ole valittu. Valitse tiedosto ja yritä uudelleen."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Kuvat näytetään, kun olet ottanut kuvia GPS-toiminnon ollessa käytössä."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Asetukset"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albumit"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Kuvaesitys"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Kuvaesityksen asetukset"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Näyttöperuste"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Valitse kohteet"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Käynnistä kuvaesitys"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Sisältö Dropbox-sovelluksessa"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Kaikki sisältö"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Sisältö Dropbox-sovelluksessa"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Näytettävä sisältö"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Laitteessa oleva sisältö"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropboxissa oleva sisältö"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Aikajana"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Näytä lähellä olevat laitteet"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Piilota lähellä olevat laitteet"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Haluatko kopioida tai siirtää kuvat alkuperäisestä albumista?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Yksityisyys"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 albumi poistetaan."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albumia poistetaan."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Muokkaa kuvaa"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Jaa"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Kierretään..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Tuloksia ei löytynyt."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Tili"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Hae lähellä olevia laitteita"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Lisää etus."
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebookissa oleva sisältö"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Kaikki kohteet"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 kohde poistetaan."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d kohdetta poistetaan."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Merkitse kaveri"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d sekuntia"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Haku on aloitettu. Laiteluettelo päivitetään automaattisesti."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Laitteita ei löydy. Lähellä olevia laitteita haetaan taustalla."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Löydetty lähellä olevia laitteita."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d valittu"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Kasvoja ei tunnistettu."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d kasvot tunnistettiin."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 kasvot tunnistettiin."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Kuvien enimmäismäärä (%d) on ylitetty."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Valitse kuva"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Lisää nimi"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Ihmiset"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Peruuta"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Älä kysy uudelleen"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Valitse kuvat ja lisää ne albumiin napauttamalla %s."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Avaa %s galleria."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Näytä piilotetut kohteet"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Piilotetut kohteet"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Näytä kohteet"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Poistettu."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galleria"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Katsellaan kuvia ja videoita"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Kuvien katseleminen"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Valitse albumi ja sitten kuva."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Näytä lisää kuvia vierittämällä vasemmalle tai oikealle."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Lähennä tai loitonna kuvaa."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Kasvojen merk."
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Voit merkitä kuvissa olevat ihmiset. Kun napautat heidän kasvojaan ja lisäät heidän nimensä (Yhteystiedot-kohdassa olevassa muodossa), sinulle näytetään luettelo tavoista, joilla voit ottaa heihin yhteyttä suoraan."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Jos seuraavat ehdot täyttyvät kuvia otettaessa, tiedot (kuten paikat, päivämäärät, ihmisten nimet tai sää) näytetään lyhyesti kuvia katseltaessa:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Sääpienoisohjelma on päivitetty ennen kuvien ottamista tai sen jälkeen."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS-tunniste on otettu Kamerassa käyttöön ennen kuvien ottamista."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Kuvissa olevat ihmiset on merkitty kuvien ottamisen jälkeen."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Muokkaa kuvia"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Valitse kansio ja sitten kuva."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Voit valita enintään %d kohdetta."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Vahvista henkilöksi %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Liitä nimi"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Opetusohjelma suoritettu."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Valitse albumi."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Valitse kuva."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Valitse yhteyshenkilön nimi."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Luo juttualbumi"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Muokkaa kuvaa napauttamalla %s muokkauskuvaketta."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Päivitetty."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Sää"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Sijainti"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Oma sivu"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Albumeita on vain yksi."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Vedä tänne."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Lisää alkunäytöksi"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Laitteen tunnistamat kasvot on osoitettu sinisillä ruuduilla. Valitse haluamasi henkilö napauttamalla sitä vastaavaa ruutua."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Katsele kuvia ja videoita."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Soitin ei ole käytettävissä. Tarkista verkon tila ja yhdistetty laite."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s on poistettu tässä sovelluksessa käytöstä. Voit ottaa toiminnon käyttöön siirtymällä kohteeseen %2$s, valitsemalla tämän toiminnon ja sitten valitsemalla tämän sovelluksen."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Laitteeseen ei voi muodostaa yhteyttä. Tarkista verkon tila ja yhdistetty laite"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Henkilökohtainen tallennustila"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Oma sisältö"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Lataus käynnistetään..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Käynnistä"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d kohdetta"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 kohde"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Kuvat näytetään, kun olet merkinnyt ne suosikeiksi."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Lisää henkilökohtaiseen tallennustilaan"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Poista henkilökohtaisesta tallennustilasta"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Napauta tätä ottaaksesi kuvia tai videoita."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Ota sijaintitunnisteita sisältäviä kuvia napauttamalla tätä (GPS käytössä)."
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Ota kuvia ja merkitse ihmisiä napauttamalla tätä."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Ei verkkoyhteyttä"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi-yhteys vaaditaan. Muodosta Wi-Fi-verkkoyhteys ja yritä uudelleen."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Mobiilidata on poistettu käytöstä. Muodosta sen sijaan yhteys Wi-Fi-verkon kautta tai ota mobiilidata käyttöön ja yritä uudelleen."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Tiedostoa ei tueta."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Jaa ääni ja kuva -kuvia"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Videotiedostoina"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Kuvatiedostoina"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Valittu kohde siirretään kohteeseen %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Valitut kohteet siirretään kohteeseen %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Poistetaan..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Lisätään..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Jos luot henkilökohtaisessa tallennustilassa olevia kohteita käsittävää sisältöä, sitä ei ehkä piiloteta automaattisesti. Valittu henkilökohtainen sisältö näkyy uutta sisältöä tarkasteltaessa."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Laatikko"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Valokuvaa ei voi ladata."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Ota kuvia napauttamalla tätä."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Kun olet ottanut kuvia ja merkinnyt niissä olevat ihmiset, kuvat näytetään täällä."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Vedä ja pudota"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Siirrä normaaliin tallennustilaan"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Siirrä henkilökohtaiseen tallennustilaan"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albumit"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Tunnistetaan kasvoja..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "VALITSE KOHDE"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "VALITSE KOHTEET"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Sijaintitunnisteet"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Asiakirjat"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Ruoka"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Lemmikkieläimet"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Maisema"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Ajoneuvot"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Sijaintia ei ole"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Suodattimet"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Tapahtuma"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Kukat"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Yhdistetyt laitteet"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Vaihda luokkaa"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Luo tapahtuma"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Poista tapahtumasta"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Lisää tapahtumaan"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Tapahtuma luotu."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Suodatusperuste"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Kopioi kohteeseen"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Siirrä kohteeseen"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Ei voi siirtää"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Napauta %s ja sitten jotakin Suodatusperuste-kohdassa olevaa luokkaa."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Kuvat suodatetaan valitsemasi luokan mukaan."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Tapahtuma: suodata kuvat päivämäärän ja paikan mukaan."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Ihmiset, Maisema, Ruoka, Lemmikkieläimet, Ajoneuvot, Asiakirjat ja Kukat: suodata kuvat sisällön analysoinnin perusteella."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Napauta vetovalikon painiketta ja sitten jotakin Suodatusperuste-kohdassa olevaa luokkaa."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Avaa vetovalikko kaksoisnapauttamalla tätä."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Sulje vetovalikko kaksoisnapauttamalla tätä."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Yksityinen sisältö"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Siirrä Yksityiset-kansioon"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Poista Yksityiset-kansiosta"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Yksityinen tallennustila"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Viime vuonna"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Ennen %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Jaettavissa olevien kohteiden enimmäismäärä (%d) on ylitetty."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Näytetään %d kohdetta"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Lajittele uusimpien mukaan"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Lajittele vanhimpien mukaan"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Poistetaanko %d kohdetta?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Ihmistunnisteet"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Voit siirtyä vierittämällä nopeasti muihin päivämääriin painamalla näytön oikeassa yläkulmassa olevaa päivämääräilmaisinta."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d kuvaa lisätty"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Lisää kuvia kohteesta"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Satunnaisessa järjestyksessä olevat kuvat"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Lisää kuvia"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Näytettäviä tapahtumia ei ole. Luo uusi tapahtuma."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Poista kohteet"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Kuvan tarkasteleminen"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Napauta tarkasteltavaa kuvaa."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Näytä kuvasi."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Napauta Lisää vaihtoehtoja -painiketta ja valitse sitten Aseta käyttääksesi kuvaa taustakuvana tai yhteyshenkilön kuvana."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Nipistä kuvaa tai levitä sormesi erilleen, kun kosketat näyttöä loitonnusta tai lähennystä varten."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Pienoiskuvien koon muuttaminen"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Jos muutat pienoiskuvien kokoa, näytössä näkyvien pienoiskuvien määrä muuttuu."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Pienoiskuva on suuremman kuvan esikatselukuva."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Albumeiden katseleminen"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Napauta %s ja valitse sitten Albumi."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Napauta albumia ja sitten tarkasteltavaa kuvaa tai videota."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Napauta näytön yläosassa %s."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Kuvan jakaminen"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Useiden kuvien jakaminen"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Valitse useita kuvia poistettaviksi samaan aikaan."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Valitse useita kuvia jaettaviksi samaan aikaan."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Napauta %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Hallitse kuvia ja videoita ja nauti niistä."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Kuvien suodattaminen"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Kuvan poistaminen"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Useiden kuvien poistaminen"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Kuvien jakaminen"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Kuvien poistaminen"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Yhteys katkaistu"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Yhteys laitteeseen %s on katkaistu. Tarkista verkon tila ja yhdistetty laite."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Poistetaanko tämä albumi?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Poistetaanko tämä kohde?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Asettelu"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d valokuvaa"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Paina valikkonäppäintä ja valitse Valitse kohteet."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Napauta %s ja valitse sitten Aseta käyttääksesi kuvaa taustakuvana tai yhteyshenkilön kuvana."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 tulos"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d tulosta"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Vaakatila"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Studio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Ei näytettäviä kohteita."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Poista kohde"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Nimetön"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Ryhmitys purettu"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Poista nimitunniste"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Poista luokasta %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Uusi"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Albumi peruutetaan."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Poistetaanko kasvojen tunnistus?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Poista kohteet"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Poista kohde"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Poistetaanko %d kohdetta?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Poistetaanko tämä kohde?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "VALMIS"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "PERUUTA"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Kuvat näytetään täällä niiden ottamisen jälkeen."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Tiedosto on vioittunut tai sen muotoa ei tueta."
+

@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "%d albums verwijderen?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Plaatsen"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Toevoegen aan startpagina"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Tags"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Alle albums"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook-webalbum"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa-webalbum"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Apparaten in de buurt"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "%d maanden oud"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Onvoldoende geheugen. Wis een aantal items."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Downloaden voltooid."
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Albums"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Favorieten"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Aanmelden"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Laden..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Bestanden selecteren"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Rasterweergave"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seoel"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Startscherm"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Vergrendelscherm"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Beller-id"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Selecteren"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Inst."
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Nieuw album"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Geen albums"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Tags selecteren"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Albumnaam al in gebruik."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Tagnaam al in gebruik. Overschrijven?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Proces naar achtergrond"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Kan de naam niet wijzigen. Albumnaam al in gebruik."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Lege albumnaam."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Tagnaam ingeven."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD-kaart voorbereiden..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Kan niet starten als USB-opslag actief is."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Album maken"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Alle gegevens die met dit account samenhangen, worden verwijderd. Doorgaan?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Afdrukken via Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Kan de naam niet wijzigen."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Geen naam"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Geen albums geselecteerd."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Geen tags geselecteerd."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Apparaat selecteren"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Bestandsoverdracht"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Voltooid."
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Albums laden..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Account selecteren"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Item selecteren"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Album selecteren"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Er is nog een download bezig. Even geduld..."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Importeren"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Geïmporteerd."
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Importeren..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Media"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Bestaat al. Overschrijven?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Opnieuw?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Naam is al in gebruik."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Laden. Even geduld..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Geen gegevens."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Ongeldige invoerparameter."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Tag maken"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Webalbum toevoegen"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Tonen"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Verwijderen?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Map maken?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Niet toegewezen"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Niet-getagd"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Geen tags"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Afdrukken"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Linksom draaien"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Rechtsom draaien"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Personen"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Interval diashow"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 seconden"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 seconden"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 seconden"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Uw tags"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Afgelopen 30 dagen"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Afgelopen 7 dagen"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Pas diverse filters toe op uw zoekopdrachten."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Gezichttags"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Diashow"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Tag verwijderen"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Naam album"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Geen bestand geselecteerd. Selecteer een bestand en probeer het opnieuw."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Foto´s worden weergegeven nadat u deze hebt genomen met GPS ingeschakeld."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Instellingen"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Albums"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Diashow"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Instellingen diashow"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Weergave"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Items selecteren"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Diashow starten"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Inhoud in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Alle inhoud"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Inhoud in Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Weer te geven inhoud"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Apparaatinhoud"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox-inhoud"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Tijdlijn"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Apparaten in de buurt tonen"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Apparaten in de buurt verbergen"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Wilt u de foto´s in het oorspronkelijke album kopiëren en verplaatsen?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Privacy"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 album wordt verwijderd."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d albums worden verwijderd."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Afbeelding bewerken"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Delen"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Roteren..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Geen resultaten gevonden."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Account"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Zoeken naar apparaten in de buurt"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Aan startpag"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook-inhoud"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Alle items"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 item wordt verwijderd."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d items worden verwijderd."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Taghulp"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d seconden"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Scan gestart. Apparatenlijst wordt automatisch bijgewerkt."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Geen apparaten gevonden. Zoeken naar apparaten in de buurt wordt op de achtergrond voorgezet."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Apparaten in de buurt gevonden."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d geselecteerd"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Geen gezichten gedetecteerd."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d gezichten gedetecteerd."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 gezicht gedetecteerd."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Maximumaantal foto´s (%d) overschreden."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Foto selecteren"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Naam toevoegen"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Mensen"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Annuleren"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Niet meer vragen"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Selecteer foto´s en tik op %s om ze aan een album toe te voegen."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Open %s Galerij."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Verborgen items weergeven"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Verborgen items"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Items weergeven"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Verwijderd."
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galerij"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Foto´s en video´s bekijken"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Foto's bekijken"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Selecteer een album en dan een foto."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Schuif naar links of rechts om meer foto´s weer te geven."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "In- of uitzoomen in een foto."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Gezichttags"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "U kunt personen in foto´s taggen. Wanneer u op hun gezichten tikt en hun namen toevoegt (zoals ze in Contacten verschijnen), ziet u een lijst met methoden om rechtstreeks contact op te nemen."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Als aan de volgende voorwaarden wordt voldaan wanneer u foto´s neemt, wordt informatie, zoals locaties, datums, namen van personen of het weer, kort getoond bij het weergeven van de foto´s:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "De weerwidget is vernieuwd voordat/nadat de foto´s zijn genomen."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS-tag wordt ingeschakeld in Camera, voordat u foto´s neemt."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Personen in foto´s zijn getagd nadat de foto´s zijn genomen."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Foto´s bewerken"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Selecteer een map en dan een foto."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "U kunt maximaal %d items selecteren."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Bevestigen als %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Naam toewijzen"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Zelfstudie voltooid."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Een album selecteren."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Een afbeelding selecteren."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Selecteer de naam van het contact."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Story album maken"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Tik op %s het bewerkpictogram om de foto te bewerken."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Vernieuwd."
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Weer"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Locatie"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Persoonlijke pagina"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Er is slechts één album."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Hiernaartoe slepen."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Toevoegen aan startscherm"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Blauwe vakken geven gezichten aan die het apparaat heeft herkend. Tik erop om die persoon te selecteren."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Foto´s en video´s bekijken."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Speler is niet beschikbaar. Controleer netwerkstatus en aangesloten apparaat."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s is uitgeschakeld in deze applicatie. Als u deze functie wilt inschakelen, gaat u naar %2$s, selecteert u deze functie en daarna deze applicatie."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Kan niet verbinden met het apparaat. Controleer de netwerkstatus en het aangesloten apparaat"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Persoonlijke opslag"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Persoonlijke inhoud"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Download starten..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Start"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d items"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 item"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Foto´s worden weergegeven nadat u deze als favoriet hebt getagd."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Toevoegen aan uw persoonlijke opslag"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Verwijderen uit uw persoonlijke opslag"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Tik hier om foto´s of video´s te maken."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Tik hier om foto´s te maken met locatietags (GPS ingeschakeld)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Tik hier om foto´s of personen te taggen."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Geen netwerkverbinding"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi-verbinding vereist. Maak verbinding met Wi-Fi-netwerk en probeer het opnieuw."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Mobiele gegevens uitgeschakeld. Maak in plaats daarvan verbinding via Wi-Fi-netwerk of schakel mobiele gegevens in en probeer het opnieuw."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Niet-ondersteund bestand."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Foto'met geluid & opname delen"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Als videobestanden"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Als afbeeldingsbestanden"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Het geselecteerde item wordt verplaatst naar %s."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "De geselecteerde items worden verplaatst naar %s."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Verwijderen..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Toevoegen..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Als u inhoud maakt die items uit de persoonlijke opslag bevat, wordt deze mogelijk niet automatisch verborgen. De geselecteerde persoonlijke inhoud kan worden bekeken tijdens het weergeven van de nieuwe inhoud."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Lade"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Kan foto niet laden."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Tik hier om foto´s te maken."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Nadat u foto´s hebt gemaakt of de mensen daarin hebt getagd, worden deze foto´s hier getoond."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Slepen en neerzetten"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Verplaats naar normale opslag"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Verplaats naar persoonlijke opslag"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Albums"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Gezicht herkennen..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ITEM SELECTEREN"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ITEMS SELECTEREN"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Locatietags"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Documenten"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Voedsel"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Huisdieren"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Landschap"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Voertuigen"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Geen locatie"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filters"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Gebeurtenis"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Bloemen"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Aangesloten apparaten"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Categorie wijzigen"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Gebeurtenis maken"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Verwijderen uit gebeurtenis"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Toevoegen aan gebeurtenis"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Gebeurtenis gemaakt."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filteren op"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Kopiëren naar"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Verplaatsen naar"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Kan niet overbrengen"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Tik op %s en vervolgens op een van de categorieën onder Filteren op."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Foto´s worden gefilterd op de geselecteerde categorie."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Gebeurtenis: filtert de foto´s op datum en locatie."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Mensen, Landschappen, Voedsel, Huisdieren, Voertuigen, Documenten en Bloemen: filter de foto´s door de inhoud te analyseren."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Tik op de knop van het lademenu en vervolgens op een van de categorieën onder Filteren op."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Tik tweemaal om lademenu te openen."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Tik tweemaal om lademenu te sluiten."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Privé-inhoud"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Verplaatsen naar Privé"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Verwijderen uit Privé"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Privé-opslag"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Vorig jaar"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Voor %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Maximumaantal items dat kan worden gedeeld (%d), is overschreden."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "%d items weergeven"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Sorteren op laatste"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Sorteren op oudste"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "%d items verwijderen?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Tags van personen"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Tik op de datumindicator rechtsboven in het scherm en houd vast als u snel naar andere datums wilt scrollen."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d foto´s toegevoegd"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Foto´s toevoegen uit"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Foto´s in willekeurige volgorde"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Foto´s toevoegen"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Er zijn geen gebeurtenissen om weer te geven. Maak een nieuwe gebeurtenis."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Items verwijderen"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Een foto weergeven"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Tik op de foto die u wilt weergeven."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Geef uw foto weer."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Tik op de knop Meer opties en vervolgens op Instellen als om de afbeelding te gebruiken als achtergrond of contactfoto."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Knijp uw vingers boven de foto samen of spreid ze terwijl u het scherm aanraakt om in of uit te zoomen."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Afm. miniatuurweergave wijzigen"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Als u het formaat van de miniatuurweergaven wijzigt, verandert het aantal miniatuurweergaven dat u op het scherm ziet."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Een miniatuurweergave is een klein voorbeeld van een grotere afbeelding."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Albums weergeven"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Tik op %s en vervolgens op Album."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Tik op een album en vervolgens op de foto of de video die u wilt weergeven."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Tik op %s boven aan het scherm."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Een foto delen"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Meerdere foto's delen"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Selecteer meerdere foto´s om tegelijk te verwijderen."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Selecteer meerdere foto´s om tegelijk te delen."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Tik op %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Beheer en geniet van uw foto´s en video´s."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Foto's filteren"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Een foto verwijderen"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Meerdere foto's verwijderen"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Foto's delen"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Foto's verwijderen"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Verbinding verbroken"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Verbinding verbroken met %s. Controleer de netwerkstatus en het aangesloten apparaat."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Dit album verwijderen?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Dit item verwijderen?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Lay-out"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d foto's"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Druk op de menutoets en selecteer Items selecteren."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Tik op %s en vervolgens op Instellen als om de afbeelding te gebruiken als achtergrond of contactfoto."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 resultaat"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d resultaten"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Liggend"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Studio"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Geen items om weer te geven."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Item verwijderen"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Naamloos"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Groep opgeheven"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Naamtag verwijderen"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Verwijderen uit %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Nieuw"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Het album wordt geannuleerd."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Gezichtsidentificatie verwijderen?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Items verwijderen"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Item verwijderen"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "%d items verwijderen?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Dit item verwijderen?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "GEREED"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ANNULEREN"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Nadat u foto´s hebt gemaakt, worden ze hier weergegeven."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Bestand beschadigd of indeling niet ondersteund."
+

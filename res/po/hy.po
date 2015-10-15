@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Վերացնե՞լ %d ալբոմներ:"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Վայրեր"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Ավելացնել տանը"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Հայտանիշեր"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Բոլոր ալբոմները"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook Ինտերնետային ալբոմ"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa Ինտերնետային ալբոմ"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Մոտակա սարքեր"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Անցյալ %d ամիսները"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Բեռնումներ"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Հիշողությունը չի բավարարում: Ջնջեք որոշ տարրեր"
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Բեռնումը ավարտված է:"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Ալբոմներ"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Սիրվածները"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Բաժանորդագրվել"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Բեռնում է..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Ընտրեք ֆայլեր"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Աղյուսակաձև դիտում"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Սեուլ"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Աշխատասեղան"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Կողպել էկրանը"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Կանչողի ID"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Ընտրել"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Նախադրել"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Նոր ալբոմ"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Ալբոմներ չկան"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Ընտրել հատկորոշիչներ:"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Ալբմի անունն արդեն գրծվմ է:"
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Հատկորոշիչի անունն արդեն գործածվում է. վերագրանցե՞լ:"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Ֆոնային պրոցես"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Անհնար է վերանվանել: Ալբոմի անունն արդեն գործածվում է:"
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Ալբոմի դատարկ անուն:"
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Մուտքագրել հատկորոշիչի անուն:"
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "Նախապատրաստվում է SD քարտ..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "Անհնար է սկսել, քանի դեռ USB պահոցի ռեժիմն ակտիվ է:"
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Ստեղծել ալբոմ"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Այս հաշվին առնչվող բոլոր տվյալները կվերացվեն. շարունակե՞լ:"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Տպել Bluetooth-ի միջոցով"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Հնարավոր չէ վերանվանել:"
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Անուն չկա"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Ոչ մի ալբոմ չի ընտրվել:"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Հատկորոշիչներ չեն ընտրվել:"
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Ընտրեք սարք"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Ֆայլի փոխանցում"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Ավարտված է:"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Բեռնվում են ալբոմներ..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Ընտրեք հաշիվ"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Ընտրել տարրը"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Ընտրել ալբոմ"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Մեկ այլ ներբեռնում է ընթանում: Խնդրում ենք սպասել:"
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Ներարկում"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Ներմուծված:"
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Ներմուծում..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Մեդիա"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Արդեն գոյություն ունի: Վերագրանցե՞լ"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Կրկին փորձե՞լ"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Նույն անունն արդեն օգտագործվում է:"
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Բեռնվում է: Խնդրում ենք սպասել..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Գրառումը դատարկ է:"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Անվավեր ներածված պարամետր:"
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Ստեղծ պիտկ"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Ավելացնել Ինտերնետային ալբոմ"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Դիտել"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Հեռացնե՞լ"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Ստեղծե՞լ թղթապանակ"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Նշանակված չէ"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Չհատկորոշված"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Հատկորոշիչներ չկան"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Տպել"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Պտտել ձախ"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Պտտել աջ"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Մարդիկ"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Սահկահանդեսի միջակայքը"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3  վայրկյան"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 վայրկյան"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 վայրկյան"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Ձեր հատկորոշիչները"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Վերջին 30 օրը"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Վերջին 7 օրը"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Տարբեր զտիչներ կիրառեք Ձեր որոնումների նկատմամբ:"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Դեմքի ֆիքսում"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Սլյդ շոու"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Ջնջել տեգը"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Ալբոմի անուն"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Ոչ մի ֆայլ չի ընտրվել: Ընտրեք ուղարկելու ֆայլ և նորից փորձեք:"
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Միացված GPS-ի ժամանակ նկարահանելուց հետո Ձեր նկարները կցուցադրվեն:"
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Պարամետրեր"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Ալբոմներ"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Սահկահանդես"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Սահկահանդեսի ընտրանքները"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Դիտել ըստ"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Ընտրել տարրեր"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Սկսել սլայդերի ցուցադրում"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Բովանդակությունը՝ Dropbox-ում"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Ամբողջ բովանդակությունը"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Բովանդակությունը՝ Dropbox-ում"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Ցուցադրման ենթակա բովանդակություն"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Սարքի բովանդակություն"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox-ի բովանդակություն"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Ժմնկի սանդղակ"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Ցույց տալ մոտակա սարքերը"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Թաքցնել մոտակա սարքերը"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Ուզու՞մ եք պատճենել կամ տեղափոխել սկզբնական ալբոմի նկարները:"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Գաղտնիություն"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 ալբոմ կվերացվի:"
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d ալբոմ կվերացվի:"
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Խմբագրել պատկերը"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Համատեղ օգտագործում"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Պտտվում է..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Արդյունքներ չեն գտնվել:"
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Հաշիվ"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Կատարել մերձակա սարքերի տեսածրում"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Ավլց. հիմնկնին"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook-ի բովանդակություն"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Բոլոր տարրերը"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 տարր կվերացվի:"
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d տարրեր կվերացվեն:"
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Հատկորոշել մտերիմին"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d վայրկյան"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Տեսածրումը սկսվեց: Սարքերի ցուցակը կթարմացվի ինքնաբերաբար"
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Սարքեր չեն գտնվել: Մերձակա սարքերի տեսածրումը կշարունակվի հետին պլանում"
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Մոտակա սարքեր են գտնվել:"
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d ընտրվել է"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Դեմքեր չեն հայտնաբերվել:"
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d դեմք է ճանաչվել:"
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 դեմք է ճանաչվել:"
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Նկարների առավելագույն քանակը (%d) գերազանցվել է:"
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Ընտրեք նկար"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Ավելացնել անուն"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Մարդիկ"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Դադարեցնել"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Այլևս չհարցնել"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Ընտրեք նկարներ, հետո թակեք %s՝ դրանք ալբոմում ավելացնելու համար:"
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Բացեք %s Պատկերասրահը:"
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Ցույց տալ թաքցված տարրերը"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Թաքցված տարրեր"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Ցույց տալ տարրերը"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Հեռացված է"
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Պատկերասրահ"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Նկարների և տեսանյութերի դիտում"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Նկարների դիտում"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Ընտրեք ալբոմ, հետո ընտրեք նկար:"
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Ոլորեք ձախ կամ աջ, որպեսզի դիտեք այլ նկարներ:"
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Նկարի մասշտաբի մեծացում կամ փոքրացում:"
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Դեմքի ֆիքսում"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Ձեր նկարներում կարող եք մարդկանց հատկորոշել: Երբ թակեք նրանց դեմքերն ու ավելացնեք անունները (ինչպես դրանք երևում են Կոնտակտներում), Ձեզ կառաջարկվի նրանց հետ ուղղակիորեն կապվելու եղանակների մի ցուցակ:"
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Եթե հետևյալ պայմանները բավարարվում են, երբ նկարներ եք նկարահանում, ապա տեղեկությունները, ինչպիսիք են գտնվելու տեղերը, թվականները, մարդկանց անունները կամ եղանակի տեսությունը, կարճատև կցուցադրվեն նկարները դիտելիս՝"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Եղանակի պատկերագիրը նորացվել է նկարահանելուց առաջ/հետո:"
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS հատկորոշիչն ընձեռված է Խցիկում նախքան նկարահանելը:"
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Նկարներում մարդիկ հատկորոշվել են նկարահանելուց հետո:"
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Խմբագրեք նկարներ"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Ընտրեք պանակ, հետո ընտրեք նկար:"
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Կարող եք ընտրել մինչև %d տարր:"
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Հաստատեք որպես %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Վերագրել անուն"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Ուսումնական ձեռնարկն ավարտվեց:"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Ընտրեք ալբոմ:"
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Ընտրեք նկար:"
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Ընտրեք կոնտակտի անունը:"
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Ստեղծել պատմությունների ալբոմ"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Թակեք %s խմբագրման պատկերակը՝ նկարը խմբագրելու համար:"
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Նորացվեց:"
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Եղանակ"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Տեղը"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Անձնական էջ"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Միայն մեկ ալբոմ կա:"
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Քաշեք այստեղ:"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Ավելացնել Հիմնական էկրանին"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Կապույտ վանդակները նշանակում են այն դեմքերը, որոնք սարքը ճանաչել է: Թակեք որևէ վանդակ՝ տվյալ անձին ընտրելու համար"
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Դիտեք նկարներ և տեսանյութեր:"
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Նվագարկիչն առկա չէ։ Ստուգե՛ք ցանցի վիճակը և կապակցված սարքը:"
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s-ը կասեցված է այս ծրագրում: Այս գործառույթն ընձեռելու համար գնացեք %2$s, ընտրեք այս գործառույթը, այնուհետև ընտրեք այս ծրագիրը"
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Անհնար է միանալ սարքին: Ստուգեք ցանցի կարգավիճակը և միացված սարքը"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Անհատական պահոց"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Անձնական բվնդկթյուն"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Ներբեռնումը սկսվում է..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Մեկնարկել"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d տարր"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 տարր"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Նկարները որպես սիրվածներ հատկորոշելուց հետո նկարները կցուցադրվեն:"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Ավելացրեք Ձեր անհատական պահոցը"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Հեռացրեք Ձեր անհատական պահոցից"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Նկարներ կամ տեսանյութեր նկարահանելու համար թակեք այստեղ:"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Թակեք այստեղ՝ տեղի հատկորոշիչներով նկարներ նկարահանելու համար (GPS-ը՝ միացված)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Թակեք այստեղ՝ նկարներ նկարահանելու և մարդկանց հատկորոշելու համար:"
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Ցանցային միացում չկա"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi միացում է պահանջվում: Միացեք Wi-Fi ցանցին և նորից փորձեք:"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Շարժական տվյալները կասեցված են: Փոխարենը միացեք Wi-Fi ցանցին կամ ընձեռեք շարժական տվյալներն ու նորից փորձեք"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Չսատարվող ֆայլ:"
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Կիսեք ձայն և նկար"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Որպես տեսանիշքեր"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Որպես պատկերային նիշքեր"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Ընտրված տարրը կտեղափոխվի %s:"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Ընտրված տարրերը կտեղափոխվեն %s:"
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Հեռացնում է..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Ավելացնում է..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Եթե ստեղծեք անհատական պահոցի տարրեր ներառող բովանդակություն, հնարավոր է, որ այն ինքնաբերաբար չթաքցվի: Ընտրված անձնական բովանդակությունը հնարավոր կլինի տեսնել նոր բովանդակությունը դիտելու ժամանակ:"
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Իջնող ընտրացանկ"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Անհնար է բեռնել լուսանկարը:"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Նկարներ նկարահանելու համար թակեք այստեղ:"
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Նկարներ նկարահանելուց և դրանցում մարդկանց հատկորոշելուց հետո այդ նկարները կցուցադրվեն այստեղ:"
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Քարշեք և թողեք"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Տեղափոխել դեպի սովորական պահոց"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Տեղափոխել դեպի անհատական պահոց"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Ալբոմներ"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Դեմքի ճանաչում..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ԸՆՏՐԵԼ ՏԱՐՐ"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ԸՆՏՐԵԼ ՏԱՐՐԵՐ"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Տեղադրության պիտակներ"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Փաստաթղթեր"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Ուտելիք"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Ընտանի կենդանիներ"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Տեսարան"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Տրանսպորտային միջոցներ"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Տեղ չկա"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Զտիչներ"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Իրադարձություն"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Ծաղիկներ"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Կապակցված սարքեր"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Փոխել կատեգորիան"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Ստեղծել իրդրձ"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Հեռացնել իրադարձությունից"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Ավելացնել իրադարձությանը"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Իրադարձությունը ստեղծված է:"
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Զտել՝ ըստ"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Պատճենել ...ում"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Տեղափոխել դեպի"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Անհնար է ուղղորդված փոխանցել"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Թակեք %s, հետո թակեք «Զտել՝ ըստ»-ում նշված կատեգորիաներից մեկը:"
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Նկարները կզտվեն՝ ըստ Ձեր ընտրած կատեգորիայի:"
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Իրադարձություն. զտում է նկարները՝ ըստ թվականի և տեղի:"
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Մարդիկ, Տեսարան, Սնունդ, Ընտանի կենդանիներ, Տրանսպորտային միջոցներ, Փաստաթղթեր և Ծաղիկներ՝ Զտեք նկարները՝ վերլուծելով բովանդակությունը:"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Թակեք գզրոց-ընտրացանկի կոճակը, հետո թակեք «Զտել՝ ըստ»-ում նշված կատեգորիաներից մեկը:"
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Կրկնակի թակեք՝ գզրոց-ընտրացանկը բացելու համար:"
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Կրկնակի թակեք՝ գզրոց-ընտրացանկը փակելու համար:"
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Գաղտնի բովանդակություն"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Տեղափոխել դեպի Գաղտնի"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Հեռացնել Գաղտնիից"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Անձնական պահոց"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Անցյալ տարի"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Մինչև %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Տարրերի առավելագույն քանակը, որոնք կարող են համօգտագործվել (%d), գերազանցվել է:"
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Ցույց է տրվում %d տարր"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Տեսակավորել ըստ ամենավերջինի"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Տեսակավորել ըստ ամենահինի"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Ջնջե՞լ %d տարր"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Մարդկանց հատկորոշիչներ"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Արագորեն դեպի այլ թվականներ ոլորելու համար էկրանի վերին աջ մասում թակեք և պահեք թվականի ցուցիչը:"
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d նկար է ավելացվել"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Նկարներ ավելացնել այստեղից՝"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Խառնված նկարներ"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Ավելացնել նկարներ"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Ցուցադրելու իրադարձություններ չկան: Ստեղծեք նոր իրադարձություն:"
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Վերացնել տարրեր"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Նկարի դիտում"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Թակեք նկարը, որն ուզում եք դիտել:"
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Դիտեք Ձեր նկարը:"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Թակեք «այլ ընտրանքներ» կոճակը, հետո թակեք «Նախադրել պատկերի օգտագործում որպես պաստառ կամ կոնտակտի նկար»:"
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Էկրանին հպվելիս մատներով սեղմեք պատկերը կամ մատները հեռացրեք իրարից՝ մասշտաբը փոքրացնելու կամ մեծացնելու համար:"
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Մանրապատկերների չափերի փոխում"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Մանրապատկերների չափերը փոխելը կփոխի էկրանի վրա ցուցադրվող մանրապատկերների քանակը:"
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Մանրապատկերն ավելի մեծ նկարի փոքր նախադիտումն է:"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Ալբոմների դիտում"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Թակեք %s, հետո թակեք Ալբոմ:"
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Թակեք ալբոմ, հետո թակեք նկարը կամ տեսանյութը, որն ուզում եք դիտել:"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Էկրանի վերևի մասում թակեք %s:"
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Նկարի համօգտագործում"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Մի քանի նկարների համօգտագործում"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Ընտրեք մեկից ավելի նկարներ՝ միաժամանակ վերացնելու համար:"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Ընտրեք մեկից ավելի նկարներ՝ միաժամանակ համօգտագործելու համար:"
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Թակեք %s:"
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Կառավարեք և վայելեք Ձեր նկարներն ու տեսանյութերը:"
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Նկարների զտում"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Նկարի վերացում"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Մեկից ավելի նկարների վերացում"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Նկարների համօգտագործում"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Նկարների վերացում"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Անջատված է"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Անջատվել է %s-ից: Ստուգեք ցանցի կարգավիճակը և միացված սարքը"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Վերացնե՞լ այս ալբոմը:"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Վերացնե՞լ այս տարրը:"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Դասավորություն"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d լուսանկար"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Սեղմեք ընտրացանկի ստեղնը, հետո ընտրեք «Ընտրել տարրեր»:"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Թակեք %s, հետո թակեք «Նախադրել պատկերի օգտագործում որպես պաստառ կամ կոնտակտի նկար»:"
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 արդյունք"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d արդյունքներ"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Ալբոմի ռեժիմ"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Արվեստանոց"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Ցուցադրելու տարրեր չկան:"
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Վերացրեք տարր"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Անանուն"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Ապախմբավորված"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Հեռացնել անվանապիտակը"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Հեռացնել %s-ից"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Նոր"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Ալբոմը չեղյալ կհամարվի:"
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Հեռացնե՞լ դեմքի նույնականացումը:"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Հեռացնել տարրեր"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Հեռացնել տարր"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Հեռացնե՞լ %d տարր:"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Հեռացնե՞լ այս տարրը:"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "ԱՐՎԱԾ"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "ԴԱԴԱՐԵՑՆԵԼ"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Նկարահանելուց հետո նկարները կցուցադրվեն այստեղ:"
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Ֆայլը վնասված է կամ չապահովված ձևաչափով է:"
+

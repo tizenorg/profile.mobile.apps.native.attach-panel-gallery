@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "%d альбомды жою керек пе?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Орындар"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Бастапқы бетке қосу"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Белгілер"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Барлық альбомдар"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Facebook веб-альбомы"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Picasa веб-альбомы"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Жақын құрылғылар"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Өткен %d ай"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Жазылған"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "Жад жетыспейт.Көп арналы жою."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Жазылу аяқталды"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Альбомдар"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Таңдаулылар"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Жазылу"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Жазылуда..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Файлдарды таңдау"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Тор көрініс"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Сеул"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Бейнебеттің өзіндік беті"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Экранды құлыптау"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "Шалушы нөмірі"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Таңдау"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Орнату"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Жаңа альбом"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Альбомдар жоқ"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Тегтерді таңдау."
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Альбом атауы пайдаланылуда."
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "Тег атауы бұрыннан пайдаланылуда. Үстіне жазу керек пе?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Процесс фоны"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Атауын өзгерту мүмкін емес. Альбомның атауы пайдаланылуда."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Бос альбомның атауы."
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Тег атауын енгізу."
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "SD картасы дайындалуда..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "USB сақтау режимі қосылғанда бастау мүмкін емес."
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Альбом жасау"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "Бұл есептік жазбаға қатысты барлық деректер жойылады. Жалғастыру керек пе?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Блютуз арқылы басып шығару"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "Атын өзгерту мүмкін емес."
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Ондай есім жоқ"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Альбомдар таңдалмады."
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "Ешқандай тег таңдалмады."
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Құрылғыны таңдау"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Файл беру"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Аяқталды"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Альбомдар жүктелуде..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Тіркелгіні таңдау"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Элемент таңдау"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Альбом таңдау"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Басқа жүктеу орындалуда. Күте тұрыңыз."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Импорт"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Импортталған"
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Тасымалдануда..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Ақпарат"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Бар. Қайта жазу керек пе?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Қайталау керек пе?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "Мұндай атау қолданыста бар."
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Жүктелуде. Күте тұрыңыз..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "Енгізбе бос."
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Жарамсыз енгізу өлшемі."
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Тег жасау"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Веб-альбом қосу"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Көрініс"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Жоясыз ба?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Қалта құрасыз ба?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "Қойылған жоқ"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Белгіленбеген"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Тегтер жоқ"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Басып шығару"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Солға бұру"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Оңға бұру"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Адамдар"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Слайдшоу аралығы"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 секунд"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 секунд"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 секунд"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Тегтеріңіз"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Өткен 30 күн"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Өткен 7 күн"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Іздеуге әртүрлі сүзгілер қолданыңыз."
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Бетті белгілеу"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Слайдшоу"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Белгіні жою"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Альбом аты"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "Файл таңдалмады. Жіберу үшін файл таңдап, қайталап көріңіз."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "GPS қосулы кезде суретке түскеннен кейін, суреттеріңіз көрсетіледі."
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Қондырғылар"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Альбомдар"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Слайдшоу"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Слайдшоу параметрлері"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Түр"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Элементтер таңдау"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Слайдшоуды бастау"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox мазмұны"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Барлық мазмұн"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Dropbox мазмұны"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Көрсетілетін мазмұн"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Құрылғы мазмұны"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Dropbox мазмұны"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Уақыт шкаласы"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Жақын құрылғыларды көрсету"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Жақын құрылғыларды жасыру"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Суреттерді түпнұсқалық альбомнан көшіру не жылжыту керек пе?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Құпия"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "1 альбом жойылады."
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "%d альбом жойылады."
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Суретті өңдеу"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Байланысқа жол"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "Бұруда..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "Ешқандай нәтиже табылмады."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Шот"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Жақын құрылғыларды тексеру"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Бас. бет. қосу"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Facebook мазмұны"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Барлық элементтер"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "1 элемент жойылады."
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "%d элемент жойылады."
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Жолдастар тегі"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d секунд"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Іздеу басталды. Құрылғылар тізімі автоматты түрде жаңартылады"
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "Құрылғылар табылмады. Жақын құрылғыларды тексеру фонда жалғасады"
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "Жақын құрылғылар табылды."
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d таңдалды"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "Адам беттері анықталмады."
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d бет анықталды."
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 бет анықталды."
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "Суреттердің ең көп санынан (%d) асып кетті."
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Суретті таңдау"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Атын қосу"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Адамдар"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Бас тарту"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "Қайтадан сұрамаңыз"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Суреттерді таңдап, оларды альбомға қосу үшін %s түймесін түртіңіз."
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "%s галереясын ашу."
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Жасырын элементтерді көрсету"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Жасырын элементтер"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Элементтерді көрсету"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Жойылған"
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Галерея"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Суреттер мен бейнелерді көру"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Суреттерді көру"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Альбомды, содан кейін суретті таңдау."
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Қосымша суреттерді көру үшін солға не оңға айналдырыңыз."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Суретті үлкейту не кішірейту."
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Бетті белгілеу"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Суреттеріңіздегі адамдарды белгілеуге болады Беттерді түртіп, олардың аттарын енгізгенде (контактілерде көрсетілгендей), олармен тікелей байланысу әдістерінің тізімі ұсынылады."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Суретке түсіру кезінде келесі жағдайлар туындаса, орындар, күндер, адам аттары не ауа райы сияқты ақпарат суреттерді қарап шыққанда қысқаша көрсетіледі:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "Ауа райы виджеті суретке түсіруге дейін/кейін жаңартылды."
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "GPS тегі суретке түсіруге дейін камераға қосылған."
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Суреттердегі адамдар суретке түсіргеннен кейін белгіленді."
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Суреттерді өзгерту"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Қалтаны таңдап, суретті таңдаңыз."
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "%d элементке дейін таңдауға болады."
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "%s ретінде сақтау"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Атау беру"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Оқулық аяқталды."
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Альбомды таңдаңыз."
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Суретті таңдау."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Контактінің атын таңдаңыз."
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Оқиғалар альбомын жасаңыз"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Суретті өзгерту үшін %s өзгерту белгішесін түртіңіз."
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Жаңартылған"
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Ауа райы"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Орны"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Жеке бет"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Тек бір альбом ғана бар."
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Осында сүйрету."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Бастапқы экранға қосу"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Құрылғымен танылған беттер көк шаршылармен белгіленеді. Сол адамды таңдау үшін, біреуін түртіңіз."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Суреттер мен бейнелерді қарап шығу."
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "Ойнатқыш қол жетімді емес. Желінің күйі мен жалғанған құрылғыны тексеру."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "Бұл бағдарламада %1$s өшірілді. Бұл функцияны іске қосу үшін %2$s ішіне өтіп, осы функцияны таңдаңыз және осы бағдарламаны таңдаңыз"
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Құрылғыға қосылу мүмкін емес. Желінің күйі мен қосылған құрылғыны тексеріңіз"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Жеке қойма"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Жеке мазмұн"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Жүктеу басталуда..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Бастау"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d элементтер"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 элемент"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Суреттерді таңдаулы ретінде белгілегеннен кейін олар көрінеді."
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Жеке қоймаңызға қосу"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Жеке қоймаңыздан алып тастау"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Суреттерді не бейнелерді түсіру үшін осында түртіңіз."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Орын тегтерімен бірге суретке түсіру үшін осында түртіңіз (GPS қосылған)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Суретке түсіру немесе адамды белгілеу үшін осында түртіңіз."
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Желіге қосылым жоқ"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Wi-Fi желісіне қосылу қажет етіледі. Wi-Fi желісіне қосылып, қайталап көріңіз"
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Ұялы деректер өшірілді. Оның орнына Wi-Fi желісіне қосылыңыз немесе ұялы деректерді қосыңыз, сосын әрекетті қайталап көріңіз"
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "Қолдаусыз файл."
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Сур. дыб. ж/е кад. бөл."
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Бейне файлдар ретінде"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Сурет файлдары ретінде"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "Таңдалған элемент %s орнына жылжытылады."
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Таңдалған элементтер %s орнына жылжытылады."
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Шығаруда..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Қосылуда..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Жеке қоймадағы элементтерді қамтитын мазмұнды жасасаңыз, ол автоматты түрде жасырылмауы мүмкін. Жаңа мазмұнды көру кезінде таңдалған жеке мазмұн көрсетілуі мүмкін."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Тартпа"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "Фотосуретті жүктеу мүмкін емес."
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Суретке түсіру үшін осында басыңыз."
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Суретке түсіру мен суреттердегі адамдарды белгілеген соң, олар осында көрсетіледі."
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Сүйретіп апару"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Қалыпты сақтау орнына жылжыту"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Жеке сақтау орнына жылжыту"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Альбомдар"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "Беті танылуда..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "ЭЛЕМЕНТТІ ТАҢДАУ"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "ЭЛЕМЕНТТЕРДІ ТАҢДАУ"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Орналасу тегтері"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Құжаттар"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Тамақ"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Үй жануарлары"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Көрініс"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Көліктер"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Орын жоқ"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Сүзгілер"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Оқиға"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Гүлдер"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Қосылған құрылғылар"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Санатты өзгерту"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Оқиға жасау"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Оқиғадан жою"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Оқиғаға қосу"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Оқиға жасалды."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Сүзу"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Көшіру"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Орналастыру"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Жіберу мүмкін емес"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "%s түртіп, Сүзгілеу тәртібінің астында көрсетілген санаттардың бірін түртіңіз."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Суреттер сіз таңдаған санат бойынша сүзгіленеді."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Оқиға: Суреттерді күні және орналасуы бойынша сүзгілейді."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Адамдар, Көрініс, Азық-түлік, Үй жануарлары, Көліктер, Құжаттар және Гүлдер: Мазмұнды талдау арқылы суреттерді сүзгілеңіз."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Тартпа мәзір түймесін түртіп, Сүзгілеу тәртібінің астында көрсетілген санаттардың бірін түртіңіз."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Тартпа мәзірін ашу үшін екі рет түртіңіз."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Тартпа мәзірін жабу үшін екі рет түртіңіз."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Жеке мазмұн"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Жеке қалтаға көшіру"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Жеке қалтадан жою"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Жеке сақтау орны"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "Былтыр"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "%d бұрын"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "Ең көп бөлісуге болатын элементтер санынан (%d) асып кетті."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "%d элементті көрсету"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Соңғысы бойынша сұрыптау"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Ескісі бойынша сұрыптау"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "%d элементерін жою керек пе?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Адамдар тегтері"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Басқа күндерге жылдам өту үшін, экранның жоғарғы жағындағы күн индикаторын басып ұстап тұрыңыз."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d сурет қосылды"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Келесіден суреттер қосу"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Кездейсоқ суреттер"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Суреттер қосу"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "Көрсетілетін оқиғалар жоқ. Жаңа оқиға жасау."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Элементтерді жою"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Суретті көру"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Көргіңіз келген суретті түртіңіз."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Суретіңізді көріңіз."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Қосымша опциялар түймесін түртіп, кескінді түсқағаз немесе контакт суреті ретінде пайдалану үшін Басқаша орнату түймесін түртіңіз."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Экранды түрткенде үлкейту немесе кішірейту үшін кескінді қысыңыз немесе саусақтарыңызды ашыңыз."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Нобайлардың өлшемін өзгерту"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Нобайлардың өлшемін өзгерту сіз экранда көретін нобайлардың санын өзгертеді."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Нобай үлкенірек суреттің кіші қарап шығуы болып табылады."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Альбомдарды көру"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "%s түртіп, Альбомды түртіңіз."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Альбомды түртіп, көргіңіз келген сурет немесе бейнені түртіңіз."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Экранның жоғарғы жағындағы %s опциясын түртіңіз."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Суретті бөлісу"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Бірнеше суреттерді бөлісу"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Бір уақытта жою үшін бірнеше суретті таңдаңыз."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Бір уақытта бөлісу үшін бірнеше суретті таңдаңыз."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "%s түртіңіз."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Суреттеріңіз және бейнелеріңізді басқарыңыз және тексеріңіз."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Суреттерді сүзгілеу"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Суретті жою"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Бірнеше суретті жою"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Суреттерді бөлісу"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Суреттерді жою"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Ажыратылған"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "%s құрылғысынан ажыратылды. Желінің күйі мен қосылған құрылғыны тексеріңіз"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Бұл альбомды жою керек пе?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Бұл элементті жою керек пе?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Орналасу"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "%d фотосурет"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Мәзір пернесін басыңыз, содан кейін “Элементтерді таңдау” түймесін таңдаңыз."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "%s түртіп, кескінді түсқағаз немесе контакт суреті ретінде пайдалану үшін Басқаша сақтау түймесін түртіңіз."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 нәтиже"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d нәтиже"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Альбом режимі"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Студио"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "Көрсетілетін элементтер жоқ."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Элементті жою"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Атауы жоқ"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Топтастырылмаған"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Атау тегін жою"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "%s ішінен жою"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Жаңа"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Альбомнан бас тартылады."
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Бет ұқсастыруды алып тастау керек пе?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Элементтерді жою"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Элементті жою"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "%d элементті жою керек пе?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Осы элементті жою керек пе?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "ДАЙЫН"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "БАС ТАРТУ"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Суретке түсіргеннен кейін олар мына жерде көрсетіледі."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Файл бүлінген немесе қолдау көрсетілмейтін пішімде."
+

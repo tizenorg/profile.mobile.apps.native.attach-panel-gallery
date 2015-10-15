@@ -1,0 +1,924 @@
+msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
+msgstr "Esborrar %d àlbums?"
+
+msgid "IDS_MEDIABR_IOPT3_PLACES"
+msgstr "Llocs"
+
+msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
+msgstr "Afegir a l'inici"
+
+msgid "IDS_MEDIABR_BODY_TAGS"
+msgstr "Etiquetes"
+
+msgid "IDS_MEDIABR_BODY_ALL_ALBUMS"
+msgstr "Tots els àlbums"
+
+msgid "IDS_MEDIABR_BODY_FACEBOOK_WEB_ALBUM"
+msgstr "Àlbum web de Facebook"
+
+msgid "IDS_MEDIABR_BODY_PICASA_WEB_ALBUM"
+msgstr "Àlbum web de Picasa"
+
+msgid "IDS_MEDIABR_HEADER_NEARBY_DEVICES"
+msgstr "Dispositius propers"
+
+msgid "IDS_ASEML_BODY_PAST_PD_MONTHS"
+msgstr "Fa %d mesos"
+
+msgid "IDS_MF_BODY_DOWNLOADS"
+msgstr "Descàrregues"
+
+msgid "IDS_MF_POP_NOT_ENOUGH_MEMORY_DELETE_SOME_ITEMS"
+msgstr "No hi ha prou memòria. Esborrar-ne alguns elements."
+
+msgid "IDS_DLNA_POP_DOWNLOAD_COMPLETED"
+msgstr "Descàrrega finalitzada"
+
+msgid "IDS_MEDIABR_BUTTON_ALBUMS"
+msgstr "Àlbums"
+
+msgid "IDS_MEDIABR_HEADER_FAVOURITES"
+msgstr "Preferits"
+
+msgid "IDS_MEDIABR_HEADER_SIGN_UP"
+msgstr "Registrar"
+
+msgid "IDS_MEDIABR_POP_LOADING_ING"
+msgstr "Carregant..."
+
+msgid "IDS_MEDIABR_BODY_SELECT_FILES"
+msgstr "Seleccionar fitxers"
+
+msgid "IDS_MEDIABR_OPT_GRID_VIEW"
+msgstr "Vista de quadrícula"
+
+msgid "IDS_MEDIABR_OPT_SEOUL"
+msgstr "Seül"
+
+msgid "IDS_MEDIABR_BODY_FLICKR"
+msgstr "Flickr"
+
+msgid "IDS_MEDIABR_OPT_HOME_SCREEN"
+msgstr "Pantalla d'inici"
+
+msgid "IDS_MEDIABR_OPT_LOCK_SCREEN"
+msgstr "Bloquejar pantalla"
+
+msgid "IDS_MEDIABR_OPT_CALLER_ID_ABB"
+msgstr "ID de la persona que truca"
+
+msgid "IDS_MEDIABR_OPT_SELECT"
+msgstr "Seleccionar"
+
+msgid "IDS_MEDIABR_SK4_SET_ABB"
+msgstr "Configurar"
+
+msgid "IDS_MEDIABR_TAB4_NEW_ALBUM"
+msgstr "Àlbum nou"
+
+msgid "IDS_MEDIABR_BODY_NO_ALBUMS"
+msgstr "Cap àlbum"
+
+msgid "IDS_MEDIABR_BODY_SELECT_TAGS"
+msgstr "Seleccionar etiquetes"
+
+msgid "IDS_MEDIABR_POP_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "Nom d'àlbum ja en ús"
+
+msgid "IDS_MEDIABR_POP_TAG_NAME_ALREADY_IN_USE_OVERWRITE_Q"
+msgstr "El nom de l'etiqueta ja existeix. Sobreescriure'l?"
+
+msgid "IDS_MEDIABR_BODY_PROCESS_BACKGROUND_ABB"
+msgstr "Processar a segon pla"
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_RENAME_ALBUM_NAME_ALREADY_IN_USE_ABB"
+msgstr "No es pot canviar el nom. El nom d'àlbum ja està en ús."
+
+msgid "IDS_MEDIABR_POP_EMPTY_ALBUM_NAME"
+msgstr "Nom d'àlbum buit"
+
+msgid "IDS_MEDIABR_POP_ENTER_TAG_NAME"
+msgstr "Introduir nom d'etiqueta"
+
+msgid "IDS_MEDIABR_POP_PREPARING_SD_CARD_ING"
+msgstr "S'està preparant la targeta SD..."
+
+msgid "IDS_MEDIABR_BODY_UNABLE_TO_START_WHILE_USB_STORAGE_MODE_ACTIVE"
+msgstr "No es pot iniciar mentre el mode d'emmagatzematge USB està actiu"
+
+msgid "IDS_MEDIABR_OPT_CREATE_ALBUM"
+msgstr "Crear àlbum"
+
+msgid "IDS_MEDIABR_POP_ALL_DATA_RELATED_TO_THIS_ACCOUNT_WILL_BE_DELETED_CONTINUE_Q"
+msgstr "S'esborraran totes les dades relacionades amb aquest compte. Continuar?"
+
+msgid "IDS_MEDIABR_OPT_PRINT_VIA_BLUETOOTH"
+msgstr "Imprimir mitjançant Bluetooth"
+
+msgid "IDS_MEDIABR_POP_UNABLE_TO_RENAME"
+msgstr "No es pot canviar nom"
+
+msgid "IDS_MEDIABR_POP_NO_NAME"
+msgstr "Sense nom"
+
+msgid "IDS_MEDIABR_POP_NO_ALBUMS_SELECTED"
+msgstr "Sense àlbums seleccionats"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS_SELECTED"
+msgstr "No s'ha seleccionat cap etiqueta"
+
+msgid "IDS_MEDIABR_POP_SELECT_DEVICE"
+msgstr "Seleccioni dispositiu"
+
+msgid "IDS_MEDIABR_POP_FILE_TRANSFER"
+msgstr "Transferència de fitxer"
+
+msgid "IDS_MEDIABR_POP_COMPLETED"
+msgstr "Completat"
+
+msgid "IDS_MEDIABR_POP_LOADING_ALBUMS_ING"
+msgstr "Carregant àlbums..."
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ACCOUNT"
+msgstr "Seleccioni compte"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ITEM"
+msgstr "Seleccionar element"
+
+msgid "IDS_MEDIABR_HEADER_SELECT_ALBUM"
+msgstr "Seleccionar àlbum"
+
+msgid "IDS_MEDIABR_POP_ANOTHER_DOWNLOAD_IS_IN_PROGRESS_PLEASE_WAIT"
+msgstr "Hi ha una altra descàrrega en curs. Esperi."
+
+msgid "IDS_MEDIABR_POP_IMPORT"
+msgstr "Importar"
+
+msgid "IDS_MEDIABR_POP_IMPORTED"
+msgstr "Importat"
+
+msgid "IDS_MEDIABR_POP_IMPORTING_ING"
+msgstr "Important..."
+
+msgid "IDS_MEDIABR_POP_MEDIA"
+msgstr "Multimèdia"
+
+msgid "IDS_MEDIABR_POP_ALREADY_EXISTS_OVERWRITE_Q"
+msgstr "Ja existeix. Sobreescriure?"
+
+msgid "IDS_MEDIABR_POP_RETRY_Q"
+msgstr "Tornar-ho a intentar?"
+
+msgid "IDS_MEDIABR_POP_SAME_NAME_ALREADY_IN_USE"
+msgstr "El mateix nom ja està en ús"
+
+msgid "IDS_MEDIABR_POP_LOADING_PLEASE_WAIT_ING"
+msgstr "Carregant. Esperi..."
+
+msgid "IDS_MEDIABR_POP_ENTRY_IS_EMPTY"
+msgstr "L'entrada és buida"
+
+msgid "IDS_MEDIABR_POP_INVALID_INPUT_PARAMETER"
+msgstr "Paràmetre d'entrada no vàlid"
+
+msgid "IDS_MEDIABR_OPT_CREATE_TAG"
+msgstr "Crear etiq"
+
+msgid "IDS_MEDIABR_HEADER_ADD_WEB_ALBUM"
+msgstr "Afegir àlbum web"
+
+msgid "IDS_MEDIABR_OPT_VIEW"
+msgstr "Veure"
+
+msgid "IDS_MEDIABR_POPUP_REMOVE_Q"
+msgstr "Eliminar?"
+
+msgid "IDS_MEDIABR_POP_CREATE_FOLDER_Q"
+msgstr "Crear carpeta?"
+
+msgid "IDS_MEDIABR_BODY_NOT_ASSIGNED"
+msgstr "No assignat"
+
+msgid "IDS_MEDIABR_BODY_UNTAGGED"
+msgstr "Sense etiqueta"
+
+msgid "IDS_MEDIABR_POP_NO_TAGS"
+msgstr "Sense etiquetes"
+
+msgid "IDS_MEDIABR_OPT_PRINT"
+msgstr "Imprimir"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_LEFT"
+msgstr "Gira cap a l'esquerra"
+
+msgid "IDS_MEDIABR_OPT_ROTATE_RIGHT"
+msgstr "Gira cap a la dreta"
+
+msgid "IDS_MEDIABR_OPT_PEOPLE_ABB2"
+msgstr "Gent"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_INTERVAL"
+msgstr "Interval de la presentació de diapositives"
+
+msgid "IDS_MEDIABR_OPT_3_SECONDS"
+msgstr "3 segons"
+
+msgid "IDS_MEDIABR_BODY_5_SECONDS"
+msgstr "5 segons"
+
+msgid "IDS_MEDIABR_BODY_10_SECONDS"
+msgstr "10 segons"
+
+msgid "IDS_SF_BODY_YOUR_TAGS"
+msgstr "Les seves etiquetes"
+
+msgid "IDS_SF_OPT_PAST_30_DAYS"
+msgstr "Fa 30 dies"
+
+msgid "IDS_SF_OPT_PAST_7_DAYS"
+msgstr "Fa 7 dies"
+
+msgid "IDS_SF_BODY_APPLY_VARIOUS_FILTERS_TO_YOUR_SEARCHES"
+msgstr "Aplicar diversos filtres a les seves cerques"
+
+msgid "IDS_PBR_OPT_FACE_TAGGING"
+msgstr "Etiqueta cares"
+
+msgid "IDS_MEDIABR_BUTTON_SLIDE_SHOW"
+msgstr "Diaposit"
+
+msgid "IDS_MEDIABR_OPT_DELETE_TAG"
+msgstr "Eliminar etiqueta"
+
+msgid "IDS_MEDIABR_BODY_ALBUM_NAME"
+msgstr "Nom de l'àlbum"
+
+msgid "IDS_NFC_POP_NO_FILE_SELECTED_SELECT_A_FILE_TO_SEND_AND_TRY_AGAIN"
+msgstr "No s'ha seleccionat cap fitxer. Seleccioni'n un i torni-ho a intentar."
+
+msgid "IDS_MEDIABR_BODY_AFTER_YOU_TAKE_PICTURES_WITH_GPS_TURNED_ON_YOUR_PICTURES_WILL_BE_SHOWN"
+msgstr "Després de fer fotos amb el GPS activat, es mostraran les fotos"
+
+msgid "IDS_MEDIABR_OPT_SETTINGS"
+msgstr "Ajustaments"
+
+msgid "IDS_MEDIABR_HEADER_ALBUMS"
+msgstr "Àlbums"
+
+msgid "IDS_MEDIABR_OPT_SLIDESHOW"
+msgstr "Presentació de diapositives"
+
+msgid "IDS_MEDIABR_BODY_SLIDESHOW_SETTINGS"
+msgstr "Ajustaments de la presentació de diapositives"
+
+msgid "IDS_MEDIABR_OPT_VIEW_BY"
+msgstr "Veure per"
+
+msgid "IDS_MEDIABR_BODY_SELECT_ITEMS"
+msgstr "Seleccionar elements"
+
+msgid "IDS_MEDIABR_OPT_START_SLIDESHOW"
+msgstr "Iniciar presentació de diapositives"
+
+msgid "IDS_PBR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Contingut a Dropbox"
+
+msgid "IDS_MEDIABR_OPT_ALL_CONTENT"
+msgstr "Tot el contingut"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_IN_DROPBOX"
+msgstr "Contingut a Dropbox"
+
+msgid "IDS_MEDIABR_OPT_CONTENT_TO_DISPLAY"
+msgstr "Contingut per mostrar"
+
+msgid "IDS_MEDIABR_OPT_DEVICE_CONTENT"
+msgstr "Contingut del dispositiu"
+
+msgid "IDS_MEDIABR_OPT_DROPBOX_CONTENT"
+msgstr "Contingut de Dropbox"
+
+msgid "IDS_MEDIABR_HEADER_TIMELINE_ABB"
+msgstr "Línia de temps"
+
+msgid "IDS_MEDIABR_OPT_SHOW_NEARBY_DEVICES"
+msgstr "Mostrar dispositius propers"
+
+msgid "IDS_MEDIABR_OPT_HIDE_NEARBY_DEVICES"
+msgstr "Ocultar dispositius propers"
+
+msgid "IDS_MEDIABR_POP_DO_YOU_WANT_TO_COPY_OR_MOVE_THE_PICTURES_FROM_THE_ORIGINAL_ALBUM_Q"
+msgstr "Vol copiar o moure les fotos de l'àlbum original?"
+
+msgid "IDS_ST_HEADER_PRIVACY"
+msgstr "Confidencialitat"
+
+msgid "IDS_MEDIABR_POP_1_ALBUM_WILL_BE_DELETED"
+msgstr "S'esborrarà 1 àlbum"
+
+msgid "IDS_MEDIABR_POP_PD_ALBUMS_WILL_BE_DELETED"
+msgstr "S'esborraran %d àlbums"
+
+msgid "IDS_MEDIABR_OPT_EDIT_IMAGE"
+msgstr "Editar la imatge"
+
+msgid "IDS_MEDIABR_OPT_SHARE"
+msgstr "Compartir"
+
+msgid "IDS_MEDIABR_POP_ROTATING_ING"
+msgstr "S'està rotant..."
+
+msgid "IDS_EMAIL_BODY_NO_RESULTS_FOUND"
+msgstr "No s'han trobat resultats."
+
+msgid "IDS_MEDIABR_OPT_ACCOUNT"
+msgstr "Compte"
+
+msgid "IDS_MEDIABR_OPT_SCAN_FOR_NEARBY_DEVICES"
+msgstr "Escanejar dispositius propers"
+
+msgid "IDS_MEDIABR_BUTTON_ADD_TO_HOME_ABB"
+msgstr "Afegir a inici"
+
+msgid "IDS_MEDIABR_OPT_FACEBOOK_CONTENT"
+msgstr "Contingut de Facebook"
+
+msgid "IDS_MEDIABR_OPT_ALL_ITEMS"
+msgstr "Tots els elements"
+
+msgid "IDS_MEDIABR_POP_1_ITEM_WILL_BE_DELETED"
+msgstr "S'esborrarà 1 element"
+
+msgid "IDS_MEDIABR_POP_PD_ITEMS_WILL_BE_DELETED"
+msgstr "S'esborraran %d elements"
+
+msgid "IDS_MEDIABR_OPT_TAG_BUDDY"
+msgstr "Assistent d'etiquetes"
+
+msgid "IDS_EMAIL_BODY_PD_SECONDS"
+msgstr "%d segons"
+
+msgid "IDS_MEDIABR_POP_SCAN_STARTED_DEVICE_LIST_WILL_BE_UPDATED_AUTOMATICALLY"
+msgstr "Cerca iniciada. La llista de dispositius s'actualitzarà automàticament."
+
+msgid "IDS_MEDIABR_POP_NO_DEVICES_FOUND_SCANNING_FOR_NEARBY_DEVICES_WILL_CONTINUE_IN_BACKGROUND"
+msgstr "No s'han trobat dispositius. La cerca de dispositius propers continuarà en segon pla."
+
+msgid "IDS_MEDIABR_POP_NEARBY_DEVICES_FOUND"
+msgstr "S'han trobat dispositius propers"
+
+msgid "IDS_MEDIABR_HEADER_PD_SELECTED"
+msgstr "%d seleccionat"
+
+msgid "IDS_MEDIABR_POP_NO_FACES_DETECTED"
+msgstr "No hi ha cares detectades"
+
+msgid "IDS_MEDIABR_POP_PD_FACES_DETECTED"
+msgstr "%d cares detectades"
+
+msgid "IDS_MEDIABR_POP_1_FACE_DETECTED"
+msgstr "1 cara detectada"
+
+msgid "IDS_MEDIABR_POP_MAXIMUM_NUMBER_OF_PICTURES_HPD_EXCEEDED"
+msgstr "S'ha excedit el nombre màxim de fotos (%d)"
+
+msgid "IDS_MEDIABR_BODY_SELECT_PICTURE"
+msgstr "Seleccionar imatge"
+
+msgid "IDS_IV_OPT_ADD_NAME_ABB"
+msgstr "Afegir nom"
+
+msgid "IDS_IV_BODY_PEOPLE"
+msgstr "Gent"
+
+msgid "IDS_MEDIABR_BUTTON_CANCEL_ABB"
+msgstr "Cancel·lar"
+
+msgid "IDS_IV_BODY_DONT_ASK_AGAIN"
+msgstr "No ho tornis a preguntar"
+
+msgid "IDS_HELP_BODY_SELECT_PICTURES_THEN_TAP_PS_TO_ADD_THEM_TO_AN_ALBUM"
+msgstr "Seleccioni fotos i toqui %s per afegir-les a un àlbum"
+
+msgid "IDS_HELP_BODY_OPEN_PS_GALLERY"
+msgstr "Obrir galeria de %s"
+
+msgid "IDS_PBR_OPT_SHOW_HIDDEN_ITEMS"
+msgstr "Mostrar elements amagats"
+
+msgid "IDS_IV_OPT_HIDDEN_ITEMS"
+msgstr "Elements amagats"
+
+msgid "IDS_IV_OPT_SHOW_ITEMS"
+msgstr "Mostrar elements"
+
+msgid "IDS_MF_POP_REMOVED"
+msgstr "Eliminat"
+
+msgid "IDS_HELP_BODY_GALLERY"
+msgstr "Galeria"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES_AND_VIDEOS"
+msgstr "Visualització de fotos i vídeos"
+
+msgid "IDS_HELP_BODY_VIEWING_PICTURES"
+msgstr "Visualització fotos"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM_THEN_SELECT_A_PICTURE"
+msgstr "Seleccioni un àlbum i, després, una foto"
+
+msgid "IDS_HELP_BODY_SCROLL_LEFT_OR_RIGHT_TO_VIEW_MORE_PICTURES"
+msgstr "Desplaci's a esquerra o dreta per veure més fotos."
+
+msgid "IDS_HELP_BODY_ZOOM_IN_OR_OUT_OF_A_PICTURE"
+msgstr "Ampliar o reduir una foto"
+
+msgid "IDS_HELP_HEADER_FACE_TAGGING"
+msgstr "Etiqueta cares"
+
+msgid "IDS_HELP_BODY_FACE_TAGGING_DESCRIPTION_MSG"
+msgstr "Pot etiquetar persones a les seves fotos. Quan toqui les seves cares i n'afegeixi els noms (com es mostren a Contactes), se li oferirà una llista de mètodes per contactar-los directament."
+
+msgid "IDS_HELP_BODY_TAG_BUDDY_DESCRIPTION_MSG"
+msgstr "Si es compleixen les condicions següents quan fa fotos, es mostrarà breument informació, com ara ubicacions, dates, noms de persones o el temps, en veure les fotos:"
+
+msgid "IDS_HELP_BODY_THE_WEATHER_WIDGET_HAS_BEEN_REFRESHED_BEFORE_AFTER_TAKING_PICTURES"
+msgstr "El widget del temps s'ha actualitzat abans/després de fer fotos"
+
+msgid "IDS_HELP_BODY_GPS_TAG_IS_ENABLED_IN_CAMERA_BEFORE_TAKING_PICTURES"
+msgstr "S'ha habilitat l'etiqueta GPS a la Càmera abans de fer fotos"
+
+msgid "IDS_HELP_BODY_PEOPLE_IN_PICTURES_HAVE_BEEN_TAGGED_AFTER_TAKING_PICTURES"
+msgstr "Les persones a les fotos s'han etiquetat després de fer fotos"
+
+msgid "IDS_HELP_HEADER_EDIT_PICTURES"
+msgstr "Editar fotos"
+
+msgid "IDS_HELP_BODY_SELECT_A_FOLDER_THEN_SELECT_A_PICTURE"
+msgstr "Seleccioni una carpeta i, després, una foto"
+
+msgid "IDS_IV_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS"
+msgstr "Pot seleccionar fins a %d elements"
+
+msgid "IDS_IV_OPT_CONFIRM_AS_PS"
+msgstr "Confirmar com a %s"
+
+msgid "IDS_IV_OPT_ASSIGN_NAME"
+msgstr "Assignar nom"
+
+msgid "IDS_HELP_POP_TUTORIAL_COMPLETE"
+msgstr "Programa d'aprenentatge complet"
+
+msgid "IDS_HELP_BODY_SELECT_AN_ALBUM"
+msgstr "Seleccioni un àlbum"
+
+msgid "IDS_HELP_BODY_SELECT_A_PICTURE"
+msgstr "Seleccioni una foto."
+
+msgid "IDS_HELP_BODY_SELECT_THE_NAME_OF_THE_CONTACT"
+msgstr "Seleccioni el nom d'un contacte"
+
+msgid "IDS_IV_OPT_CREATE_A_STORY_ALBUM"
+msgstr "Crear un àlbum d'històries"
+
+msgid "IDS_HELP_BODY_TAP_PS_THE_EDIT_ICON_TO_EDIT_THE_PICTURE"
+msgstr "Toqui %s la icona editar per editar la foto"
+
+msgid "IDS_MEDIABR_POP_REFRESHED"
+msgstr "Actualitzat"
+
+msgid "IDS_IV_BODY_WEATHER_ABB"
+msgstr "Meteorologia"
+
+msgid "IDS_IV_BODY_LOCATION_ABB2"
+msgstr "Ubicació"
+
+msgid "IDS_ST_HEADER_PERSONAL_PAGE"
+msgstr "Pàgina personal"
+
+msgid "IDS_IV_BODY_THERE_IS_ONLY_ONE_ALBUM"
+msgstr "Només hi ha un àlbum"
+
+msgid "IDS_IV_BODY_DRAG_HERE"
+msgstr "Arrossegui aquí"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_HOME_SCREEN"
+msgstr "Afegir a la pantalla d'inici"
+
+msgid "IDS_HELP_BODY_BLUE_BOXES_INDICATE_FACES_THAT_THE_DEVICE_HAS_RECOGNISED_TAP_ONE_TO_SELECT_THAT_PERSON"
+msgstr "Els requadres blaus indiquen cares que el dispositiu ha reconegut. Toqui'n un per seleccionar aquella persona."
+
+msgid "IDS_HELP_BODY_VIEW_PICTURES_AND_VIDEOS"
+msgstr "Visualitzar fotos i vídeos"
+
+msgid "IDS_DLNA_POP_PLAYER_IS_NOT_AVAILABLE_CHECK_THE_NETWORK_STATUS_AND_CONNECTED_DEVICE"
+msgstr "El reproductor no està disponible. Comprovi l'estat de la xarxa i el dispositiu connectat."
+
+msgid "IDS_ST_POP_P1SS_IS_DISABLED_IN_THIS_APPLICATION_TO_ENABLE_THIS_FUNCTION_GO_TO_P2SS_SELECT_THIS_FUNCTION_AND_THEN_SELECT_THIS_APPLICATION"
+msgstr "%1$s s'ha deshabilitat en aquesta aplicació. Per habilitar aquesta funció, vagi a %2$s, seleccioni aquesta funció i, a continuació, seleccioni aquesta aplicació."
+
+msgid "IDS_MH_BODY_UNABLE_TO_CONNECT_TO_THE_DEVICE_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "No es pot connectar amb el dispositiu. Comprovi l'estat de la xarxa i el dispositiu connectat"
+
+msgid "IDS_GALLERY_BODY_PERSONAL_STORAGE"
+msgstr "Emmagatzematge personal"
+
+msgid "IDS_GALLERY_DROP_PERSONAL_CONTENT"
+msgstr "Contingut personal"
+
+msgid "IDS_MEDIABR_POP_STARTING_DOWNLOAD_ABB"
+msgstr "Iniciant descàrrega..."
+
+msgid "IDS_MEDIABR_BUTTON_START"
+msgstr "Iniciar"
+
+msgid "IDS_MEDIABR_BODY_PD_ITEMS"
+msgstr "%d elements"
+
+msgid "IDS_MEDIABR_BODY_1_ITEM"
+msgstr "1 element"
+
+msgid "IDS_IV_BODY_AFTER_YOU_TAG_PICTURES_AS_YOUR_FAVOURITES_PICTURES_WILL_BE_SHOWN"
+msgstr "Després d'etiquetar fotos com a preferides, es mostraran les seves fotos"
+
+msgid "IDS_MEDIABR_OPT_ADD_TO_YOUR_PERSONAL_STORAGE"
+msgstr "Afegir al seu emmagatzematge personal"
+
+msgid "IDS_MEDIABR_OPT_REMOVE_FROM_YOUR_PERSONAL_STORAGE"
+msgstr "Eliminar del seu emmagatzematge personal"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_OR_VIDEOS"
+msgstr "Toqui aquí per fer fotos o vídeos"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES_WITH_LOCATION_TAGS_HGPS_TURNED_ON"
+msgstr "Toqui aquí per fer fotos amb etiquetes d'ubicació (GPS activat)"
+
+msgid "IDS_IV_BODY_TAP_HERE_TO_TAKE_PICTURES_AND_TAG_PEOPLE"
+msgstr "Toqui aquí per fer fotos o vídeos i etiquetar persones"
+
+msgid "IDS_EMAIL_HEADER_NO_NETWORK_CONNECTION"
+msgstr "Sense connexió de xarxa"
+
+msgid "IDS_EMAIL_POP_WI_FI_CONNECTION_REQUIRED_CONNECT_TO_WI_FI_NETWORK_AND_TRY_AGAIN"
+msgstr "Cal una connexió Wi-Fi. Connecti a la xarxa Wi-Fi i torni-ho a intentar."
+
+msgid "IDS_EMAIL_POP_MOBILE_DATA_IS_DISABLED_CONNECT_TO_WI_FI_NETWORK_INSTEAD_OR_ENABLE_MOBILE_DATA_AND_TRY_AGAIN"
+msgstr "Les dades mòbils estan deshabilitades. Connecti a una xarxa Wi-Fi en el seu lloc, o habiliti dades mòbils i torni-ho a intentar."
+
+msgid "IDS_MEDIABR_POP_UNSUPPORTED_FILE"
+msgstr "No s'admet el fitxer"
+
+msgid "IDS_PBR_HEADER_SHARE_SOUND_N_SHOT_PICS_ABB"
+msgstr "Comp fotos so i dispar"
+
+msgid "IDS_PBR_OPT_AS_VIDEO_FILES"
+msgstr "Com a fitxers de vídeo"
+
+msgid "IDS_PBR_OPT_AS_IMAGE_FILES"
+msgstr "Com a fitxers d'imatge"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEM_WILL_BE_MOVED_TO_PS"
+msgstr "L'element seleccionat es mourà a %s"
+
+msgid "IDS_ST_POP_THE_SELECTED_ITEMS_WILL_BE_MOVED_TO_PS"
+msgstr "Els elements seleccionats es mouran a %s"
+
+msgid "IDS_MUSIC_POP_REMOVING"
+msgstr "Eliminant..."
+
+msgid "IDS_MUSIC_POP_ADDING"
+msgstr "Afegint..."
+
+msgid "IDS_STORYALBUM_POP_IF_YOU_CREATE_CONTENT_THAT_INCLUDES_ITEMS_FROM_PERSONAL_STORAGE_IT_MAY_NOT_BE_HIDDEN_AUTOMATICALLY_MSG"
+msgstr "Si crea contingut que inclogui elements de l'emmagatzematge personal, no es pot amagar automàticament. El contingut personal seleccionat es podrà veure en visualitzar el contingut nou."
+
+msgid "IDS_EMAIL_OPT_DRAWER_ABB"
+msgstr "Calaix"
+
+msgid "IDS_IV_BODY_UNABLE_TO_LOAD_PHOTO_ABB"
+msgstr "No es pot carregar la foto"
+
+msgid "IDS_PBR_BODY_TAP_HERE_TO_TAKE_PICTURES"
+msgstr "Toqui aquí per fer fotos"
+
+msgid "IDS_IV_BODY_AFTER_YOU_HAVE_TAKEN_PICTURES_AND_TAGGED_PEOPLE_IN_THEM_THESE_PICTURES_WILL_BE_SHOWN_HERE"
+msgstr "Després d'haver fet fotos i haver-hi etiquetat persones, aquestes fotos es mostraran aquí"
+
+msgid "IDS_EMAIL_BODY_DRAG_AND_DROP"
+msgstr "Arrossegar i deixar anar"
+
+msgid "IDS_ST_POP_MOVE_TO_NORMAL_STORAGE"
+msgstr "Moure a l'emmagatzematge normal"
+
+msgid "IDS_ST_POP_MOVE_TO_PERSONAL_STORAGE"
+msgstr "Moure a l'emmagatzematge personal"
+
+msgid "IDS_MEDIABR_OPT_ALBUMS"
+msgstr "Àlbums"
+
+msgid "IDS_MEDIABR_BODY_RECOGNISING_FACE_ING"
+msgstr "S'està reconeixent la cara..."
+
+msgid "IDS_MEDIABR_ACHEADER2_SELECT_ITEM"
+msgstr "SELECCIONAR ITEM"
+
+msgid "IDS_MEDIABR_ACHEADER1_SELECT_ITEMS"
+msgstr "SELEC ELEMENTS"
+
+msgid "IDS_SF_BODY_LOCATION_TAGS_ABB2"
+msgstr "Etiquetes d'ubicació"
+
+msgid "IDS_GALLERY_OPT_DOCUMENTS"
+msgstr "Documents"
+
+msgid "IDS_GALLERY_OPT_FOOD"
+msgstr "Menjar"
+
+msgid "IDS_GALLERY_OPT_PETS"
+msgstr "Mascotes"
+
+msgid "IDS_GALLERY_OPT_SCENERY"
+msgstr "Paisatge"
+
+msgid "IDS_GALLERY_MBODY_VEHICLES"
+msgstr "Vehicles"
+
+msgid "IDS_IV_POP_NO_LOCATION"
+msgstr "Sense ubicació"
+
+msgid "IDS_GALLERY_HEADER_FILTERS"
+msgstr "Filtres"
+
+msgid "IDS_GALLERY_HEADER_EVENT"
+msgstr "Esdeveniment"
+
+msgid "IDS_GALLERY_OPT_FLOWERS"
+msgstr "Flors"
+
+msgid "IDS_GALLERY_HEADER_CONNECTED_DEVICES_ABB"
+msgstr "Dispositius connectats"
+
+msgid "IDS_GALLERY_OPT_CHANGE_CATEGORY"
+msgstr "Canviar la categoria"
+
+msgid "IDS_GALLERY_OPT_CREATE_EVENT"
+msgstr "Crear esdeveniment"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_EVENT"
+msgstr "Eliminar de l'esdeveniment"
+
+msgid "IDS_GALLERY_OPT_ADD_TO_EVENT"
+msgstr "Afegeix a esdeveniment"
+
+msgid "IDS_GALLERY_TPOP_EVENT_CREATED"
+msgstr "Esdeveniment creat."
+
+msgid "IDS_GALLERY_HEADER_FILTER_BY"
+msgstr "Filtrar per"
+
+msgid "IDS_MF_OPT_COPY_TO"
+msgstr "Copiar a"
+
+msgid "IDS_MF_OPT_MOVE_TO"
+msgstr "Moure a"
+
+msgid "IDS_NFC_HEADER_UNABLE_TO_BEAM_ABB"
+msgstr "Error en la transmissió"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY"
+msgstr "Toqui %s i, després, una de les categories enumerades a Filtrar per."
+
+msgid "IDS_GALLERY_BODY_PICTURES_WILL_BE_FILTERED_BY_THE_CATEGORY_YOU_SELECTED"
+msgstr "Es filtraran les fotos per la categoria que hagi seleccionat."
+
+msgid "IDS_GALLERY_BODY_EVENT_C_FILTERS_THE_PICTURES_BY_DATE_AND_LOCATION"
+msgstr "Esdeveniment: filtra les fotos per data i ubicació."
+
+msgid "IDS_GALLERY_BODY_PEOPLE_SCENERY_FOOD_PETS_VEHICLES_DOCUMENTS_AND_FLOWERS_C_FILTER_THE_PICTURES_BY_ANALYSING_THE_CONTENT"
+msgstr "Gent, paisatge, menjar, animals, vehicles, documents i flors: filtrar les fotos analitzant-ne el contingut."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_DRAWER_MENU_BUTTON_THEN_TAP_ONE_OF_THE_CATEGORIES_LISTED_UNDER_FILTER_BY_TTS"
+msgstr "Toqui el botó menú del calaix i, després, una de les categories enumerades a Filtrar per."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_OPEN_DRAWER_MENU_TTS"
+msgstr "Toqui dos cops per obrir el menú del calaix."
+
+msgid "IDS_EMAIL_BODY_DOUBLE_TAP_TO_CLOSE_DRAWER_MENU_TTS"
+msgstr "Toqui dos cops per tancar el menú del calaix."
+
+msgid "IDS_GALLERY_OPT_PRIVATE_CONTENT"
+msgstr "Contingut privat"
+
+msgid "IDS_GALLERY_OPT_MOVE_TO_PRIVATE"
+msgstr "Moure a Privat"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PRIVATE"
+msgstr "Esborrar de Privat"
+
+msgid "IDS_ST_BODY_PRIVATE_STORAGE"
+msgstr "Emmagatzematge privat"
+
+msgid "IDS_PBR_POP_LAST_YEAR"
+msgstr "L'any passat"
+
+msgid "IDS_GALLERY_BUTTON_BEFORE_PD"
+msgstr "Abans de %d"
+
+msgid "IDS_NFC_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SHARED_HPD_EXCEEDED"
+msgstr "S'ha superat el número màxim d'elements que es poden compartir (%d)."
+
+msgid "IDS_CAM_BODY_SHOWING_PD_ITEMS_T_TTS"
+msgstr "Mostrant %d elements"
+
+msgid "IDS_PBR_OPT_SORT_BY_LATEST"
+msgstr "Ordenar per més recent"
+
+msgid "IDS_PBR_OPT_SORT_BY_OLDEST"
+msgstr "Ordenar per més antic"
+
+msgid "IDS_MF_POP_DELETE_PD_ITEMS_Q"
+msgstr "Esborrar %d elements?"
+
+msgid "IDS_GALLERY_HEADER_PEOPLE_TAGS"
+msgstr "Etiquetes de persones"
+
+msgid "IDS_GALLERY_POP_TO_SCROLL_QUICKLY_TO_OTHER_DATES_TAP_AND_HOLD_THE_DATE_INDICATOR_AT_THE_TOP_RIGHT_OF_THE_SCREEN"
+msgstr "Per desplaçar-se ràpidament a altres dates, mantingui premut l'indicador de data de la part superior dreta de la pantalla."
+
+msgid "IDS_IV_OPT_PD_PICTURES_ADDED"
+msgstr "%d fotos afegides"
+
+msgid "IDS_GALLERY_HEADER_ADD_PICTURES_FROM_ABB"
+msgstr "Afegir fotos des de"
+
+msgid "IDS_HELP_OPT_SHUFFLED_PICTURES"
+msgstr "Fotos barrejades"
+
+msgid "IDS_IV_BODY_ADD_PICTURES"
+msgstr "Afegir fotos"
+
+msgid "IDS_GALLERY_POP_THERE_ARE_NO_EVENTS_TO_DISPLAY_CREATE_A_NEW_EVENT"
+msgstr "No hi ha esdeveniments per mostrar. Creï un esdeveniment nou."
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEMS"
+msgstr "Esborrar elements"
+
+msgid "IDS_GALLERY_HEADER_VIEWING_A_PICTURE_ABB"
+msgstr "Visualització d'una foto"
+
+msgid "IDS_GALLERY_BODY_TAP_THE_PICTURE_YOU_WANT_TO_VIEW"
+msgstr "Toqui la foto que vulgui veure."
+
+msgid "IDS_GALLERY_BODY_VIEW_YOUR_PICTURE"
+msgstr "Veure la seva foto."
+
+msgid "IDS_GALLERY_BODY_TAP_THE_MORE_OPTIONS_BUTTON_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE_TTS"
+msgstr "Toqui el botó més opcions, després, Definir com a per utilitzar la imatge com a fons de pantalla o foto de contacte."
+
+msgid "IDS_GALLERY_BODY_PINCH_THE_IMAGE_OR_SPREAD_YOUR_FINGERS_APART_WHILE_TOUCHING_THE_SCREEN_TO_ZOOM_OUT_OR_IN"
+msgstr "Pessigui la imatge o separi els dits mentre toca la pantalla per reduir o ampliar."
+
+msgid "IDS_GALLERY_HEADER_RESIZING_THUMBNAILS_ABB"
+msgstr "Canvi de mida de miniatures"
+
+msgid "IDS_GALLERY_BODY_RESIZING_THE_THUMBNAILS_WILL_CHANGE_THE_NUMBER_OF_THUMBNAILS_YOU_WILL_SEE_ON_THE_SCREEN"
+msgstr "Si canvia la mida de les miniatures, canviarà el nombre de miniatures que veurà a la pantalla."
+
+msgid "IDS_GALLERY_BODY_A_THUMBNAIL_IS_A_SMALL_PREVIEW_OF_A_LARGER_PICTURE"
+msgstr "Una miniatura és una vista prèvia petita d'una foto més gran."
+
+msgid "IDS_GALLERY_HEADER_VIEWING_ALBUMS_ABB"
+msgstr "Visualització d'àlbums"
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_ALBUM"
+msgstr "Toqui %s i, després, Àlbum."
+
+msgid "IDS_GALLERY_BODY_TAP_AN_ALBUM_THEN_TAP_THE_PICTURE_OR_VIDEO_YOU_WANT_TO_VIEW"
+msgstr "Toqui un àlbum i, després, la foto o vídeo que vulgui veure."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_AT_THE_TOP_OF_THE_SCREEN"
+msgstr "Toqui %s a l'extrem superior de la pantalla."
+
+msgid "IDS_GALLERY_HEADER_SHARING_A_PICTURE_ABB"
+msgstr "Compartir una foto"
+
+msgid "IDS_GALLERY_HEADER_SHARING_MULTIPLE_PICTURES_ABB"
+msgstr "Compartir fotos múltiples"
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_DELETE_AT_THE_SAME_TIME"
+msgstr "Seleccioni diverses fotos per esborrar simultàniament."
+
+msgid "IDS_GALLERY_BODY_SELECT_MULTIPLE_PICTURES_TO_SHARE_AT_THE_SAME_TIME"
+msgstr "Seleccioni diverses fotos per compartir alhora."
+
+msgid "IDS_GALLERY_BODY_TAP_PS"
+msgstr "Toqui %s."
+
+msgid "IDS_GALLERY_BODY_MANAGE_AND_ENJOY_YOUR_PICTURES_AND_VIDEOS"
+msgstr "Gestioni i gaudeixi de les seves fotos i vídeos."
+
+msgid "IDS_GALLERY_HEADER_FILTERING_PICTURES_ABB"
+msgstr "Filtre de fotos"
+
+msgid "IDS_GALLERY_HEADER_DELETING_A_PICTURE_ABB"
+msgstr "Esborrar una foto"
+
+msgid "IDS_GALLERY_HEADER_DELETING_MULTIPLE_PICTURES_ABB"
+msgstr "Esborrar diverses fotos"
+
+msgid "IDS_GALLERY_HEADER_SHARING_PICTURES_ABB"
+msgstr "Compartir fotos"
+
+msgid "IDS_GALLERY_HEADER_DELETING_PICTURES_ABB"
+msgstr "Esborrar fotos"
+
+msgid "IDS_WIFI_SBODY_DISCONNECTED_M_STATUS"
+msgstr "Desconnectat"
+
+msgid "IDS_MH_BODY_DISCONNECTED_FROM_PS_CHECK_THE_NETWORK_STATUS_AND_THE_CONNECTED_DEVICE"
+msgstr "Desconnectat de %s. Comprovi l'estat de la xarxa i el dispositiu connectat."
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ALBUM_Q"
+msgstr "Esborrar aquest àlbum?"
+
+msgid "IDS_GALLERY_POP_DELETE_THIS_ITEM_Q"
+msgstr "Esborrar aquest element?"
+
+msgid "IDS_IV_OPT_LAYOUT_M_PICTUERS"
+msgstr "Disseny"
+
+msgid "IDS_GALLERY_BODY_PD_PHOTOS"
+msgstr "fotos de %d"
+
+msgid "IDS_EMAIL_BODY_DO_NOT_SHOW_AGAIN_VZW"
+msgstr "Do not show again"
+
+msgid "IDS_GALLERY_BODY_PRESS_THE_MENU_KEY_THEN_SELECT_SELECT_ITEMS"
+msgstr "Premi la tecla de menú i, a continuació, seleccioni Seleccionar elements."
+
+msgid "IDS_GALLERY_BODY_TAP_PS_THEN_TAP_SET_AS_TO_USE_THE_IMAGE_AS_A_WALLPAPER_OR_CONTACT_PICTURE"
+msgstr "Toqui %s i, després, Definir com a per utilitzar la imatge com a fons de pantalla o foto de contacte."
+
+msgid "IDS_SEARCH_BODY_1_RESULT"
+msgstr "1 resultat"
+
+msgid "IDS_SEARCH_BODY_PD_RESULTS"
+msgstr "%d resultats"
+
+msgid "IDS_COM_OPT_LANDSCAPE_MODE"
+msgstr "Mode horitzontal"
+
+msgid "IDS_GALLERY_OPT_STUDIO"
+msgstr "Estudi"
+
+msgid "IDS_EMAIL_BODY_NO_ITEMS_TO_DISPLAY"
+msgstr "No hi ha elements per mostrar"
+
+msgid "IDS_KEEPIT_HEADER_DELETE_ITEM_ABB"
+msgstr "Esborrar element"
+
+msgid "IDS_COM_BODY_UNNAMED"
+msgstr "Sense nom"
+
+msgid "IDS_GALLERY_HEADER_UNGROUPEDM_PEOPLE_ABB"
+msgstr "Sense agrupar"
+
+msgid "IDS_GALLERY_OPT_REMOVE_NAME_TAG"
+msgstr "Eliminar etiqueta de nom"
+
+msgid "IDS_GALLERY_OPT_REMOVE_FROM_PS"
+msgstr "Eliminar de %s"
+
+msgid "IDS_GALLERY_BODY_NEW_M_ALBUM_ABB"
+msgstr "Nou"
+
+msgid "IDS_IV_POP_THE_ALBUM_WILL_BE_CANCELLED"
+msgstr "Es cancel·larà l'àlbum"
+
+msgid "IDS_IV_BODY_REMOVE_FACE_IDENTIFICATION_Q"
+msgstr "Esborrar identificació de cares?"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEMS_ABB"
+msgstr "Eliminar elements"
+
+msgid "IDS_GP_HEADER_REMOVE_ITEM_ABB2"
+msgstr "Eliminar element"
+
+msgid "IDS_GP_POP_REMOVE_PD_ITEMS_Q"
+msgstr "Eliminar %d elements?"
+
+msgid "IDS_GP_POP_REMOVE_THIS_ITEM_Q"
+msgstr "Eliminar aquest element?"
+
+msgid "IDS_TPLATFORM_ACBUTTON_DONE_ABB"
+msgstr "REALITZAT"
+
+msgid "IDS_TPLATFORM_ACBUTTON_CANCEL_ABB"
+msgstr "CANCEL·LAR"
+
+msgid "IDS_GALLERY_BODY_AFTER_YOU_TAKE_PICTURES_THEY_WILL_BE_SHOWN_HERE"
+msgstr "Després de fer fotos, es mostraran aquí."
+
+msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
+msgstr "Fitxer malmès o en un format no compatible."
+
