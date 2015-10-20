@@ -725,11 +725,11 @@ static void _ge_message(ui_gadget_h ug, app_control_h msg, app_control_h service
 		} else if (initialized_mode) {
 			if (!strcmp(initialized_mode, "enable")) {
 				if (_ge_is_grid_view(ugd)) {
-					Evas_Object *tmp = elm_naviframe_item_pop(ugd->naviframe);
+					elm_naviframe_item_pop(ugd->naviframe);
 				} else {
 					ge_dbg("Album view");
 				}
-				Evas_Object *albumview = elm_naviframe_item_pop(ugd->naviframe);
+				elm_naviframe_item_pop(ugd->naviframe);
 				elm_gengrid_realized_items_update(ugd->albums_view);
 			}
 		}

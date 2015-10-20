@@ -27,6 +27,7 @@
 #include "ge-main-view.h"
 #include "ge-strings.h"
 #include "ge-ugdata.h"
+#include "ge-nocontent.h"
 #include <notification.h>
 
 static Elm_Gengrid_Item_Class *gic_first = NULL;
@@ -307,74 +308,6 @@ static void __ge_split_albums_sel_cb(void *data, Evas_Object *obj, void *ei)
 	_ge_ui_save_scroller_pos(obj);
 }
 
-static char *__ge_albums_get_text(void *data, Evas_Object *obj, const char *part)
-{
-	GE_CHECK_NULL(part);
-	GE_CHECK_NULL(data);
-	ge_cluster *album = (ge_cluster *)data;
-	GE_CHECK_NULL(album->cluster);
-	GE_CHECK_NULL(album->cluster->uuid);
-	GE_CHECK_NULL(album->ugd);
-	ge_ugdata *ugd = album->ugd;
-	char buf[GE_FILE_PATH_LEN_MAX] = { 0, };
-
-	if (!g_strcmp0(part, "elm.text.name")) {
-		GE_CHECK_NULL(album->cluster->display_name);
-		if (_ge_data_is_root_path(album->cluster->path)) {
-			snprintf(buf, sizeof(buf), "%s", GE_ALBUM_ROOT_NAME);
-			buf[strlen(buf)] = '\0';
-		} else if (album->cluster->display_name &&
-			  strlen(album->cluster->display_name)) {
-			char *new_name = _ge_ui_get_i18n_album_name(album->cluster);
-			snprintf(buf, sizeof(buf), "%s", new_name);
-			buf[strlen(buf)] = '\0';
-		}
-
-		/* Show blue folder name */
-		if (!g_strcmp0(album->cluster->uuid, GE_ALBUM_ALL_ID)) {
-			Elm_Object_Item *grid_it = album->griditem;
-		    	Evas_Object *it_obj = NULL;
-			it_obj = elm_object_item_widget_get(grid_it);
-			GE_CHECK_NULL(it_obj);
-			edje_object_signal_emit(it_obj, "elm,name,show,blue",
-						"elm");
-			edje_object_message_signal_process(it_obj);
-		}
-	} else if (!g_strcmp0(part, "elm.text.date")) {
-		if (album->cover) {
-			_ge_data_util_free_item(album->cover);
-			album->cover = NULL;
-		}
-
-		ge_item *item = NULL;
-		_ge_data_get_album_cover(ugd, album, &item,
-					 MEDIA_CONTENT_ORDER_DESC);
-		if (item == NULL || item->item == NULL) {
-			album->cover_thumbs_cnt = 0;
-			_ge_data_util_free_item(item);
-			return NULL;
-		}
-
-		album->cover = item;
-		album->cover_thumbs_cnt = GE_ALBUM_COVER_THUMB_NUM;
-	} else if (!g_strcmp0(part, "elm.text.count")) {
-		_ge_data_update_items_cnt(ugd, album);
-		snprintf(buf, sizeof(buf), "%d", (int)(album->cluster->count));
-		buf[strlen(buf)] = '\0';
-	} else if (!g_strcmp0(part, "elm.text.badge") && ugd->b_multifile) {
-		int sel_cnt = 0;
-		_ge_data_get_album_sel_cnt(ugd, album->cluster->uuid, &sel_cnt);
-		ge_dbg("count :%d", sel_cnt);
-		if (sel_cnt > 0) {
-			album->sel_cnt = sel_cnt;
-			snprintf(buf, sizeof(buf), "%d", sel_cnt);
-		} else {
-			album->sel_cnt = 0;
-		}
-	}
-	return strdup(buf);
-}
-
 static char *__ge_split_albums_get_text(void *data, Evas_Object *obj, const char *part)
 {
 	GE_CHECK_NULL(part);
@@ -499,47 +432,6 @@ static ge_icon_type __ge_albums_set_bg_file(Evas_Object *bg, void *data)
 #endif
 
 	return ret_val;
-}
-
-static Evas_Object *__ge_albums_get_type_icon(Evas_Object *obj, ge_cluster *album)
-{
-	GE_CHECK_NULL(album);
-	GE_CHECK_NULL(album->cluster);
-	GE_CHECK_NULL(obj);
-	Evas_Object *_obj = NULL;
-
-	if (_ge_data_is_camera_album(album->cluster))
-		_obj = _ge_tile_show_part_type_icon(obj,
-						    GE_TILE_TYPE_CAMERA);
-	else if (_ge_data_is_default_album(GE_ALBUM_DOWNLOADS_NAME, album->cluster))
-		_obj = _ge_tile_show_part_type_icon(obj,
-						    GE_TILE_TYPE_DOWNLOAD);
-	else
-		_obj = _ge_tile_show_part_type_icon(obj,
-						    GE_TILE_TYPE_FOLDER);
-	return _obj;
-}
-
-static Evas_Object *__ge_albums_get_content(void *data, Evas_Object *obj, const char *part)
-{
-	GE_CHECK_NULL(part);
-	GE_CHECK_NULL(strlen(part));
-	GE_CHECK_NULL(data);
-	ge_cluster *album = (ge_cluster *)data;
-	GE_CHECK_NULL(album->cluster);
-	GE_CHECK_NULL(album->cluster->uuid);
-	ge_dbg("");
-
-	Evas_Object *_obj = NULL;
-	if (!g_strcmp0(part, GE_TILE_ICON)) {
-		_obj = _ge_tile_show_part_icon(obj, part,
-					       album->cover_thumbs_cnt,
-					       __ge_albums_set_bg_file,
-					       (void *)album->cover);
-	} else if (!g_strcmp0(part, GE_TILE_TYPE_ICON)) {
-		_obj = __ge_albums_get_type_icon(obj, album);
-	}
-	return _obj;
 }
 
 static Evas_Object *__ge_split_albums_get_content(void *data, Evas_Object *obj, const char *part)
@@ -862,53 +754,6 @@ static int __ge_albums_del_cbs(Evas_Object *view)
 	evas_object_smart_callback_del(view, "unrealized",
 				       __ge_albums_unrealized);
 	return 0;
-}
-
-static int __ge_albums_rotate_view(ge_ugdata *ugd)
-{
-	if (ugd->albums_view && ugd->albums_view != ugd->nocontents) {
-		_ge_tile_update_item_size(ugd, ugd->albums_view,
-					  ugd->rotate_mode, false);
-		return 0;
-	}
-	return -1;
-}
-
-/* Free data after layout deleted */
-static void __ge_albums_del_layout_cb(void *data, Evas *e, Evas_Object *obj,
-					 void *ei)
-{
-	ge_dbg("Delete layout ---");
-/*	evas_object_event_callback_del(obj, EVAS_CALLBACK_DEL,
-				       __ge_albums_del_layout_cb);*/
-	GE_CHECK(data);
-	ge_ugdata *ugd = (ge_ugdata *)data;
-
-	if (ugd->album_idler) {
-		ecore_idler_del(ugd->album_idler);
-		ugd->album_idler = NULL;
-	}
-	if (ugd->sel_album_idler) {
-		ecore_idler_del(ugd->sel_album_idler);
-		ugd->sel_album_idler = NULL;
-	}
-	if (ugd->albums_view && ugd->albums_view != ugd->nocontents) {
-		elm_gengrid_clear(ugd->albums_view);
-		__ge_albums_del_cbs(ugd->albums_view);
-		_ge_ui_del_scroller_pos(ugd->albums_view);
-	}
-	ugd->albums_view = NULL;
-	ugd->albums_view_ly = NULL;
-	if (ugd->album_gic) {
-		elm_gengrid_item_class_free(ugd->album_gic);
-		ugd->album_gic = NULL;
-	}
-	ugd->rotate_cbs = eina_list_remove(ugd->rotate_cbs,
-					   __ge_albums_rotate_view);
-	/* Clear view data */
-	_ge_data_free_sel_albums(ugd);
-	_ge_data_free_clusters(data);
-	ge_dbg("Delete layout +++");
 }
 
 static void _ge_grid_move_stop_cb(void *data, Evas_Object *obj, void *ei)
@@ -1313,7 +1158,6 @@ __ge_gallery_ug_result_cb(app_control_h request, app_control_h reply, app_contro
 	char **pathArray = NULL;
 	int arrayLength = 0;
 	int i = 0;
-	bool send_success = false;
 
 	if ((result != APP_CONTROL_ERROR_NONE) || !reply) {
 		ge_dbgE("ug-gallery-efl data get failed.");
@@ -1334,9 +1178,7 @@ __ge_gallery_ug_result_cb(app_control_h request, app_control_h reply, app_contro
 		app_control_add_extra_data_array(ugd->service, APP_CONTROL_DATA_PATH,
 								 (const char **)pathArray, arrayLength);
 		ug_send_result_full(ugd->ug, ugd->service, APP_CONTROL_RESULT_SUCCEEDED);
-		send_success = true;
 
-	GE_SEND_RESULT_FINISHED:
 		if (pathArray) {
 			for (i = 0; i < arrayLength; i++) {
 				GE_FREEIF(pathArray[i]);
