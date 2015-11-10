@@ -30,8 +30,9 @@ int _ge_data_free_sel_album(ge_sel_album_s *album)
 	if (album->elist) {
 		ge_sel_item_s *sit = NULL;
 		EINA_LIST_FREE(album->elist, sit) {
-			if (sit)
+			if (sit) {
 				_ge_data_util_free_sel_item(sit);
+			}
 		}
 	}
 	GE_FREEIF(album->uuid);
@@ -42,8 +43,9 @@ int _ge_data_free_sel_album(ge_sel_album_s *album)
 /* Remove album */
 int _ge_data_remove_sel_album(ge_ugdata *ugd, ge_sel_album_s *salbum)
 {
-	if (ugd == NULL || ugd->selected_elist == NULL || salbum == NULL)
+	if (ugd == NULL || ugd->selected_elist == NULL || salbum == NULL) {
 		return 0;
+	}
 
 	/* Check album is created or not */
 	ugd->selected_elist = eina_list_remove(ugd->selected_elist, salbum);
@@ -54,16 +56,18 @@ int _ge_data_remove_sel_album(ge_ugdata *ugd, ge_sel_album_s *salbum)
 /* Get count of selected items */
 int _ge_data_get_sel_cnt(ge_ugdata *ugd)
 {
-	if (ugd == NULL || ugd->selected_elist == NULL)
+	if (ugd == NULL || ugd->selected_elist == NULL) {
 		return 0;
+	}
 
 	/* Check album is created or not */
 	ge_sel_album_s *salbum = NULL;
 	int cnt = 0;
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
-		if (salbum == NULL || salbum->elist == NULL)
+		if (salbum == NULL || salbum->elist == NULL) {
 			continue;
+		}
 		cnt += eina_list_count(salbum->elist);
 		salbum = NULL;
 	}
@@ -91,11 +95,11 @@ int _ge_data_get_sel_paths(ge_ugdata *ugd, char **filepath, char ***filepath_arr
 
 	EINA_LIST_FOREACH(ugd->selected_elist, l, sit) {
 		g_string_append(selected_path, sit->file_url);
-			g_string_append_c(selected_path, ';');
-			path_list = eina_list_append(path_list, sit);
-			_cnt++;
-			sit = NULL;
-		}
+		g_string_append_c(selected_path, ';');
+		path_list = eina_list_append(path_list, sit);
+		_cnt++;
+		sit = NULL;
+	}
 
 	/* copy path from path_list to path_array */
 	int idx = 0;
@@ -121,8 +125,9 @@ int _ge_data_get_sel_paths(ge_ugdata *ugd, char **filepath, char ***filepath_arr
 	g_string_truncate(selected_path, str_len - 1);
 	*filepath = g_string_free(selected_path, false);
 
-	if (cnt)
+	if (cnt) {
 		*cnt = _cnt;
+	}
 	return 0;
 }
 
@@ -141,7 +146,7 @@ int _ge_data_get_album_sel_cnt(ge_ugdata *ugd, char *uuid, int *cnt)
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
 		if (salbum == NULL || salbum->elist == NULL ||
-		    salbum->uuid == NULL) {
+		        salbum->uuid == NULL) {
 			ge_dbgW("Empty salbum!");
 			continue;
 		}
@@ -168,14 +173,16 @@ int _ge_data_check_sel_items(ge_ugdata *ugd)
 	Eina_List *l2 = NULL;
 	ge_sel_item_s *sit = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
-		if (salbum == NULL || salbum->uuid == NULL)
+		if (salbum == NULL || salbum->uuid == NULL) {
 			continue;
+		}
 		EINA_LIST_FOREACH(salbum->elist, l2, sit) {
-			if (sit == NULL)
+			if (sit == NULL) {
 				continue;
+			}
 			if (sit->uuid == NULL || sit->file_url == NULL)
 				salbum->elist = eina_list_remove(salbum->elist,
-								 sit);
+				                                 sit);
 			sit = NULL;
 		}
 		salbum = NULL;
@@ -186,14 +193,16 @@ int _ge_data_check_sel_items(ge_ugdata *ugd)
 /* Remove sel albums */
 int _ge_data_free_sel_albums(ge_ugdata *ugd)
 {
-	if (ugd == NULL || ugd->selected_elist == NULL)
+	if (ugd == NULL || ugd->selected_elist == NULL) {
 		return 0;
+	}
 
 	/* Check album is created or not */
 	ge_sel_album_s *salbum = NULL;
 	EINA_LIST_FREE(ugd->selected_elist, salbum) {
-		if (salbum == NULL || salbum->elist == NULL)
+		if (salbum == NULL || salbum->elist == NULL) {
 			continue;
+		}
 		_ge_data_free_sel_album(salbum);
 		salbum = NULL;
 	}
@@ -210,7 +219,7 @@ bool _ge_data_check_selected_id(Eina_List *sel_id_list, const char *id)
 
 	if (eina_list_count(sel_id_list) == 0) {
 		ge_dbgE("sel_id_list is empty!");
-	    	return false;
+		return false;
 	}
 
 	EINA_LIST_FOREACH(sel_id_list, tmp_elist, sit) {
@@ -224,8 +233,8 @@ bool _ge_data_check_selected_id(Eina_List *sel_id_list, const char *id)
 			continue;
 		}
 
-		 sit->valid = 1;
-		 return true;
+		sit->valid = 1;
+		return true;
 	}
 	return false;
 }
@@ -249,14 +258,15 @@ int _ge_data_update_items_cnt(ge_ugdata *ugd, ge_cluster *album)
 	g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO, CONDITION_LENGTH);
 	filter.with_meta = false;
 
-	if (ugd->file_type_mode == GE_FILE_T_IMAGE)
+	if (ugd->file_type_mode == GE_FILE_T_IMAGE) {
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE, CONDITION_LENGTH);
-	else if (ugd->file_type_mode == GE_FILE_T_VIDEO)
+	} else if (ugd->file_type_mode == GE_FILE_T_VIDEO) {
 		g_strlcpy(filter.cond, GE_CONDITION_VIDEO, CONDITION_LENGTH);
+	}
 
 	if (g_strcmp0(album->cluster->uuid, GE_ALBUM_ALL_ID)) {
 		err = _ge_local_data_get_media_count(album->cluster->uuid,
-						     &filter, &item_count);
+		                                     &filter, &item_count);
 	} else {
 		/* "All albums" album */
 		ge_dbg("all media count");
@@ -287,8 +297,9 @@ int _ge_data_free_clusters(ge_ugdata *ugd)
 			ge_dbg("Clear clusters");
 			ge_cluster *album = NULL;
 			EINA_LIST_FREE(ugd->cluster_list->clist, album) {
-				if (album)
+				if (album) {
 					_ge_data_util_free_cluster(album);
+				}
 
 				album = NULL;
 			}
@@ -341,31 +352,34 @@ int _ge_data_get_clusters(ge_ugdata *ugd, int type)
 	}
 	GE_CHECK_VAL(ugd->cluster_list, -1);
 
- GE_DATA_AGAIN:
+GE_DATA_AGAIN:
 
 	/* Get local albums for first time and local albums is more than 9 */
 	if (type == GE_ALBUM_DATA_NONE || type == GE_ALBUM_DATA_LOCAL) {
 		/* Get real albums */
 		memset(&filter, 0x00, sizeof(ge_filter_s));
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO,
-			  CONDITION_LENGTH);
+		          CONDITION_LENGTH);
 		filter.collate_type = MEDIA_CONTENT_COLLATE_NOCASE;
 		filter.sort_type = MEDIA_CONTENT_ORDER_ASC;
 		g_strlcpy(filter.sort_keyword, FOLDER_NAME, KEYWORD_LENGTH);
 		if (type == GE_ALBUM_DATA_NONE) {
 			_ge_local_data_get_album_by_path(GE_CAMERA_PATH_PHONE,
-							 &camera_album);
-			if (camera_album)
+			                                 &camera_album);
+			if (camera_album) {
 				list = eina_list_append(list, camera_album);
+			}
 			camera_album = NULL;
 			_ge_local_data_get_album_by_path(GE_CAMERA_PATH_MMC,
-							 &camera_album);
-			if (camera_album)
+			                                 &camera_album);
+			if (camera_album) {
 				list = eina_list_append(list, camera_album);
+			}
 			_ge_local_data_get_album_by_path(GE_DOWNLOADS_PATH,
-							 &downloads_album);
-			if (downloads_album)
+			                                 &downloads_album);
+			if (downloads_album) {
 				list = eina_list_append(list, downloads_album);
+			}
 
 			filter.count = GE_ALBUMS_FIRST_COUNT;
 			filter.list_type = GE_ALBUM_LIST_FIRST;
@@ -379,22 +393,23 @@ int _ge_data_get_clusters(ge_ugdata *ugd, int type)
 		err = _ge_local_data_get_album_list(&filter, &list);
 		if (err != 0) {
 			ge_dbgW("No record");
-			if (list)
+			if (list) {
 				_ge_data_util_free_mtype_items(&list);
+			}
 		} else {
 			memset(&filter, 0x00, sizeof(ge_filter_s));
 			if (ugd->file_type_mode == GE_FILE_T_IMAGE)
 				g_strlcpy(filter.cond, GE_CONDITION_IMAGE,
-					  CONDITION_LENGTH);
+				          CONDITION_LENGTH);
 			else if (ugd->file_type_mode == GE_FILE_T_VIDEO)
 				g_strlcpy(filter.cond, GE_CONDITION_VIDEO,
-					  CONDITION_LENGTH);
+				          CONDITION_LENGTH);
 			else
 				g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO,
-					  CONDITION_LENGTH);
+				          CONDITION_LENGTH);
 			filter.sort_type = MEDIA_CONTENT_ORDER_DESC;
 			g_strlcpy(filter.sort_keyword, MEDIA_DISPLAY_NAME,
-				  KEYWORD_LENGTH);
+			          KEYWORD_LENGTH);
 			filter.offset = GE_GET_ALL_RECORDS;
 			filter.count = GE_GET_ALL_RECORDS;
 			filter.with_meta = false;
@@ -425,8 +440,8 @@ int _ge_data_get_clusters(ge_ugdata *ugd, int type)
 		ge_sdbg("Cluster ID: %s.", album->uuid);
 
 		err = _ge_local_data_get_media_count(album->uuid,
-						     &filter,
-						     &medias_cnt);
+		                                     &filter,
+		                                     &medias_cnt);
 		if (err == 0 && medias_cnt > 0) {
 			album->count = medias_cnt;
 			all_local_cnt += medias_cnt;
@@ -456,8 +471,9 @@ int _ge_data_get_clusters(ge_ugdata *ugd, int type)
 				camera_cluster = gcluster;
 			}
 		} else {
-			if (ugd->cluster_list->append_cb)
+			if (ugd->cluster_list->append_cb) {
 				ugd->cluster_list->append_cb(ugd, gcluster);
+			}
 		}
 		ugd->cluster_list->clist = clist;
 	}
@@ -467,11 +483,12 @@ int _ge_data_get_clusters(ge_ugdata *ugd, int type)
 		gcluster = _ge_data_util_new_cluster_all(ugd, all_local_cnt);
 		GE_CHECK_VAL(gcluster, -1);
 
-		if (camera_cluster)
+		if (camera_cluster) {
 			clist = eina_list_append_relative(clist, gcluster,
-							  camera_cluster);
-		else
-			clist= eina_list_prepend(clist, gcluster);
+			                                  camera_cluster);
+		} else {
+			clist = eina_list_prepend(clist, gcluster);
+		}
 
 		ugd->cluster_list->clist = clist;
 		ge_dbg("<All albums> added!");
@@ -501,10 +518,11 @@ int _ge_data_get_cluster(ge_ugdata *ugd, char *uuid, ge_cluster **cluster)
 	} else {
 		ge_album_s *mcluster = NULL;
 		ret = _ge_local_data_get_album_by_id(ugd->slideshow_album_id,
-						     &mcluster);
+		                                     &mcluster);
 		if (ret < 0 || mcluster == NULL) {
-			if (mcluster)
+			if (mcluster) {
 				_ge_data_type_free_geitem((void **)&mcluster);
+			}
 			return -1;
 		}
 
@@ -539,8 +557,9 @@ int _ge_data_free_cluster(ge_cluster *cluster)
 /* Clear items list */
 int _ge_data_free_medias(Eina_List **elist)
 {
-	if (elist == NULL || *elist == NULL)
+	if (elist == NULL || *elist == NULL) {
 		return -1;
+	}
 	ge_item *gitem = NULL;
 	ge_dbg("Clear medias");
 	EINA_LIST_FREE(*elist, gitem) {
@@ -551,8 +570,8 @@ int _ge_data_free_medias(Eina_List **elist)
 }
 
 int _ge_data_get_medias(ge_ugdata *ugd, char *uuid, int type, int start_pos,
-			int end_pos, Eina_List **pmedias_elist,
-			ge_restore_selected_cb restore_cb, Eina_List *sel_id)
+                        int end_pos, Eina_List **pmedias_elist,
+                        ge_restore_selected_cb restore_cb, Eina_List *sel_id)
 {
 	GE_CHECK_VAL(pmedias_elist, -1);
 	GE_CHECK_VAL(ugd, -1);
@@ -568,7 +587,7 @@ int _ge_data_get_medias(ge_ugdata *ugd, char *uuid, int type, int start_pos,
 		g_strlcpy(filter.cond, GE_CONDITION_VIDEO, CONDITION_LENGTH);
 	} else {
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO,
-			  CONDITION_LENGTH);
+		          CONDITION_LENGTH);
 	}
 
 	filter.collate_type = MEDIA_CONTENT_COLLATE_NOCASE;
@@ -581,7 +600,7 @@ int _ge_data_get_medias(ge_ugdata *ugd, char *uuid, int type, int start_pos,
 
 	ge_dbg("--Album All--");
 	err = _ge_local_data_get_all_albums_media_list(&filter,
-							   &itemlist);
+	        &itemlist);
 
 	if ((err == 0) && (itemlist != NULL)) {
 		ge_media_s *item = NULL;
@@ -603,17 +622,19 @@ int _ge_data_get_medias(ge_ugdata *ugd, char *uuid, int type, int start_pos,
 			gitem->ugd = ugd;
 			gitem->store_type = type;
 			*pmedias_elist = eina_list_append(*pmedias_elist,
-							  gitem);
+			                                  gitem);
 
-			if (restore_cb && sel_id)
+			if (restore_cb && sel_id) {
 				restore_cb(sel_id, gitem);
+			}
 			item = NULL;
 			gitem = NULL;
 		}
 	} else {
 		/* Free Mitems */
-		if (itemlist)
+		if (itemlist) {
 			_ge_data_util_free_mtype_items(&itemlist);
+		}
 	}
 	ge_dbg("medias_elist=%p", *pmedias_elist);
 	return err;
@@ -621,9 +642,9 @@ int _ge_data_get_medias(ge_ugdata *ugd, char *uuid, int type, int start_pos,
 
 /* Update items list, especially used in thumbnails edit view */
 int _ge_data_update_medias(ge_ugdata *ugd, char *uuid, int type,
-			   Eina_List **pmedias_elist,
-			   ge_restore_selected_cb restore_cb,
-			   Eina_List *sel_id)
+                           Eina_List **pmedias_elist,
+                           ge_restore_selected_cb restore_cb,
+                           Eina_List *sel_id)
 {
 	GE_CHECK_VAL(pmedias_elist, -1);
 	GE_CHECK_VAL(uuid, -1);
@@ -640,7 +661,7 @@ int _ge_data_update_medias(ge_ugdata *ugd, char *uuid, int type,
 		g_strlcpy(filter.cond, GE_CONDITION_VIDEO, CONDITION_LENGTH);
 	} else {
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO,
-			  CONDITION_LENGTH);
+		          CONDITION_LENGTH);
 	}
 
 	filter.collate_type = MEDIA_CONTENT_COLLATE_NOCASE;
@@ -652,17 +673,18 @@ int _ge_data_update_medias(ge_ugdata *ugd, char *uuid, int type,
 
 	if (g_strcmp0(uuid, GE_ALBUM_ALL_ID)) {
 		err = _ge_local_data_get_album_media_list(uuid, &filter,
-							  &itemlist);
+		        &itemlist);
 	} else {
 		err = _ge_local_data_get_all_albums_media_list(&filter,
-							       &itemlist);
+		        &itemlist);
 	}
 
 	if ((err != 0) || (itemlist == NULL)) {
 		ge_dbgE("(err != 0) || (itemlist == NULL)");
 		/* Free Mitems */
-		if (itemlist)
+		if (itemlist) {
 			_ge_data_util_free_mtype_items(&itemlist);
+		}
 		return err;
 	}
 
@@ -685,8 +707,9 @@ int _ge_data_update_medias(ge_ugdata *ugd, char *uuid, int type,
 		gitem->store_type = type;
 		*pmedias_elist = eina_list_append(*pmedias_elist, gitem);
 
-		if (restore_cb && sel_id)
+		if (restore_cb && sel_id) {
 			restore_cb(sel_id, gitem);
+		}
 
 		item = NULL;
 		gitem = NULL;
@@ -697,7 +720,7 @@ int _ge_data_update_medias(ge_ugdata *ugd, char *uuid, int type,
 }
 
 int _ge_data_get_album_cover(ge_ugdata *ugd, ge_cluster *album,
-			     ge_item **pgitem, media_content_order_e sort_type)
+                             ge_item **pgitem, media_content_order_e sort_type)
 {
 	GE_CHECK_VAL(pgitem, -1);
 	GE_CHECK_VAL(album, -1);
@@ -718,7 +741,7 @@ int _ge_data_get_album_cover(ge_ugdata *ugd, ge_cluster *album,
 		g_strlcpy(filter.cond, GE_CONDITION_VIDEO, CONDITION_LENGTH);
 	} else {
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO,
-			  CONDITION_LENGTH);
+		          CONDITION_LENGTH);
 	}
 
 	filter.collate_type = MEDIA_CONTENT_COLLATE_NOCASE;
@@ -731,7 +754,7 @@ int _ge_data_get_album_cover(ge_ugdata *ugd, ge_cluster *album,
 	if (g_strcmp0(album->cluster->uuid, GE_ALBUM_ALL_ID)) {
 		/*real album */
 		err = _ge_local_data_get_album_cover(album->cluster->uuid,
-						     &filter, &item_list);
+		                                     &filter, &item_list);
 		if (err != 0 || item_list == NULL) {
 			ge_dbgE("Get albums media list failed[%d]!", err);
 			goto DB_FAILED;
@@ -761,7 +784,7 @@ int _ge_data_get_album_cover(ge_ugdata *ugd, ge_cluster *album,
 		gitem->store_type = album->cluster->type;
 		/* Update flag */
 		if (ugd->cluster_list->b_updated &&
-		    !g_strcmp0(album->cluster->uuid, GE_ALBUM_ALL_ID)) {
+		        !g_strcmp0(album->cluster->uuid, GE_ALBUM_ALL_ID)) {
 			ge_dbgW("Update flag: last mtime!");
 			ugd->cluster_list->b_updated = false;
 			ugd->cluster_list->last_mtime = item->mtime;
@@ -773,22 +796,23 @@ int _ge_data_get_album_cover(ge_ugdata *ugd, ge_cluster *album,
 	ge_sdbg("First items of [%s]", album->cluster->display_name);
 	return 0;
 
- DB_FAILED:
+DB_FAILED:
 
 	/* Free Mitems */
-	if (item_list)
+	if (item_list) {
 		_ge_data_util_free_mtype_items(&item_list);
+	}
 	return -1;
 }
 
 int _ge_data_get_item_cnt(ge_ugdata *ugd, const char *cluster_id,
-			  int album_type, int *item_cnt)
+                          int album_type, int *item_cnt)
 {
 	GE_CHECK_VAL(item_cnt, -1);
 	GE_CHECK_VAL(ugd, -1);
 	int err = -1;
 	ge_filter_s filter;
-	memset(&filter,0x00,sizeof(ge_filter_s));
+	memset(&filter, 0x00, sizeof(ge_filter_s));
 	ge_sdbg("cluster_id: %s", cluster_id);
 
 	filter.sort_type = MEDIA_CONTENT_ORDER_DESC;
@@ -803,14 +827,14 @@ int _ge_data_get_item_cnt(ge_ugdata *ugd, const char *cluster_id,
 		g_strlcpy(filter.cond, GE_CONDITION_VIDEO, CONDITION_LENGTH);
 	} else {
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO,
-			  CONDITION_LENGTH);
+		          CONDITION_LENGTH);
 	}
 
 	GE_CHECK_VAL(cluster_id, -1);
 	if (album_type == GE_PHONE || album_type == GE_MMC) {
 		/*It's normal album*/
 		err = _ge_local_data_get_media_count(cluster_id, &filter,
-						     item_cnt);
+		                                     item_cnt);
 	} else if (album_type == GE_ALL) {
 		/* All albums */
 		ge_dbg("All albums media count");
@@ -842,38 +866,42 @@ bool _ge_data_check_update(ge_ugdata *ugd)
 	filter.with_meta = false;
 	filter.offset = GE_FIRST_VIEW_START_POS;
 	filter.count = GE_GET_ONE_RECORD;
-	if (ugd->file_type_mode == GE_FILE_T_IMAGE)
+	if (ugd->file_type_mode == GE_FILE_T_IMAGE) {
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE, CONDITION_LENGTH);
-	else if (ugd->file_type_mode == GE_FILE_T_VIDEO)
+	} else if (ugd->file_type_mode == GE_FILE_T_VIDEO) {
 		g_strlcpy(filter.cond, GE_CONDITION_VIDEO, CONDITION_LENGTH);
-	else
+	} else
 		g_strlcpy(filter.cond, GE_CONDITION_IMAGE_VIDEO,
-			  CONDITION_LENGTH);
+		          CONDITION_LENGTH);
 
 	/* Get latest item */
 	err = _ge_local_data_get_all_albums_media_list(&filter, &item_list);
-	if (err != 0 || item_list == NULL)
+	if (err != 0 || item_list == NULL) {
 		goto DB_NEED_UPDATE;
+	}
 
 	mitem = eina_list_nth(item_list, 0);
 	/* Compare modified time */
-	if (mitem == NULL || mitem->mtime != ugd->cluster_list->last_mtime)
+	if (mitem == NULL || mitem->mtime != ugd->cluster_list->last_mtime) {
 		goto DB_NEED_UPDATE;
+	}
 
 	/*  Get all medias count */
 	err = _ge_data_get_item_cnt(ugd, GE_ALBUM_ALL_ID, GE_ALL, &cnt);
-	if (err != 0)
+	if (err != 0) {
 		goto DB_NEED_UPDATE;
+	}
 
 	/* Compare medias count */
-	if (cnt != ugd->cluster_list->all_medias_cnt)
+	if (cnt != ugd->cluster_list->all_medias_cnt) {
 		goto DB_NEED_UPDATE;
+	}
 
 	_ge_data_type_free_geitem((void **)&mitem);
 	mitem = NULL;
 	return false;
 
- DB_NEED_UPDATE:
+DB_NEED_UPDATE:
 
 	_ge_data_type_free_geitem((void **)&mitem);
 	mitem = NULL;
@@ -898,8 +926,9 @@ int _ge_data_free_selected_medias(Eina_List **elist)
 	if (elist && *elist) {
 		ge_item* gitem = NULL;
 		EINA_LIST_FREE(*elist, gitem) {
-			if (gitem)
+			if (gitem) {
 				gitem->checked = false;
+			}
 		}
 		*elist = NULL;
 	}
@@ -949,10 +978,11 @@ bool _ge_data_is_camera_album(ge_album_s *mcluster)
 	/* Name is 'Camera' folder locates in Phone */
 	if (!g_strcmp0(mcluster->display_name, GE_ALBUM_CAMERA_NAME)) {
 		const char *root = NULL;
-		if (mcluster->type == GE_PHONE)
+		if (mcluster->type == GE_PHONE) {
 			root = GE_ROOT_PATH_PHONE;
-		else
+		} else {
 			root = GE_ROOT_PATH_MMC;
+		}
 
 		ge_dbg("Full path: %s", mcluster->path);
 		char *parent_path = ge_file_dir_get(mcluster->path);
@@ -978,8 +1008,9 @@ bool _ge_data_is_camera_album(ge_album_s *mcluster)
 
 bool _ge_data_check_root_type(const char *path, const char *root)
 {
-	if (path == NULL || root == NULL)
+	if (path == NULL || root == NULL) {
 		return false;
+	}
 
 	if (!strncmp(root, path, strlen(root))) {
 		ge_dbg("Root path: %s", path);
@@ -994,7 +1025,7 @@ bool _ge_data_is_root_path(const char *path)
 	GE_CHECK_FALSE(path);
 
 	if (!g_strcmp0(GE_ROOT_PATH_PHONE, path) ||
-	   !g_strcmp0(GE_ROOT_PATH_MMC, path)) {
+	        !g_strcmp0(GE_ROOT_PATH_MMC, path)) {
 		ge_dbg("Root path: %s", path);
 		return true;
 	}
@@ -1004,7 +1035,7 @@ bool _ge_data_is_root_path(const char *path)
 
 /* Creates a thumbnail image for given the media, asynchronously */
 int _ge_data_create_thumb(ge_media_s *item,
-			  media_thumbnail_completed_cb callback, void *data)
+                          media_thumbnail_completed_cb callback, void *data)
 {
 	GE_CHECK_VAL(item, -1);
 	GE_CHECK_VAL(item->media_h, -1);
@@ -1038,7 +1069,7 @@ int _ge_data_restore_selected(Eina_List *sel_ids, ge_item *gitem)
 	if (sel_ids) {
 		bool b_selected = false;
 		b_selected = _ge_data_check_selected_id(sel_ids,
-							gitem->item->uuid);
+		                                        gitem->item->uuid);
 		if (b_selected) {
 			ge_dbg("b_selected");
 			b_selected = false;

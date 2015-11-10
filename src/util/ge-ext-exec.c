@@ -29,8 +29,8 @@
 #define GE_EXT_FT_CONTACT "contact"
 
 static int __ge_ext_compose_cmd(ge_ugdata *ugd, GeExtAppType type,
-				app_control_h service, char **pkg_name, char *paths,
-				int count)
+                                app_control_h service, char **pkg_name, char *paths,
+                                int count)
 {
 	ge_dbg("type:%d", type);
 	GE_CHECK_VAL(pkg_name, LAUNCH_FAIL);
@@ -40,12 +40,12 @@ static int __ge_ext_compose_cmd(ge_ugdata *ugd, GeExtAppType type,
 	switch (type) {
 	case FILETRANSFER: {
 		app_control_add_extra_data(service, GE_EXT_LAUNCH_TYPE,
-				       GE_EXT_LAUNCH_FT_WITH_CONTACT);
+		                           GE_EXT_LAUNCH_FT_WITH_CONTACT);
 		app_control_add_extra_data(service, GE_EXT_FT_FILE, paths);
 
 		char index_arg[GE_EXT_CMD_ARGS_LEN] = { 0, };
 		snprintf(index_arg, sizeof(index_arg), "%d",
-			 ugd->file_select_contact_id);
+		         ugd->file_select_contact_id);
 		app_control_add_extra_data(service, GE_EXT_FT_CONTACT, index_arg);
 		*pkg_name = GE_EXT_FILETRANSFER;
 		break;
@@ -74,7 +74,7 @@ int _ge_ext_load_app(ge_ugdata *ugd, GeExtAppType type, char *paths, int count)
 		return LAUNCH_FAIL;
 	}
 
- 	int ret = 0;
+	int ret = 0;
 	app_control_set_operation(service, APP_CONTROL_OPERATION_DEFAULT);
 	if (APP_CONTROL_ERROR_NONE != app_control_set_app_id(service, pkg_name)) {
 		ge_dbgE("app_control_set_app_id failed");
@@ -87,9 +87,10 @@ int _ge_ext_load_app(ge_ugdata *ugd, GeExtAppType type, char *paths, int count)
 	}
 
 	ret = app_control_destroy(service);
-	if (ret != APP_CONTROL_ERROR_NONE)
+	if (ret != APP_CONTROL_ERROR_NONE) {
 		return LAUNCH_FAIL;
-	else
+	} else {
 		return LAUNCH_SUCCESS;
+	}
 }
 

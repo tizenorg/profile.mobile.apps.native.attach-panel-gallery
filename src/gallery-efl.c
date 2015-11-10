@@ -41,12 +41,10 @@ static int __ge_create_main_view(ge_ugdata *ugd)
 	GE_CHECK_VAL(ugd, -1);
 	GE_CHECK_VAL(ugd->naviframe, -1);
 
-	if (ugd->file_select_mode == GE_FILE_SELECT_T_SLIDESHOW)
-	{
+	if (ugd->file_select_mode == GE_FILE_SELECT_T_SLIDESHOW) {
 		ge_dbgE("file select mode is slideshow>>>>>>> grid view");
 		_ge_grid_create_main_view(ugd);
-	}
-	else {
+	} else {
 
 		ge_dbgE("no slide show mode>>>>>>>>>");
 		_ge_main_create_view(ugd);
@@ -63,9 +61,9 @@ static Evas_Object *_ge_create_bg(Evas_Object *parent)
 	/* Show special color of background */
 	bg = evas_object_rectangle_add(evas_object_evas_get(parent));
 	evas_object_color_set(bg, GE_BG_COLOR_DEFAULT, GE_BG_COLOR_DEFAULT,
-			      GE_BG_COLOR_DEFAULT, GE_BG_COLOR_A);
+	                      GE_BG_COLOR_DEFAULT, GE_BG_COLOR_A);
 	evas_object_size_hint_weight_set(bg, EVAS_HINT_EXPAND,
-					 EVAS_HINT_EXPAND);
+	                                 EVAS_HINT_EXPAND);
 	evas_object_size_hint_align_set(bg, EVAS_HINT_FILL, EVAS_HINT_FILL);
 	evas_object_show(bg);
 
@@ -108,10 +106,11 @@ static void __ge_win_rot_changed_cb(void *data, Evas_Object *obj,
 	}
 
 	ge_dbg("New angle: %d, old angle: %d", evt, ugd->rotate_mode);
-	if (evt == ugd->rotate_mode)
+	if (evt == ugd->rotate_mode) {
 		return;
-	else
+	} else {
 		ugd->rotate_mode = evt;
+	}
 
 	/* Update rotate mode and view */
 	int len = eina_list_count(ugd->rotate_cbs);
@@ -147,15 +146,15 @@ static int _ge_init_view(ge_ugdata *ugd)
 
 
 
-	ugd->nf_it = elm_naviframe_item_push(ugd->naviframe,"first naviframe bg", NULL, NULL, ugd->bg, NULL );
+	ugd->nf_it = elm_naviframe_item_push(ugd->naviframe, "first naviframe bg", NULL, NULL, ugd->bg, NULL);
 
 
 
 	if (ugd->nf_it != NULL) {
 		ge_dbgE("base view is push successfully in the nf");
-	}
-	else
+	} else {
 		ge_dbgE("base view failed to push in nf ");
+	}
 
 
 	/* Albums view and its layout */
@@ -175,7 +174,7 @@ static int _ge_create_view(ge_ugdata *ugd)
 	ugd->th = elm_theme_new();
 	GE_CHECK_VAL(ugd->th, -1);
 	elm_theme_ref_set(ugd->th, NULL);
-	elm_theme_set(ugd->th, "tizen-HD-dark" );
+	elm_theme_set(ugd->th, "tizen-HD-dark");
 	elm_theme_extension_add(ugd->th, GE_EDJ_FILE);
 
 	if (_ge_init_view(ugd) != 0) {
@@ -204,7 +203,7 @@ static int _ge_close_view(ge_ugdata *ugd)
 	GE_IF_DEL_TIMER(ugd->del_timer)
 	/* Remove win rotation callback */
 	evas_object_smart_callback_del(ugd->win, "wm,rotation,changed",
-				       __ge_win_rot_changed_cb);
+	                               __ge_win_rot_changed_cb);
 	ge_dereg_db_update_noti();
 
 	/************* Destroy UI objects **************/
@@ -279,12 +278,13 @@ static int __ge_parse_param_file(ge_ugdata *ugd, app_control_h service)
 
 	app_control_get_mime(service, &mime);
 	if (mime) {
-		if (!g_strcmp0(mime, GE_MIME_IMAGE_ALL))
+		if (!g_strcmp0(mime, GE_MIME_IMAGE_ALL)) {
 			ugd->file_type_mode = GE_FILE_T_IMAGE;
-		else if (!g_strcmp0(mime, GE_MIME_VIDEO_ALL))
+		} else if (!g_strcmp0(mime, GE_MIME_VIDEO_ALL)) {
 			ugd->file_type_mode = GE_FILE_T_VIDEO;
-		else
+		} else {
 			ugd->file_type_mode = GE_FILE_T_ALL;
+		}
 
 		return 0;
 	}
@@ -308,7 +308,7 @@ static int __ge_parse_param_file(ge_ugdata *ugd, app_control_h service)
 	}
 
 
- GE_DEFAULT_FILE_TYPE:
+GE_DEFAULT_FILE_TYPE:
 
 	ge_dbg("file type is default, set default type(ALL).");
 	ugd->file_type_mode = GE_FILE_T_ALL;
@@ -365,20 +365,21 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 	ge_sdbg("operation [%s]", operation);
 
 	app_control_get_extra_data(service, APPSVC_DATA_SELECTION_MODE,
-			       &select_mode);
+	                           &select_mode);
 	if (select_mode) {
-		if (!strcasecmp(select_mode, GE_BUNDLE_SELECTION_MODE_SINGLE))
+		if (!strcasecmp(select_mode, GE_BUNDLE_SELECTION_MODE_SINGLE)) {
 			launch_type = strdup(GE_LAUNCH_SELECT_ONE);
-		else if (!strcasecmp(select_mode, GE_BUNDLE_SELECTION_MODE_MULTI))
+		} else if (!strcasecmp(select_mode, GE_BUNDLE_SELECTION_MODE_MULTI)) {
 			launch_type = strdup(GE_LAUNCH_SELECT_MULTIPLE);
+		}
 		GE_FREE(select_mode);
 	}
 	if (launch_type == NULL)
 		app_control_get_extra_data(service, GE_BUNDLE_LAUNCH_TYPE,
-				       &launch_type);
+		                           &launch_type);
 	if (launch_type == NULL) {
 		if (operation &&
-		    !strcasecmp(operation, APP_CONTROL_OPERATION_PICK)) {
+		        !strcasecmp(operation, APP_CONTROL_OPERATION_PICK)) {
 			launch_type = strdup(GE_LAUNCH_SELECT_ONE);
 			ge_dbg("Set launch-type to default");
 		} else {
@@ -445,8 +446,9 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 		app_control_get_extra_data(service, "indicator-state", &indicator);
 		if (indicator) {
 			ge_dbg("indicator: %s", indicator);
-			if (!strcasecmp(indicator, "hide"))
+			if (!strcasecmp(indicator, "hide")) {
 				ugd->b_hide_indicator = true;
+			}
 			GE_FREE(indicator);
 		}
 	}
@@ -520,13 +522,14 @@ static void * _ge_create(ui_gadget_h ug, enum ug_mode mode, app_control_h servic
 #endif
 	/* Add window rotation callback to rotate view as fast as possible */
 	evas_object_smart_callback_add(ugd->win, "wm,rotation,changed",
-				       __ge_win_rot_changed_cb, (void *)ugd);
+	                               __ge_win_rot_changed_cb, (void *)ugd);
 	__ge_get_rotate_value(ugd);
 
 	app_control_clone(&(ugd->service), service);
 	/* Connect DB first */
-	if (_ge_data_init(ugd) != 0)
+	if (_ge_data_init(ugd) != 0) {
 		ge_dbgE("_ge_data_init failed!");
+	}
 	/*Register db udpate callback*/
 	_ge_db_update_reg_cb(ugd);
 	/* Parse parameters passed from parent */
@@ -553,7 +556,7 @@ static void * _ge_create(ui_gadget_h ug, enum ug_mode mode, app_control_h servic
 		ge_dbg("Normal mode");
 	}
 	if ((ugd->file_select_mode != GE_FILE_SELECT_T_NONE) ||
-	    (ugd->album_select_mode != GE_ALBUM_SELECT_T_NONE)) {
+	        (ugd->album_select_mode != GE_ALBUM_SELECT_T_NONE)) {
 		/* create gallery UG */
 		if (_ge_create_view(ugd) != 0) {
 			ge_dbgE("Failed to create Gallery UG view!");
@@ -561,7 +564,7 @@ static void * _ge_create(ui_gadget_h ug, enum ug_mode mode, app_control_h servic
 		}
 	} else {
 		ge_dbgE("Wrong file_select_mode[%d] or album_select_mode[%d]",
-			ugd->file_select_mode, ugd->album_select_mode);
+		        ugd->file_select_mode, ugd->album_select_mode);
 	}
 
 	return ugd->ly_main;
@@ -605,8 +608,9 @@ static void _ge_resume(ui_gadget_h ug, app_control_h service, void *priv)
 	/*update*/
 
 	if (ugd->ug_called_by_me == NULL &&
-		ugd->file_select_mode != GE_FILE_SELECT_T_SLIDESHOW)
+	        ugd->file_select_mode != GE_FILE_SELECT_T_SLIDESHOW) {
 		ge_update_view(ugd, GE_UPDATE_NONE);
+	}
 }
 
 /**
@@ -643,7 +647,6 @@ static void _ge_message(ui_gadget_h ug, app_control_h msg, app_control_h service
 	char *pd_selected = GE_STR_PD_SELECTED;
 	char *text = NULL;
 	Evas_Object *btn = NULL;
-	int ret = 0;
 	int win_x = 0;
 	int win_y = 0;
 	int win_w = 0;
@@ -654,8 +657,8 @@ static void _ge_message(ui_gadget_h ug, app_control_h msg, app_control_h service
 		ge_dbg("called by attach panel ");
 		app_control_get_extra_data(msg, APP_CONTROL_DATA_SELECTION_MODE, &display_mode);
 		app_control_get_extra_data(msg, "__ATTACH_PANEL_INITIALIZE__", &initialized_mode);
-		ret = app_control_get_extra_data(msg, "http://tizen.org/appcontrol/data/total_size", &(ugd->limitsize));
 #ifdef FEATURE_SIZE_CHECK
+		int ret = app_control_get_extra_data(msg, "http://tizen.org/appcontrol/data/total_size", &(ugd->limitsize));
 		if (ret != APP_CONTROL_ERROR_NONE) {
 			//Test data
 			//ugd->limitsize = 2 * 1024 * 1024;
@@ -666,7 +669,7 @@ static void _ge_message(ui_gadget_h ug, app_control_h msg, app_control_h service
 				//change to single selection
 				ge_dbg("single_selection ");
 				if (ugd->nocontents) {
-					elm_gengrid_item_size_set(ugd->thumbs_d->gengrid, win_w, win_h/3);
+					elm_gengrid_item_size_set(ugd->thumbs_d->gengrid, win_w, win_h / 3);
 				}
 				ugd->attach_panel_display_mode = ATTACH_PANEL_HALF_MODE;
 				ugd->file_select_mode = GE_FILE_SELECT_T_ONE;
@@ -693,10 +696,11 @@ static void _ge_message(ui_gadget_h ug, app_control_h msg, app_control_h service
 				//change to multi selection
 				ge_dbg("multiple_selection");
 				if (ugd->nocontents) {
-					if (ugd->rotate_mode == GE_ROTATE_LANDSCAPE_UPSIDEDOWN || ugd->rotate_mode == GE_ROTATE_LANDSCAPE)
+					if (ugd->rotate_mode == GE_ROTATE_LANDSCAPE_UPSIDEDOWN || ugd->rotate_mode == GE_ROTATE_LANDSCAPE) {
 						elm_gengrid_item_size_set(ugd->thumbs_d->gengrid, win_h, LANDSCAPE_HEIGHT);
-					else
+					} else {
 						elm_gengrid_item_size_set(ugd->thumbs_d->gengrid, win_w, FULL_MODE_PORTRAIT_HEIGHT);
+					}
 				}
 				ugd->attach_panel_display_mode = ATTACH_PANEL_FULL_MODE;
 				ugd->file_select_mode = GE_FILE_SELECT_T_MULTIPLE;
@@ -789,7 +793,7 @@ static void _ge_event(ui_gadget_h ug, enum ug_event event, app_control_h service
 
 	return;
 
- UG_ROTATE_EVENT:
+UG_ROTATE_EVENT:
 
 	/* Update rotate mode and view */
 	ge_dbg("rotate_mode: %d", ugd->rotate_mode);

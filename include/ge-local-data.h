@@ -25,17 +25,17 @@ int _ge_local_data_disconnect(void);
 int _ge_local_data_get_album_by_path(char *path, ge_album_s **album);
 int _ge_local_data_get_album_list(ge_filter_s *condition, Eina_List **elilst);
 int _ge_local_data_get_media_count(const char *cluster_id, ge_filter_s *filter,
-				   int *item_cnt);
+                                   int *item_cnt);
 int _ge_local_data_get_all_media_count(ge_filter_s *filter, int *item_cnt);
 int _ge_local_data_get_media(const char *media_id, ge_media_s **mitem);
 int _ge_local_data_get_album_cover(char *album_id, ge_filter_s *condition,
-				   Eina_List **elist);
+                                   Eina_List **elist);
 int _ge_local_data_get_all_albums_cover(ge_filter_s *condition,
-					Eina_List **elist);
+                                        Eina_List **elist);
 int _ge_local_data_get_album_media_list(char *album_id, ge_filter_s *condition,
-					Eina_List **elist);
+                                        Eina_List **elist);
 int _ge_local_data_get_all_albums_media_list(ge_filter_s *condition,
-					     Eina_List **elist);
+        Eina_List **elist);
 int _ge_local_data_get_album_by_id(char *album_id, ge_album_s **cluster);
 int _ge_local_data_get_media_by_id(char *media_id, ge_media_s **mitem);
 int _ge_local_data_get_duration(media_info_h media, int *duration);

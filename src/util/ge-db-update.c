@@ -42,7 +42,7 @@ static Eina_Bool __ge_db_update_idler(void *data)
 	ge_db_noti_s *db_noti = ugd->db_noti_d;
 	ge_update_view(ugd, GE_UPDATE_VIEW_INOTIFY);
 	evas_object_smart_callback_call(ugd->naviframe,
-					"gallery,db,data,updated", ugd);
+	                                "gallery,db,data,updated", ugd);
 	GE_IF_DEL_IDLER(db_noti->db_idl);
 	return ECORE_CALLBACK_CANCEL;
 }
@@ -69,16 +69,16 @@ static int __ge_db_update_add_timer(ge_ugdata *ugd)
 
 	GE_IF_DEL_TIMER(db_noti->db_timer);
 	db_noti->db_timer = ecore_timer_add(GE_MONITOE_TIME_DELAY,
-					    __ge_db_update_timer_cb, ugd);
+	                                    __ge_db_update_timer_cb, ugd);
 	ge_dbgW("TIMER[1.0f] added!");
 	return 0;
 }
 
 static int __ge_db_update_op(media_content_error_e error, int pid,
-			     media_content_db_update_item_type_e update_item,
-			     media_content_db_update_type_e update_type,
-			     media_content_type_e media_type, char *uuid,
-			     char *path, char *mime_type, void *data)
+                             media_content_db_update_item_type_e update_item,
+                             media_content_db_update_type_e update_type,
+                             media_content_type_e media_type, char *uuid,
+                             char *path, char *mime_type, void *data)
 {
 	GE_CHECK_VAL(data, -1);
 	ge_ugdata *ugd = (ge_ugdata *)data;
@@ -90,8 +90,8 @@ static int __ge_db_update_op(media_content_error_e error, int pid,
 		return -1;
 	}
 	if (update_item == MEDIA_ITEM_FILE &&
-	    MEDIA_CONTENT_TYPE_IMAGE != media_type &&
-	    MEDIA_CONTENT_TYPE_VIDEO != media_type) {
+	        MEDIA_CONTENT_TYPE_IMAGE != media_type &&
+	        MEDIA_CONTENT_TYPE_VIDEO != media_type) {
 		ge_dbg("Media type is wrong");
 		return -1;
 	} else if (update_item == MEDIA_ITEM_DIRECTORY && media_type == -1) {
@@ -106,7 +106,7 @@ static int __ge_db_update_op(media_content_error_e error, int pid,
 		if (cnt == db_noti->count) {
 			ge_dbg("Nothing changed");
 			if (path &&
-			    !strcmp(path, GE_ROOT_PATH_MMC)) {
+			        !strcmp(path, GE_ROOT_PATH_MMC)) {
 				ge_dbg("MMC insert or remove!");
 			} else if (path) {
 				ge_album_s *album = NULL;
@@ -133,17 +133,17 @@ static int __ge_db_update_op(media_content_error_e error, int pid,
 }
 
 static void __ge_db_update_cb(media_content_error_e error, int pid,
-			      media_content_db_update_item_type_e update_item,
-			      media_content_db_update_type_e update_type,
-			      media_content_type_e media_type, char *uuid,
-			      char *path, char *mime_type, void *data)
+                              media_content_db_update_item_type_e update_item,
+                              media_content_db_update_type_e update_type,
+                              media_content_type_e media_type, char *uuid,
+                              char *path, char *mime_type, void *data)
 {
 	ge_dbg("update_item[%d], update_type[%d], media_type[%d]", update_item,
 	       update_type, media_type);
 	GE_CHECK(data);
 	ge_dbg("uuid[%s], path[%s]", uuid, path);
 	__ge_db_update_op(error, pid, update_item, update_type, media_type,
-			  uuid, path, mime_type, data);
+	                  uuid, path, mime_type, data);
 }
 
 /*
@@ -162,17 +162,19 @@ static void __ge_db_update_coud_cb(media_content_error_e error, int pid,
 */
 
 int _ge_db_update_get_info(void *data,
-			   media_content_db_update_item_type_e *update_item,
-			   media_content_db_update_type_e *update_type)
+                           media_content_db_update_item_type_e *update_item,
+                           media_content_db_update_type_e *update_type)
 {
 	GE_CHECK_VAL(data, -1);
 	ge_ugdata *ugd = (ge_ugdata *)data;
 	GE_CHECK_VAL(ugd->db_noti_d, -1);
 
-	if (update_item)
+	if (update_item) {
 		*update_item = ugd->db_noti_d->update_item;
-	if (update_type)
+	}
+	if (update_type) {
 		*update_type = ugd->db_noti_d->update_type;
+	}
 
 	return 0;
 }
@@ -194,8 +196,9 @@ bool _ge_db_update_reg_cb(ge_ugdata *ugd)
 
 	ge_dbg("Set db updated callback");
 	ret = media_content_set_db_updated_cb(__ge_db_update_cb, ugd);
-	if (ret != MEDIA_CONTENT_ERROR_NONE)
+	if (ret != MEDIA_CONTENT_ERROR_NONE) {
 		ge_dbgE("Set db updated cb failed[%d]!", ret);
+	}
 //	ret = media_content_set_db_updated_cloud_cb(&(ugd->db_noti_d->cloud_h),
 //						    __ge_db_update_coud_cb,
 //						    ugd);
@@ -210,8 +213,9 @@ bool _ge_db_update_finalize(ge_ugdata *ugd)
 	ge_dbg("Unset db updated callback");
 
 	ret = media_content_unset_db_updated_cb();
-	if (ret != MEDIA_CONTENT_ERROR_NONE)
+	if (ret != MEDIA_CONTENT_ERROR_NONE) {
 		ge_dbgE("UNSet db updated cb failed[%d]!", ret);
+	}
 
 	GE_CHECK_FALSE(ugd);
 	GE_CHECK_FALSE(ugd->db_noti_d);

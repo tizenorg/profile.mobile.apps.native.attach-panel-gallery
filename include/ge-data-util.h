@@ -118,8 +118,7 @@ typedef enum {
 	GE_ALBUM_LIST_ALL, 	/**< Get all albums except Camera and Downloads */
 } ge_album_list_e;
 
-typedef enum
-{
+typedef enum {
 	GE_ALBUM_SNS_NONE,
 	GE_ALBUM_SNS_PICASA,
 	GE_ALBUM_SNS_FACEBOOK,

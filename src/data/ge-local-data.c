@@ -25,7 +25,7 @@
 #include "ge-debug.h"
 
 static bool __ge_local_data_clone_album(media_folder_h folder, bool b_path,
-					ge_album_s **palbum)
+                                        ge_album_s **palbum)
 {
 	GE_CHECK_FALSE(folder);
 	GE_CHECK_FALSE(palbum);
@@ -75,7 +75,7 @@ static bool __ge_local_data_clone_album(media_folder_h folder, bool b_path,
 	*palbum = album;
 	return true;
 
- GE_LOCAL_FAILED:
+GE_LOCAL_FAILED:
 
 	_ge_data_type_free_geitem((void **)(&album));
 	*palbum = NULL;
@@ -83,7 +83,7 @@ static bool __ge_local_data_clone_album(media_folder_h folder, bool b_path,
 }
 
 static bool __ge_local_data_get_album_list_cb(media_folder_h folder,
-					      void *data)
+        void *data)
 {
 	GE_CHECK_FALSE(data);
 	ge_transfer_data_s *tmp_data = (ge_transfer_data_s *)data;
@@ -101,8 +101,8 @@ static bool __ge_local_data_get_album_list_cb(media_folder_h folder,
 
 	if (tmp_data->list_type != GE_ALBUM_LIST_PATH) {
 		if (!g_strcmp0(GE_CAMERA_PATH_PHONE, path) ||
-		    !g_strcmp0(GE_CAMERA_PATH_MMC, path) ||
-		    !g_strcmp0(GE_DOWNLOADS_PATH, path)) {
+		        !g_strcmp0(GE_CAMERA_PATH_MMC, path) ||
+		        !g_strcmp0(GE_DOWNLOADS_PATH, path)) {
 			ge_dbgW("Camera or Downloads!");
 			GE_FREE(path);
 			return true;
@@ -170,7 +170,7 @@ static bool __ge_local_data_get_cover_cb(media_info_h media, void *data)
 	*elist = eina_list_append(*elist, item);
 	return true;
 
- GE_LOCAL_FAILED:
+GE_LOCAL_FAILED:
 
 	_ge_data_type_free_geitem((void **)(&item));
 	return false;
@@ -224,8 +224,9 @@ int _ge_local_data_get_media_by_id(char *media_id, ge_media_s **mitem)
 	ret = media_info_get_media_from_db(media_id, &media_h);
 	if (ret != MEDIA_CONTENT_ERROR_NONE || media_h == NULL) {
 		ge_dbgE("Failed to get media handle[%d]!", ret);
-		if (media_h)
+		if (media_h) {
 			media_info_destroy(media_h);
+		}
 		return -1;
 	}
 
@@ -274,7 +275,7 @@ int _ge_local_data_get_album_by_path(char *path, ge_album_s **album)
 	ge_album_s *_item = NULL;
 	int i = 0;
 
-	if (strlen(path) <=0) {
+	if (strlen(path) <= 0) {
 		ge_dbgE("Invalid path!");
 		return -1;
 	}
@@ -289,7 +290,7 @@ int _ge_local_data_get_album_by_path(char *path, ge_album_s **album)
 	condition.list_type = GE_ALBUM_LIST_PATH;
 
 	snprintf(condition.cond, CONDITION_LENGTH, "%s AND %s=\'%s\'",
-		 GE_CONDITION_IMAGE_VIDEO, FOLDER_PATH, path);
+	         GE_CONDITION_IMAGE_VIDEO, FOLDER_PATH, path);
 
 	ret = _ge_local_data_get_album_list(&condition, &list);
 	if (ret != 0 || NULL == list) {
@@ -339,8 +340,8 @@ int _ge_local_data_get_album_list(ge_filter_s *condition, Eina_List **elilst)
 
 	ge_dbg("Get folders--start");
 	ret = media_folder_foreach_folder_from_db(filter,
-						  __ge_local_data_get_album_list_cb,
-						  &tran_data);
+	        __ge_local_data_get_album_list_cb,
+	        &tran_data);
 	ge_dbg("Get folders--over");
 
 	_ge_data_util_destroy_filter(filter);
@@ -354,7 +355,7 @@ int _ge_local_data_get_album_list(ge_filter_s *condition, Eina_List **elilst)
 }
 
 int _ge_local_data_get_media_count(const char *cluster_id, ge_filter_s *condition,
-				   int *item_cnt)
+                                   int *item_cnt)
 {
 	GE_CHECK_VAL(cluster_id, -1);
 	GE_CHECK_VAL(condition, -1);
@@ -370,7 +371,7 @@ int _ge_local_data_get_media_count(const char *cluster_id, ge_filter_s *conditio
 
 	ge_dbg("Get media count--start");
 	ret = media_folder_get_media_count_from_db(cluster_id, filter,
-						   item_cnt);
+	        item_cnt);
 	ge_dbg("Get media count--over");
 
 	_ge_data_util_destroy_filter(filter);
@@ -431,8 +432,9 @@ int _ge_local_data_get_media(const char *media_id, ge_media_s **mitem)
 	ret = media_info_get_media_from_db(media_id, &media_h);
 	if (ret != MEDIA_CONTENT_ERROR_NONE) {
 		ge_dbgE("Get media handle failed[%d]!", ret);
-		if (media_h)
+		if (media_h) {
 			media_info_destroy(media_h);
+		}
 		return -1;
 	}
 
@@ -474,7 +476,7 @@ int _ge_local_data_get_media(const char *media_id, ge_media_s **mitem)
 }
 
 int _ge_local_data_get_album_cover(char *album_id, ge_filter_s *condition,
-				   Eina_List **elist)
+                                   Eina_List **elist)
 {
 	GE_CHECK_VAL(elist, -1);
 	GE_CHECK_VAL(album_id, -1);
@@ -490,8 +492,8 @@ int _ge_local_data_get_album_cover(char *album_id, ge_filter_s *condition,
 
 	ge_dbg("Get medias--start");
 	ret = media_folder_foreach_media_from_db(album_id, filter,
-						 __ge_local_data_get_cover_cb,
-						 elist);
+	        __ge_local_data_get_cover_cb,
+	        elist);
 	ge_dbg("Get medias--over");
 
 	_ge_data_util_destroy_filter(filter);
@@ -505,7 +507,7 @@ int _ge_local_data_get_album_cover(char *album_id, ge_filter_s *condition,
 }
 
 int _ge_local_data_get_all_albums_cover(ge_filter_s *condition,
-					Eina_List **elist)
+                                        Eina_List **elist)
 {
 	GE_CHECK_VAL(elist, -1);
 	GE_CHECK_VAL(condition, -1);
@@ -520,22 +522,22 @@ int _ge_local_data_get_all_albums_cover(ge_filter_s *condition,
 
 	ge_dbg("Get all medias--start");
 	ret = media_info_foreach_media_from_db(filter,
-					       __ge_local_data_get_cover_cb,
-					       elist);
+	                                       __ge_local_data_get_cover_cb,
+	                                       elist);
 	ge_dbg("Get all medias--over");
 
 	_ge_data_util_destroy_filter(filter);
 
-       if (ret != MEDIA_CONTENT_ERROR_NONE) {
-	       ge_dbgE("Get all medias failed[d]!", ret);
-	       return -1;
-       }
+	if (ret != MEDIA_CONTENT_ERROR_NONE) {
+		ge_dbgE("Get all medias failed[d]!", ret);
+		return -1;
+	}
 
-       return 0;
+	return 0;
 }
 
 int _ge_local_data_get_album_media_list(char *album_id, ge_filter_s *condition,
-					Eina_List **elist)
+                                        Eina_List **elist)
 {
 	GE_CHECK_VAL(elist, -1);
 	GE_CHECK_VAL(album_id, -1);
@@ -557,8 +559,8 @@ int _ge_local_data_get_album_media_list(char *album_id, ge_filter_s *condition,
 
 	ge_dbg("Get medias--start");
 	ret = media_folder_foreach_media_from_db(album_id, filter,
-								 __ge_local_data_get_media_list_cb,
-								 &tran_data);
+	        __ge_local_data_get_media_list_cb,
+	        &tran_data);
 	ge_dbg("Get medias--over");
 
 	_ge_data_util_destroy_filter(filter);
@@ -572,7 +574,7 @@ int _ge_local_data_get_album_media_list(char *album_id, ge_filter_s *condition,
 }
 
 int _ge_local_data_get_all_albums_media_list(ge_filter_s *condition,
-					     Eina_List **elist)
+        Eina_List **elist)
 {
 	GE_CHECK_VAL(elist, -1);
 	GE_CHECK_VAL(condition, -1);
@@ -593,18 +595,18 @@ int _ge_local_data_get_all_albums_media_list(ge_filter_s *condition,
 
 	ge_dbg("Get all medias--start");
 	ret = media_info_foreach_media_from_db(filter,
-							       __ge_local_data_get_media_list_cb,
-							       &tran_data);
+	                                       __ge_local_data_get_media_list_cb,
+	                                       &tran_data);
 	ge_dbg("Get all medias--over");
 
 	_ge_data_util_destroy_filter(filter);
 
-       if (ret != MEDIA_CONTENT_ERROR_NONE) {
-	       ge_dbgE("Get all medias failed[d]!", ret);
-	       return -1;
-       }
+	if (ret != MEDIA_CONTENT_ERROR_NONE) {
+		ge_dbgE("Get all medias failed[d]!", ret);
+		return -1;
+	}
 
-       return 0;
+	return 0;
 }
 
 int _ge_local_data_get_album_by_id(char *album_id, ge_album_s **cluster)
@@ -615,12 +617,14 @@ int _ge_local_data_get_album_by_id(char *album_id, ge_album_s **cluster)
 
 	if (media_folder_get_folder_from_db(album_id, &folder_h) != MEDIA_CONTENT_ERROR_NONE) {
 		ge_sdbgE("Failed to get album[%s]!", album_id);
-		if (folder_h)
+		if (folder_h) {
 			media_folder_destroy(folder_h);
+		}
 		return -1;
 	}
-	if (folder_h == NULL)
+	if (folder_h == NULL) {
 		return -1;
+	}
 	if (!__ge_local_data_clone_album(folder_h, true, cluster)) {
 		ge_sdbgE("Failed to clone album[%s]!", album_id);
 		media_folder_destroy(folder_h);

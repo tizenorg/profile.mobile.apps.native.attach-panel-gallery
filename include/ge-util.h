@@ -26,7 +26,7 @@
 	(path && (1 == ge_file_exists(path)) && (ge_file_size(path) > 0))
 
 #define GE_ICON_SET_FILE(icon, img) \
-		elm_image_file_set(icon, GE_IMAGES_EDJ_FILE, img)
+	elm_image_file_set(icon, GE_IMAGES_EDJ_FILE, img)
 
 
 void _ge_set_current_item(ge_item* gitem);
@@ -38,7 +38,7 @@ char *_ge_get_duration_string(unsigned int v_dur);
 ge_view_mode _ge_get_view_mode(ge_ugdata *ugd);
 int _ge_set_view_mode(ge_ugdata *ugd, ge_view_mode mode);
 double _ge_get_win_factor(Evas_Object *win, bool b_hide_indicator, int *width,
-			  int *height);
+                          int *height);
 int _ge_addhome_image(ge_ugdata *ugd, char *path);
 int _ge_send_result(ge_ugdata *ugd);
 int _ge_atoi(const char *number);

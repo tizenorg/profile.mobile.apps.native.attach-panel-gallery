@@ -55,8 +55,7 @@
 #define GE_TYPE_MEDIA (0x55553)
 #define GE_TYPE_WEB_MEDIA (0x55554)
 
-typedef enum
-{
+typedef enum {
 	GE_PHONE,/**< Stored only in phone */
 	GE_MMC,	/**< Stored only in MMC */
 	GE_ALL,	/**< Stored in ALL albums */

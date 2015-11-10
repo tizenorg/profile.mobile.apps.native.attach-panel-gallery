@@ -79,7 +79,7 @@ int _ge_data_util_free_cluster(ge_cluster* gcluster)
 ge_cluster_list *_ge_data_util_calloc_clusters_list(void)
 {
 	ge_cluster_list* clus_list = (ge_cluster_list*)calloc(1,
-							      sizeof(ge_cluster_list));
+	                             sizeof(ge_cluster_list));
 	GE_CHECK_NULL(clus_list);
 	return clus_list;
 }
@@ -190,7 +190,7 @@ int _ge_data_util_create_filter2(char *cond, char *keyword, int offset, int coun
 
 	if (cond && strlen(cond) > 0) {
 		ret = media_filter_set_condition(_filter, cond,
-						 MEDIA_CONTENT_COLLATE_NOCASE);
+		                                 MEDIA_CONTENT_COLLATE_NOCASE);
 		if (ret != MEDIA_CONTENT_ERROR_NONE) {
 			ge_dbgE("Fail to set condition!");
 			goto GE_DATA_UTIL_FAILED;
@@ -199,10 +199,11 @@ int _ge_data_util_create_filter2(char *cond, char *keyword, int offset, int coun
 
 	if (keyword && strlen(keyword) > 0) {
 		media_content_order_e order_type = MEDIA_CONTENT_ORDER_DESC;
-		if (!g_strcmp0(MEDIA_DISPLAY_NAME, keyword))
+		if (!g_strcmp0(MEDIA_DISPLAY_NAME, keyword)) {
 			order_type = MEDIA_CONTENT_ORDER_ASC;
+		}
 		ret = media_filter_set_order(_filter, order_type, keyword,
-					     MEDIA_CONTENT_COLLATE_NOCASE);
+		                             MEDIA_CONTENT_COLLATE_NOCASE);
 		if (ret != MEDIA_CONTENT_ERROR_NONE) {
 			ge_dbgE("Fail to set order!");
 			goto GE_DATA_UTIL_FAILED;
@@ -221,7 +222,7 @@ int _ge_data_util_create_filter2(char *cond, char *keyword, int offset, int coun
 	*filter = _filter;
 	return 0;
 
- GE_DATA_UTIL_FAILED:
+GE_DATA_UTIL_FAILED:
 
 	if (_filter) {
 		media_filter_destroy(_filter);
@@ -246,7 +247,7 @@ int _ge_data_util_create_filter(ge_filter_s *condition, filter_h *filter)
 
 	if (strlen(condition->cond) > 0) {
 		ret = media_filter_set_condition(tmp_filter, condition->cond,
-						 condition->collate_type);
+		                                 condition->collate_type);
 		if (ret != MEDIA_CONTENT_ERROR_NONE) {
 			ge_dbgE("Fail to set condition!");
 			goto GE_DATA_UTIL_FAILED;
@@ -255,8 +256,8 @@ int _ge_data_util_create_filter(ge_filter_s *condition, filter_h *filter)
 
 	if (strlen(condition->sort_keyword) > 0) {
 		ret = media_filter_set_order(tmp_filter, condition->sort_type,
-					     condition->sort_keyword,
-					     condition->collate_type);
+		                             condition->sort_keyword,
+		                             condition->collate_type);
 		if (ret != MEDIA_CONTENT_ERROR_NONE) {
 			ge_dbgE("Fail to set order!");
 			goto GE_DATA_UTIL_FAILED;
@@ -266,7 +267,7 @@ int _ge_data_util_create_filter(ge_filter_s *condition, filter_h *filter)
 	ge_dbg("offset: %d, count: %d", condition->offset, condition->count);
 	if (condition->offset != -1) {
 		ret = media_filter_set_offset(tmp_filter, condition->offset,
-					      condition->count);
+		                              condition->count);
 		if (ret != MEDIA_CONTENT_ERROR_NONE) {
 			ge_dbgE("Fail to set offset!");
 			goto GE_DATA_UTIL_FAILED;
@@ -276,7 +277,7 @@ int _ge_data_util_create_filter(ge_filter_s *condition, filter_h *filter)
 	*filter = tmp_filter;
 	return 0;
 
- GE_DATA_UTIL_FAILED:
+GE_DATA_UTIL_FAILED:
 
 	if (tmp_filter) {
 		media_filter_destroy(tmp_filter);
@@ -299,7 +300,7 @@ int _ge_data_util_destroy_filter(filter_h filter)
 }
 
 bool _ge_data_util_clone_media(media_info_h media, ge_media_s **pitem,
-			       bool b_meta)
+                               bool b_meta)
 {
 	GE_CHECK_FALSE(pitem);
 	ge_media_s *item = NULL;
@@ -349,17 +350,18 @@ bool _ge_data_util_clone_media(media_info_h media, ge_media_s **pitem,
 		ge_dbgE("Get storage type failed!");
 		goto GE_DATA_UTIL_FAILED;
 	}
-	if (storage_type == MEDIA_CONTENT_STORAGE_INTERNAL) /* The device's internal storage */
+	if (storage_type == MEDIA_CONTENT_STORAGE_INTERNAL) { /* The device's internal storage */
 		item->storage_type = GE_PHONE;
-	else if (storage_type == MEDIA_CONTENT_STORAGE_EXTERNAL) /* The device's external storage */
+	} else if (storage_type == MEDIA_CONTENT_STORAGE_EXTERNAL) { /* The device's external storage */
 		item->storage_type = GE_MMC;
-	else
+	} else {
 		ge_dbgE("Undefined mode[%d]!", storage_type);
+	}
 
 	*pitem = item;
 	return true;
 
- GE_DATA_UTIL_FAILED:
+GE_DATA_UTIL_FAILED:
 
 	_ge_data_type_free_geitem((void **)(&item));
 	return false;
@@ -367,7 +369,7 @@ bool _ge_data_util_clone_media(media_info_h media, ge_media_s **pitem,
 
 /** @cond is allocated by caller, maybe it's an array */
 int _ge_data_util_get_geo_cond(char *cond, double longmin, double longmax,
-			       double latmin, double latmax)
+                               double latmin, double latmax)
 {
 	GE_CHECK_VAL(cond, -1);
 
@@ -378,13 +380,13 @@ int _ge_data_util_get_geo_cond(char *cond, double longmin, double longmax,
 	int ret = -1;
 
 	if (long_max == NULL || long_min == NULL || lat_max == NULL ||
-	    lat_min == NULL) {
+	        lat_min == NULL) {
 		ge_dbgE("Failed to malloc memory!");
 		goto GE_DATA_UTIL_FAILED;
 	}
 
 	ge_sdbg("Double, Region: LongMax %f, LongMin %f, LatMax %f, LatMin %f",
-	       longmax, longmin, latmax, latmin);
+	        longmax, longmin, latmax, latmin);
 	/* 2013.04.23
 	  * The format %lf in snprintf has a bug:
 	  * The longitude should be 127.05998, but the result after snprintf is 127,05998.
@@ -397,15 +399,15 @@ int _ge_data_util_get_geo_cond(char *cond, double longmin, double longmax,
 	g_ascii_dtostr(lat_min, G_ASCII_DTOSTR_BUF_SIZE, latmin);
 	g_ascii_dtostr(lat_max, G_ASCII_DTOSTR_BUF_SIZE, latmax);
 	ge_sdbg("String, Region: LongMax %s, LongMin %s, LatMax %s, LatMin %s",
-	       long_max, long_min, lat_max, lat_min);
+	        long_max, long_min, lat_max, lat_min);
 	g_snprintf(cond, CONDITION_LENGTH,
-		   "(%s>=%s AND %s<=%s) AND (%s>=%s AND %s<=%s)",
-		   MEDIA_LONGITUDE, long_min, MEDIA_LONGITUDE, long_max,
-		   MEDIA_LATITUDE, lat_min, MEDIA_LATITUDE, lat_max);
+	           "(%s>=%s AND %s<=%s) AND (%s>=%s AND %s<=%s)",
+	           MEDIA_LONGITUDE, long_min, MEDIA_LONGITUDE, long_max,
+	           MEDIA_LATITUDE, lat_min, MEDIA_LATITUDE, lat_max);
 	ge_sdbg("g_snprintf, %s", cond);
 	ret = 0;
 
- GE_DATA_UTIL_FAILED:
+GE_DATA_UTIL_FAILED:
 
 	GE_GFREEIF(long_max);
 	GE_GFREEIF(long_min);
@@ -416,12 +418,13 @@ int _ge_data_util_get_geo_cond(char *cond, double longmin, double longmax,
 
 int _ge_data_util_get_type_cond(char *cond, int file_t)
 {
-	if (file_t == GE_FILE_T_IMAGE)
+	if (file_t == GE_FILE_T_IMAGE) {
 		g_strlcpy(cond, GE_CONDITION_IMAGE, CONDITION_LENGTH);
-	else if (file_t == GE_FILE_T_VIDEO)
+	} else if (file_t == GE_FILE_T_VIDEO) {
 		g_strlcpy(cond, GE_CONDITION_VIDEO, CONDITION_LENGTH);
-	else
+	} else {
 		g_strlcpy(cond, GE_CONDITION_IMAGE_VIDEO, CONDITION_LENGTH);
+	}
 	return 0;
 }
 

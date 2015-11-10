@@ -205,7 +205,7 @@ int __ge_rotate_bg_rotate_image(Evas_Object *obj, unsigned int orient)
 }
 
 static void __ge_rotate_bg_delete_cb(void *data, Evas *e, Evas_Object *obj,
-				     void *ei)
+                                     void *ei)
 {
 	if (data) {
 		ge_bg *bg_data = (ge_bg *)data;
@@ -215,7 +215,7 @@ static void __ge_rotate_bg_delete_cb(void *data, Evas *e, Evas_Object *obj,
 }
 
 static void __ge_rotate_bg_custom_resize(void *data, Evas *e, Evas_Object *obj,
-					 void *ei)
+                void *ei)
 {
 	GE_CHECK(data);
 	ge_bg *bg_data = (ge_bg *)data;
@@ -270,7 +270,7 @@ static void __ge_rotate_bg_custom_resize(void *data, Evas *e, Evas_Object *obj,
 }
 
 Evas_Object *_ge_rotate_bg_add_layout(Evas_Object *parent, const char *file,
-				      const char *group)
+                                      const char *group)
 {
 	Evas_Object *eo = NULL;
 	int r = 0;
@@ -299,20 +299,20 @@ Evas_Object *_ge_rotate_bg_add(Evas_Object *parent, bool b_preload)
 
 	Evas_Object *base = NULL;
 	base = _ge_rotate_bg_add_layout(parent, GE_EDJ_FILE,
-					GE_ROTATE_BG_GROUP);
+	                                GE_ROTATE_BG_GROUP);
 	if (base == NULL) {
 		GE_FREE(bg_data);
 		return NULL;
 	}
 
-	bg_data->base= base;
-	bg_data->b_preload= b_preload;
+	bg_data->base = base;
+	bg_data->b_preload = b_preload;
 	if (!b_preload)
 		evas_object_event_callback_add(base, EVAS_CALLBACK_RESIZE,
-					       __ge_rotate_bg_custom_resize,
-					       bg_data);
+		                               __ge_rotate_bg_custom_resize,
+		                               bg_data);
 	evas_object_event_callback_add(base, EVAS_CALLBACK_DEL,
-				       __ge_rotate_bg_delete_cb, bg_data);
+	                               __ge_rotate_bg_delete_cb, bg_data);
 
 	evas_object_data_set(base, GE_ROTATE_BG_DATA_KEY, bg_data);
 	return base;
@@ -358,12 +358,14 @@ int _ge_rotate_bg_rotate_image(Evas_Object *bg, unsigned int orient)
 	GE_CHECK_VAL(bg_data, -1);
 
 	if (bg_data->file && g_strcmp0(bg_data->file, GE_ICON_NO_THUMBNAIL) &&
-	    g_strcmp0(bg_data->file, GE_ICON_CONTENTS_BROKEN))
+	        g_strcmp0(bg_data->file, GE_ICON_CONTENTS_BROKEN)) {
 		__ge_rotate_bg_rotate_image(bg_data->img, orient);
-	else
+	} else {
 		__ge_rotate_bg_rotate_image(bg_data->img, GE_ORIENTATION_ROT_0);
-	if (!bg_data->b_preload)
+	}
+	if (!bg_data->b_preload) {
 		__ge_rotate_bg_custom_resize(bg_data, NULL, NULL, NULL);
+	}
 	return 0;
 }
 

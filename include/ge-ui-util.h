@@ -39,9 +39,9 @@ extern "C" {
 #define _EDJ(o)         elm_layout_edje_get(o)
 
 #define _GE_GET_ICON(_path) \
-		((1 == ge_file_exists(_path) && (ge_file_size(_path) > 0)) ? _path : GE_ICON_NO_THUMBNAIL)
+	((1 == ge_file_exists(_path) && (ge_file_size(_path) > 0)) ? _path : GE_ICON_NO_THUMBNAIL)
 #define _GE_GET_APP_ICON(_path) \
-		((1 == ge_file_exists(_path) && (ge_file_size(_path) > 0)) ? _path : GE_DEFAULT_APP_ICON)
+	((1 == ge_file_exists(_path) && (ge_file_size(_path) > 0)) ? _path : GE_DEFAULT_APP_ICON)
 
 typedef enum {
 	GE_POPUP_NOBUT,
