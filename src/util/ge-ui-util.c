@@ -81,11 +81,9 @@ Evas_Object* ge_ui_load_edj(Evas_Object *parent, const char *file, const char *g
 	int r;
 
 	eo = elm_layout_add(parent);
-	if (eo)
-	{
+	if (eo) {
 		r = elm_layout_file_set(eo, file, group);
-		if (!r)
-		{
+		if (!r) {
 			evas_object_del(eo);
 			return NULL;
 		}
@@ -101,27 +99,27 @@ Evas_Object* ge_ui_create_nocontents(ge_ugdata* ugd)
 {
 	GE_CHECK_NULL(ugd);
 	Evas_Object *layout = NULL;
-	char label_str[GE_NOCONTENTS_LABEL_LEN_MAX] ={0,};
+	char label_str[GE_NOCONTENTS_LABEL_LEN_MAX] = {0,};
 
 	if (_ge_get_view_mode(ugd) == GE_VIEW_THUMBS ||
-	    _ge_get_view_mode(ugd) == GE_VIEW_THUMBS_EDIT) {
+	        _ge_get_view_mode(ugd) == GE_VIEW_THUMBS_EDIT) {
 		if (ugd->file_type_mode) {
 			if (ugd->file_type_mode == GE_FILE_T_IMAGE)
 				snprintf(label_str, sizeof(label_str),
-					 "%s", (char*)GE_STR_NO_IMAGES);
+				         "%s", (char*)GE_STR_NO_IMAGES);
 			else if (ugd->file_type_mode == GE_FILE_T_VIDEO)
 				snprintf(label_str, sizeof(label_str),
-					 "%s", (char*)GE_STR_NO_VIDEOS);
+				         "%s", (char*)GE_STR_NO_VIDEOS);
 			else
 				snprintf(label_str, sizeof(label_str),
-					 "%s", (char*)GE_STR_NO_ITEMS);
+				         "%s", (char*)GE_STR_NO_ITEMS);
 		} else {
 			snprintf(label_str, sizeof(label_str), "%s",
-				 (char*)GE_STR_NO_ITEMS);
+			         (char*)GE_STR_NO_ITEMS);
 		}
 	} else if (_ge_get_view_mode(ugd) == GE_VIEW_ALBUMS) {
 		snprintf(label_str, sizeof(label_str), "%s",
-			 (char*)GE_STR_NO_ALBUMS);
+		         (char*)GE_STR_NO_ALBUMS);
 	} else {
 		ge_dbgE("view mode is error.");
 	}
@@ -149,17 +147,17 @@ Evas_Object *ge_ui_create_main_ly(Evas_Object *parent)
 	ge_dbg("profile: %s", profile);
 	if (!g_strcmp0(profile, "mobile"))	{
 		elm_layout_theme_set(layout, "layout", "application",
-				     "default");
-	} else if (!g_strcmp0(profile,"extension")) {
+		                     "default");
+	} else if (!g_strcmp0(profile, "extension")) {
 		elm_layout_theme_set(layout, "layout", "application",
-				     "noindicator");
+		                     "noindicator");
 	} else {
 		elm_layout_theme_set(layout, "layout", "application",
-				     "default");
+		                     "default");
 	}
 
 	evas_object_size_hint_weight_set(layout, EVAS_HINT_EXPAND,
-					 EVAS_HINT_EXPAND);
+	                                 EVAS_HINT_EXPAND);
 	evas_object_show(layout);
 	return layout;
 }
@@ -185,7 +183,7 @@ Evas_Object* ge_ui_create_naviframe(ge_ugdata *ugd, Evas_Object *parent)
 }
 
 Evas_Object* ge_ui_create_popup(ge_ugdata* ugd, ge_popup_mode_e mode,
-				char* desc)
+                                char* desc)
 {
 	ge_dbg("");
 	GE_CHECK_NULL(ugd);
@@ -204,10 +202,10 @@ Evas_Object* ge_ui_create_popup(ge_ugdata* ugd, ge_popup_mode_e mode,
 
 	/*Delete the Popup if the Popup has a BACK event.*/
 	eext_object_event_callback_add(popup, EEXT_CALLBACK_BACK, eext_popup_back_cb,
-				      NULL);
+	                               NULL);
 
 	evas_object_size_hint_weight_set(popup, EVAS_HINT_EXPAND,
-					 EVAS_HINT_EXPAND);
+	                                 EVAS_HINT_EXPAND);
 	elm_object_text_set(popup, desc);
 
 	switch (mode) {
@@ -215,25 +213,23 @@ Evas_Object* ge_ui_create_popup(ge_ugdata* ugd, ge_popup_mode_e mode,
 	case GE_POPUP_EXIT:
 		__ge_popup_add_timer(ugd, GE_NOBUT_EXIT_POPUP_HIDE_TIME_DELAY);
 		break;
-	case GE_POPUP_ONEBUT:
-	{
+	case GE_POPUP_ONEBUT: {
 		Evas_Object *btn = NULL;
 		btn = _ge_but_create_but(popup, ugd->th, NULL, GE_STR_ID_OK,
-					 GE_BTN_POPUP, _ge_ui_response_cb, ugd);
+		                         GE_BTN_POPUP, _ge_ui_response_cb, ugd);
 		elm_object_part_content_set(popup, "button1", btn);
 		break;
 	}
-	case GE_POPUP_TWOBUT:
-	{
+	case GE_POPUP_TWOBUT: {
 		Evas_Object *btn1 = NULL;
 		btn1 = _ge_but_create_but(popup, ugd->th, NULL, GE_STR_ID_OK,
-					  GE_BTN_POPUP, _ge_ui_response_cb,
-					  ugd);
+		                          GE_BTN_POPUP, _ge_ui_response_cb,
+		                          ugd);
 		elm_object_part_content_set(popup, "button1", btn1);
 		Evas_Object *btn2 = NULL;
 		btn2 = _ge_but_create_but(popup, ugd->th, NULL, GE_STR_ID_CANCEL,
-					  GE_BTN_POPUP, _ge_ui_response_cb,
-					  ugd);
+		                          GE_BTN_POPUP, _ge_ui_response_cb,
+		                          ugd);
 		elm_object_part_content_set(popup, "button2", btn2);
 		break;
 	}
@@ -254,8 +250,9 @@ int _ge_ui_create_notiinfo(const char *text)
 {
 	GE_CHECK_VAL(text, -1);
 	int ret = notification_status_message_post(text);
-	if (ret != 0)
+	if (ret != 0) {
 		ge_sdbgE("status_message_post()... [0x%x]!", ret);
+	}
 	return ret;
 }
 
@@ -285,7 +282,7 @@ char *_ge_ui_get_i18n_album_name(ge_album_s *cluster)
 		cluster->display_name = strdup(GE_ALBUM_ALL_NAME);
 		i18n_name = cluster->display_name;
 	} else if (cluster->type == GE_PHONE || cluster->type == GE_MMC) {
-	    	if (_ge_data_is_root_path(cluster->path)) {
+		if (_ge_data_is_root_path(cluster->path)) {
 			/* check root case */
 			i18n_name = GE_ALBUM_ROOT_NAME;
 		} else {
@@ -297,8 +294,9 @@ char *_ge_ui_get_i18n_album_name(ge_album_s *cluster)
 		i18n_name = cluster->display_name;
 	}
 
-	if (i18n_name == NULL || strlen(i18n_name) <= 0)
+	if (i18n_name == NULL || strlen(i18n_name) <= 0) {
 		i18n_name = GE_ALBUM_ROOT_NAME;
+	}
 
 	return i18n_name;
 }
@@ -353,8 +351,9 @@ int _ge_ui_restore_scroller_pos(Evas_Object *obj)
 	w = (Evas_Coord)evas_object_data_get(obj, "prev_scroller_w");
 	h = (Evas_Coord)evas_object_data_get(obj, "prev_scroller_h");
 	ge_dbg("(%dx%d), (%dx%d)", x, y, w, h);
-	if (w > 0 && h > 0)
+	if (w > 0 && h > 0) {
 		elm_scroller_region_show(obj, x, y, w, h);
+	}
 	return 0;
 }
 
@@ -363,22 +362,24 @@ int _ge_ui_set_translate_str(Evas_Object *obj, const char *str)
 	GE_CHECK_VAL(str, -1);
 	GE_CHECK_VAL(obj, -1);
 	char *domain = GE_STR_DOMAIN_LOCAL;
-	if (strstr(str, "IDS_COM"))
+	if (strstr(str, "IDS_COM")) {
 		domain = GE_STR_DOMAIN_SYS;
+	}
 	elm_object_domain_translatable_text_set(obj, domain, str);
 	return 0;
 }
 
 int _ge_ui_set_translate_part_str(Evas_Object *obj, const char *part,
-				  const char *str)
+                                  const char *str)
 {
 	GE_CHECK_VAL(str, -1);
 	GE_CHECK_VAL(part, -1);
 	GE_CHECK_VAL(obj, -1);
 
 	char *domain = GE_STR_DOMAIN_LOCAL;
-	if (strstr(str, "IDS_COM"))
+	if (strstr(str, "IDS_COM")) {
 		domain = GE_STR_DOMAIN_SYS;
+	}
 
 	elm_object_domain_translatable_part_text_set(obj, part, domain, str);
 
@@ -390,15 +391,16 @@ int _ge_ui_set_translatable_item(Elm_Object_Item *nf_it, const char *str)
 	GE_CHECK_VAL(str, -1);
 	GE_CHECK_VAL(nf_it, -1);
 	char *domain = GE_STR_DOMAIN_LOCAL;
-	if (strstr(str, "IDS_COM"))
+	if (strstr(str, "IDS_COM")) {
 		domain = GE_STR_DOMAIN_SYS;
+	}
 	elm_object_item_domain_text_translatable_set(nf_it, domain, EINA_TRUE);
 	return 0;
 }
 
 /* Update the label text for selected item showed in naviframe title  */
 int _ge_ui_update_label_text(Elm_Object_Item *nf_it, int sel_cnt,
-			     const char *text)
+                             const char *text)
 {
 	GE_CHECK_VAL(nf_it, -1);
 	ge_sdbg("Count: %d, text: %s", sel_cnt, text);
@@ -425,7 +427,7 @@ int _ge_ui_get_indicator_state(ge_ugdata *ugd)
 	ugd->indi_mode = elm_win_indicator_mode_get(ugd->win);
 	ugd->indi_o_mode = elm_win_indicator_opacity_get(ugd->win);
 	ge_dbgW("indi_o_mode: %d, indi_mode: %d", ugd->indi_o_mode,
-		ugd->indi_mode);
+	        ugd->indi_mode);
 	/* Save old view's overlap mode */
 	ugd->overlap_mode = (int)evas_object_data_get(ugd->conform, "overlap");
 	ge_dbgW("overlap_mode: %d", ugd->overlap_mode);
@@ -451,7 +453,7 @@ int _ge_ui_reset_indicator(ge_ugdata *ugd)
 {
 	GE_CHECK_VAL(ugd, -1);
 	ge_dbgW("indi_o_mode: %d, indi_mode: %d", ugd->indi_o_mode,
-		ugd->indi_mode);
+	        ugd->indi_mode);
 	ge_dbgW("overlap_mode: %d", ugd->overlap_mode);
 	/* Set old view's indicator */
 	elm_win_indicator_mode_set(ugd->win, ugd->indi_mode);
@@ -460,7 +462,7 @@ int _ge_ui_reset_indicator(ge_ugdata *ugd)
 	    if layout is different with new view and needs starts from (0,60) */
 	if (!ugd->overlap_mode) {
 		elm_object_signal_emit(ugd->conform,
-				       "elm,state,indicator,nooverlap", "");
+		                       "elm,state,indicator,nooverlap", "");
 		evas_object_data_set(ugd->conform, "overlap", NULL);
 	}
 	ge_dbgW("indicator restored done!");
@@ -480,8 +482,8 @@ Evas_Object *_ge_ui_add_toolbar(Evas_Object *parent)
 }
 
 Elm_Object_Item *_ge_ui_append_item(Evas_Object *obj, const char *icon,
-				    const char *label, Evas_Smart_Cb func,
-				    const void *data)
+                                    const char *label, Evas_Smart_Cb func,
+                                    const void *data)
 {
 	Elm_Object_Item *it = NULL;
 	it = elm_toolbar_item_append(obj, icon, label, func, data);

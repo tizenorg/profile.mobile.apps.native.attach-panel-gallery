@@ -21,16 +21,16 @@
 #include "gallery-efl.h"
 
 /**< Evas smart objects' "smart callback" function signature */
-typedef void (*But_Smart_Cb) (void *data, Evas_Object *obj, void *event_info);
+typedef void (*But_Smart_Cb)(void *data, Evas_Object *obj, void *event_info);
 
 Evas_Object *_ge_but_create_but(Evas_Object *parent, Elm_Theme *theme,
-				const char *icon, const char *text,
-				const char *style, But_Smart_Cb cb_func,
-				const void *data);
+                                const char *icon, const char *text,
+                                const char *style, But_Smart_Cb cb_func,
+                                const void *data);
 Evas_Object *_ge_but_create_image_but(Evas_Object *parent, const char *icon,
-				       const char *text, const char *style,
-				       Evas_Smart_Cb cb_func, void *data,
-				       Eina_Bool flag_propagate);
+                                      const char *text, const char *style,
+                                      Evas_Smart_Cb cb_func, void *data,
+                                      Eina_Bool flag_propagate);
 
 #endif /* _GE_BUTTON_H_ */
 

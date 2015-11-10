@@ -130,14 +130,15 @@ static int __ge_exif_read_2_bytes(FILE *fd, unsigned int *len)
 		return -1;
 	}
 
-	if (len)
+	if (len) {
 		*len = (((unsigned int)c1) << 8) + ((unsigned int)c2);
+	}
 
 	return 0;
 }
 
 static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
-			     unsigned int *orientation)
+                             unsigned int *orientation)
 {
 	GE_CHECK_VAL(fd, -1);
 	GE_CHECK_VAL(file_path, -1);
@@ -151,28 +152,31 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 	int ret = -1;
 	/*unsigned char version = 0x00; */
 
-	if (__ge_exif_read_2_bytes(fd, &length) < 0)
+	if (__ge_exif_read_2_bytes(fd, &length) < 0) {
 		goto GE_EXIF_FAILED;
+	}
 	ge_dbg("length: %d", length);
 
 	for (i = 0; i < 5; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 		tmp[i] = (unsigned char)tmp_exif;
 	}
 
 	/* JFIF0 */
 	if (tmp[0] != 0x4A || tmp[1] != 0x46 || tmp[2] != 0x49 ||
-	    tmp[3] != 0x46 || tmp[4] != 0x00) {
+	        tmp[3] != 0x46 || tmp[4] != 0x00) {
 		ge_dbgE("Not met Jfif!");
 		goto GE_EXIF_FAILED;
 	}
 
 	for (i = 0; i < 2; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 		tmp[i] = (unsigned char)tmp_exif;
 	}
 
@@ -193,10 +197,11 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 
 	/* Find APP1 */
 	bool b_tag_ff = false;
-	while(1) {
+	while (1) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 
 		tmp[0] = (unsigned char)tmp_exif;
 
@@ -227,25 +232,28 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 	}
 
 	/* Find Exif */
-	while(1) {
+	while (1) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 
 		tmp[0] = (unsigned char)tmp_exif;
-		if (tmp[0] != 0x45)
+		if (tmp[0] != 0x45) {
 			continue;
+		}
 
 		for (i = 0; i < 5; i++) {
 			tmp_exif = __ge_exif_read_1_byte(fd);
-			if (tmp_exif < 0)
+			if (tmp_exif < 0) {
 				goto GE_EXIF_FAILED;
+			}
 
 			tmp[i] = (unsigned char)tmp_exif;
 			ge_dbg("- %02X", tmp[i]);
 		}
 		if (tmp[0] == 0x78 && tmp[1] == 0x69 && tmp[2] == 0x66 &&
-		    tmp[3] == 0x00 && tmp[4] == 0x00) {
+		        tmp[3] == 0x00 && tmp[4] == 0x00) {
 			ge_dbgW("Met Exif!");
 			break;
 		} else {
@@ -257,18 +265,19 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 	/* Read Exif body */
 	for (i = 0; i < 4; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 		tmp[i] = (unsigned char)tmp_exif;
 	}
 
 	/* Check byte order and Tag Mark , "II(0x4949)" or "MM(0x4d4d)" */
 	if (tmp[0] == 0x49 && tmp[1] == 0x49 && tmp[2] == 0x2A &&
-	    tmp[3] == 0x00) {
+	        tmp[3] == 0x00) {
 		ge_dbg("Intel");
 		is_motorola = false;
 	} else if (tmp[0] == 0x4D && tmp[1] == 0x4D && tmp[2] == 0x00 &&
-		   tmp[3] == 0x2A) {
+	           tmp[3] == 0x2A) {
 		ge_dbg("Motorola");
 		is_motorola = true;
 	} else {
@@ -277,8 +286,9 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 
 	for (i = 0; i < 4; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 
 		tmp[i] = (unsigned char)tmp_exif;
 		ge_dbg("- %02X", tmp[i]);
@@ -286,14 +296,16 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 
 	/* Get first IFD offset (offset to IFD0) , MM-08000000, II-00000008 */
 	if (is_motorola) {
-		if (tmp[0] != 0 && tmp[1] != 0)
+		if (tmp[0] != 0 && tmp[1] != 0) {
 			goto GE_EXIF_FAILED;
+		}
 		offset = tmp[2];
 		offset <<= 8;
 		offset += tmp[3];
 	} else {
-		if (tmp[3] != 0 && tmp[2] != 0)
+		if (tmp[3] != 0 && tmp[2] != 0) {
 			goto GE_EXIF_FAILED;
+		}
 		offset = tmp[1];
 		offset <<= 8;
 		offset += tmp[0];
@@ -305,8 +317,9 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 	unsigned int tags_cnt = 0;
 	for (i = 0; i < 2; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 
 		tmp[i] = (unsigned char)tmp_exif;
 	}
@@ -331,8 +344,9 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 		/* Every directory entry size is 12 */
 		for (i = 0; i < 12; i++) {
 			tmp_exif = __ge_exif_read_1_byte(fd);
-			if (tmp_exif < 0)
+			if (tmp_exif < 0) {
 				goto GE_EXIF_FAILED;
+			}
 
 			tmp[i] = (unsigned char)tmp_exif;
 		}
@@ -383,7 +397,7 @@ static int __ge_exif_rw_jfif(FILE *fd, char *file_path,
 	ge_dbg("Read: %d", *orientation);
 	ret = 0;
 
- GE_EXIF_FAILED:
+GE_EXIF_FAILED:
 
 	fclose(fd);
 	ge_dbg("All done");
@@ -413,8 +427,9 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 	/* Read File head, check for JPEG SOI + Exif APP1 */
 	for (i = 0; i < 4; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 
 		exif_data[i] = (unsigned char)tmp_exif;
 	}
@@ -429,7 +444,7 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 	if (exif_data[2] == GE_EXIF_TAG && exif_data[3] == GE_EXIF_APP1) {
 		ge_dbgW("Exif in APP1!");
 	} else if (exif_data[2] == GE_EXIF_TAG &&
-		   exif_data[3] == GE_EXIF_APP0) {
+	           exif_data[3] == GE_EXIF_APP0) {
 		ge_dbgW("Jfif in APP0!");
 		int ret = __ge_exif_rw_jfif(fd, file_path, orient);
 		return ret;
@@ -439,8 +454,9 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 	}
 
 	/* Get the marker parameter length count */
-	if (__ge_exif_read_2_bytes(fd, &length) < 0)
+	if (__ge_exif_read_2_bytes(fd, &length) < 0) {
 		goto GE_EXIF_FAILED;
+	}
 	ge_dbg("length: %d", length);
 	/* Length includes itself, so must be at least 2
 	    Following Exif data length must be at least 6 */
@@ -450,7 +466,7 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 	}
 	length -= 8;
 
-	 /* Length of an IFD entry */
+	/* Length of an IFD entry */
 	if (length < 12) {
 		ge_dbgE("length < 12");
 		goto GE_EXIF_FAILED;
@@ -459,16 +475,17 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 	/* Read Exif head, check for "Exif" */
 	for (i = 0; i < 6; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 
 		exif_data[i] = (unsigned char)tmp_exif;
 		ge_dbg("- %02X", exif_data[i]);
 	}
 
 	if (exif_data[0] != 0x45 || exif_data[1] != 0x78 ||
-	    exif_data[2] != 0x69 || exif_data[3] != 0x66 ||
-	    exif_data[4] != 0x00 || exif_data[5] != 0x00) {
+	        exif_data[2] != 0x69 || exif_data[3] != 0x66 ||
+	        exif_data[4] != 0x00 || exif_data[5] != 0x00) {
 		ge_dbgE("Not met Exif!");
 		goto GE_EXIF_FAILED;
 	}
@@ -476,18 +493,19 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 	/* Read Exif body */
 	for (i = 0; i < length; i++) {
 		tmp_exif = __ge_exif_read_1_byte(fd);
-		if (tmp_exif < 0)
+		if (tmp_exif < 0) {
 			goto GE_EXIF_FAILED;
+		}
 		exif_data[i] = (unsigned char)tmp_exif;
 	}
 
 	/* Check byte order and Tag Mark , "II(0x4949)" or "MM(0x4d4d)" */
 	if (exif_data[0] == 0x49 && exif_data[1] == 0x49 &&
-	    exif_data[2] == 0x2A && exif_data[3] == 0x00) {
+	        exif_data[2] == 0x2A && exif_data[3] == 0x00) {
 		ge_dbg("Intel");
 		is_motorola = false;
 	} else if (exif_data[0] == 0x4D && exif_data[1] == 0x4D &&
-		 exif_data[2] == 0x00 && exif_data[3] == 0x2A) {
+	           exif_data[2] == 0x00 && exif_data[3] == 0x2A) {
 		ge_dbg("Motorola");
 		is_motorola = true;
 	} else {
@@ -496,14 +514,16 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 
 	/* Get first IFD offset (offset to IFD0) , MM-00000008, II-08000000 */
 	if (is_motorola) {
-		if (exif_data[4] != 0 && exif_data[5] != 0)
+		if (exif_data[4] != 0 && exif_data[5] != 0) {
 			goto GE_EXIF_FAILED;
+		}
 		offset = exif_data[6];
 		offset <<= 8;
 		offset += exif_data[7];
 	} else {
-		if (exif_data[7] != 0 && exif_data[6] != 0)
+		if (exif_data[7] != 0 && exif_data[6] != 0) {
 			goto GE_EXIF_FAILED;
+		}
 		offset = exif_data[5];
 		offset <<= 8;
 		offset += exif_data[4];
@@ -519,9 +539,9 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 	if (is_motorola) {
 		tags_cnt = exif_data[offset];
 		tags_cnt <<= 8;
-		tags_cnt += exif_data[offset+1];
+		tags_cnt += exif_data[offset + 1];
 	} else {
-		tags_cnt = exif_data[offset+1];
+		tags_cnt = exif_data[offset + 1];
 		tags_cnt <<= 8;
 		tags_cnt += exif_data[offset];
 	}
@@ -543,9 +563,9 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 		if (is_motorola) {
 			tag_num = exif_data[offset];
 			tag_num <<= 8;
-			tag_num += exif_data[offset+1];
+			tag_num += exif_data[offset + 1];
 		} else {
-			tag_num = exif_data[offset+1];
+			tag_num = exif_data[offset + 1];
 			tag_num <<= 8;
 			tag_num += exif_data[offset];
 		}
@@ -568,17 +588,17 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 
 	/* Get the Orientation value */
 	if (is_motorola) {
-		if (exif_data[offset+8] != 0) {
+		if (exif_data[offset + 8] != 0) {
 			ge_dbgE("exif_data[offset+8] != 0");
 			goto GE_EXIF_FAILED;
 		}
-		*orient = (unsigned int)exif_data[offset+9];
+		*orient = (unsigned int)exif_data[offset + 9];
 	} else {
-		if (exif_data[offset+9] != 0) {
+		if (exif_data[offset + 9] != 0) {
 			ge_dbgE("exif_data[offset+9] != 0");
 			goto GE_EXIF_FAILED;
 		}
-		*orient = (unsigned int)exif_data[offset+8];
+		*orient = (unsigned int)exif_data[offset + 8];
 	}
 	if (*orient > 8) {
 		ge_dbgE("*orient > 8");
@@ -588,7 +608,7 @@ static int __ge_exif_rw_orient(char *file_path, unsigned int *orient)
 
 	ret = 0;
 
- GE_EXIF_FAILED:
+GE_EXIF_FAILED:
 
 	fclose(fd);
 	ge_dbg("All done");

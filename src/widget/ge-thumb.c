@@ -34,8 +34,8 @@
 #define GE_GRID_TEXT "elm.text"
 
 Evas_Object *_ge_thumb_show_part_icon_image(Evas_Object *obj, char *path,
-					    unsigned int orient, bool b_favor,
-					    int item_w, int item_h)
+                unsigned int orient, bool b_favor,
+                int item_w, int item_h)
 {
 	GE_CHECK_NULL(obj);
 
@@ -65,7 +65,7 @@ Evas_Object *_ge_thumb_show_part_icon_image(Evas_Object *obj, char *path,
 #endif
 
 	elm_layout_theme_set(layout, GE_CLASS_GENGRID, GE_GRP_PHOTOFRAME,
-			GE_PHOTOFRAME_STYLE_DEFAULT);
+	                     GE_PHOTOFRAME_STYLE_DEFAULT);
 	elm_object_part_content_set(layout, "elm.swallow.icon", bg);
 
 	evas_object_show(layout);
@@ -73,8 +73,8 @@ Evas_Object *_ge_thumb_show_part_icon_image(Evas_Object *obj, char *path,
 }
 
 Evas_Object *_ge_thumb_show_part_icon_video(Evas_Object *obj, char *path,
-					    unsigned int v_dur, int bk_len,
-					    bool b_favor, int item_w, int item_h)
+                unsigned int v_dur, int bk_len,
+                bool b_favor, int item_w, int item_h)
 {
 	GE_CHECK_NULL(obj);
 
@@ -104,7 +104,7 @@ Evas_Object *_ge_thumb_show_part_icon_video(Evas_Object *obj, char *path,
 #endif
 
 	elm_layout_theme_set(layout, GE_CLASS_GENGRID, GE_GRP_PHOTOFRAME,
-			GE_PHOTOFRAME_STYLE_VIDEO);
+	                     GE_PHOTOFRAME_STYLE_VIDEO);
 	elm_object_part_content_set(layout, "elm.swallow.icon", bg);
 
 	if (bk_len) {
@@ -112,7 +112,7 @@ Evas_Object *_ge_thumb_show_part_icon_video(Evas_Object *obj, char *path,
 		GE_ICON_SET_FILE(icon, GE_THUMB_BOOKMARK);
 		evas_object_show(icon);
 		elm_object_part_content_set(layout, "elm.swallow.bookmarkicon",
-					    icon);
+		                            icon);
 	}
 
 	char *dur_str = _ge_get_duration_string(v_dur);
@@ -152,14 +152,14 @@ Evas_Object *_ge_thumb_show_part_icon_video(Evas_Object *obj, char *path,
 #ifdef _USE_SCROL_HORIZONRAL
 /* Change icon size and gengrid alignment */
 int _ge_thumb_set_size(ge_ugdata *ugd, Evas_Object *view, int rotate_mode,
-		       int *size_w, int *size_h)
+                       int *size_w, int *size_h)
 {
 	GE_CHECK_VAL(view, -1);
 	GE_CHECK_VAL(ugd, -1);
 	int win_w = 0;
 	int win_h = 0;
 	double scale = _ge_get_win_factor(ugd->win, ugd->b_hide_indicator,
-					  &win_w, &win_h);
+	                                  &win_w, &win_h);
 	int _w = 0;
 	int _h = 0;
 	int _w_l = 0;
@@ -172,17 +172,19 @@ int _ge_thumb_set_size(ge_ugdata *ugd, Evas_Object *view, int rotate_mode,
 	ge_dbg("rotate_mode: %d, count: %d", rotate_mode, count);
 
 	_w_l = (int)(GE_GRID_ITEM_SIZE_L_W * scale);
-	if (ugd->b_hide_indicator)
+	if (ugd->b_hide_indicator) {
 		_h_l = (int)(GE_GRID_ITEM_SIZE_L_H_HIDE * scale);
-	else
+	} else {
 		_h_l = (int)(GE_GRID_ITEM_SIZE_L_H * scale);
+	}
 
 	if (count <= GE_GRID_ITEM_ZOOM_LEVEL_02_CNT) {
 		_w = (int)(win_w / GE_GRID_2_PER_ROW);
-		if (ugd->b_hide_indicator)
+		if (ugd->b_hide_indicator) {
 			_h = (int)(GE_GRID_ITEM_SIZE_H_ZOOM_02_HIDE * scale);
-		else
+		} else {
 			_h = (int)(GE_GRID_ITEM_SIZE_H_ZOOM_02 * scale);
+		}
 		align_c = GE_GRID_ITEM_ZOOM_02_CNT;
 	} else {
 		_w = (int)(win_w / GE_GRID_3_PER_ROW);
@@ -196,19 +198,23 @@ int _ge_thumb_set_size(ge_ugdata *ugd, Evas_Object *view, int rotate_mode,
 	}
 
 	if ((rotate_mode == GE_ROTATE_LANDSCAPE) ||
-	    (rotate_mode == GE_ROTATE_LANDSCAPE_UPSIDEDOWN)) {
+	        (rotate_mode == GE_ROTATE_LANDSCAPE_UPSIDEDOWN)) {
 		align_c = GE_GRID_ITEM_L_CNT;
 		elm_gengrid_item_size_set(view, _w_l, _h_l);
-		if (size_w)
-			*size_w = _w_l-4;
-		if (size_h)
-			*size_h = _h_l-4;
+		if (size_w) {
+			*size_w = _w_l - 4;
+		}
+		if (size_h) {
+			*size_h = _h_l - 4;
+		}
 	} else {
 		elm_gengrid_item_size_set(view, _w, _h);
-		if (size_w)
-			*size_w = _w-4;
-		if (size_h)
-			*size_h = _h-4;
+		if (size_w) {
+			*size_w = _w - 4;
+		}
+		if (size_h) {
+			*size_h = _h - 4;
+		}
 	}
 	elm_gengrid_align_set(view, 0.0, 0.0);
 	if (size_w && size_h)
@@ -219,14 +225,14 @@ int _ge_thumb_set_size(ge_ugdata *ugd, Evas_Object *view, int rotate_mode,
 #else
 /* Change icon size and gengrid alignment */
 int _ge_thumb_set_size(ge_ugdata *ugd, Evas_Object *view, int rotate_mode,
-		       int *size_w, int *size_h)
+                       int *size_w, int *size_h)
 {
 	GE_CHECK_VAL(view, -1);
 	GE_CHECK_VAL(ugd, -1);
 	int win_w = 0;
 	int win_h = 0;
 	double scale = _ge_get_win_factor(ugd->win, ugd->b_hide_indicator,
-					  &win_w, &win_h);
+	                                  &win_w, &win_h);
 	int _w = 0;
 	int _h = 0;
 	int _w_l = 0;
@@ -243,20 +249,24 @@ int _ge_thumb_set_size(ge_ugdata *ugd, Evas_Object *view, int rotate_mode,
 	_h_l = (int)(356 * scale);
 
 	if ((rotate_mode == GE_ROTATE_LANDSCAPE) ||
-	    (rotate_mode == GE_ROTATE_LANDSCAPE_UPSIDEDOWN)) {
+	        (rotate_mode == GE_ROTATE_LANDSCAPE_UPSIDEDOWN)) {
 		_h_l = _w_l;
 		elm_gengrid_item_size_set(view, _w_l, _h_l);
-		if (size_w)
-			*size_w = _w_l-4;
-		if (size_h)
-			*size_h = _h_l-4;
+		if (size_w) {
+			*size_w = _w_l - 4;
+		}
+		if (size_h) {
+			*size_h = _h_l - 4;
+		}
 	} else {
 		_h = _w;
 		elm_gengrid_item_size_set(view, _w, _h);
-		if (size_w)
-			*size_w = _w-4;
-		if (size_h)
-			*size_h = _h-4;
+		if (size_w) {
+			*size_w = _w - 4;
+		}
+		if (size_h) {
+			*size_h = _h - 4;
+		}
 	}
 	/*if (count <= align_c)
 		elm_gengrid_align_set(view, 0.5, 0.5);

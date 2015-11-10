@@ -67,36 +67,36 @@ typedef enum {
 #endif
 
 #define ge_warn_if(expr, fmt, arg...) do { \
-        if (expr) { \
-            ge_dbg("(%s) -> "fmt, #expr, ##arg); \
-        } \
-    } while (0)
+		if (expr) { \
+			ge_dbg("(%s) -> "fmt, #expr, ##arg); \
+		} \
+	} while (0)
 #define ge_ret_if(expr) do { \
-        if (expr) { \
-            ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
-            return; \
-        } \
-    } while (0)
+		if (expr) { \
+			ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
+			return; \
+		} \
+	} while (0)
 #define ge_retv_if(expr, val) do { \
-        if (expr) { \
-            ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
-            return (val); \
-        } \
-    } while (0)
+		if (expr) { \
+			ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
+			return (val); \
+		} \
+	} while (0)
 #define ge_retm_if(expr, fmt, arg...) do { \
-        if (expr) { \
-            ge_dbgE(fmt, ##arg); \
-            ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
-            return; \
-        } \
-    } while (0)
+		if (expr) { \
+			ge_dbgE(fmt, ##arg); \
+			ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
+			return; \
+		} \
+	} while (0)
 #define ge_retvm_if(expr, val, fmt, arg...) do { \
-        if (expr) { \
-            ge_dbgE(fmt, ##arg); \
-            ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
-            return (val); \
-        } \
-    } while (0)
+		if (expr) { \
+			ge_dbgE(fmt, ##arg); \
+			ge_dbgE("(%s) -> %s() return", #expr, __FUNCTION__); \
+			return (val); \
+		} \
+	} while (0)
 
 
 #define GE_CHECK_VAL(expr, val) 		ge_retvm_if(!(expr), val, "Invalid parameter, return ERROR code!")

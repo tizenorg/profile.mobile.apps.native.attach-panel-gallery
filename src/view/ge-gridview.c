@@ -42,7 +42,7 @@ static void __ge_grid_check_changed(void *data, Evas_Object *obj, void *ei);
 static void __ge_grid_done_cb(void *data, Evas_Object *obj, void *ei);
 
 static void __ge_grid_thumb_created_cb(media_content_error_e error,
-				       const char *path, void *user_data)
+                                       const char *path, void *user_data)
 {
 	if (GE_FILE_EXISTS(path) && error == MEDIA_CONTENT_ERROR_NONE) {
 		GE_CHECK(user_data);
@@ -63,8 +63,8 @@ static void __ge_grid_thumb_created_cb(media_content_error_e error,
 int __ge_grid_append_sel_item(ge_ugdata *ugd, ge_item *gitem)
 {
 	if (ugd == NULL || ugd->thumbs_d == NULL ||
-	    ugd->thumbs_d->album_uuid == NULL || gitem == NULL ||
-	    gitem->item == NULL) {
+	        ugd->thumbs_d->album_uuid == NULL || gitem == NULL ||
+	        gitem->item == NULL) {
 		ge_dbgE("Error input!");
 		return -1;
 	}
@@ -73,8 +73,9 @@ int __ge_grid_append_sel_item(ge_ugdata *ugd, ge_item *gitem)
 	ge_sel_album_s *salbum = NULL;
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
-		if (salbum == NULL || salbum->uuid == NULL)
+		if (salbum == NULL || salbum->uuid == NULL) {
 			continue;
+		}
 
 		if (!g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid)) {
 			ge_dbg("Found[%s]", salbum->uuid);
@@ -89,7 +90,7 @@ int __ge_grid_append_sel_item(ge_ugdata *ugd, ge_item *gitem)
 		ge_dbg("Add new select album");
 		salbum = _ge_data_util_new_sel_album(ugd->thumbs_d->album_uuid);
 		ugd->selected_elist = eina_list_append(ugd->selected_elist,
-						       salbum);
+		                                       salbum);
 		ge_dbg("Album count: %d", eina_list_count(ugd->selected_elist));
 	}
 	if (salbum == NULL) {
@@ -113,8 +114,8 @@ int __ge_grid_append_sel_item(ge_ugdata *ugd, ge_item *gitem)
 int __ge_grid_remove_sel_item(ge_ugdata *ugd, ge_item *gitem)
 {
 	if (ugd == NULL || ugd->thumbs_d == NULL ||
-	    ugd->thumbs_d->album_uuid == NULL || gitem == NULL ||
-	    gitem->item == NULL) {
+	        ugd->thumbs_d->album_uuid == NULL || gitem == NULL ||
+	        gitem->item == NULL) {
 		ge_dbgE("Error input!");
 		return -1;
 	}
@@ -123,8 +124,9 @@ int __ge_grid_remove_sel_item(ge_ugdata *ugd, ge_item *gitem)
 	ge_sel_album_s *salbum = NULL;
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
-		if (salbum == NULL || salbum->uuid == NULL)
+		if (salbum == NULL || salbum->uuid == NULL) {
 			continue;
+		}
 
 		if (!g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid)) {
 			ge_dbg("Found[%s]", salbum->uuid);
@@ -142,10 +144,12 @@ int __ge_grid_remove_sel_item(ge_ugdata *ugd, ge_item *gitem)
 	/* Remove item */
 	ge_sel_item_s *sit = NULL;
 	EINA_LIST_FOREACH(salbum->elist, l, sit) {
-		if (sit == NULL || sit->uuid == NULL)
+		if (sit == NULL || sit->uuid == NULL) {
 			continue;
-		if (g_strcmp0(sit->uuid, gitem->item->uuid))
+		}
+		if (g_strcmp0(sit->uuid, gitem->item->uuid)) {
 			continue;
+		}
 
 		salbum->elist = eina_list_remove(salbum->elist, sit);
 		_ge_data_util_free_sel_item(sit);
@@ -157,7 +161,7 @@ int __ge_grid_remove_sel_item(ge_ugdata *ugd, ge_item *gitem)
 static int __ge_grid_check_sel_items(ge_ugdata *ugd)
 {
 	if (ugd == NULL || ugd->thumbs_d == NULL ||
-	    ugd->thumbs_d->album_uuid == NULL) {
+	        ugd->thumbs_d->album_uuid == NULL) {
 		ge_dbgE("Error input!");
 		return -1;
 	}
@@ -166,11 +170,13 @@ static int __ge_grid_check_sel_items(ge_ugdata *ugd)
 	ge_sel_album_s *salbum = NULL;
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
-		if (salbum == NULL || salbum->uuid == NULL)
+		if (salbum == NULL || salbum->uuid == NULL) {
 			continue;
+		}
 
-		if (!g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid))
+		if (!g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid)) {
 			break;
+		}
 
 		salbum = NULL;
 	}
@@ -183,8 +189,9 @@ static int __ge_grid_check_sel_items(ge_ugdata *ugd)
 	/* Remove item */
 	ge_sel_item_s *sit = NULL;
 	EINA_LIST_FOREACH(salbum->elist, l, sit) {
-		if (sit == NULL || sit->uuid == NULL)
+		if (sit == NULL || sit->uuid == NULL) {
 			continue;
+		}
 		if (sit->valid == 1) {
 			sit->valid = 0;
 			continue;
@@ -201,44 +208,47 @@ static int __ge_grid_check_sel_items(ge_ugdata *ugd)
 static int __ge_grid_get_sel_cnt(ge_ugdata *ugd)
 {
 	if (ugd == NULL || ugd->selected_elist == NULL ||
-	    ugd->thumbs_d == NULL)
+	        ugd->thumbs_d == NULL) {
 		return 0;
+	}
 
-	if (ugd->thumbs_d->b_mainview)
+	if (ugd->thumbs_d->b_mainview) {
 		return eina_list_count(ugd->selected_elist);
+	}
 
-	if (ugd->thumbs_d->album_uuid == NULL)
+	if (ugd->thumbs_d->album_uuid == NULL) {
 		return 0;
+	}
 	/* Check album is created or not */
 	ge_sel_album_s *salbum = NULL;
 	int cnt = 0;
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
 		if (salbum == NULL || salbum->elist == NULL ||
-		    salbum->uuid == NULL ||
-		    g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid))
+		        salbum->uuid == NULL ||
+		        g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid)) {
 			continue;
+		}
 		cnt = eina_list_count(salbum->elist);
 		break;
 	}
 	ge_dbg("Count: %d", cnt);
-	
+
 	int cnt_all = _ge_data_get_sel_cnt(ugd);
 	if (cnt_all > 0) {
 		ge_dbg("Album count if part ");
 		Evas_Object *btn = NULL;
-		btn = elm_object_item_part_content_get (ugd->thumbs_d->nf_it , GE_NAVIFRAME_TITLE_RIGHT_BTN);
+		btn = elm_object_item_part_content_get(ugd->thumbs_d->nf_it, GE_NAVIFRAME_TITLE_RIGHT_BTN);
 		if (btn == NULL) {
 			ge_dbgE("Failed to get part information");
 			return 0;
 		}
 		elm_object_disabled_set(btn, EINA_FALSE);
 		evas_object_smart_callback_add(btn, "clicked", __ge_grid_done_cb, (void *)ugd);
-	}
-	else {
+	} else {
 		ge_dbg("Album count else part ");
 		Evas_Object *btn = NULL;
-		btn = elm_object_item_part_content_get (ugd->thumbs_d->nf_it , GE_NAVIFRAME_TITLE_RIGHT_BTN);
+		btn = elm_object_item_part_content_get(ugd->thumbs_d->nf_it , GE_NAVIFRAME_TITLE_RIGHT_BTN);
 		if (btn == NULL) {
 			ge_dbgE("Failed to get part information");
 			return 0;
@@ -246,7 +256,7 @@ static int __ge_grid_get_sel_cnt(ge_ugdata *ugd)
 		elm_object_disabled_set(btn, EINA_TRUE);
 		evas_object_smart_callback_add(btn, "clicked", NULL, (void *)ugd);
 	}
-	
+
 	return cnt;
 }
 
@@ -261,14 +271,14 @@ static void __ge_grid_realized(void *data, Evas_Object *obj, void *ei)
 	GE_CHECK(gitem->item);
 	/* Checking for local files only */
 	if (gitem->store_type == GE_MMC || gitem->store_type == GE_ALL ||
-	    gitem->store_type == GE_PHONE) {
+	        gitem->store_type == GE_PHONE) {
 		/* Use default image */
 		if (!GE_FILE_EXISTS(gitem->item->thumb_url) &&
-		    GE_FILE_EXISTS(gitem->item->file_url)) {
+		        GE_FILE_EXISTS(gitem->item->file_url)) {
 			ge_sdbg("File[%s]", gitem->item->file_url);
 			_ge_data_create_thumb(gitem->item,
-					      __ge_grid_thumb_created_cb,
-					      gitem);
+			                      __ge_grid_thumb_created_cb,
+			                      gitem);
 		}
 	}
 }
@@ -284,8 +294,8 @@ static void __ge_grid_unrealized(void *data, Evas_Object *obj, void *ei)
 	GE_CHECK(gitem->item);
 	/* Checking for local files only */
 	if (gitem->store_type == GE_MMC ||
-	    gitem->store_type == GE_ALL ||
-	    gitem->store_type == GE_PHONE) {
+	        gitem->store_type == GE_ALL ||
+	        gitem->store_type == GE_PHONE) {
 		if (gitem->item->b_create_thumb) {
 			_ge_data_cancel_thumb(gitem->item);
 		}
@@ -310,18 +320,21 @@ int _ge_grid_sel_one(ge_ugdata *ugd, char *file_url)
 
 	int ret = -1;
 	ret = app_control_add_extra_data(ugd->service, GE_FILE_SELECT_RETURN_PATH, file_url);
-	if (ret != APP_CONTROL_ERROR_NONE)
+	if (ret != APP_CONTROL_ERROR_NONE) {
 		ge_dbgW("Add file path failed!");
+	}
 	ret = app_control_add_extra_data_array(ugd->service, APP_CONTROL_DATA_SELECTED,
-				     (const char **)path_array, 1);
+	                                       (const char **)path_array, 1);
 	ret = app_control_add_extra_data_array(ugd->service, APP_CONTROL_DATA_PATH,
-				     (const char **)path_array, 1);
-	if (ret != APP_CONTROL_ERROR_NONE)
+	                                       (const char **)path_array, 1);
+	if (ret != APP_CONTROL_ERROR_NONE) {
 		ge_dbgW("Add selected path failed!");
+	}
 	ret = ug_send_result_full(ugd->ug, ugd->service,
-				  APP_CONTROL_RESULT_SUCCEEDED);
-	if (ret != 0)
+	                          APP_CONTROL_RESULT_SUCCEEDED);
+	if (ret != 0) {
 		ge_dbgW("Send result failed!");
+	}
 	if (!ugd->is_attach_panel) {
 		ug_destroy_me(ugd->ug);
 	}
@@ -372,20 +385,20 @@ static void __ge_grid_sel(void *data, Evas_Object *obj, void *ei)
 		if (gitem->item->type == MEDIA_CONTENT_TYPE_IMAGE) {
 			ge_dbg("Loading UG-IMAGE(VIDEO)-VIEWER");
 			char album_index_str[12] = {0,};
-			eina_convert_itoa( gitem->sequence,album_index_str);
+			eina_convert_itoa(gitem->sequence, album_index_str);
 			ugd->file_select_setas_path = gitem->item->file_url;
 			fileurl = strdup(GE_ALBUM_ALL_ID);
 			_ge_ext_load_iv_ug(ugd, gitem->item->file_url, fileurl, gitem->sequence);
 		} else if (gitem->item->type == MEDIA_CONTENT_TYPE_VIDEO &&
-			   ugd->popup == NULL) {
+		           ugd->popup == NULL) {
 			ge_ui_create_popup(ugd, GE_POPUP_ONEBUT,
-					   GE_POPUP_ONLY_SUPPORT_IMAGE);
+			                   GE_POPUP_ONLY_SUPPORT_IMAGE);
 		}
 
-	} 
+	}
 #ifdef TODO
 	else if (gitem->item->type == MEDIA_CONTENT_TYPE_IMAGE ||
-		gitem->item->type == MEDIA_CONTENT_TYPE_VIDEO) {
+	         gitem->item->type == MEDIA_CONTENT_TYPE_VIDEO) {
 		ge_dbg("Loading UG-IMAGE(VIDEO)-VIEWER");
 		fileurl = strdup(GE_ALBUM_ALL_ID);
 		_ge_ext_load_iv_ug(ugd, gitem->item->file_url, fileurl, gitem->sequence);
@@ -396,10 +409,11 @@ static void __ge_grid_sel(void *data, Evas_Object *obj, void *ei)
 	if (ugd->file_select_mode != GE_FILE_SELECT_T_SETAS) {
 		if (_ge_get_view_mode(ugd) != GE_VIEW_THUMBS) {
 			ge_dbgW("Edit mode!");
-			if (ugd->thumbs_d->b_multifile)
+			if (ugd->thumbs_d->b_multifile) {
 				__ge_grid_change_check(data, (Elm_Object_Item *)ei);
-			else
+			} else {
 				_ge_grid_sel_one(ugd, gitem->item->file_url);
+			}
 			return;
 		} else {
 			ge_dbg("ViewMode");
@@ -431,18 +445,18 @@ static void __ge_grid_check_changed(void *data, Evas_Object *obj, void *ei)
 	Eina_Bool checked = elm_check_state_get(obj);
 	if (checked) {
 		ge_sdbg("Append:%s", gitem->item->file_url);
-		if (!ugd->thumbs_d->b_mainview)
+		if (!ugd->thumbs_d->b_mainview) {
 			__ge_grid_append_sel_item(ugd, gitem);
-		else
+		} else
 			ugd->selected_elist = eina_list_append(ugd->selected_elist,
-					gitem);
+			                                       gitem);
 	} else {
 		ge_sdbg("Remove:%s", gitem->item->file_url);
-		if (!ugd->thumbs_d->b_mainview)
+		if (!ugd->thumbs_d->b_mainview) {
 			__ge_grid_remove_sel_item(ugd, gitem);
-		else
+		} else
 			ugd->selected_elist = eina_list_remove(ugd->selected_elist,
-					gitem);
+			                                       gitem);
 	}
 	ugd->thumbs_d->album->select = true;
 	elm_gengrid_item_update(ugd->thumbs_d->album->griditem);
@@ -451,7 +465,7 @@ static void __ge_grid_check_changed(void *data, Evas_Object *obj, void *ei)
 	int local_sel_cnt = __ge_grid_get_sel_cnt(ugd);
 	int sel_cnt = _ge_data_get_sel_cnt(ugd);
 	_ge_ui_update_label_text(ugd->thumbs_d->nf_it, sel_cnt,
-			ugd->albums_view_title);
+	                         ugd->albums_view_title);
 	if (local_sel_cnt == ugd->thumbs_d->medias_cnt) {
 		ugd->ck_state = EINA_TRUE;
 	} else {
@@ -471,10 +485,11 @@ static void __ge_grid_check_changed(void *data, Evas_Object *obj, void *ei)
 		}
 	}
 	if (ugd->thumbs_d->done_it != NULL) {
-		if (sel_cnt > 0 && !b_disabled)
+		if (sel_cnt > 0 && !b_disabled) {
 			_ge_ui_disable_item(ugd->thumbs_d->done_it, false);
-		else
+		} else {
 			_ge_ui_disable_item(ugd->thumbs_d->done_it, true);
+		}
 	} else {
 		ge_dbgW("done item is NULL");
 	}
@@ -513,27 +528,28 @@ static Evas_Object *__ge_grid_get_content(void *data, Evas_Object *obj, const ch
 		bool b_favor = false;
 		int ret = -1;
 		ret = media_info_get_favorite(gitem->item->media_h, &b_favor);
-		if (ret != MEDIA_CONTENT_ERROR_NONE)
+		if (ret != MEDIA_CONTENT_ERROR_NONE) {
 			ge_dbg("media_info_get_favorite error! ERROR[%d]", ret);
+		}
 
 		if (gitem->item->type == MEDIA_CONTENT_TYPE_VIDEO) {
 			int v_dur = 0;
-			 _ge_local_data_get_duration(gitem->item->media_h, &v_dur);
+			_ge_local_data_get_duration(gitem->item->media_h, &v_dur);
 			layout = _ge_thumb_show_part_icon_video(obj, path,
-								v_dur, 0, b_favor,
-								ugd->thumbs_d->icon_w,
-								ugd->thumbs_d->icon_h);
+			                                        v_dur, 0, b_favor,
+			                                        ugd->thumbs_d->icon_w,
+			                                        ugd->thumbs_d->icon_h);
 
 		} else {
 			layout = _ge_thumb_show_part_icon_image(obj, path,
-								orient, b_favor,
-								ugd->thumbs_d->icon_w,
-								ugd->thumbs_d->icon_h);
+			                                        orient, b_favor,
+			                                        ugd->thumbs_d->icon_w,
+			                                        ugd->thumbs_d->icon_h);
 		}
 		return layout;
 	} else if (!g_strcmp0(part, GE_GRID_CHECKBOX) &&
-		  (_ge_get_view_mode(ugd) == GE_VIEW_THUMBS_EDIT) &&
-		  ugd->thumbs_d->b_multifile) { /* Show checkbox for multiple files selection */
+	           (_ge_get_view_mode(ugd) == GE_VIEW_THUMBS_EDIT) &&
+	           ugd->thumbs_d->b_multifile) { /* Show checkbox for multiple files selection */
 		Evas_Object* ck = NULL;
 		ck = elm_check_add(obj);
 		GE_CHECK_NULL(ck);
@@ -541,7 +557,7 @@ static Evas_Object *__ge_grid_get_content(void *data, Evas_Object *obj, const ch
 		evas_object_propagate_events_set(ck, EINA_FALSE);
 		elm_check_state_set(ck, gitem->checked);
 		evas_object_smart_callback_add(ck, "changed",
-					       __ge_grid_check_changed, data);
+		                               __ge_grid_check_changed, data);
 		evas_object_show(ck);
 
 		return ck;
@@ -567,15 +583,17 @@ static bool __ge_grid_append_thumb(ge_ugdata *ugd, Evas_Object *parent, bool is_
 		_ge_ui_save_scroller_pos(parent);
 		elm_gengrid_clear(parent);
 	}
-	if (is_update)
+	if (is_update) {
 		_ge_grid_update_data(ugd);
-	if (ugd->th)
+	}
+	if (ugd->th) {
 		elm_object_theme_set(parent, ugd->th);
+	}
 
 	for (i = 0; i < ugd->thumbs_d->medias_cnt; i++) {
 		gitem = eina_list_nth(ugd->thumbs_d->medias_elist, i);
 		if (gitem == NULL || gitem->item == NULL ||
-		   gitem->item->uuid == NULL) {
+		        gitem->item->uuid == NULL) {
 			ge_dbgE("Invalid gitem!");
 			continue;
 		}
@@ -590,19 +608,20 @@ static bool __ge_grid_append_thumb(ge_ugdata *ugd, Evas_Object *parent, bool is_
 
 		gitem->ugd = ugd;
 		gitem->elm_item = elm_gengrid_item_append(parent,
-							  ugd->thumbs_d->gic,
-							  gitem, __ge_grid_sel,
-							  gitem);
+		                  ugd->thumbs_d->gic,
+		                  gitem, __ge_grid_sel,
+		                  gitem);
 		item_cnt++;
 		gitem->sequence = item_cnt;
 	}
 	/* Restore previous position of scroller */
 	_ge_ui_restore_scroller_pos(parent);
 
-	if (item_cnt == 0)
+	if (item_cnt == 0) {
 		return EINA_FALSE;
-	else
+	} else {
 		return EINA_TRUE;
+	}
 }
 
 static Evas_Object* __ge_grid_create_ly(Evas_Object *parent)
@@ -613,7 +632,7 @@ static Evas_Object* __ge_grid_create_ly(Evas_Object *parent)
 
 	layout = ge_ui_load_edj(parent, GE_EDJ_FILE, GE_GRP_GRIDVIEW);
 	GE_CHECK_NULL(layout);
-	evas_object_show (layout);
+	evas_object_show(layout);
 	return layout;
 }
 
@@ -622,9 +641,9 @@ static int __ge_grid_del_cbs(Evas_Object *view)
 	if (view) {
 		ge_dbg("Delete callbacks");
 		evas_object_smart_callback_del(view, "realized",
-					       __ge_grid_realized);
+		                               __ge_grid_realized);
 		evas_object_smart_callback_del(view, "unrealized",
-					       __ge_grid_unrealized);
+		                               __ge_grid_unrealized);
 	}
 	return 0;
 }
@@ -632,10 +651,10 @@ static int __ge_grid_del_cbs(Evas_Object *view)
 static int __ge_grid_rotate_view(ge_ugdata *ugd)
 {
 	if (ugd && ugd->thumbs_d && ugd->thumbs_d->view &&
-	    ugd->thumbs_d->nocontents != ugd->thumbs_d->view) {
+	        ugd->thumbs_d->nocontents != ugd->thumbs_d->view) {
 		_ge_thumb_set_size(ugd, ugd->thumbs_d->view, ugd->rotate_mode,
-				   &(ugd->thumbs_d->icon_w),
-				   &(ugd->thumbs_d->icon_h));
+		                   &(ugd->thumbs_d->icon_w),
+		                   &(ugd->thumbs_d->icon_h));
 		return 0;
 	} else {
 		return -1;
@@ -644,11 +663,11 @@ static int __ge_grid_rotate_view(ge_ugdata *ugd)
 
 /* Free data after layout deleted */
 static void __ge_grid_delete_layout_cb(void *data, Evas *e, Evas_Object *obj,
-					 void *ei)
+                                       void *ei)
 {
 	ge_dbg("Delete layout ---");
-/*	evas_object_event_callback_del(obj, EVAS_CALLBACK_DEL,
-				       __ge_grid_delete_layout_cb);*/
+	/*	evas_object_event_callback_del(obj, EVAS_CALLBACK_DEL,
+					       __ge_grid_delete_layout_cb);*/
 	GE_CHECK(data);
 	ge_ugdata *ugd = (ge_ugdata *)data;
 	GE_CHECK(ugd->thumbs_d);
@@ -661,18 +680,19 @@ static void __ge_grid_delete_layout_cb(void *data, Evas *e, Evas_Object *obj,
 	GE_IF_DEL_IDLER(ugd->thumbs_d->append_idler)
 	if (ugd->file_select_mode == GE_FILE_SELECT_T_ONE) {
 		app_control_remove_extra_data(ugd->service,
-					  GE_FILE_SELECT_RETURN_PATH);
+		                              GE_FILE_SELECT_RETURN_PATH);
 	}
 	ugd->rotate_cbs = eina_list_remove(ugd->rotate_cbs,
-					   __ge_grid_rotate_view);
+	                                   __ge_grid_rotate_view);
 
 	if (ugd->thumbs_d->nocontents != ugd->thumbs_d->view) {
 		elm_gengrid_clear(ugd->thumbs_d->view);
 		__ge_grid_del_cbs(ugd->thumbs_d->view);
 		_ge_ui_del_scroller_pos(ugd->thumbs_d->view);
 	}
-	if (ugd->thumbs_d->gic)
+	if (ugd->thumbs_d->gic) {
 		elm_gengrid_item_class_free(ugd->thumbs_d->gic);
+	}
 	/* Clear view data */
 	_ge_data_free_medias(&(ugd->thumbs_d->medias_elist));
 	ugd->thumbs_d->medias_cnt = 0;
@@ -704,28 +724,30 @@ static int __ge_grid_idler_append_thumbs(void *data)
 	int ret = -1;
 	ge_dbg("First view medias count: %d;", ugd->thumbs_d->medias_cnt);
 
-	if (ugd->thumbs_d->medias_cnt != (GE_FIRST_VIEW_END_POS+1)) {
+	if (ugd->thumbs_d->medias_cnt != (GE_FIRST_VIEW_END_POS + 1)) {
 		ge_dbg("No any more items!");
-		if (ugd->thumbs_d->b_multifile)
+		if (ugd->thumbs_d->b_multifile) {
 			__ge_grid_check_sel_items(ugd);
+		}
 		return -1;
 	}
 
 	Eina_List *sel_ids = NULL;
 	if (ugd->thumbs_d->b_multifile) {
-	    	ge_dbg("Edit view for multiple selection");
+		ge_dbg("Edit view for multiple selection");
 		/* Get ID list of selected items */
 		_ge_grid_get_selected_ids(ugd, &sel_ids);
 	}
 	/* Get other items from DB */
 	ret = _ge_data_get_medias(ugd, ugd->thumbs_d->album_uuid,
-				  ugd->thumbs_d->store_type,
-				  (GE_FIRST_VIEW_END_POS+1),
-				  GE_GET_UNTIL_LAST_RECORD,
-				  &(ugd->thumbs_d->medias_elist),
-				  _ge_data_restore_selected, sel_ids);
-	if (ugd->thumbs_d->b_multifile)
+	                          ugd->thumbs_d->store_type,
+	                          (GE_FIRST_VIEW_END_POS + 1),
+	                          GE_GET_UNTIL_LAST_RECORD,
+	                          &(ugd->thumbs_d->medias_elist),
+	                          _ge_data_restore_selected, sel_ids);
+	if (ugd->thumbs_d->b_multifile) {
 		__ge_grid_check_sel_items(ugd);
+	}
 
 	ge_dbgW("###Get items list over[%d]###", ret);
 	if (ret < 0) {
@@ -740,7 +762,7 @@ static int __ge_grid_idler_append_thumbs(void *data)
 	for (i = GE_FIRST_VIEW_END_POS + 1; i < ugd->thumbs_d->medias_cnt; i++) {
 		gitem = eina_list_nth(ugd->thumbs_d->medias_elist, i);
 		if (gitem == NULL || gitem->item == NULL ||
-		   gitem->item->uuid == NULL) {
+		        gitem->item->uuid == NULL) {
 			ge_dbgE("Invalid gitem!");
 			continue;
 		}
@@ -757,18 +779,19 @@ static int __ge_grid_idler_append_thumbs(void *data)
 
 		gitem->ugd = ugd;
 		gitem->elm_item = elm_gengrid_item_append(ugd->thumbs_d->view,
-							  ugd->thumbs_d->gic,
-							  gitem, __ge_grid_sel,
-							  gitem);
+		                  ugd->thumbs_d->gic,
+		                  gitem, __ge_grid_sel,
+		                  gitem);
 		item_cnt++;
 		gitem->sequence = item_cnt + GE_FIRST_VIEW_END_POS + 1;
 	}
 
 	ge_dbgW("Use idler to append other medias--Done");
-	if (item_cnt == 0)
+	if (item_cnt == 0) {
 		return -1;
-	else
+	} else {
 		return 0;
+	}
 }
 
 static Eina_Bool __ge_grid_append_thumb_idler_cb(void *data)
@@ -799,7 +822,7 @@ static Eina_Bool __ge_grid_back_cb(void *data, Elm_Object_Item *it)
 
 	if (ugd->file_select_mode == GE_FILE_SELECT_T_SLIDESHOW) {
 		ug_send_result_full(ugd->ug, ugd->service,
-				    APP_CONTROL_RESULT_FAILED);
+		                    APP_CONTROL_RESULT_FAILED);
 		//ug_destroy_me(ugd->ug);
 		ge_dbg("ug_destroy_me");
 		/*If return ture, ug will pop naviframe first.*/
@@ -869,7 +892,7 @@ static void __ge_grid_selall_cb(void *data, Evas_Object *obj, void *ei)
 	for (; i < ugd->thumbs_d->medias_cnt; ++i) {
 		gitem = eina_list_nth(ugd->thumbs_d->medias_elist, i);
 		if (NULL == gitem || NULL == gitem->item ||
-				NULL == gitem->item->file_url || NULL == gitem->elm_item) {
+		        NULL == gitem->item->file_url || NULL == gitem->elm_item) {
 			continue;
 		}
 		if (gitem->checked == ugd->ck_state) {
@@ -878,8 +901,7 @@ static void __ge_grid_selall_cb(void *data, Evas_Object *obj, void *ei)
 		gitem->checked = ugd->ck_state;
 		if (ugd->ck_state == EINA_TRUE) {
 			__ge_grid_append_sel_item(ugd, gitem);
-		}
-		else {
+		} else {
 			__ge_grid_remove_sel_item(ugd, gitem);
 		}
 		ck = elm_object_item_part_content_get(gitem->elm_item, GE_GRID_CHECKBOX);
@@ -894,7 +916,7 @@ static void __ge_grid_selall_cb(void *data, Evas_Object *obj, void *ei)
 	int sel_cnt = __ge_grid_get_sel_cnt(ugd);
 	sel_cnt = _ge_data_get_sel_cnt(ugd);
 	_ge_ui_update_label_text(ugd->thumbs_d->nf_it, sel_cnt,
-				 ugd->albums_view_title);
+	                         ugd->albums_view_title);
 	elm_gengrid_item_update(ugd->thumbs_d->album->griditem);
 }
 static void __ge_grid_done_cb(void *data, Evas_Object *obj, void *ei)
@@ -905,37 +927,40 @@ static void __ge_grid_done_cb(void *data, Evas_Object *obj, void *ei)
 	int i = 0;
 	ge_item *gitem = NULL;
 	Evas_Object *ck = NULL;
-	
+
 	/* Check album is created or not */
 	ge_sel_album_s *salbum = NULL;
 	int cnt = 0;
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
 		if (salbum == NULL || salbum->elist == NULL ||
-		    salbum->uuid == NULL ||
-		    g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid))
+		        salbum->uuid == NULL ||
+		        g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid)) {
 			continue;
+		}
 		cnt = eina_list_count(salbum->elist);
 		break;
 	}
 	ge_dbg("Count: %d", cnt);
-	
-	if (cnt == 0)
+
+	if (cnt == 0) {
 		return;
-		
+	}
+
 	for (; i < ugd->thumbs_d->medias_cnt; ++i) {
 		gitem = eina_list_nth(ugd->thumbs_d->medias_elist, i);
 		if (NULL == gitem || NULL == gitem->item ||
-		    NULL == gitem->item->file_url || NULL == gitem->elm_item)
+		        NULL == gitem->item->file_url || NULL == gitem->elm_item) {
 			continue;
+		}
 
-		if (gitem->checked == ugd->ck_state)
+		if (gitem->checked == ugd->ck_state) {
 			continue;
+		}
 
 		gitem->checked = ugd->ck_state;
 		if (!ugd->thumbs_d->b_mainview) {
-			if (ugd->ck_state == EINA_TRUE)
-			{
+			if (ugd->ck_state == EINA_TRUE) {
 				ge_dbgE("if part fun will be called ");
 //				__ge_main_done_cb(ugd, NULL, NULL);
 				_ge_send_result(ugd);
@@ -943,9 +968,7 @@ static void __ge_grid_done_cb(void *data, Evas_Object *obj, void *ei)
 					ug_destroy_me(ugd->ug);
 				}
 				//__ge_grid_append_sel_item(ugd, gitem);
-			}
-			else
-			{
+			} else {
 				ge_dbgE("else part fun will be called ");
 //				__ge_main_done_cb(ugd, NULL, NULL);
 				_ge_send_result(ugd);
@@ -957,23 +980,24 @@ static void __ge_grid_done_cb(void *data, Evas_Object *obj, void *ei)
 		} else {
 			if (ugd->ck_state == EINA_TRUE)
 				ugd->selected_elist = eina_list_append(ugd->selected_elist,
-								       gitem);
+				                                       gitem);
 			else
 				ugd->selected_elist = eina_list_remove(ugd->selected_elist,
-								       gitem);
+				                                       gitem);
 		}
 		ck = elm_object_item_part_content_get(gitem->elm_item, GE_GRID_CHECKBOX);
 		if (ck == NULL) {
 			ge_dbgE("Invalid checkbox!");
 			continue;
 		}
-		if (elm_check_state_get(ck) != ugd->ck_state)
+		if (elm_check_state_get(ck) != ugd->ck_state) {
 			elm_check_state_set(ck, ugd->ck_state);
+		}
 	}
 
 	int sel_cnt = __ge_grid_get_sel_cnt(ugd);
 	_ge_ui_update_label_text(ugd->thumbs_d->nf_it, sel_cnt,
-				 ugd->albums_view_title);
+	                         ugd->albums_view_title);
 
 	bool b_disabled = false;
 	if (!ugd->thumbs_d->b_mainview) {
@@ -987,17 +1011,18 @@ static void __ge_grid_done_cb(void *data, Evas_Object *obj, void *ei)
 		}
 	}
 	if (ugd->thumbs_d->done_it != NULL) {
-		if (sel_cnt > 0 && !b_disabled)
+		if (sel_cnt > 0 && !b_disabled) {
 			_ge_ui_disable_item(ugd->thumbs_d->done_it, false);
-		else
+		} else {
 			_ge_ui_disable_item(ugd->thumbs_d->done_it, true);
+		}
 	} else {
 		ge_dbgW("done item is NULL");
 	}
 }
 
 static int __ge_grid_add_btns(ge_ugdata *ugd, Evas_Object *parent,
-				Elm_Object_Item *nf_it)
+                              Elm_Object_Item *nf_it)
 {
 	ge_dbg("Multiple selection, show Done");
 	/* Done */
@@ -1034,9 +1059,9 @@ static Eina_Bool __ge_main_back_cb(void *data, Elm_Object_Item *it)
 	ge_ugdata *ugd = (ge_ugdata *)data;
 
 	void *pop_cb = evas_object_data_get(ugd->naviframe,
-					    GE_NAVIFRAME_POP_CB_KEY);
+	                                    GE_NAVIFRAME_POP_CB_KEY);
 	if (pop_cb) {
-		Eina_Bool (*_pop_cb) (void *ugd);
+		Eina_Bool(*_pop_cb)(void * ugd);
 		_pop_cb = pop_cb;
 
 		if (_pop_cb(ugd)) {
@@ -1062,9 +1087,9 @@ static Eina_Bool __ge_main_back_cb(void *data, Elm_Object_Item *it)
 void _my_custom_keydown_cb(void* data, int type, void* event)
 {
 	Ecore_Event_Key* ev = (Ecore_Event_Key*)event;
-	ge_ugdata *app_data=(ge_ugdata *)data;
+	ge_ugdata *app_data = (ge_ugdata *)data;
 	ge_dbgE("key down call back ");
-	if(!strcmp(ev->keyname, "XF86Back")) {
+	if (!strcmp(ev->keyname, "XF86Back")) {
 		ge_dbg("back key event");
 		if (app_data->is_attach_panel && (app_data->attach_panel_display_mode == ATTACH_PANEL_FULL_MODE)) {
 			if (_ge_get_view_mode(app_data) != GE_VIEW_ALBUMS) {
@@ -1080,17 +1105,17 @@ void _my_custom_keydown_cb(void* data, int type, void* event)
 			}
 		}
 		_ge_tile_update_item_size(app_data, app_data->albums_view, app_data->rotate_mode,
-						  false);
+		                          false);
 	} else if (!strcmp(ev->keyname, "XF86Stop")) {
 		char label[100];
 		Elm_Object_Item *top = elm_naviframe_top_item_get(app_data->naviframe);
 
 		snprintf(label, sizeof(label), "______________ the label is %s",  elm_object_item_part_text_get(top , NULL));
-		ge_dbg("%s",label);
+		ge_dbg("%s", label);
 
 		back_cnt++;
 
-		if (((a-b) == 1 || back_cnt <= 2)) {
+		if (((a - b) == 1 || back_cnt <= 2)) {
 			if (back_cnt == 1) {
 				elm_naviframe_item_pop(app_data->naviframe);
 				Eina_List *list = elm_naviframe_items_get(app_data->naviframe);
@@ -1102,18 +1127,18 @@ void _my_custom_keydown_cb(void* data, int type, void* event)
 				ge_dbgE("Size of the list before pop");
 				Eina_List *list = elm_naviframe_items_get(app_data->naviframe);
 				char str[100];
-				snprintf(str,sizeof(str),"  --------> %d",eina_list_count(list));
-				ge_dbg("%s",str );
+				snprintf(str, sizeof(str), "  --------> %d", eina_list_count(list));
+				ge_dbg("%s", str);
 				a = eina_list_count(list);
-				ge_dbg(" value of a is %d",a);
+				ge_dbg(" value of a is %d", a);
 				Elm_Object_Item *top = elm_naviframe_top_item_get(app_data->naviframe);
 
 				elm_object_item_del(top);
 
 				ge_dbgE("Size of the list after pop");
 				list = elm_naviframe_items_get(app_data->naviframe);
-				snprintf(str,sizeof(str),"  --------> %d",eina_list_count(list));
-				ge_dbg("%s",str);
+				snprintf(str, sizeof(str), "  --------> %d", eina_list_count(list));
+				ge_dbg("%s", str);
 				b = eina_list_count(list);
 				ge_dbg("value of b is %d", b);
 				elm_naviframe_item_push(app_data->naviframe, GE_ALBUM_NAME, NULL, NULL, app_data->albums_view, NULL);
@@ -1136,7 +1161,7 @@ void _my_custom_keydown_cb(void* data, int type, void* event)
 
 static void __ge_albums_detail_cancel_cb(void *data, Evas_Object *obj, void *ei)
 {
-	ge_ugdata *app_data=(ge_ugdata *)data;
+	ge_ugdata *app_data = (ge_ugdata *)data;
 	ge_dbg("back key event");
 	if (app_data->is_attach_panel && (app_data->attach_panel_display_mode == ATTACH_PANEL_FULL_MODE)) {
 		if (_ge_get_view_mode(app_data) != GE_VIEW_ALBUMS) {
@@ -1152,13 +1177,13 @@ static void __ge_albums_detail_cancel_cb(void *data, Evas_Object *obj, void *ei)
 		}
 	}
 	_ge_tile_update_item_size(app_data, app_data->albums_view, app_data->rotate_mode,
-			false);
-	elm_naviframe_item_pop (app_data->naviframe);
+	                          false);
+	elm_naviframe_item_pop(app_data->naviframe);
 
 }
 
 static int __ge_grid_push_view(ge_ugdata *ugd, Evas_Object *parent,
-			       Evas_Object *obj, char *title)
+                               Evas_Object *obj, char *title)
 {
 	GE_CHECK_VAL(ugd, -1);
 	GE_CHECK_VAL(parent, -1);
@@ -1173,30 +1198,29 @@ static int __ge_grid_push_view(ge_ugdata *ugd, Evas_Object *parent,
 	}
 	ge_dbg("title: %s", title);
 	/* Add prev button */
-/*	Evas_Object *prev_btn = NULL;
-	Evas_Object *prev_item = NULL;
-	prev_btn = _ge_but_create_but(obj, ugd->th, NULL, NULL,
-				      GE_BTN_NAVI_PRE, NULL, NULL);
-	GE_CHECK_VAL(prev_btn, -1);
-*/
+	/*	Evas_Object *prev_btn = NULL;
+		Evas_Object *prev_item = NULL;
+		prev_btn = _ge_but_create_but(obj, ugd->th, NULL, NULL,
+					      GE_BTN_NAVI_PRE, NULL, NULL);
+		GE_CHECK_VAL(prev_btn, -1);
+	*/
 	elm_naviframe_prev_btn_auto_pushed_set(parent, EINA_FALSE);
 	nf_it = elm_naviframe_item_push(parent, title, NULL, NULL, obj,
-					NULL);
+	                                NULL);
 	if (nf_it == NULL) {
 		ge_dbgW("nf_it is NULL");
-	}
-	else {
+	} else {
 		ge_dbgW("nf_it is NOT NULL");
 	}
 
 
-	Eina_List *list=elm_naviframe_items_get(ugd->naviframe);
+	Eina_List *list = elm_naviframe_items_get(ugd->naviframe);
 	a = eina_list_count(list);
 
 	ugd->thumbs_d->nf_it = nf_it;
 	ugd->key_down_handler = ecore_event_handler_add(ECORE_EVENT_KEY_DOWN,
-				(Ecore_Event_Handler_Cb)_my_custom_keydown_cb,
-				ugd);
+	                        (Ecore_Event_Handler_Cb)_my_custom_keydown_cb,
+	                        ugd);
 
 	Evas_Object *btn1 = elm_button_add(parent);
 
@@ -1216,14 +1240,14 @@ static int __ge_grid_push_view(ge_ugdata *ugd, Evas_Object *parent,
 		elm_object_text_set(btn2, GE_STR_ID_DONE_CAP);
 		elm_object_disabled_set(btn2, EINA_TRUE);
 		elm_object_item_part_content_set(nf_it,
-				GE_NAVIFRAME_TITLE_RIGHT_BTN,
-				btn2);
+		                                 GE_NAVIFRAME_TITLE_RIGHT_BTN,
+		                                 btn2);
 		ugd->ck_state = EINA_FALSE;
 	} else {
 		elm_object_style_set(btn1, "naviframe/end_btn/default");
 		elm_object_item_part_content_set(ugd->thumbs_d->nf_it, "prev_btn", btn1);
 	}
-		evas_object_smart_callback_add(btn1, "clicked", __ge_albums_detail_cancel_cb, ugd);
+	evas_object_smart_callback_add(btn1, "clicked", __ge_albums_detail_cancel_cb, ugd);
 	return 0;
 }
 
@@ -1264,21 +1288,21 @@ static Evas_Object *__ge_grid_add_view(ge_ugdata *ugd, Evas_Object *parent)
 
 	/* Register delete callback */
 	evas_object_event_callback_add(parent, EVAS_CALLBACK_DEL,
-				       __ge_grid_delete_layout_cb, ugd);
-/*	evas_object_smart_callback_add(grid, "unrealized",
-				       __ge_grid_unrealized, ugd);
-	evas_object_smart_callback_add(grid, "realized",
-			__ge_grid_realized, ugd);
-*/
+	                               __ge_grid_delete_layout_cb, ugd);
+	/*	evas_object_smart_callback_add(grid, "unrealized",
+					       __ge_grid_unrealized, ugd);
+		evas_object_smart_callback_add(grid, "realized",
+				__ge_grid_realized, ugd);
+	*/
 
 	if (ugd->is_attach_panel && (ugd->attach_panel_display_mode != ATTACH_PANEL_FULL_MODE)) {
 		elm_scroller_movement_block_set(grid, ELM_SCROLLER_MOVEMENT_BLOCK_VERTICAL);
 	}
 	if (ugd->is_attach_panel) {
 		evas_object_smart_callback_add(grid, "scroll,anim,stop",
-				_ge_detail_view_grid_move_stop_cb, ugd);
+		                               _ge_detail_view_grid_move_stop_cb, ugd);
 		evas_object_smart_callback_add(grid, "scroll,drag,stop",
-				_ge_detail_view_grid_move_stop_cb, ugd);
+		                               _ge_detail_view_grid_move_stop_cb, ugd);
 	}
 
 	_ge_ui_reset_scroller_pos(parent);
@@ -1306,12 +1330,12 @@ static Evas_Object *__ge_grid_add_view(ge_ugdata *ugd, Evas_Object *parent)
 	elm_scroller_bounce_set(grid, EINA_FALSE, EINA_TRUE);
 #endif
 	elm_scroller_policy_set(grid, ELM_SCROLLER_POLICY_OFF,
-				ELM_SCROLLER_POLICY_AUTO);
+	                        ELM_SCROLLER_POLICY_AUTO);
 	elm_gengrid_multi_select_set(grid, EINA_TRUE);
 	evas_object_size_hint_weight_set(grid, EVAS_HINT_EXPAND,
-					 EVAS_HINT_EXPAND);
+	                                 EVAS_HINT_EXPAND);
 	_ge_thumb_set_size(ugd, grid, ugd->rotate_mode,
-			   &(ugd->thumbs_d->icon_w), &(ugd->thumbs_d->icon_h));
+	                   &(ugd->thumbs_d->icon_w), &(ugd->thumbs_d->icon_h));
 	return grid;
 }
 
@@ -1319,18 +1343,21 @@ int _ge_grid_get_selected_ids(ge_ugdata *ugd, Eina_List **ids_list)
 {
 	GE_CHECK_VAL(ids_list, -1);
 	if (ugd == NULL || ugd->selected_elist == NULL ||
-	    ugd->thumbs_d == NULL || ugd->thumbs_d->album_uuid== NULL)
+	        ugd->thumbs_d == NULL || ugd->thumbs_d->album_uuid == NULL) {
 		return -1;
+	}
 
 	/* Check album is created or not */
 	ge_sel_album_s *salbum = NULL;
 	Eina_List *l = NULL;
 	EINA_LIST_FOREACH(ugd->selected_elist, l, salbum) {
 		if (salbum == NULL || salbum->elist == NULL ||
-		    salbum->uuid == NULL)
+		        salbum->uuid == NULL) {
 			continue;
-		if (g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid))
+		}
+		if (g_strcmp0(salbum->uuid, ugd->thumbs_d->album_uuid)) {
 			continue;
+		}
 
 		*ids_list = salbum->elist;
 		return 0;
@@ -1356,19 +1383,22 @@ int _ge_grid_create_view(ge_ugdata *ugd, ge_thumbs_s *thumbs_d)
 	}
 
 	thumbs_d->layout = __ge_grid_create_ly(ugd->naviframe);
-	if (thumbs_d->layout == NULL)
+	if (thumbs_d->layout == NULL) {
 		goto GE_GRID_FAILED;
+	}
 
 	thumbs_d->gic = elm_gengrid_item_class_new();
-	if (thumbs_d->gic == NULL)
+	if (thumbs_d->gic == NULL) {
 		goto GE_GRID_FAILED;
+	}
 	ugd->thumbs_d->gic->item_style = "gallery_efl/thumbnail_view";
 	ugd->thumbs_d->gic->func.text_get = NULL;
 	ugd->thumbs_d->gic->func.content_get = __ge_grid_get_content;
 
 	thumbs_d->view = __ge_grid_add_view(ugd, thumbs_d->layout);
-	if (thumbs_d->view == NULL)
+	if (thumbs_d->view == NULL) {
 		goto GE_GRID_FAILED;
+	}
 
 	int w = -1, h = -1;
 	evas_object_geometry_get(ugd->win, NULL, NULL, &w, &h);
@@ -1390,24 +1420,25 @@ int _ge_grid_create_view(ge_ugdata *ugd, ge_thumbs_s *thumbs_d)
 	Evas_Object *sel_all_btn = elm_button_add(thumbs_d->layout);
 	elm_object_part_content_set(thumbs_d->layout, "select.all.area.check.fg", sel_all_btn);
 	elm_object_style_set(sel_all_btn, "transparent");
-	evas_object_smart_callback_add(sel_all_btn, "clicked",__ge_grid_selall_cb, ugd);
+	evas_object_smart_callback_add(sel_all_btn, "clicked", __ge_grid_selall_cb, ugd);
 	if (w < h) {
-		elm_gengrid_item_size_set(thumbs_d->split_view, (w/3)-40, (w/3)-20);
+		elm_gengrid_item_size_set(thumbs_d->split_view, (w / 3) - 40, (w / 3) - 20);
 	} else {
-		elm_gengrid_item_size_set(thumbs_d->split_view, (h/3)-20, (h/3)-40);
+		elm_gengrid_item_size_set(thumbs_d->split_view, (h / 3) - 20, (h / 3) - 40);
 	}
 	elm_object_part_content_set(thumbs_d->layout, "contents",
-			thumbs_d->view);
+	                            thumbs_d->view);
 	elm_object_part_content_set(thumbs_d->layout, "split.view",
-			thumbs_d->split_view);
+	                            thumbs_d->split_view);
 	__ge_grid_push_view(ugd, ugd->naviframe, thumbs_d->layout,
-			ugd->albums_view_title);
+	                    ugd->albums_view_title);
 	int sel_cnt = _ge_data_get_sel_cnt(ugd);
 	if (ugd->thumbs_d->done_it != NULL) {
-		if (sel_cnt > 0 && (ugd->max_count < 0 || sel_cnt <= ugd->max_count))
+		if (sel_cnt > 0 && (ugd->max_count < 0 || sel_cnt <= ugd->max_count)) {
 			_ge_ui_disable_item(ugd->thumbs_d->done_it, false);
-		else
+		} else {
 			_ge_ui_disable_item(ugd->thumbs_d->done_it, true);
+		}
 	} else {
 		ge_dbgW("done item is NULL");
 	}
@@ -1420,23 +1451,23 @@ int _ge_grid_create_view(ge_ugdata *ugd, ge_thumbs_s *thumbs_d)
 	Evas_Object *ck = elm_object_part_content_get(ugd->thumbs_d->layout, "select.all.area.check");
 	elm_check_state_set(ck, ugd->ck_state);
 	_ge_ui_update_label_text(ugd->thumbs_d->nf_it, sel_cnt,
-			ugd->albums_view_title);
+	                         ugd->albums_view_title);
 
 	if (ugd->thumbs_d->medias_cnt == (GE_FIRST_VIEW_END_POS + 1)) {
 		ge_dbgW("Use idler to append other medias--Start");
 		GE_IF_DEL_IDLER(ugd->thumbs_d->append_idler)
 		ugd->thumbs_d->append_idler = ecore_idler_add(__ge_grid_append_thumb_idler_cb,
-				ugd);
+		                              ugd);
 	} else {
 		if (ugd->thumbs_d->b_multifile) {
 			__ge_grid_check_sel_items(ugd);
 		}
 	}
 	ugd->rotate_cbs = eina_list_append(ugd->rotate_cbs,
-			__ge_grid_rotate_view);
+	                                   __ge_grid_rotate_view);
 	return 0;
 
-	GE_GRID_FAILED:
+GE_GRID_FAILED:
 
 	if (thumbs_d->gic) {
 		elm_gengrid_item_class_free(thumbs_d->gic);
@@ -1451,10 +1482,11 @@ int _ge_grid_create_split_view(ge_ugdata *ugd, ge_thumbs_s *thumbs_d)
 	ge_dbg(" ");
 	thumbs_d->view = NULL;
 	thumbs_d->view = __ge_grid_add_view(ugd, thumbs_d->layout);
-	if (thumbs_d->view == NULL)
+	if (thumbs_d->view == NULL) {
 		goto GE_GRID_FAILED;
+	}
 	elm_object_part_content_set(thumbs_d->layout, "contents",
-				    thumbs_d->view);
+	                            thumbs_d->view);
 	int sel_cnt = _ge_data_get_sel_cnt(ugd);
 	int grid_sel_cnt = __ge_grid_get_sel_cnt(ugd);
 	if (grid_sel_cnt == ugd->thumbs_d->medias_cnt) {
@@ -1465,25 +1497,26 @@ int _ge_grid_create_split_view(ge_ugdata *ugd, ge_thumbs_s *thumbs_d)
 	Evas_Object *ck = elm_object_part_content_get(ugd->thumbs_d->layout, "select.all.area.check");
 	elm_object_part_text_set(ugd->thumbs_d->layout, "select.all.area.label", "Select all");
 	if (ugd->thumbs_d->b_multifile) {
-			elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,visible,bg", "elm");
-			elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,visible", "elm");
-		}
+		elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,visible,bg", "elm");
+		elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,visible", "elm");
+	}
 	elm_check_state_set(ck, ugd->ck_state);
 	_ge_ui_update_label_text(ugd->thumbs_d->nf_it, sel_cnt,
-				 ugd->albums_view_title);
+	                         ugd->albums_view_title);
 
 	if (ugd->thumbs_d->medias_cnt == (GE_FIRST_VIEW_END_POS + 1)) {
 		ge_dbgW("Use idler to append other medias--Start");
 		GE_IF_DEL_IDLER(ugd->thumbs_d->append_idler)
 		ugd->thumbs_d->append_idler = ecore_idler_add(__ge_grid_append_thumb_idler_cb,
-							      ugd);
+		                              ugd);
 	} else {
-		if (ugd->thumbs_d->b_multifile)
+		if (ugd->thumbs_d->b_multifile) {
 			__ge_grid_check_sel_items(ugd);
+		}
 	}
 	return 0;
 
- GE_GRID_FAILED:
+GE_GRID_FAILED:
 
 	if (thumbs_d->gic) {
 		elm_gengrid_item_class_free(thumbs_d->gic);
@@ -1499,16 +1532,16 @@ int _ge_grid_get_first_data(ge_ugdata *ugd, ge_cluster *album)
 	GE_CHECK_VAL(ugd->thumbs_d, -1);
 	Eina_List *sel_ids = NULL;
 	if (ugd->b_multifile) {
-	    	ge_dbg("Multiple selection");
+		ge_dbg("Multiple selection");
 		ugd->thumbs_d->b_multifile = ugd->b_multifile;
 		/* Get ID list of selected items */
 		_ge_grid_get_selected_ids(ugd, &sel_ids);
 	}
 	/* Get album contents from DB */
 	_ge_data_get_medias(ugd, album->cluster->uuid, album->cluster->type,
-			    GE_FIRST_VIEW_START_POS, GE_FIRST_VIEW_END_POS,
-			    &(ugd->thumbs_d->medias_elist),
-			    _ge_data_restore_selected, sel_ids);
+	                    GE_FIRST_VIEW_START_POS, GE_FIRST_VIEW_END_POS,
+	                    &(ugd->thumbs_d->medias_elist),
+	                    _ge_data_restore_selected, sel_ids);
 
 	ugd->thumbs_d->medias_cnt = eina_list_count(ugd->thumbs_d->medias_elist);
 	return ugd->thumbs_d->medias_cnt;
@@ -1516,8 +1549,9 @@ int _ge_grid_get_first_data(ge_ugdata *ugd, ge_cluster *album)
 
 int _ge_grid_create_split_view_thumb(ge_cluster *album)
 {
-	if (back_cnt == 1)
+	if (back_cnt == 1) {
 		A = 0;
+	}
 	ge_dbgE("split thumb view starts here");
 	GE_CHECK_VAL(album, -1);
 	GE_CHECK_VAL(album->cluster, -1);
@@ -1538,7 +1572,7 @@ int _ge_grid_create_split_view_thumb(ge_cluster *album)
 	elm_object_item_signal_emit(album->griditem, "elm,state,focused", "elm");
 
 	if (ugd->selected_griditem && album->griditem != ugd->selected_griditem) {
-	elm_object_item_signal_emit(ugd->selected_griditem, "elm,state,unfocused", "elm");
+		elm_object_item_signal_emit(ugd->selected_griditem, "elm,state,unfocused", "elm");
 	}
 	ugd->selected_griditem = album->griditem;
 
@@ -1548,7 +1582,7 @@ int _ge_grid_create_split_view_thumb(ge_cluster *album)
 
 	return 0;
 
-	GE_GRID_FAILED:
+GE_GRID_FAILED:
 
 	GE_FREEIF(ugd->thumbs_d->album_uuid);
 	GE_FREE(thumbs_d);
@@ -1558,8 +1592,9 @@ int _ge_grid_create_split_view_thumb(ge_cluster *album)
 
 int _ge_grid_create_thumb(ge_cluster *album)
 {
-	if (back_cnt == 1)
+	if (back_cnt == 1) {
 		A = 0;
+	}
 	ge_dbgE("thumb view starts here");
 	GE_CHECK_VAL(album, -1);
 	GE_CHECK_VAL(album->cluster, -1);
@@ -1579,12 +1614,13 @@ int _ge_grid_create_thumb(ge_cluster *album)
 
 	elm_object_item_signal_emit(album->griditem, "elm,state,focused", "elm");
 
-	if (_ge_grid_create_view(ugd, thumbs_d) < 0)
+	if (_ge_grid_create_view(ugd, thumbs_d) < 0) {
 		goto GE_GRID_FAILED;
+	}
 
 	return 0;
 
-	GE_GRID_FAILED:
+GE_GRID_FAILED:
 
 	GE_FREEIF(ugd->thumbs_d->album_uuid);
 	GE_FREE(thumbs_d);
@@ -1603,19 +1639,20 @@ int _ge_grid_update_view(ge_ugdata *ugd)
 		return -1;
 	} else {
 		_ge_thumb_set_size(ugd, ugd->thumbs_d->view, ugd->rotate_mode,
-				   &(ugd->thumbs_d->icon_w),
-				   &(ugd->thumbs_d->icon_h));
+		                   &(ugd->thumbs_d->icon_w),
+		                   &(ugd->thumbs_d->icon_h));
 
 		int sel_cnt =  __ge_grid_get_sel_cnt(ugd);
 		_ge_ui_update_label_text(ugd->thumbs_d->nf_it, sel_cnt,
-					 ugd->albums_view_title);
+		                         ugd->albums_view_title);
 		if (!ugd->thumbs_d->b_mainview) {
 			sel_cnt = _ge_data_get_sel_cnt(ugd);
 			if (ugd->thumbs_d->done_it != NULL) {
-				if (sel_cnt > 0 && (ugd->max_count < 0 || sel_cnt <= ugd->max_count))
+				if (sel_cnt > 0 && (ugd->max_count < 0 || sel_cnt <= ugd->max_count)) {
 					_ge_ui_disable_item(ugd->thumbs_d->done_it, false);
-				else
+				} else {
 					_ge_ui_disable_item(ugd->thumbs_d->done_it, true);
+				}
 			} else {
 				ge_dbgW("done item is NULL");
 			}
@@ -1627,10 +1664,11 @@ int _ge_grid_update_view(ge_ugdata *ugd)
 
 Evas_Object *_ge_grid_get_layout(ge_ugdata *ugd)
 {
-	if (ugd && ugd->thumbs_d)
+	if (ugd && ugd->thumbs_d) {
 		return ugd->thumbs_d->layout;
-	else
+	} else {
 		return NULL;
+	}
 }
 
 int _ge_grid_update_lang(ge_ugdata *ugd)
@@ -1646,7 +1684,7 @@ int _ge_grid_update_lang(ge_ugdata *ugd)
 	}
 	int count = __ge_grid_get_sel_cnt(ugd);
 	/* Update the label text */
- 	_ge_ui_update_label_text(nf_it, count, ugd->albums_view_title);
+	_ge_ui_update_label_text(nf_it, count, ugd->albums_view_title);
 	return 0;
 }
 
@@ -1658,7 +1696,7 @@ int _ge_grid_update_data(ge_ugdata *ugd)
 	ge_dbg("current album: %s", ugd->thumbs_d->album_uuid);
 
 	if (ugd->thumbs_d->b_multifile) {
-	    	ge_dbg("Edit view for multiple selection");
+		ge_dbg("Edit view for multiple selection");
 		/* Get ID list of selected items */
 		_ge_grid_get_selected_ids(ugd, &sel_ids);
 	}
@@ -1674,19 +1712,21 @@ int _ge_grid_update_data(ge_ugdata *ugd)
 	int ret = -1;
 	if (ugd->tab_mode == GE_CTRL_TAB_ALBUMS) {
 		ret = _ge_data_update_medias(ugd, ugd->thumbs_d->album_uuid,
-					     ugd->thumbs_d->store_type,
-					     &(ugd->thumbs_d->medias_elist),
-					     _ge_data_restore_selected,
-					     sel_ids);
+		                             ugd->thumbs_d->store_type,
+		                             &(ugd->thumbs_d->medias_elist),
+		                             _ge_data_restore_selected,
+		                             sel_ids);
 	}
 
-	if (ret < 0)
+	if (ret < 0) {
 		ugd->thumbs_d->medias_cnt = 0;
-	else
+	} else {
 		ugd->thumbs_d->medias_cnt = eina_list_count(ugd->thumbs_d->medias_elist);
+	}
 
-	if (ugd->thumbs_d->b_multifile)
+	if (ugd->thumbs_d->b_multifile) {
 		__ge_grid_check_sel_items(ugd);
+	}
 
 	if (ugd->thumbs_d->medias_cnt <= 0) {
 		ge_dbgW("Current album is empty!");
@@ -1697,10 +1737,11 @@ int _ge_grid_update_data(ge_ugdata *ugd)
 
 int _ge_grid_get_store_type(ge_ugdata *ugd)
 {
-	if (ugd && ugd->thumbs_d)
+	if (ugd && ugd->thumbs_d) {
 		return ugd->thumbs_d->store_type;
-	else
+	} else {
 		return -1;
+	}
 }
 
 int _ge_grid_create_main_view(ge_ugdata *ugd)
@@ -1718,14 +1759,15 @@ int _ge_grid_create_main_view(ge_ugdata *ugd)
 	switch (ugd->slideshow_viewby) {
 	case GE_VIEW_BY_ALL:
 	case GE_VIEW_BY_ALBUMS:
-		if (!ugd->slideshow_album_id)
+		if (!ugd->slideshow_album_id) {
 			goto GE_GRID_FAILED;
+		}
 		ugd->thumbs_d->album_uuid = strdup(ugd->slideshow_album_id);
 		/* Get album contents from DB */
 		_ge_data_get_medias(ugd, ugd->slideshow_album_id, GE_ALL,
-				    GE_FIRST_VIEW_START_POS,
-				    GE_FIRST_VIEW_END_POS,
-				    &(ugd->thumbs_d->medias_elist), NULL, NULL);
+		                    GE_FIRST_VIEW_START_POS,
+		                    GE_FIRST_VIEW_END_POS,
+		                    &(ugd->thumbs_d->medias_elist), NULL, NULL);
 		break;
 	default:
 		goto GE_GRID_FAILED;
@@ -1738,7 +1780,7 @@ int _ge_grid_create_main_view(ge_ugdata *ugd)
 	}
 	return 0;
 
- GE_GRID_FAILED:
+GE_GRID_FAILED:
 
 	GE_FREEIF(ugd->thumbs_d->album_uuid);
 	GE_FREE(thumbs_d);
@@ -1762,7 +1804,7 @@ void _ge_grid_change_selection_mode(ge_ugdata *ugd, bool state)
 				elm_object_text_set(btn1, GE_STR_ID_CANCEL_CAP);
 				elm_object_item_part_content_set(ugd->thumbs_d->nf_it, GE_NAVIFRAME_TITLE_LEFT_BTN, btn1);
 				Evas_Object *temp = elm_object_item_part_content_unset(ugd->thumbs_d->nf_it,
-										"prev_btn");
+				                    "prev_btn");
 				ge_dbg("Multiple selection, show Done");
 				/* Done */
 				__ge_grid_add_btns(ugd, ugd->naviframe, ugd->thumbs_d->nf_it);
@@ -1771,8 +1813,8 @@ void _ge_grid_change_selection_mode(ge_ugdata *ugd, bool state)
 				elm_object_text_set(btn2, GE_STR_ID_DONE_CAP);
 				elm_object_disabled_set(btn2, EINA_TRUE);
 				elm_object_item_part_content_set(ugd->thumbs_d->nf_it,
-						GE_NAVIFRAME_TITLE_RIGHT_BTN,
-						btn2);
+				                                 GE_NAVIFRAME_TITLE_RIGHT_BTN,
+				                                 btn2);
 				ugd->ck_state = EINA_FALSE;
 				elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,visible,bg", "elm");
 				elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,visible", "elm");
@@ -1781,12 +1823,12 @@ void _ge_grid_change_selection_mode(ge_ugdata *ugd, bool state)
 				}
 			} else {
 				Evas_Object *temp = elm_object_item_part_content_unset(ugd->thumbs_d->nf_it,
-						GE_NAVIFRAME_TITLE_RIGHT_BTN);
+				                    GE_NAVIFRAME_TITLE_RIGHT_BTN);
 				elm_object_style_set(btn1, "naviframe/end_btn/default");
 				elm_object_item_part_content_set(ugd->thumbs_d->nf_it, "prev_btn", btn1);
 				Evas_Object *temp1 = elm_object_item_part_content_unset(ugd->thumbs_d->nf_it,
-						GE_NAVIFRAME_TITLE_LEFT_BTN);
-					elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,default", "elm");
+				                     GE_NAVIFRAME_TITLE_LEFT_BTN);
+				elm_object_signal_emit(ugd->thumbs_d->layout, "elm,selectall,state,default", "elm");
 				if (temp) {
 					evas_object_hide(temp);
 				}
@@ -1801,8 +1843,8 @@ void _ge_grid_change_selection_mode(ge_ugdata *ugd, bool state)
 				while (it) {
 					elm_gengrid_item_update(it);
 					elm_object_item_signal_emit((Elm_Object_Item *)it,
-									"elm,state,elm.text.badge,hidden",
-									"elm");
+					                            "elm,state,elm.text.badge,hidden",
+					                            "elm");
 					it = elm_gengrid_item_next_get(it);
 				}
 
@@ -1813,8 +1855,7 @@ void _ge_grid_change_selection_mode(ge_ugdata *ugd, bool state)
 			evas_object_smart_callback_add(btn1, "clicked", __ge_albums_detail_cancel_cb, ugd);
 
 			grid = ugd->thumbs_d->view;
-		}
-		else {
+		} else {
 			ge_dbg("thumb data is null ");
 		}
 	} else if (_ge_get_view_mode(ugd) == GE_VIEW_ALBUMS) {
@@ -1831,7 +1872,8 @@ void _ge_grid_change_selection_mode(ge_ugdata *ugd, bool state)
 	}
 }
 
-bool _ge_is_grid_view(ge_ugdata *ugd) {
+bool _ge_is_grid_view(ge_ugdata *ugd)
+{
 	if (ugd->thumbs_d && ugd->thumbs_d->nf_it) {
 		return true;
 	}

@@ -23,8 +23,8 @@
 bool _ge_db_update_reg_cb(ge_ugdata *ugd);
 bool _ge_db_update_finalize(ge_ugdata *ugd);
 int _ge_db_update_get_info(void *data,
-			   media_content_db_update_item_type_e *update_item,
-			   media_content_db_update_type_e *update_type);
+                           media_content_db_update_item_type_e *update_item,
+                           media_content_db_update_type_e *update_type);
 
 #endif //_GE_DB_UPDATE_H_
 

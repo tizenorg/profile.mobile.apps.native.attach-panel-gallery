@@ -35,19 +35,18 @@ typedef enum _ge_tile_type {
 	GE_TILE_TYPE_PEOPLE, /* People album */
 } ge_tile_type;
 
-typedef enum
-{
+typedef enum {
 	GE_ICON_NORMAL,
 	GE_ICON_CORRUPTED_FILE
-}ge_icon_type;
+} ge_icon_type;
 
 typedef ge_icon_type (*bg_file_set_cb)(Evas_Object *bg,  void *data);
 
 Evas_Object *_ge_tile_show_part_icon(Evas_Object *obj, const char *part,
-				     int length, bg_file_set_cb func,
-				     void *data);
+                                     int length, bg_file_set_cb func,
+                                     void *data);
 int _ge_tile_update_item_size(ge_ugdata *ugd, Evas_Object *grid,
-			      int rotate_mode, bool b_update);
+                              int rotate_mode, bool b_update);
 Evas_Object *_ge_tile_show_part_type_icon(Evas_Object *obj, int type);
 
 #endif //_GE_TILE_H_

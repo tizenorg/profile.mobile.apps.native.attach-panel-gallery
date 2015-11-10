@@ -70,8 +70,9 @@ int _ge_data_type_free_media_list(Eina_List **list)
 	ge_media_s *item = NULL;
 	Eina_List *tmp_list = *list;
 	EINA_LIST_FREE(tmp_list, item) {
-		if (item)
+		if (item) {
 			__ge_data_type_free_media(&item);
+		}
 	}
 	*list = NULL;
 	return 0;
@@ -98,8 +99,9 @@ int _ge_data_type_free_album_list(Eina_List **list)
 	ge_album_s *item = NULL;
 	Eina_List *tmp_list = *list;
 	EINA_LIST_FREE(tmp_list, item) {
-		if (item)
+		if (item) {
 			__ge_data_type_free_album(&item);
+		}
 	}
 	*list = NULL;
 	return 0;
@@ -111,15 +113,17 @@ int _ge_data_type_free_geitem(void **item)
 	GE_CHECK_VAL(*item, -1);
 	int ret = -1;
 
-	if (((ge_album_s *)*item)->gtype == GE_TYPE_ALBUM)
+	if (((ge_album_s *)*item)->gtype == GE_TYPE_ALBUM) {
 		ret = __ge_data_type_free_album((ge_album_s **)item);
-	else if (((ge_media_s *)*item)->gtype == GE_TYPE_MEDIA ||
-		 ((ge_media_s *)*item)->gtype == GE_TYPE_WEB_MEDIA)
+	} else if (((ge_media_s *)*item)->gtype == GE_TYPE_MEDIA ||
+	           ((ge_media_s *)*item)->gtype == GE_TYPE_WEB_MEDIA) {
 		ret = __ge_data_type_free_media((ge_media_s **)item);
+	}
 
-	if (ret < 0)
+	if (ret < 0) {
 		return -1;
-	else
+	} else {
 		return 0;
+	}
 }
 

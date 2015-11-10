@@ -38,18 +38,20 @@ int ge_file_exists(const char *path)
 {
 	struct stat info = {0,};
 
-	if (stat(path, &info) == 0)
+	if (stat(path, &info) == 0) {
 		return 1;
-	else
+	} else {
 		return 0;
+	}
 }
 
 int ge_file_size(const char *filename)
 {
 	struct stat info = {0,};
 	if (stat(filename, &info) == 0) {
-		if (!S_ISDIR(info.st_mode))
+		if (!S_ISDIR(info.st_mode)) {
 			return info.st_size;
+		}
 	}
 
 	return 0;

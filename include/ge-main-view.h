@@ -21,8 +21,7 @@
 
 #include "ge-ugdata.h"
 
-typedef enum _ge_ctrl_tab_mode
-{
+typedef enum _ge_ctrl_tab_mode {
 	GE_CTRL_TAB_ALBUMS,
 	GE_CTRL_TAB_CNT,
 } ge_ctrl_tab_mode;

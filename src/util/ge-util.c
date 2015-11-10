@@ -187,7 +187,7 @@ char *_ge_get_duration_string(unsigned int v_dur)
 		}
 
 		snprintf(dur_str, GE_FILE_PATH_LEN_MAX, "%02d:%02d:%02d",
-			 dur_hr, dur_min, dur_sec);
+		         dur_hr, dur_min, dur_sec);
 	} else {
 		snprintf(dur_str, GE_FILE_PATH_LEN_MAX, "00:00:00");
 	}
@@ -209,7 +209,7 @@ int _ge_set_view_mode(ge_ugdata *ugd, ge_view_mode mode)
 }
 
 double _ge_get_win_factor(Evas_Object *win, bool b_hide_indicator, int *width,
-			  int *height)
+                          int *height)
 {
 	if (win == NULL) {
 		ge_dbgE("Invalid window!");
@@ -228,8 +228,9 @@ double _ge_get_win_factor(Evas_Object *win, bool b_hide_indicator, int *width,
 	double scale = elm_config_scale_get();
 	ge_dbg("scale: %f", scale);
 	int fixed_h = GE_FIXED_HEIGHT;
-	if (b_hide_indicator)
+	if (b_hide_indicator) {
 		fixed_h = GE_FIXED_HEIGHT_HIDE;
+	}
 	if (win_p_h < GE_BASE_WIN_HEIGHT) {
 		factor = (double)(win_p_h - (int)(fixed_h * scale)) / (double)(GE_BASE_WIN_HEIGHT - fixed_h);
 	} else if (scale > factor) {
@@ -240,10 +241,12 @@ double _ge_get_win_factor(Evas_Object *win, bool b_hide_indicator, int *width,
 		factor = scale;
 	}
 	ge_dbg("factor: %f", factor);
-	if (width)
+	if (width) {
 		*width = win_w;
-	if (height)
+	}
+	if (height) {
 		*height = win_h;
+	}
 	return factor;
 }
 
@@ -272,15 +275,15 @@ int _ge_send_result(ge_ugdata *ugd)
 	if (sel_cnt <= 0 || !path_array) {
 		ge_dbgE("Invalid selection or paths");
 		app_control_add_extra_data(ugd->service,
-				       GE_FILE_SELECT_RETURN_COUNT, "0");
+		                           GE_FILE_SELECT_RETURN_COUNT, "0");
 		app_control_add_extra_data(ugd->service, GE_FILE_SELECT_RETURN_PATH,
-				       NULL);
+		                           NULL);
 		app_control_add_extra_data(ugd->service, APP_CONTROL_DATA_SELECTED,
-				       NULL);
+		                           NULL);
 		app_control_add_extra_data(ugd->service, APP_CONTROL_DATA_PATH,
-				       NULL);
+		                           NULL);
 		ug_send_result_full(ugd->ug, ugd->service,
-				    APP_CONTROL_RESULT_FAILED);
+		                    APP_CONTROL_RESULT_FAILED);
 	} else {
 		if (ugd->file_select_mode == GE_FILE_SELECT_T_IMFT) {
 			_ge_ext_load_app(ugd, FILETRANSFER, paths, sel_cnt);
@@ -289,19 +292,19 @@ int _ge_send_result(ge_ugdata *ugd)
 			eina_convert_itoa(sel_cnt, t_str);
 
 			app_control_add_extra_data(ugd->service,
-					       GE_FILE_SELECT_RETURN_COUNT, t_str);
+			                           GE_FILE_SELECT_RETURN_COUNT, t_str);
 			app_control_add_extra_data(ugd->service, GE_FILE_SELECT_RETURN_PATH,
-					       paths);
+			                           paths);
 			app_control_add_extra_data_array(ugd->service, APP_CONTROL_DATA_SELECTED,
-						     (const char **)path_array, sel_cnt);
+			                                 (const char **)path_array, sel_cnt);
 			app_control_add_extra_data_array(ugd->service, APP_CONTROL_DATA_PATH,
-						     (const char **)path_array, sel_cnt);
+			                                 (const char **)path_array, sel_cnt);
 			ug_send_result_full(ugd->ug, ugd->service, APP_CONTROL_RESULT_SUCCEEDED);
 		}
 		send_success = true;
 	}
 
- GE_SEND_RESULT_FINISHED:
+GE_SEND_RESULT_FINISHED:
 
 	if (paths) {
 		g_free(paths);
@@ -313,10 +316,11 @@ int _ge_send_result(ge_ugdata *ugd)
 		}
 		GE_FREE(path_array);
 	}
-	if (send_success == true)
+	if (send_success == true) {
 		return 0;
-	else
+	} else {
 		return -1;
+	}
 }
 
 int _ge_atoi(const char *number)
@@ -344,11 +348,12 @@ int _ge_atoi(const char *number)
 char *_ge_str(char *str_id)
 {
 	GE_CHECK_NULL(str_id);
-	if (strstr(str_id, "IDS_COM"))
+	if (strstr(str_id, "IDS_COM")) {
 		return dgettext(GE_STR_DOMAIN_SYS, str_id);
-	else if (strstr(str_id, "IDS_"))
+	} else if (strstr(str_id, "IDS_")) {
 		return dgettext(GE_STR_DOMAIN_LOCAL, str_id);
-	else
+	} else {
 		return str_id;
+	}
 }
 

@@ -42,16 +42,16 @@ static void __ge_main_cancel_cb(void *data, Evas_Object *obj, void *ei)
 }
 
 static int __ge_main_add_btns(ge_ugdata *ugd, Evas_Object *parent,
-				Elm_Object_Item *nf_it)
+                              Elm_Object_Item *nf_it)
 {
 	ge_dbg("Multiple selection, show Done");
 	/* Done */
 	Elm_Object_Item *tb_it = NULL;
 	Evas_Object *toolbar = _ge_ui_add_toolbar(parent);
 	_ge_ui_append_item(toolbar, NULL, GE_STR_ID_CANCEL, __ge_main_cancel_cb,
-			   ugd);
+	                   ugd);
 	tb_it = _ge_ui_append_item(toolbar, NULL, GE_STR_ID_DONE,
-				   __ge_main_done_cb, ugd);
+	                           __ge_main_done_cb, ugd);
 	if (tb_it != NULL) {
 		_ge_ui_disable_item(tb_it, true);
 	}
@@ -68,9 +68,9 @@ static Eina_Bool __ge_main_back_cb(void *data, Elm_Object_Item *it)
 	ge_ugdata *ugd = (ge_ugdata *)data;
 
 	void *pop_cb = evas_object_data_get(ugd->naviframe,
-					    GE_NAVIFRAME_POP_CB_KEY);
+	                                    GE_NAVIFRAME_POP_CB_KEY);
 	if (pop_cb) {
-		Eina_Bool (*_pop_cb) (void *ugd);
+		Eina_Bool(*_pop_cb)(void * ugd);
 		_pop_cb = pop_cb;
 
 		if (_pop_cb(ugd)) {
@@ -96,9 +96,9 @@ static Evas_Object *__ge_main_create_ly(ge_ugdata *ugd, Evas_Object *parent)
 	ge_dbg("");
 	GE_CHECK_NULL(parent);
 	Evas_Object *layout = ge_ui_load_edj(parent, GE_EDJ_FILE,
-					     GE_GRP_ALBUMVIEW);
+	                                     GE_GRP_ALBUMVIEW);
 	GE_CHECK_NULL(layout);
-	evas_object_show (layout);
+	evas_object_show(layout);
 	return layout;
 }
 
