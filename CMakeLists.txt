@@ -57,6 +57,7 @@ pkg_check_modules(pkgs REQUIRED
 	notification
 	appsvc
 	storage
+	libtzplatform-config
 )
 
 FOREACH(flag ${pkgs_CFLAGS})
@@ -100,17 +101,17 @@ ADD_CUSTOM_COMMAND(OUTPUT attach-panel-gallery-images.edj
 ADD_CUSTOM_TARGET(gallery_efl_edj_build DEPENDS attach-panel-gallery.edj attach-panel-gallery-images.edj)
 ADD_DEPENDENCIES(${PROJECT_NAME} gallery_efl_edj_build)
 
-INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery.edj DESTINATION /usr/ug/res/edje/attach-panel-gallery)
-INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery-images.edj DESTINATION /usr/ug/res/edje/attach-panel-gallery)
+INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery.edj DESTINATION ${RESDIR}/edje/attach-panel-gallery)
+INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery-images.edj DESTINATION ${RESDIR}/edje/attach-panel-gallery)
 
-INSTALL(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/res/${GE_IMG_C_DIR} DESTINATION /usr/ug/res/images/attach-panel-gallery)
-INSTALL(TARGETS ${PROJECT_NAME} DESTINATION /usr/ug/lib)
+INSTALL(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/res/${GE_IMG_C_DIR} DESTINATION ${RESDIR}/images/attach-panel-gallery)
+INSTALL(TARGETS ${PROJECT_NAME} DESTINATION ${LIBDIR})
 
-INSTALL(FILES attach-panel-gallery.xml DESTINATION /usr/share/packages)
+INSTALL(FILES attach-panel-gallery.xml DESTINATION ${TZ_SYS_RO_PACKAGES})
 
 # i18n
 ADD_SUBDIRECTORY(res/po)
 
 # Install appcontrol icon
-INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/res/icon/attach-panel-gallery.png DESTINATION /usr/ug/res/images/attach-panel-gallery)
+INSTALL(FILES ${CMAKE_CURRENT_SOURCE_DIR}/res/icon/attach-panel-gallery.png DESTINATION ${RESDIR}/images/attach-panel-gallery)
 
