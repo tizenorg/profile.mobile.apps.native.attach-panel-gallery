@@ -8,6 +8,7 @@
 SET(POFILES ar.po az.po bg.po bn.po ca.po cs.po da.po de.po el_GR.po en_PH.po en.po en_US.po es_ES.po es_US.po et.po eu.po fi.po fr_CA.po fr.po ga.po gl.po gu.po hi.po hr.po hu.po hy.po is.po it_IT.po ja_JP.po ka.po kk.po kn.po ko_KR.po lt.po lv.po mk.po ml.po mn_MN.po mr.po nb.po nl.po or.po pa.po pl.po pt_BR.po pt_PT.po ro.po ru_RU.po si.po sk.po sl.po sr.po sv.po ta.po te.po tr_TR.po uk.po uz.po zh_CN.po zh_HK.po zh_TW.po)
 
 SET(MSGFMT "/usr/bin/msgfmt")
+SET(LOCALEDIR "${CMAKE_INSTALL_PREFIX}/res/locale")
 
 FOREACH(pofile ${POFILES})
 	SET(pofile ${CMAKE_CURRENT_SOURCE_DIR}/${pofile})
@@ -22,8 +23,8 @@ FOREACH(pofile ${POFILES})
 	)
 	#INSTALL(FILES ${moFile} DESTINATION res/locale/${lang}/LC_MESSAGES RENAME ${PROJECT_NAME}.mo)
 #Share mo files with Gallery UG.
-	#INSTALL(FILES ${moFile} DESTINATION /usr/ug/res/locale/${lang}/LC_MESSAGES RENAME ${PROJECT_NAME}.mo)
-	INSTALL(FILES ${moFile} DESTINATION /usr/ug/res/locale/${lang}/LC_MESSAGES RENAME attach-panel-gallery.mo)
+	#INSTALL(FILES ${moFile} DESTINATION ${LOCALEDIR}/${lang}/LC_MESSAGES RENAME ${PROJECT_NAME}.mo)
+	INSTALL(FILES ${moFile} DESTINATION ${LOCALEDIR}/${lang}/LC_MESSAGES RENAME attach-panel-gallery.mo)
 	SET(moFiles ${moFiles} ${moFile})
 ENDFOREACH(pofile)
 
