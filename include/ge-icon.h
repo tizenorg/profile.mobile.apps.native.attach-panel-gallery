@@ -38,7 +38,7 @@
 #define GE_ICON_PANORAMA "T01_icon_panorama.png"
 #define GE_ICON_NO_THUMBNAIL GE_IMAGES_DIR"No_thumbnail_351X261.png"
 #define GE_ICON_CONTENTS_BROKEN GE_IMAGES_DIR"Contents_broken_351X261.png"
-#define GE_ICON_MEMORY_CARD "/usr/ug/res/images/attach-panel-gallery/images/T01_album_icon_sd_card.png"
+#define GE_ICON_MEMORY_CARD PREFIX"/res/images/attach-panel-gallery/images/T01_album_icon_sd_card.png"
 
 #endif //__GE_ICON_H__
 

@@ -25,9 +25,9 @@ extern "C" {
 #endif /* __cplusplus */
 
 #define GALLERY_APP_ICON_DIR "/usr/share/icons/default/small/"
-#define GE_UG_RES_DIR "/usr/ug/res/"
-#define GE_IMAGES_DIR GE_UG_RES_DIR"images/attach-panel-gallery/images/"
-#define GE_EDJ_DIR GE_UG_RES_DIR"edje/attach-panel-gallery/"
+#define GE_UG_RES_DIR PREFIX"/res/"
+#define GE_IMAGES_DIR GE_UG_RES_DIR"images/"PACKAGE"/images/"
+#define GE_EDJ_DIR GE_UG_RES_DIR"edje/"PACKAGE"/"
 #define GE_EDJ_FILE GE_EDJ_DIR"attach-panel-gallery.edj"
 #ifdef _USE_CUSTOMIZED_GENGRID_STYLE
 #define GE_GENGRID_STYLE_GALLERY "gallery_efl"
