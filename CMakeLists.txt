@@ -100,8 +100,8 @@ ADD_CUSTOM_COMMAND(OUTPUT attach-panel-gallery-images.edj
 ADD_CUSTOM_TARGET(gallery_efl_edj_build DEPENDS attach-panel-gallery.edj attach-panel-gallery-images.edj)
 ADD_DEPENDENCIES(${PROJECT_NAME} gallery_efl_edj_build)
 
-INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery.edj DESTINATION ${RESDIR}/edje/attach-panel-gallery)
-INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery-images.edj DESTINATION ${RESDIR}/edje/attach-panel-gallery)
+INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery.edj DESTINATION ${RESDIR}/edje/${PROJECT_NAME})
+INSTALL(FILES ${CMAKE_BINARY_DIR}/attach-panel-gallery-images.edj DESTINATION ${RESDIR}/edje/${PROJECT_NAME})
 
 INSTALL(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/res/${GE_IMG_C_DIR} DESTINATION ${RESDIR}/images/attach-panel-gallery)
 INSTALL(TARGETS ${PROJECT_NAME} DESTINATION ${LIBDIR})
