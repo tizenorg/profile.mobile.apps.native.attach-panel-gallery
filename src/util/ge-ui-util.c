@@ -84,6 +84,7 @@ Evas_Object* ge_ui_load_edj(Evas_Object *parent, const char *file, const char *g
 	if (eo) {
 		r = elm_layout_file_set(eo, file, group);
 		if (!r) {
+			ge_dbg("failed to load layout");
 			evas_object_del(eo);
 			return NULL;
 		}

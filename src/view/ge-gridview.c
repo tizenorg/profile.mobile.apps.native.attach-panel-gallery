@@ -1790,6 +1790,8 @@ GE_GRID_FAILED:
 
 void _ge_grid_change_selection_mode(ge_ugdata *ugd, bool state)
 {
+	GE_CHECK(ugd);
+	GE_CHECK(ugd->thumbs_d);
 	ge_dbg("changing selection type and mode is %d", _ge_get_view_mode(ugd));
 #if 0
 	ugd->selected_elist = NULL;
