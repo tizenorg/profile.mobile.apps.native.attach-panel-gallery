@@ -311,6 +311,7 @@ static void __ge_split_albums_sel_cb(void *data, Evas_Object *obj, void *ei)
 
 static char *__ge_split_albums_get_text(void *data, Evas_Object *obj, const char *part)
 {
+#if 0
 	GE_CHECK_NULL(part);
 	GE_CHECK_NULL(data);
 	ge_cluster *album = (ge_cluster *)data;
@@ -397,6 +398,8 @@ static char *__ge_split_albums_get_text(void *data, Evas_Object *obj, const char
 		}
 	}
 	return strdup(buf);
+#endif
+	return NULL;
 }
 
 static ge_icon_type __ge_albums_set_bg_file(Evas_Object *bg, void *data)
