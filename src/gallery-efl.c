@@ -432,7 +432,7 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 	}
 
 	ugd->max_count = -1;
-#if 0//Tizen3.0 Build error
+
 	char *max_cnt = NULL;
 	app_control_get_extra_data(service, APP_CONTROL_DATA_TOTAL_COUNT, &max_cnt);
 	if (max_cnt) {
@@ -440,7 +440,7 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 		GE_FREE(max_cnt);
 	}
 	ge_sdbg("max count: %d", ugd->max_count);
-#endif
+
 	if (!ugd->overlap_mode) {
 		char *indicator = NULL;
 		app_control_get_extra_data(service, "indicator-state", &indicator);

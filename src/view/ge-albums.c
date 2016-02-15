@@ -1218,9 +1218,7 @@ __ge_launch_ug_gallery(void *data, Evas_Object *obj, void *ei)
 		app_control_set_launch_mode(svc_handle, APP_CONTROL_LAUNCH_MODE_GROUP);
 		app_control_set_app_id(svc_handle,  "ug-gallery-efl");
 		app_control_set_mime(svc_handle, "image/*");
-#if 0//Tizen3.0 Build error
 		app_control_add_extra_data(svc_handle, APP_CONTROL_DATA_TOTAL_COUNT, maximum_count);
-#endif
 		app_control_add_extra_data(svc_handle, "launch-type", "select-multiple");
 		app_control_add_extra_data(svc_handle, "file-type", "image");
 		app_control_add_extra_data(svc_handle, "hide-personal", "true");
