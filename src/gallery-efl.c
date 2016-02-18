@@ -20,7 +20,6 @@
 #endif
 
 #include <Evas.h>
-#include <appsvc.h>
 #include <app.h>
 #include "gallery-efl.h"
 #include "ge-albums.h"
@@ -364,7 +363,7 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 	app_control_get_operation(service, &operation);
 	ge_sdbg("operation [%s]", operation);
 
-	app_control_get_extra_data(service, APPSVC_DATA_SELECTION_MODE,
+	app_control_get_extra_data(service, APP_CONTROL_DATA_SELECTION_MODE,
 	                           &select_mode);
 	if (select_mode) {
 		if (!strcasecmp(select_mode, GE_BUNDLE_SELECTION_MODE_SINGLE)) {
