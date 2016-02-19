@@ -1425,7 +1425,9 @@ __ge_cancel_cb(void *data, Evas_Object *obj, void *ei)
 	}
 
 	EINA_LIST_FOREACH(app_data->thumbs_d->medias_elist, l, gitem) {
-		gitem->checked = false;
+		if (gitem) {
+			gitem->checked = false;
+		}
 	}
 
 	app_data->selected_elist = eina_list_free(app_data->selected_elist);

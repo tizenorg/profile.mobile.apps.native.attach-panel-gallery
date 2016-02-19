@@ -395,47 +395,54 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 			return -1;
 		}
 	}
-	ge_dbg("launch-type [%s]", launch_type);
 
-	if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_ALBUM)) {
-		ugd->album_select_mode = GE_ALBUM_SELECT_T_ONE;
-	} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_SETAS)) {
-		ugd->file_select_mode = GE_FILE_SELECT_T_SETAS;
-		__ge_parse_param_setas(ugd, service);
-		/* Checkme: Only image type is offered in SETAS  case */
-		ugd->file_type_mode = GE_FILE_T_IMAGE;
-	} else {
-		if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_ONE)) {
-			ugd->file_select_mode = GE_FILE_SELECT_T_ONE;
-		} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_MULTIPLE)) {
-			ugd->file_select_mode = GE_FILE_SELECT_T_MULTIPLE;
-			ugd->b_multifile = true;
-		} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_IMFT)) {
-			ugd->file_select_mode = GE_FILE_SELECT_T_IMFT;
-			ugd->b_multifile = true;
+	if (launch_type) {
+		ge_dbg("launch-type [%s]", launch_type);
+		if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_ALBUM)) {
+			ugd->album_select_mode = GE_ALBUM_SELECT_T_ONE;
+		} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_SETAS)) {
+			ugd->file_select_mode = GE_FILE_SELECT_T_SETAS;
+			__ge_parse_param_setas(ugd, service);
+			/* Checkme: Only image type is offered in SETAS  case */
+			ugd->file_type_mode = GE_FILE_T_IMAGE;
+		} else {
+			if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_ONE)) {
+				ugd->file_select_mode = GE_FILE_SELECT_T_ONE;
+			} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_MULTIPLE)) {
+				ugd->file_select_mode = GE_FILE_SELECT_T_MULTIPLE;
+				ugd->b_multifile = true;
+			} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_IMFT)) {
+				ugd->file_select_mode = GE_FILE_SELECT_T_IMFT;
+				ugd->b_multifile = true;
 
-			char *contact_id = NULL;
-			app_control_get_extra_data(service, "contact", &contact_id);
-			if (contact_id) {
-				ugd->file_select_contact_id = atoi(contact_id);
-				GE_FREE(contact_id);
+				char *contact_id = NULL;
+				app_control_get_extra_data(service, "contact", &contact_id);
+				if (contact_id) {
+					ugd->file_select_contact_id = atoi(contact_id);
+					GE_FREE(contact_id);
+				} else {
+					ugd->file_select_mode = GE_FILE_SELECT_T_NONE;
+					ugd->file_select_contact_id = -1;
+					ge_dbg("Invalid args");
+					GE_FREEIF(operation);
+					GE_FREE(launch_type);
+					return -1;
+				}
+
+				ge_sdbg("contact_id: %d", ugd->file_select_contact_id);
+			} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_SLIDESHOW)) {
+				__ge_parse_param_slideshow(ugd, service);
 			} else {
-				ugd->file_select_mode = GE_FILE_SELECT_T_NONE;
-				ugd->file_select_contact_id = -1;
-				ge_dbg("Invalid args");
-				GE_FREEIF(operation);
-				GE_FREE(launch_type);
-				return -1;
+				ge_dbgE("Wrong launch type!");
 			}
 
-			ge_sdbg("contact_id: %d", ugd->file_select_contact_id);
-		} else if (!strcasecmp(launch_type, GE_LAUNCH_SELECT_SLIDESHOW)) {
-			__ge_parse_param_slideshow(ugd, service);
-		} else {
-			ge_dbgE("Wrong launch type!");
+			__ge_parse_param_file(ugd, service);
 		}
-
-		__ge_parse_param_file(ugd, service);
+	} else {
+		//using default values
+		ge_dbg("Set launch-type to default");
+		ugd->album_select_mode = GE_ALBUM_SELECT_T_ONE;
+		ugd->b_multifile = false;
 	}
 
 	ugd->max_count = -1;
