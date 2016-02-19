@@ -94,12 +94,14 @@ int _ge_data_get_sel_paths(ge_ugdata *ugd, char **filepath, char ***filepath_arr
 	Eina_List *l = NULL;
 
 	EINA_LIST_FOREACH(ugd->selected_elist, l, sit) {
-		g_string_append(selected_path, sit->file_url);
-		g_string_append_c(selected_path, ';');
-		path_list = eina_list_append(path_list, sit);
-		_cnt++;
-		sit = NULL;
-	}
+		if (sit) {
+			g_string_append(selected_path, sit->file_url);
+				g_string_append_c(selected_path, ';');
+				path_list = eina_list_append(path_list, sit);
+				_cnt++;
+				sit = NULL;
+			}
+		}
 
 	/* copy path from path_list to path_array */
 	int idx = 0;

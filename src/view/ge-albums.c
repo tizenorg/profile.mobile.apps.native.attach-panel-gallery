@@ -866,7 +866,9 @@ static Eina_Bool __ge_main_back_cb(void *data, Elm_Object_Item *it)
 	}
 
 	EINA_LIST_FOREACH(ugd->thumbs_d->medias_elist, l, gitem) {
-		gitem->checked = false;
+		if (gitem) {
+			gitem->checked = false;
+		}
 	}
 
 	ugd->selected_elist = eina_list_free(ugd->selected_elist);
@@ -1026,7 +1028,7 @@ __ge_check_state_changed_cb(void *data, Evas_Object *obj, void *ei)
 	} else {
 		ge_sdbg("remove Path: %s", sit->file_url);
 		EINA_LIST_FOREACH(ugd->selected_elist, l, sit1) {
-			if (!strcmp(sit->file_url, sit1->file_url)) {
+			if (sit1 && !strcmp(sit->file_url, sit1->file_url)) {
 				ugd->selected_elist = eina_list_remove(ugd->selected_elist, sit1);
 				_ge_data_util_free_sel_item(sit1);
 			}
@@ -1366,7 +1368,7 @@ __ge_gengrid_item_sel_cb(void *data, Evas_Object *obj, void *ei)
 #endif
 			ge_sdbg("remove Path: %s", sit->file_url);
 			EINA_LIST_FOREACH(ugd->selected_elist, l, sit1) {
-				if (!strcmp(sit->file_url, sit1->file_url)) {
+				if (sit1 && !strcmp(sit->file_url, sit1->file_url)) {
 					ugd->selected_elist = eina_list_remove(ugd->selected_elist, sit1);
 					_ge_data_util_free_sel_item(sit1);
 				}
@@ -1425,7 +1427,9 @@ __ge_cancel_cb(void *data, Evas_Object *obj, void *ei)
 	}
 
 	EINA_LIST_FOREACH(app_data->thumbs_d->medias_elist, l, gitem) {
-		gitem->checked = false;
+		if (gitem) {
+			gitem->checked = false;
+		}
 	}
 
 	app_data->selected_elist = eina_list_free(app_data->selected_elist);
@@ -1508,7 +1512,7 @@ ge_update_gengrid(ge_ugdata *ugd)
 
 			if (ugd->selected_elist) {
 				EINA_LIST_FOREACH(ugd->selected_elist, l, sit) {
-					if (strcmp(sit->file_url, gitem->item->file_url) == 0) {
+					if (sit && strcmp(sit->file_url, gitem->item->file_url) == 0) {
 						gitem->checked = true;
 						ugd->thumbs_d->tot_selected++;
 					}
