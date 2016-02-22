@@ -173,7 +173,6 @@ static int _ge_create_view(ge_ugdata *ugd)
 	ugd->th = elm_theme_new();
 	GE_CHECK_VAL(ugd->th, -1);
 	elm_theme_ref_set(ugd->th, NULL);
-	elm_theme_set(ugd->th, "tizen-HD-dark");
 	elm_theme_extension_add(ugd->th, GE_EDJ_FILE);
 
 	if (_ge_init_view(ugd) != 0) {
@@ -362,6 +361,14 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 
 	app_control_get_operation(service, &operation);
 	ge_sdbg("operation [%s]", operation);
+
+#ifdef FEATURE_SIZE_CHECK
+		int ret = app_control_get_extra_data(service, "http://tizen.org/appcontrol/data/total_size", &(ugd->limitsize));
+		if (ret != APP_CONTROL_ERROR_NONE) {
+			//Test data
+			//ugd->limitsize = 2 * 1024 * 1024;
+		}
+#endif
 
 	app_control_get_extra_data(service, APP_CONTROL_DATA_SELECTION_MODE,
 	                           &select_mode);
@@ -656,13 +663,7 @@ static void _ge_message(ui_gadget_h ug, app_control_h msg, app_control_h service
 		ge_dbg("called by attach panel ");
 		app_control_get_extra_data(msg, APP_CONTROL_DATA_SELECTION_MODE, &display_mode);
 		app_control_get_extra_data(msg, "__ATTACH_PANEL_INITIALIZE__", &initialized_mode);
-#ifdef FEATURE_SIZE_CHECK
-		int ret = app_control_get_extra_data(msg, "http://tizen.org/appcontrol/data/total_size", &(ugd->limitsize));
-		if (ret != APP_CONTROL_ERROR_NONE) {
-			//Test data
-			//ugd->limitsize = 2 * 1024 * 1024;
-		}
-#endif
+
 		if (display_mode) {
 			if (!strcmp(display_mode, "single")) {
 				//change to single selection
