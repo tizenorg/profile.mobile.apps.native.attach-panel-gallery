@@ -128,7 +128,7 @@ static int _ge_init_view(ge_ugdata *ugd)
 	GE_CHECK_VAL(ugd, -1);
 
 	/* Base Layout */
-	ugd->ly_main = ge_ui_create_main_ly(ugd->ly_parent);
+	ugd->ly_main = ge_ui_create_main_ly(ugd->win);
 	GE_CHECK_VAL(ugd->ly_main, -1);
 
 	/* Background */
