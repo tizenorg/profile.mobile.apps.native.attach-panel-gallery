@@ -1011,7 +1011,7 @@ __ge_check_state_changed_cb(void *data, Evas_Object *obj, void *ei)
 			return;
 		}
 #ifdef FEATURE_SIZE_CHECK
-		if (ugd->selsize + stFileInfo.st_size > ugd->limitsize) {
+		if (ugd->limitsize > 0 && ugd->selsize + stFileInfo.st_size > ugd->limitsize) {
 			elm_check_state_set(obj, EINA_FALSE);
 			notification_status_message_post("maximum of 2MB can be selected");
 			_ge_data_util_free_sel_item(sit);
@@ -1342,7 +1342,7 @@ __ge_gengrid_item_sel_cb(void *data, Evas_Object *obj, void *ei)
 #ifdef FEATURE_SIZE_CHECK
 			struct stat stFileInfo;
 			stat(sit->file_url, &stFileInfo);
-			if (ugd->selsize + stFileInfo.st_size > ugd->limitsize) {
+			if (ugd->limitsize > 0 && ugd->selsize + stFileInfo.st_size > ugd->limitsize) {
 				notification_status_message_post("maximum of 2MB can be selected");
 				_ge_data_util_free_sel_item(sit);
 				return;
