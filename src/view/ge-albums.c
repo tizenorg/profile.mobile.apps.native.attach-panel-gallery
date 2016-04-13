@@ -1213,6 +1213,8 @@ __ge_launch_ug_gallery(void *data, Evas_Object *obj, void *ei)
 	char maximum_count [10];
 	snprintf(maximum_count, 10, "%d", ugd->max_count);
 
+	elm_gengrid_item_selected_set(ei, EINA_FALSE);
+
 	app_control_h svc_handle = NULL;
 
 	if (!app_control_create(&svc_handle)) {
