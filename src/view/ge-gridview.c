@@ -1004,7 +1004,8 @@ static void __ge_grid_done_cb(void *data, Evas_Object *obj, void *ei)
 		sel_cnt = _ge_data_get_sel_cnt(ugd);
 		if (ugd->max_count > 0 && sel_cnt > ugd->max_count) {
 			char *noti = NULL;
-			noti = g_strdup_printf(GE_STR_MAXIMUM_COUNT, ugd->max_count);
+			char *noti_str = GE_STR_MAXIMUM_COUNT;
+			noti = g_strdup_printf(noti_str, ugd->max_count);
 			_ge_ui_create_notiinfo(noti);
 			GE_GFREEIF(noti);
 			b_disabled = true;

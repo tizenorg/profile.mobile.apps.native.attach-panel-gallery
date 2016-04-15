@@ -993,8 +993,7 @@ __ge_check_state_changed_cb(void *data, Evas_Object *obj, void *ei)
 		if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
 			elm_check_state_set(obj, EINA_FALSE);
 			char *pStrWarning = g_strdup_printf(
-			                        GE_STR_UNSUPPORTED_FILE,
-			                        NULL);
+			                        GE_STR_UNSUPPORTED_FILE);
 			notification_status_message_post(pStrWarning);
 			GE_FREE(pStrWarning);
 			_ge_data_util_free_sel_item(sit);
@@ -1002,8 +1001,9 @@ __ge_check_state_changed_cb(void *data, Evas_Object *obj, void *ei)
 		}
 		if ((ugd->max_count != -1) && (gitem->ugd->thumbs_d->tot_selected + 1 > ugd->max_count)) {
 			elm_check_state_set(obj, EINA_FALSE);
+			char *noti_str = GE_STR_MAX_PICTURES_SELECTED;
 			char *pStrWarning = g_strdup_printf(
-			                        GE_STR_MAX_PICTURES_SELECTED,
+			                        noti_str,
 			                        ugd->max_count);
 			notification_status_message_post(pStrWarning);
 			GE_FREE(pStrWarning);
@@ -1146,9 +1146,9 @@ __ge_gengrid_item_content_get(void *data, Evas_Object *obj, const char *part)
 
 		return ck;
 	} else if (!g_strcmp0(part, "sd_card_icon")) {
-		if (gitem->item->storage_type == GE_MMC) {
+		if (gitem->item->storage_type == (media_content_storage_e)GE_MMC) {
 			icon = elm_icon_add(obj);
-			elm_icon_file_set(icon, sd_card_image_path, NULL);
+			elm_image_file_set(icon, sd_card_image_path, NULL);
 			evas_object_size_hint_aspect_set(icon, EVAS_ASPECT_CONTROL_VERTICAL, 1, 1);
 			return icon;
 		}
@@ -1171,7 +1171,7 @@ __ge_gallery_ug_result_cb(app_control_h request, app_control_h reply, app_contro
 	int arrayLength = 0;
 	int i = 0;
 
-	if ((result != APP_CONTROL_ERROR_NONE) || !reply) {
+	if ((result != APP_CONTROL_RESULT_SUCCEEDED) || !reply) {
 		ge_dbgE("ug-gallery-efl data get failed.");
 		return;
 	}
@@ -1251,7 +1251,7 @@ __ge_grid_select_one(ge_item *gitem, char *file_url)
 	int ret = -1;
 
 	if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
-		char *pStrWarning = g_strdup_printf(GE_STR_UNSUPPORTED_FILE, NULL);
+		char *pStrWarning = g_strdup_printf(GE_STR_UNSUPPORTED_FILE);
 		notification_status_message_post(pStrWarning);
 		GE_FREE(pStrWarning);
 		return ret;
@@ -1322,15 +1322,14 @@ __ge_gengrid_item_sel_cb(void *data, Evas_Object *obj, void *ei)
 		if (bl == EINA_FALSE) {
 			if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
 				char *pStrWarning = g_strdup_printf(
-				                        GE_STR_UNSUPPORTED_FILE,
-				                        NULL);
+				                        GE_STR_UNSUPPORTED_FILE);
 				notification_status_message_post(pStrWarning);
 				GE_FREE(pStrWarning);
 				return;
 			}
 			if ((ugd->max_count != -1) && (gitem->ugd->thumbs_d->tot_selected + 1 > ugd->max_count)) {
-				char *pStrWarning = g_strdup_printf(
-				                        GE_STR_MAX_PICTURES_SELECTED,
+				char *noti_str = GE_STR_MAX_PICTURES_SELECTED;
+				char *pStrWarning = g_strdup_printf(noti_str,
 				                        ugd->max_count);
 				notification_status_message_post(pStrWarning);
 				GE_FREE(pStrWarning);

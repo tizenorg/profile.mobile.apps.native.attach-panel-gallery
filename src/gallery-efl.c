@@ -363,10 +363,12 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 	ge_sdbg("operation [%s]", operation);
 
 #ifdef FEATURE_SIZE_CHECK
-		int ret = app_control_get_extra_data(service, "http://tizen.org/appcontrol/data/total_size", &(ugd->limitsize));
+		char *total_size = NULL;
+		int ret = app_control_get_extra_data(service, "http://tizen.org/appcontrol/data/total_size", &(total_size));
 		if (ret != APP_CONTROL_ERROR_NONE) {
-			//Test data
-			//ugd->limitsize = 2 * 1024 * 1024;
+			ugd->limitsize = atol(total_size);
+		} else {
+			ugd->limitsize = -1;
 		}
 #endif
 
