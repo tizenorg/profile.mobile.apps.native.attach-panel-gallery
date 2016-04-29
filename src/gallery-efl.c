@@ -366,7 +366,11 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 		char *total_size = NULL;
 		int ret = app_control_get_extra_data(service, "http://tizen.org/appcontrol/data/total_size", &(total_size));
 		if (ret != APP_CONTROL_ERROR_NONE) {
-			ugd->limitsize = atol(total_size);
+			if(total_size) {
+				ugd->limitsize = atol(total_size);
+			} else {
+				ugd->limitsize = -1;
+			}
 		} else {
 			ugd->limitsize = -1;
 		}
@@ -382,9 +386,10 @@ static int _ge_parse_param(ge_ugdata *ugd, app_control_h service)
 		}
 		GE_FREE(select_mode);
 	}
-	if (launch_type == NULL)
+	if (launch_type == NULL) {
 		app_control_get_extra_data(service, GE_BUNDLE_LAUNCH_TYPE,
 		                           &launch_type);
+	}
 	if (launch_type == NULL) {
 		if (operation &&
 		        !strcasecmp(operation, APP_CONTROL_OPERATION_PICK)) {
