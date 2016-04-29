@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "ਸਥਾਨ"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "ਕੋਈ ਆਈਟਮਸ ਨਹੀਂ"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "ਹੋਮ ਵਿੱਚ ਜੋਡ਼ੋ"
 

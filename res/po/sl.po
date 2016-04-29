@@ -1,6 +1,9 @@
 msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
 msgstr "Želite izbrisati toliko albumov: %d?"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Ni predmetov"
+
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "Lokacije"
 

@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "जागा"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "बाबी नाही"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "होममध्ये जोडा"
 

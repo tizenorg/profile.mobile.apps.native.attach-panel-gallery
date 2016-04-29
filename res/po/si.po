@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "ස්ථාන"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "අයිතම නැත"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "මුල් පිටුවට එක් කරන්න"
 

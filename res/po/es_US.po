@@ -1,6 +1,9 @@
 msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
 msgstr "¿Desea eliminar los álbumes de %d?"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Ningún elemento"
+
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "Lugares"
 

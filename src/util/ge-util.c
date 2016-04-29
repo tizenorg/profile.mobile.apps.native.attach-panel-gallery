@@ -348,9 +348,7 @@ int _ge_atoi(const char *number)
 char *_ge_str(char *str_id)
 {
 	GE_CHECK_NULL(str_id);
-	if (strstr(str_id, "IDS_COM")) {
-		return dgettext(GE_STR_DOMAIN_SYS, str_id);
-	} else if (strstr(str_id, "IDS_")) {
+	if (strstr(str_id, "IDS_")) {
 		return dgettext(GE_STR_DOMAIN_LOCAL, str_id);
 	} else {
 		return str_id;

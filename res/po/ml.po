@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "സ്ഥലങ്ങള്‍"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "ഇനങ്ങള്‍  ഒന്നുമില്ല"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "ഹോമിലേക്ക് ചേര്‍ക്കുക"
 

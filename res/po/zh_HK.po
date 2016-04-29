@@ -1,6 +1,9 @@
 msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
 msgstr "刪除 %d 張專輯嗎？"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "無項目"
+
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "地點"
 

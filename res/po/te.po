@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "ప్రదేశాలు"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "ఐటమ్‌లు లేవు"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "హోమ్ కు జోడించండి"
 

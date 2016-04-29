@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "장소"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "항목이 없습니다"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "홈에 추가"
 

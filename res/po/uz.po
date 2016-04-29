@@ -1,6 +1,9 @@
 msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
 msgstr "%dta albom yo‘q qilinsinmi?"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Elementlar yo‘q"
+
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "Joylar"
 

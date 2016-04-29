@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "ಸ್ಥಳಗಳು"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "ಅಂಶಗಳಿಲ್ಲ"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "ಹೋಮ್‌ಗೆ ಸೇರಿಸಿ"
 

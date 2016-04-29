@@ -1,6 +1,9 @@
 msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
 msgstr "Trinti %d albumus (-ų)?"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "Elementų nėra"
+
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "Vietos"
 

@@ -1,6 +1,9 @@
 msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
 msgstr "是否删除 %d 本相册？"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "没有内容"
+
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "地点"
 

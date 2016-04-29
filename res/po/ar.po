@@ -1,6 +1,9 @@
 msgid "IDS_MUSIC_POP_DELETE_PD_ALBUMS_Q"
 msgstr "هل تريد حذف %d من الألبومات؟"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "لا توجد عناصر"
+
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "الأماكن"
 
@@ -921,4 +924,6 @@ msgstr "ستظهر الصور هنا بعد التقاطها."
 
 msgid "IDS_GALLERY_TPOP_FILE_CORRUPT_OR_IN_UNSUPPORTED_FORMAT"
 msgstr "الملف تالف أو بتنسيق غير مدعوم."
+msgid "IDS_IM_POP_MAXIMUM_SIZE_OF_FILES_EXCEEDED"
+msgstr "تم تجاوز الحد الأقصى لحجم الملفات."
 

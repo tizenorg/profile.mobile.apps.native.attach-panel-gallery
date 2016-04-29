@@ -1,6 +1,9 @@
 msgid "IDS_MEDIABR_IOPT3_PLACES"
 msgstr "ସ୍ଥାନଗୁଡିକ"
 
+msgid "IDS_COM_BODY_NO_ITEMS"
+msgstr "କୌଣସି ଆଇଟମ୍ ନାହିଁ"
+
 msgid "IDS_MEDIABR_SK2_ADD_TO_HOME"
 msgstr "ହୋମକୁ ଯୋଡନ୍ତୁ"
 
