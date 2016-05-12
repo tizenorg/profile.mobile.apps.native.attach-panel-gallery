@@ -1481,6 +1481,30 @@ ge_update_gengrid(ge_ugdata *ugd)
 	ugd->thumbs_d->medias_cnt = eina_list_count(ugd->thumbs_d->medias_elist);
 	ge_dbg("Grid view updated media count: %d", ugd->thumbs_d->medias_cnt);
 
+	if (ugd->thumbs_d->medias_cnt == 0) {
+		_ge_data_util_free_mtype_items(&ugd->selected_elist);
+	} else {
+		EINA_LIST_FOREACH(ugd->selected_elist, l, sit) {
+			bool flag = false;
+			for (i = 0; i < ugd->thumbs_d->medias_cnt; i++) {
+				gitem = eina_list_nth(ugd->thumbs_d->medias_elist, i);
+				if (gitem == NULL || gitem->item == NULL ||
+						gitem->item->uuid == NULL) {
+					ge_dbgE("Invalid gitem!");
+					continue;
+				}
+				if (sit && strcmp(sit->file_url, gitem->item->file_url) == 0) {
+					flag = true;
+					break;
+				}
+			}
+			if (flag == false) {
+				ugd->selected_elist = eina_list_remove(ugd->selected_elist, sit);
+				_ge_data_util_free_sel_item(sit);
+			}
+		}
+	}
+
 	elm_gengrid_clear(ugd->thumbs_d->gengrid);
 	if (ugd->thumbs_d->medias_cnt > 0) {
 		if (ugd->nocontents) {
@@ -1541,6 +1565,19 @@ ge_update_gengrid(ge_ugdata *ugd)
 		                        no_content	,
 		                        ugd, NULL,
 		                        ugd);
+	}
+
+	Evas_Object *btn = NULL;
+
+	btn = elm_object_item_part_content_get(ugd->nf_it , GE_NAVIFRAME_TITLE_RIGHT_BTN);
+	if (btn == NULL) {
+		ge_dbgE("Failed to get part information");
+	}
+
+	if (ugd->thumbs_d->tot_selected == 0) {
+		elm_object_disabled_set(btn, EINA_TRUE);
+	} else {
+		elm_object_disabled_set(btn, EINA_FALSE);
 	}
 
 
