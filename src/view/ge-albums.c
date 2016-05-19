@@ -1220,7 +1220,7 @@ __ge_launch_ug_gallery(void *data, Evas_Object *obj, void *ei)
 	if (!app_control_create(&svc_handle)) {
 		app_control_set_operation(svc_handle, APP_CONTROL_OPERATION_PICK);
 		app_control_set_launch_mode(svc_handle, APP_CONTROL_LAUNCH_MODE_GROUP);
-		app_control_set_app_id(svc_handle,  "ug-gallery-efl");
+		app_control_set_app_id(svc_handle,  "org.tizen.ug-gallery-efl");
 		app_control_set_mime(svc_handle, "image/*");
 		app_control_add_extra_data(svc_handle, APP_CONTROL_DATA_TOTAL_COUNT, maximum_count);
 		app_control_add_extra_data(svc_handle, "launch-type", "select-multiple");
