@@ -1458,6 +1458,11 @@ ge_update_gengrid(ge_ugdata *ugd)
 	elm_win_screen_size_get(ugd->win, &win_x, &win_y, &win_w, &win_h);
 
 	int size = (win_w / 4);
+
+	if (ugd->rotate_mode == GE_ROTATE_LANDSCAPE_UPSIDEDOWN || ugd->rotate_mode == GE_ROTATE_LANDSCAPE) {
+		size = (win_h / 7);
+	}
+
 	if (ugd->thumbs_d->medias_elist) {
 		_ge_data_util_free_mtype_items(&ugd->thumbs_d->medias_elist);
 	}
