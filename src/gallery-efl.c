@@ -725,7 +725,6 @@ static void _ge_message(ui_gadget_h ug, app_control_h msg, app_control_h service
 
 				elm_gengrid_realized_items_update(ugd->thumbs_d->gengrid);
 
-				ugd->thumbs_d->tot_selected = 0;
 				/*Update Title*/
 				elm_naviframe_item_title_enabled_set(ugd->nf_it, EINA_TRUE, EINA_FALSE);
 				text = g_strdup_printf(pd_selected, ugd->thumbs_d->tot_selected);
