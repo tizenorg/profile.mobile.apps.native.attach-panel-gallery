@@ -134,20 +134,10 @@ static int _ge_init_view(ge_ugdata *ugd)
 	/* Background */
 	ugd->bg = _ge_create_bg(ugd->ly_main);
 	GE_CHECK_VAL(ugd->bg, -1);
-	/* Pack bg to swallow */
-	elm_object_part_content_set(ugd->ly_main, "elm.swallow.bg", ugd->bg);
 
 	/* Navigation Bar */
 	ugd->naviframe = ge_ui_create_naviframe(ugd, ugd->ly_main);
 	GE_CHECK_VAL(ugd->naviframe, -1);
-
-	ge_dbgE("base view is pushed in the naviframe instead of content set");
-
-
-
-	ugd->nf_it = elm_naviframe_item_push(ugd->naviframe, "first naviframe bg", NULL, NULL, ugd->bg, NULL);
-
-
 
 	if (ugd->nf_it != NULL) {
 		ge_dbgE("base view is push successfully in the nf");
