@@ -1117,7 +1117,7 @@ __ge_gengrid_item_content_get(void *data, Evas_Object *obj, const char *part)
 	Evas_Object *icon;
 
 	if (!g_strcmp0(part, "content_swallow")) {
-
+		ge_dbgE("gitem->item->thumb_url : %s", gitem->item->thumb_url);
 		/* Use default image */
 		if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
 			path = GE_ICON_CONTENTS_BROKEN;
@@ -1595,6 +1595,46 @@ ge_update_gengrid(ge_ugdata *ugd)
 	return 0;
 }
 
+static void _ge_grid_thumb_created_cb(media_content_error_e error,
+                                       const char *path, void *user_data)
+{
+	if (GE_FILE_EXISTS(path) && error == MEDIA_CONTENT_ERROR_NONE) {
+		GE_CHECK(user_data);
+		ge_item *gitem = (ge_item *)user_data;
+		GE_CHECK(gitem->item);
+		ge_dbg("Update item with new thumb path[%s]", path);
+		/* Update thumb path */
+		GE_FREEIF(gitem->item->thumb_url);
+		gitem->item->thumb_url = strdup(path);
+		gitem->item->b_create_thumb = false;
+		elm_gengrid_item_update(gitem->elm_item);
+	} else {
+		ge_dbgE("Invalid thumb path! Error number[%d]", error);
+	}
+}
+
+static void
+__ge_grid_realized(void *data, Evas_Object *obj, void *ei)
+{
+	GE_CHECK(ei);
+	Elm_Object_Item *it = (Elm_Object_Item *)ei;
+	ge_item* gitem = elm_object_item_data_get(it);
+	GE_CHECK(gitem);
+	GE_CHECK(gitem->item);
+
+	ge_dbg("realized");
+	if (!GE_FILE_EXISTS(gitem->item->thumb_url) &&
+	        GE_FILE_EXISTS(gitem->item->file_url) &&
+	        (gitem->store_type == GE_PHONE ||
+	         gitem->store_type == GE_MMC ||
+	         gitem->store_type == GE_ALL)) {
+		ge_dbg("Generating Thumbs");
+		_ge_data_create_thumb(gitem->item,
+				_ge_grid_thumb_created_cb,
+		                      gitem);
+	}
+}
+
 int
 ge_create_gengrid(ge_ugdata *ugd)
 {
@@ -1680,6 +1720,8 @@ ge_create_gengrid(ge_ugdata *ugd)
 		                               _ge_grid_move_stop_cb, ugd);
 		evas_object_smart_callback_add(gengrid, "scroll,drag,stop",
 		                               _ge_grid_move_stop_cb, ugd);
+		evas_object_smart_callback_add(gengrid, "realized", __ge_grid_realized,
+				ugd);
 	}
 
 	ugd->thumbs_d->gic = elm_gengrid_item_class_new();
