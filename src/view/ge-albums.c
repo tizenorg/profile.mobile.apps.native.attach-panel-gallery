@@ -1617,6 +1617,12 @@ static void
 __ge_grid_realized(void *data, Evas_Object *obj, void *ei)
 {
 	GE_CHECK(ei);
+	GE_CHECK(data);
+	ge_ugdata *ugd = (ge_ugdata *)data;
+	if (ugd->nocontents) {
+		ge_dbgE("No content layout no need to update items");
+		return;
+	}
 	Elm_Object_Item *it = (Elm_Object_Item *)ei;
 	ge_item* gitem = elm_object_item_data_get(it);
 	GE_CHECK(gitem);
@@ -1796,6 +1802,7 @@ ge_create_gengrid(ge_ugdata *ugd)
 		                        no_content,
 		                        ugd, NULL,
 		                        ugd);
+
 	}
 	evas_object_show(gengrid);
 
