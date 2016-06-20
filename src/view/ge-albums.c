@@ -776,9 +776,6 @@ static void _ge_grid_move_stop_cb(void *data, Evas_Object *obj, void *ei)
 	int x, y, w, h;
 	int ret;
 	elm_scroller_region_get(obj, &x, &y, &w, &h);
-	if (ugd->thumbs_d) {
-		ugd->thumbs_d->tot_selected = 0;
-	}
 
 	app_control_h app_control = NULL;
 	ret = app_control_create(&app_control);
