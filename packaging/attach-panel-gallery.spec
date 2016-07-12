@@ -74,7 +74,7 @@ ln -sf /usr/bin/ug-client %{TZ_SYS_RO_UG}/bin/attach-panel-gallery
 %defattr(-,root,root,-)
 %{TZ_SYS_RO_UG}/lib/libug-attach-panel-gallery.so*
 %{TZ_SYS_RO_UG}/res/edje/ug-attach-panel-gallery/*
-%{TZ_SYS_RO_UG}/res/images/attach-panel-gallery/*
+%{TZ_SYS_RO_UG}/res/images/ug-attach-panel-gallery/*
 %{TZ_SYS_RO_UG}/res/locale/*/*/attach-panel-gallery.mo
 %{TZ_SYS_RO_PACKAGES}/attach-panel-gallery.xml
 %{TZ_SYS_RO_UG}/res/images/attach-panel-gallery/attach-panel-gallery.png

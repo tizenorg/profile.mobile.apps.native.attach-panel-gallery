@@ -990,7 +990,8 @@ __ge_check_state_changed_cb(void *data, Evas_Object *obj, void *ei)
 	stat(sit->file_url, &stFileInfo);
 #endif
 	if (state == EINA_TRUE) {
-		if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
+		if ((!gitem->item->thumb_url) || (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) ||
+				(strlen(gitem->item->thumb_url) == 0)) {
 			elm_check_state_set(obj, EINA_FALSE);
 			char *pStrWarning = g_strdup_printf(
 			                        GE_STR_UNSUPPORTED_FILE);
@@ -1116,7 +1117,8 @@ __ge_gengrid_item_content_get(void *data, Evas_Object *obj, const char *part)
 	if (!g_strcmp0(part, "content_swallow")) {
 		ge_dbgE("gitem->item->thumb_url : %s", gitem->item->thumb_url);
 		/* Use default image */
-		if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
+		if ((!gitem->item->thumb_url) || (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) ||
+				(strlen(gitem->item->thumb_url) == 0)) {
 			path = GE_ICON_CONTENTS_BROKEN;
 		} else {
 			path = gitem->item->thumb_url;
@@ -1250,7 +1252,8 @@ __ge_grid_select_one(ge_item *gitem, char *file_url)
 
 	int ret = -1;
 
-	if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
+	if ((!gitem->item->thumb_url) || (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) ||
+			(strlen(gitem->item->thumb_url) == 0)) {
 		char *pStrWarning = g_strdup_printf(GE_STR_UNSUPPORTED_FILE);
 		notification_status_message_post(pStrWarning);
 		GE_FREE(pStrWarning);
@@ -1320,7 +1323,8 @@ __ge_gengrid_item_sel_cb(void *data, Evas_Object *obj, void *ei)
 		Eina_Bool bl = elm_check_state_get(ck);
 
 		if (bl == EINA_FALSE) {
-			if (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) {
+			if ((!gitem->item->thumb_url) || (!g_strcmp0(gitem->item->thumb_url, DEFAULT_THUMBNAIL)) ||
+					(strlen(gitem->item->thumb_url) == 0)) {
 				char *pStrWarning = g_strdup_printf(
 				                        GE_STR_UNSUPPORTED_FILE);
 				notification_status_message_post(pStrWarning);
